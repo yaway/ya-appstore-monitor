@@ -1,0 +1,17 @@
+{
+  "name": "ya-appstore-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node src/fetch-charts.mjs",
+    "compact": "node src/compact-data.mjs",
+    "build": "node src/build-site.mjs",
+    "daily": "node src/daily.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test"
+  }
+}

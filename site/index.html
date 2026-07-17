@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="description"
+      content="基于 Apple 公开 RSS 的全球主要市场 App Store 付费分类榜监控。"
+    />
+    <title>App Store 付费榜观察</title>
+    <script>
+      (() => {
+        const allowed = new Set(["system", "light", "dark"]);
+        let preference = "system";
+        try {
+          const stored = localStorage.getItem("paid-charts-theme");
+          if (allowed.has(stored)) preference = stored;
+        } catch {}
+        const resolved = preference === "system"
+          ? (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")
+          : preference;
+        document.documentElement.dataset.theme = resolved;
+        document.documentElement.dataset.themePreference = preference;
+      })();
+    </script>
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="theme.js"></script>
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="./" aria-label="返回榜单首页">
+          <span class="brand-mark" aria-hidden="true">
+            <span></span><span></span><span></span>
+          </span>
+          <span>Paid Charts</span>
+        </a>
+        <div class="header-meta">
+          <span class="live-indicator"><i aria-hidden="true"></i>每日更新</span>
+          <span id="snapshot-date">读取中</span>
+          <div class="theme-control">
+            <button
+              class="theme-button"
+              type="button"
+              id="theme-button"
+              aria-haspopup="menu"
+              aria-controls="theme-menu"
+              aria-expanded="false"
+              aria-label="外观：跟随系统"
+            >
+              <svg class="theme-icon theme-icon-system" viewBox="0 0 20 20" aria-hidden="true"><rect x="3" y="4" width="14" height="10" rx="2"></rect><path d="M7.5 17h5M10 14v3"></path></svg>
+              <svg class="theme-icon theme-icon-light" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="3.25"></circle><path d="M10 2.25v1.5M10 16.25v1.5M2.25 10h1.5M16.25 10h1.5M4.5 4.5l1.05 1.05M14.45 14.45l1.05 1.05M15.5 4.5l-1.05 1.05M5.55 14.45 4.5 15.5"></path></svg>
+              <svg class="theme-icon theme-icon-dark" viewBox="0 0 20 20" aria-hidden="true"><path d="M16.25 12.5A6.75 6.75 0 0 1 7.5 3.75 6.75 6.75 0 1 0 16.25 12.5Z"></path></svg>
+              <span class="theme-button-label">外观</span>
+            </button>
+            <div class="theme-menu" id="theme-menu" role="menu" aria-label="选择外观" hidden>
+              <button type="button" role="menuitemradio" data-theme-option="system" aria-checked="true">
+                <svg class="option-icon" viewBox="0 0 20 20" aria-hidden="true"><rect x="3" y="4" width="14" height="10" rx="2"></rect><path d="M7.5 17h5M10 14v3"></path></svg>
+                <span><strong>跟随系统</strong><small>自动匹配设备外观</small></span>
+                <svg class="check-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="m5.5 10 3 3 6-6"></path></svg>
+              </button>
+              <button type="button" role="menuitemradio" data-theme-option="light" aria-checked="false">
+                <svg class="option-icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="3.25"></circle><path d="M10 2.25v1.5M10 16.25v1.5M2.25 10h1.5M16.25 10h1.5M4.5 4.5l1.05 1.05M14.45 14.45l1.05 1.05M15.5 4.5l-1.05 1.05M5.55 14.45 4.5 15.5"></path></svg>
+                <span><strong>浅色</strong><small>始终使用明亮外观</small></span>
+                <svg class="check-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="m5.5 10 3 3 6-6"></path></svg>
+              </button>
+              <button type="button" role="menuitemradio" data-theme-option="dark" aria-checked="false">
+                <svg class="option-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M16.25 12.5A6.75 6.75 0 0 1 7.5 3.75 6.75 6.75 0 1 0 16.25 12.5Z"></path></svg>
+                <span><strong>深色</strong><small>始终使用深色外观</small></span>
+                <svg class="check-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="m5.5 10 3 3 6-6"></path></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <div class="intro-copy-block">
+          <p class="eyebrow">App Store Intelligence</p>
+          <h1 id="page-title">付费榜，<br /><span>尽在掌握。</span></h1>
+          <p class="intro-copy">每天追踪全球主要市场的真实付费 App 排名，按国家与分类快速发现变化。</p>
+        </div>
+        <dl class="summary" aria-label="数据摘要">
+          <div>
+            <dt>覆盖市场</dt>
+            <dd id="market-count">-</dd>
+          </div>
+          <div>
+            <dt>榜单分类</dt>
+            <dd id="category-count">-</dd>
+          </div>
+          <div>
+            <dt>今日记录</dt>
+            <dd id="entry-count">-</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="workspace" aria-label="榜单查询">
+        <div class="workspace-titlebar">
+          <div>
+            <p class="section-kicker">今日榜单</p>
+            <h2>探索排名</h2>
+          </div>
+          <span class="source-label">数据源 · Apple RSS</span>
+        </div>
+
+        <form class="filters" id="filters">
+          <label class="field">
+            <span class="field-label">国家或地区</span>
+            <select id="market-select" name="country"></select>
+          </label>
+          <label class="field">
+            <span class="field-label">榜单分类</span>
+            <select id="category-select" name="category"></select>
+          </label>
+          <label class="field search-field">
+            <span class="field-label">搜索</span>
+            <span class="search-control">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"></circle><path d="m12.5 12.5 4 4"></path></svg>
+              <input id="search-input" name="query" type="search" placeholder="App 或开发者" autocomplete="off" />
+            </span>
+          </label>
+        </form>
+
+        <div class="chart-heading">
+          <div class="chart-heading-copy">
+            <div class="title-line">
+              <h3 id="chart-title">榜单载入中</h3>
+              <div class="chart-state" id="chart-state">正在连接数据</div>
+            </div>
+            <p id="chart-detail" class="chart-detail" aria-live="polite"></p>
+          </div>
+          <div class="chart-actions">
+            <button class="push-button" type="button" id="push-button" disabled>
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 13.75V3.5"></path><path d="m6 7.5 4-4 4 4"></path><path d="M4 11.5v4a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-4"></path></svg>
+              <span id="push-button-label">推送到飞书</span>
+            </button>
+            <span class="push-feedback" id="push-feedback" role="status" aria-live="polite"></span>
+          </div>
+        </div>
+
+        <div id="message" class="message" hidden></div>
+
+        <div class="table-shell" id="table-shell" aria-busy="true">
+          <table>
+            <thead>
+              <tr>
+                <th class="rank-column" scope="col">排名</th>
+                <th scope="col">App</th>
+                <th class="developer-column" scope="col">开发者</th>
+                <th class="price-column" scope="col">价格</th>
+                <th class="change-column" scope="col">变化</th>
+              </tr>
+            </thead>
+            <tbody id="chart-body"></tbody>
+          </table>
+          <div id="loading-state" class="loading-state" aria-label="榜单加载中">
+            <div></div><div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+
+        <nav class="pagination" aria-label="榜单分页">
+          <button type="button" id="previous-page" aria-label="上一页">
+            <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m12.5 4.5-5 5.5 5 5.5"></path></svg>
+            <span>上一页</span>
+          </button>
+          <span id="page-status">第 1 页</span>
+          <button type="button" id="next-page" aria-label="下一页">
+            <span>下一页</span>
+            <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m7.5 4.5 5 5.5-5 5.5"></path></svg>
+          </button>
+        </nav>
+      </section>
+    </main>
+
+    <footer>
+      <p>排名来自 Apple 公开 RSS，为定时快照，不代表下载量或收入。</p>
+      <p>Paid Charts · 真实数据，不做模拟补齐</p>
+    </footer>
+  </body>
+</html>
