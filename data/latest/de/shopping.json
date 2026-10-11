@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-10",
-  "collectedAt": "2026-10-10T06:50:29.487Z",
-  "sourceUpdatedAt": "2026-10-09T23:50:29-07:00",
+  "snapshotDate": "2026-10-11",
+  "collectedAt": "2026-10-11T06:56:13.976Z",
+  "sourceUpdatedAt": "2026-10-10T23:56:13-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6024/json",
   "chartType": "paid",
@@ -17,23 +17,23 @@
     "name": "购物"
   },
   "requestedLimit": 100,
-  "expectedCount": 78,
-  "actualCount": 78,
+  "expectedCount": 77,
+  "actualCount": 77,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-09",
+  "previousSnapshotDate": "2026-10-10",
   "apps": [
     {
       "rank": 1,
       "previousRank": 5,
       "rankChange": 4,
       "isNew": false,
-      "appleId": "1000223882",
-      "name": "TechApp für Opel",
+      "appleId": "1002164923",
+      "name": "TechApp für Volkswagen",
       "developer": "Vladimir Susoykin",
       "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/25/ca/f525caef-17a6-ecfa-d3c5-c4289dadfff8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-opel/id1000223882?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/38/57/15/38571514-1093-d776-acae-20bfcf0bf3bc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-volkswagen/id1002164923?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -43,34 +43,12 @@
         "id": "6024",
         "name": "Shopping"
       },
-      "releaseDate": "10.06.2015"
+      "releaseDate": "11.06.2015"
     },
     {
       "rank": 2,
-      "previousRank": 6,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "585933440",
-      "name": "Buycott - Barcode Scanner & QR Bar Code Scanner",
-      "developer": "Buycott Inc.",
-      "developerUrl": "https://apps.apple.com/de/developer/buycott-inc/id585933443?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple82/v4/46/47/b5/4647b585-9a28-43a9-7086-d650e1c672a7/mzl.xgzgfhbj.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/buycott-barcode-scanner-qr-bar-code-scanner/id585933440?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "31.01.2013"
-    },
-    {
-      "rank": 3,
-      "previousRank": 8,
-      "rankChange": 5,
+      "previousRank": 3,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1002164392",
       "name": "TechApp für Audi",
@@ -90,9 +68,31 @@
       "releaseDate": "11.06.2015"
     },
     {
+      "rank": 3,
+      "previousRank": 12,
+      "rankChange": 9,
+      "isNew": false,
+      "appleId": "991121401",
+      "name": "TechApp für Mercedes",
+      "developer": "Vladimir Susoykin",
+      "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cf/b2/28/cfb22870-57f7-9d10-eebc-db00dd51411e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-mercedes/id991121401?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6024",
+        "name": "Shopping"
+      },
+      "releaseDate": "16.05.2015"
+    },
+    {
       "rank": 4,
-      "previousRank": 1,
-      "rankChange": -3,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "988681696",
       "name": "TechApp für BMW",
@@ -113,15 +113,37 @@
     },
     {
       "rank": 5,
-      "previousRank": 2,
-      "rankChange": -3,
+      "previousRank": 8,
+      "rankChange": 3,
       "isNew": false,
-      "appleId": "1002164923",
-      "name": "TechApp für Volkswagen",
+      "appleId": "6814905939",
+      "name": "Catsup: Grocery List",
+      "developer": "And a Dinosaur",
+      "developerUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/45/37/c1453707-6e6d-1a27-e377-f3a4d5d5d64f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/catsup-grocery-list/id6814905939?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6024",
+        "name": "Shopping"
+      },
+      "releaseDate": "24.09.2026"
+    },
+    {
+      "rank": 6,
+      "previousRank": 13,
+      "rankChange": 7,
+      "isNew": false,
+      "appleId": "1000138147",
+      "name": "TechApp für Ford",
       "developer": "Vladimir Susoykin",
       "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/38/57/15/38571514-1093-d776-acae-20bfcf0bf3bc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-volkswagen/id1002164923?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/78/f7/29/78f72913-bca8-8639-5527-fe61ca96263b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-ford/id1000138147?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -131,11 +153,55 @@
         "id": "6024",
         "name": "Shopping"
       },
-      "releaseDate": "11.06.2015"
+      "releaseDate": "06.06.2015"
     },
     {
-      "rank": 6,
-      "previousRank": 3,
+      "rank": 7,
+      "previousRank": 1,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1000223882",
+      "name": "TechApp für Opel",
+      "developer": "Vladimir Susoykin",
+      "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/25/ca/f525caef-17a6-ecfa-d3c5-c4289dadfff8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-opel/id1000223882?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6024",
+        "name": "Shopping"
+      },
+      "releaseDate": "10.06.2015"
+    },
+    {
+      "rank": 8,
+      "previousRank": 2,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "585933440",
+      "name": "Buycott - Barcode Scanner & QR Bar Code Scanner",
+      "developer": "Buycott Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/buycott-inc/id585933443?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple82/v4/46/47/b5/4647b585-9a28-43a9-7086-d650e1c672a7/mzl.xgzgfhbj.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/buycott-barcode-scanner-qr-bar-code-scanner/id585933440?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6024",
+        "name": "Shopping"
+      },
+      "releaseDate": "31.01.2013"
+    },
+    {
+      "rank": 9,
+      "previousRank": 6,
       "rankChange": -3,
       "isNew": false,
       "appleId": "1002165175",
@@ -156,8 +222,8 @@
       "releaseDate": "11.06.2015"
     },
     {
-      "rank": 7,
-      "previousRank": 4,
+      "rank": 10,
+      "previousRank": 7,
       "rankChange": -3,
       "isNew": false,
       "appleId": "918411051",
@@ -178,31 +244,9 @@
       "releaseDate": "22.09.2014"
     },
     {
-      "rank": 8,
-      "previousRank": 7,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6814905939",
-      "name": "Catsup: Grocery List",
-      "developer": "And a Dinosaur",
-      "developerUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/45/37/c1453707-6e6d-1a27-e377-f3a4d5d5d64f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/catsup-grocery-list/id6814905939?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "24.09.2026"
-    },
-    {
-      "rank": 9,
-      "previousRank": 11,
-      "rankChange": 2,
+      "rank": 11,
+      "previousRank": 9,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "520376062",
       "name": "Emoji 3 PRO - Farbige SMS - New Emojis Emojis Sticker für SMS, Facebook, Twitter",
@@ -222,9 +266,9 @@
       "releaseDate": "25.04.2012"
     },
     {
-      "rank": 10,
-      "previousRank": 12,
-      "rankChange": 2,
+      "rank": 12,
+      "previousRank": 10,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "424477181",
       "name": "SMS Smileys",
@@ -244,9 +288,9 @@
       "releaseDate": "14.03.2011"
     },
     {
-      "rank": 11,
-      "previousRank": 13,
-      "rankChange": 2,
+      "rank": 13,
+      "previousRank": 11,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "429671513",
       "name": "QR Reader for iPhone (Premium)",
@@ -266,53 +310,9 @@
       "releaseDate": "07.04.2011"
     },
     {
-      "rank": 12,
-      "previousRank": 14,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "991121401",
-      "name": "TechApp für Mercedes",
-      "developer": "Vladimir Susoykin",
-      "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cf/b2/28/cfb22870-57f7-9d10-eebc-db00dd51411e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-mercedes/id991121401?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "16.05.2015"
-    },
-    {
-      "rank": 13,
-      "previousRank": 9,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1000138147",
-      "name": "TechApp für Ford",
-      "developer": "Vladimir Susoykin",
-      "developerUrl": "https://apps.apple.com/de/developer/vladimir-susoykin/id918411050?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/78/f7/29/78f72913-bca8-8639-5527-fe61ca96263b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/techapp-f%C3%BCr-ford/id1000138147?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "06.06.2015"
-    },
-    {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1198057728",
       "name": "Smart Closet - Your Stylist",
@@ -333,8 +333,8 @@
     },
     {
       "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "689709826",
       "name": "3D Emoji Characters Stickers",
@@ -355,8 +355,8 @@
     },
     {
       "rank": 16,
-      "previousRank": 10,
-      "rankChange": -6,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1001655040",
       "name": "TechApp für SEAT",
@@ -553,30 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 25,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1039012558",
-      "name": "Texture Packs & Creator for Minecraft PC: MCPedia",
-      "developer": "MAJ Apps and Games LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/maj-apps-and-games-llc/id1493141734?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/7c/3e/1c/7c3e1c89-876c-1bec-58ba-6c1366f5cf68/mzl.myrvxpln.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/texture-packs-creator-for-minecraft-pc-mcpedia/id1039012558?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "20.09.2015"
-    },
-    {
-      "rank": 26,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1116481358",
       "name": "Car parts for Ford",
@@ -594,6 +572,28 @@
         "name": "Shopping"
       },
       "releaseDate": "24.05.2016"
+    },
+    {
+      "rank": 26,
+      "previousRank": 25,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1039012558",
+      "name": "Texture Packs & Creator for Minecraft PC: MCPedia",
+      "developer": "MAJ Apps and Games LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/maj-apps-and-games-llc/id1493141734?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/7c/3e/1c/7c3e1c89-876c-1bec-58ba-6c1366f5cf68/mzl.myrvxpln.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/texture-packs-creator-for-minecraft-pc-mcpedia/id1039012558?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6024",
+        "name": "Shopping"
+      },
+      "releaseDate": "20.09.2015"
     },
     {
       "rank": 27,
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1248010735",
       "name": "Car Parts for Mercedes-Benz",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 47,
-      "rankChange": -1,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6755401290",
       "name": "Katastr nemovitostí",
@@ -1191,9 +1191,9 @@
     },
     {
       "rank": 54,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 54,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "1250816554",
       "name": "ShopperPro - Einkaufsliste.",
       "developer": "HSIN-YU LAI",
@@ -1264,7 +1264,7 @@
       "name": "Autopedia | Auto guide",
       "developer": "Prive Systems LLC.",
       "developerUrl": "https://apps.apple.com/de/developer/prive-systems-llc/id1896656426?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/08/88/03088898-b9e2-5e30-4e07-18e432d4f313/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/47/d4/b947d44b-3183-3045-3fe7-3e65296b848d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/autopedia-auto-guide/id895583433?uo=2",
       "price": {
         "amount": 0.99,
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 54,
-      "rankChange": -9,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6737623313",
       "name": "Einkaufsliste ‎",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6636492811",
       "name": "Gem Genius AI",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6450309181",
       "name": "EniBuy",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1054646951",
       "name": "Everypay",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1036789722",
       "name": "Funko.POP Collector By Tryvin",
@@ -1499,30 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "844106338",
-      "name": "Refranyer Català",
-      "developer": "Marc Canet",
-      "developerUrl": "https://apps.apple.com/de/developer/marc-canet/id498945164?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/2e/9c/bd2e9cec-3a0c-e202-0c9b-90a61ff179a3/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/refranyer-catal%C3%A0/id844106338?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6024",
-        "name": "Shopping"
-      },
-      "releaseDate": "08.04.2014"
-    },
-    {
-      "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "previousRank": 69,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6803968034",
       "name": "Together List",
@@ -1542,9 +1520,9 @@
       "releaseDate": "31.08.2026"
     },
     {
-      "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
+      "rank": 69,
+      "previousRank": 70,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6739453153",
       "name": "StashID - Loyalty Card Holder",
@@ -1564,9 +1542,9 @@
       "releaseDate": "12.05.2025"
     },
     {
-      "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "rank": 70,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6717578528",
       "name": "Blitz Rabatt Rechner",
@@ -1586,9 +1564,9 @@
       "releaseDate": "25.09.2024"
     },
     {
-      "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "rank": 71,
+      "previousRank": 72,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6467675897",
       "name": "Kassalappen",
@@ -1608,9 +1586,9 @@
       "releaseDate": "29.09.2023"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "rank": 72,
+      "previousRank": 73,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6463645301",
       "name": "PawWire",
@@ -1630,9 +1608,9 @@
       "releaseDate": "22.12.2023"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "rank": 73,
+      "previousRank": 74,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6451100949",
       "name": "DigiDokaan Pro",
@@ -1652,9 +1630,9 @@
       "releaseDate": "27.07.2023"
     },
     {
-      "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "rank": 74,
+      "previousRank": 75,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6443821393",
       "name": "Receipt Elite",
@@ -1674,9 +1652,9 @@
       "releaseDate": "13.10.2022"
     },
     {
-      "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "rank": 75,
+      "previousRank": 76,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1478742346",
       "name": "jigNOTES",
@@ -1696,9 +1674,9 @@
       "releaseDate": "11.09.2019"
     },
     {
-      "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "rank": 76,
+      "previousRank": 77,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1114967534",
       "name": "Cross It Off – Shopping & Todo",
@@ -1718,9 +1696,9 @@
       "releaseDate": "29.11.2017"
     },
     {
-      "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "rank": 77,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "886981254",
       "name": "Watch Keeper - Collectors Box",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-10",
-  "collectedAt": "2026-10-10T06:50:37.731Z",
-  "sourceUpdatedAt": "2026-10-09T23:50:37-07:00",
+  "snapshotDate": "2026-10-11",
+  "collectedAt": "2026-10-11T06:56:22.602Z",
+  "sourceUpdatedAt": "2026-10-10T23:56:22-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/ca/rss/toppaidapplications/limit=100/genre=6026/json",
   "chartType": "paid",
@@ -21,34 +21,56 @@
   "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-09",
+  "previousSnapshotDate": "2026-10-10",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
+      "previousRank": 51,
+      "rankChange": 50,
       "isNew": false,
-      "appleId": "6770150116",
-      "name": "DroidShell",
-      "developer": "Jan Sallads",
-      "developerUrl": "https://apps.apple.com/ca/developer/jan-sallads/id1092355347?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/ae/e0/e5aee02e-f81b-b7cf-4886-36cc4ed887f9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/droidshell/id6770150116?uo=2",
+      "appleId": "6811290737",
+      "name": "Shell Keyboard",
+      "developer": "Nguyen Nguyen",
+      "developerUrl": "https://apps.apple.com/ca/developer/nguyen-nguyen/id1071455830?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c9/82/b5c98287-e336-bab9-a3e9-ad9272a6af62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/shell-keyboard/id6811290737?uo=2",
       "price": {
-        "amount": 11.99,
+        "amount": 0.99,
         "currency": "CAD",
-        "formatted": "$11.99"
+        "formatted": "$0.99"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "May 28, 2026"
+      "releaseDate": "September 16, 2026"
     },
     {
       "rank": 2,
-      "previousRank": 8,
-      "rankChange": 6,
+      "previousRank": 27,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "6446626905",
+      "name": "Cookie Editor Safari Extension",
+      "developer": "Zamalabs Yazılım ve Bilgi Teknolojileri Limited Şirketi",
+      "developerUrl": "https://apps.apple.com/ca/developer/zamalabs-yaz%C4%B1l%C4%B1m-ve-bilgi-teknolojileri-limited-%C5%9Firketi/id1637867851?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/9b/b0/199bb0d0-d996-d82a-fce1-930a6d9c2913/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/cookie-editor-safari-extension/id6446626905?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "CAD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "April 05, 2023"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1203594958",
       "name": "Inspect Browser",
@@ -68,9 +90,31 @@
       "releaseDate": "February 09, 2017"
     },
     {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
+      "rank": 4,
+      "previousRank": 1,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6770150116",
+      "name": "DroidShell",
+      "developer": "Jan Sallads",
+      "developerUrl": "https://apps.apple.com/ca/developer/jan-sallads/id1092355347?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/ae/e0/e5aee02e-f81b-b7cf-4886-36cc4ed887f9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/droidshell/id6770150116?uo=2",
+      "price": {
+        "amount": 11.99,
+        "currency": "CAD",
+        "formatted": "$11.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "May 28, 2026"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1582439659",
       "name": "Harbour - Docker Manager",
@@ -90,10 +134,10 @@
       "releaseDate": "April 06, 2024"
     },
     {
-      "rank": 4,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "1564422794",
       "name": "MQTT Spy",
       "developer": "Gopi Gadhiya",
@@ -112,15 +156,15 @@
       "releaseDate": "May 26, 2021"
     },
     {
-      "rank": 5,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 7,
+      "previousRank": 5,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "6809702319",
       "name": "GopherForge: Go Workbench",
       "developer": "Serhii Ziborov",
       "developerUrl": "https://apps.apple.com/ca/developer/serhii-ziborov/id6809115382?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/34/8d/f8348d21-62c8-b87e-cab6-739b9f545ca3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/74/9b/70749b72-f5c3-90ee-34b3-ad61a7bbc99c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/ca/app/gopherforge-go-workbench/id6809702319?uo=2",
       "price": {
         "amount": 9.99,
@@ -134,10 +178,10 @@
       "releaseDate": "October 06, 2026"
     },
     {
-      "rank": 6,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 8,
+      "previousRank": 6,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "6802662567",
       "name": "Schema Studio: Database Design",
       "developer": "SMART BIT K.K",
@@ -156,9 +200,9 @@
       "releaseDate": "August 23, 2026"
     },
     {
-      "rank": 7,
-      "previousRank": 3,
-      "rankChange": -4,
+      "rank": 9,
+      "previousRank": 7,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "475312085",
       "name": "SQLed - SQL Database Manager",
@@ -178,9 +222,9 @@
       "releaseDate": "November 15, 2011"
     },
     {
-      "rank": 8,
-      "previousRank": 4,
-      "rankChange": -4,
+      "rank": 10,
+      "previousRank": 8,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6782400214",
       "name": "Vibemaster",
@@ -200,31 +244,9 @@
       "releaseDate": "June 26, 2026"
     },
     {
-      "rank": 9,
-      "previousRank": 5,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6738021729",
-      "name": "Python Challenge",
-      "developer": "MUSTAFA GURBUZ",
-      "developerUrl": "https://apps.apple.com/ca/developer/mustafa-gurbuz/id1777685795?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c7/db/acc7dbf3-6dd7-6440-3211-6d1dd82941cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/python-challenge/id6738021729?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "CAD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "November 11, 2024"
-    },
-    {
-      "rank": 10,
-      "previousRank": 7,
-      "rankChange": -3,
+      "rank": 11,
+      "previousRank": 10,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1470146079",
       "name": "Smart NFC",
@@ -244,9 +266,9 @@
       "releaseDate": "September 19, 2019"
     },
     {
-      "rank": 11,
-      "previousRank": 9,
-      "rankChange": -2,
+      "rank": 12,
+      "previousRank": 11,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6758669847",
       "name": "Echo - SSH + Mosh Client",
@@ -266,9 +288,9 @@
       "releaseDate": "February 07, 2026"
     },
     {
-      "rank": 12,
-      "previousRank": 10,
-      "rankChange": -2,
+      "rank": 13,
+      "previousRank": 12,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "386737169",
       "name": "LadderTouch",
@@ -288,9 +310,9 @@
       "releaseDate": "October 30, 2010"
     },
     {
-      "rank": 13,
-      "previousRank": 11,
-      "rankChange": -2,
+      "rank": 14,
+      "previousRank": 13,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1260223542",
       "name": "SSH Tunnel: VPN & SOCKS5 proxy",
@@ -310,9 +332,9 @@
       "releaseDate": "July 24, 2017"
     },
     {
-      "rank": 14,
-      "previousRank": 12,
-      "rankChange": -2,
+      "rank": 15,
+      "previousRank": 14,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1512938504",
       "name": "Code App",
@@ -332,9 +354,9 @@
       "releaseDate": "May 28, 2020"
     },
     {
-      "rank": 15,
-      "previousRank": 13,
-      "rankChange": -2,
+      "rank": 16,
+      "previousRank": 15,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1481149807",
       "name": "OpenTerm",
@@ -354,9 +376,9 @@
       "releaseDate": "December 15, 2019"
     },
     {
-      "rank": 16,
-      "previousRank": 14,
-      "rankChange": -2,
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1611554653",
       "name": "Logger for Shortcuts",
@@ -376,9 +398,9 @@
       "releaseDate": "March 10, 2022"
     },
     {
-      "rank": 17,
-      "previousRank": 15,
-      "rankChange": -2,
+      "rank": 18,
+      "previousRank": 17,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1095213378",
       "name": "Continuous .NET C# and F# IDE",
@@ -398,9 +420,9 @@
       "releaseDate": "July 06, 2016"
     },
     {
-      "rank": 18,
-      "previousRank": 16,
-      "rankChange": -2,
+      "rank": 19,
+      "previousRank": 18,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1503486606",
       "name": "C Code Develop",
@@ -420,9 +442,9 @@
       "releaseDate": "January 06, 2021"
     },
     {
-      "rank": 19,
-      "previousRank": 17,
-      "rankChange": -2,
+      "rank": 20,
+      "previousRank": 19,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "921385542",
       "name": "Source 3",
@@ -442,8 +464,8 @@
       "releaseDate": "October 08, 2014"
     },
     {
-      "rank": 20,
-      "previousRank": 19,
+      "rank": 21,
+      "previousRank": 20,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1468880337",
@@ -464,9 +486,9 @@
       "releaseDate": "October 01, 2019"
     },
     {
-      "rank": 21,
-      "previousRank": 18,
-      "rankChange": -3,
+      "rank": 22,
+      "previousRank": 21,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6743685377",
       "name": "Termix Pro: SSH & SFTP Client",
@@ -486,9 +508,9 @@
       "releaseDate": "March 24, 2025"
     },
     {
-      "rank": 22,
-      "previousRank": 20,
-      "rankChange": -2,
+      "rank": 23,
+      "previousRank": 22,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1054670022",
       "name": "Adaptivity (A)",
@@ -508,9 +530,9 @@
       "releaseDate": "November 16, 2015"
     },
     {
-      "rank": 23,
-      "previousRank": 21,
-      "rankChange": -2,
+      "rank": 24,
+      "previousRank": 23,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1567601472",
       "name": "ESP32 BLE Terminal",
@@ -530,9 +552,9 @@
       "releaseDate": "June 01, 2021"
     },
     {
-      "rank": 24,
-      "previousRank": 22,
-      "rankChange": -2,
+      "rank": 25,
+      "previousRank": 24,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6474695786",
       "name": "iPulse - Monitor Your Device",
@@ -552,9 +574,9 @@
       "releaseDate": "March 12, 2024"
     },
     {
-      "rank": 25,
-      "previousRank": 23,
-      "rankChange": -2,
+      "rank": 26,
+      "previousRank": 25,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "593757593",
       "name": "DraftCode for PHP IDE",
@@ -574,9 +596,9 @@
       "releaseDate": "February 12, 2013"
     },
     {
-      "rank": 26,
-      "previousRank": 24,
-      "rankChange": -2,
+      "rank": 27,
+      "previousRank": 26,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1252988123",
       "name": "RegEx Lab: Regular Expressions",
@@ -596,31 +618,9 @@
       "releaseDate": "July 26, 2017"
     },
     {
-      "rank": 27,
-      "previousRank": 25,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6446626905",
-      "name": "Cookie Editor Safari Extension",
-      "developer": "Zamalabs Yazılım ve Bilgi Teknolojileri Limited Şirketi",
-      "developerUrl": "https://apps.apple.com/ca/developer/zamalabs-yaz%C4%B1l%C4%B1m-ve-bilgi-teknolojileri-limited-%C5%9Firketi/id1637867851?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/9b/b0/199bb0d0-d996-d82a-fce1-930a6d9c2913/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/cookie-editor-safari-extension/id6446626905?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "CAD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "April 05, 2023"
-    },
-    {
       "rank": 28,
-      "previousRank": 26,
-      "rankChange": -2,
+      "previousRank": 28,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6443893597",
       "name": "Simple Server: HTTP Server",
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 27,
-      "rankChange": -2,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1191488320",
       "name": "PasteMe - Pastebin Client",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 28,
-      "rankChange": -2,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1565641091",
       "name": "Text Editor - Document Editor",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 29,
-      "rankChange": -2,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1608053878",
       "name": "UDevice - Dev Assistant",
@@ -707,8 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 30,
-      "rankChange": -2,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "585637688",
       "name": "python3$",
@@ -729,8 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": 31,
-      "rankChange": -2,
+      "previousRank": 33,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1237825358",
       "name": "MongoLime - manage databases",
@@ -751,8 +751,8 @@
     },
     {
       "rank": 34,
-      "previousRank": 32,
-      "rankChange": -2,
+      "previousRank": 34,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1461666739",
       "name": "Kuber - Kubernetes Dashboard",
@@ -773,8 +773,8 @@
     },
     {
       "rank": 35,
-      "previousRank": 33,
-      "rankChange": -2,
+      "previousRank": 35,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "932296259",
       "name": "websta$-learn html css and js",
@@ -861,30 +861,8 @@
     },
     {
       "rank": 39,
-      "previousRank": 35,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1517211662",
-      "name": "TinyServer",
-      "developer": "Christian Lobach",
-      "developerUrl": "https://apps.apple.com/ca/developer/christian-lobach/id516573165?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/51/46/eb514653-6601-efda-8b23-3ef51a1c32cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/tinyserver/id1517211662?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "CAD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "June 07, 2020"
-    },
-    {
-      "rank": 40,
-      "previousRank": 39,
-      "rankChange": -1,
+      "previousRank": 40,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1314212521",
       "name": "PPHub For GitHub - Developer",
@@ -904,53 +882,9 @@
       "releaseDate": "November 20, 2017"
     },
     {
-      "rank": 41,
-      "previousRank": 6,
-      "rankChange": -35,
-      "isNew": false,
-      "appleId": "6789029918",
-      "name": "iRTSP",
-      "developer": "Ryan Rudes",
-      "developerUrl": "https://apps.apple.com/ca/developer/ryan-rudes/id1698870132?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f9/eb/e8f9eb85-d36c-e544-b93e-747324166885/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/irtsp/id6789029918?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "CAD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "July 15, 2026"
-    },
-    {
-      "rank": 42,
-      "previousRank": 34,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "6753086808",
-      "name": "Python Sandbox",
-      "developer": "Leonid Gefter",
-      "developerUrl": "https://apps.apple.com/ca/developer/leonid-gefter/id1466989762?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c1/bc/6bc1bc6c-efa5-a819-d492-dd04976d3cf8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/python-sandbox/id6753086808?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "CAD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "October 02, 2025"
-    },
-    {
-      "rank": 43,
-      "previousRank": 40,
-      "rankChange": -3,
+      "rank": 40,
+      "previousRank": 43,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1463315864",
       "name": "iHTTP Tracker -Network monitor",
@@ -970,9 +904,53 @@
       "releaseDate": "May 21, 2019"
     },
     {
-      "rank": 44,
-      "previousRank": 43,
-      "rankChange": -1,
+      "rank": 41,
+      "previousRank": 39,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1517211662",
+      "name": "TinyServer",
+      "developer": "Christian Lobach",
+      "developerUrl": "https://apps.apple.com/ca/developer/christian-lobach/id516573165?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/51/46/eb514653-6601-efda-8b23-3ef51a1c32cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/tinyserver/id1517211662?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "CAD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "June 07, 2020"
+    },
+    {
+      "rank": 42,
+      "previousRank": 9,
+      "rankChange": -33,
+      "isNew": false,
+      "appleId": "6738021729",
+      "name": "Python Challenge",
+      "developer": "MUSTAFA GURBUZ",
+      "developerUrl": "https://apps.apple.com/ca/developer/mustafa-gurbuz/id1777685795?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c7/db/acc7dbf3-6dd7-6440-3211-6d1dd82941cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/python-challenge/id6738021729?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "November 11, 2024"
+    },
+    {
+      "rank": 43,
+      "previousRank": 44,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1558236648",
       "name": "Packet Sender - UDP/ TCP/ SSL",
@@ -992,9 +970,9 @@
       "releaseDate": "March 20, 2021"
     },
     {
-      "rank": 45,
-      "previousRank": 44,
-      "rankChange": -1,
+      "rank": 44,
+      "previousRank": 45,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1474606532",
       "name": "Haptics - Test Haptic Feedback",
@@ -1014,9 +992,9 @@
       "releaseDate": "September 19, 2019"
     },
     {
-      "rank": 46,
-      "previousRank": 45,
-      "rankChange": -1,
+      "rank": 45,
+      "previousRank": 46,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1425213172",
       "name": "View Source Premier",
@@ -1036,9 +1014,53 @@
       "releaseDate": "August 18, 2018"
     },
     {
+      "rank": 46,
+      "previousRank": 41,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6789029918",
+      "name": "iRTSP",
+      "developer": "Ryan Rudes",
+      "developerUrl": "https://apps.apple.com/ca/developer/ryan-rudes/id1698870132?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/f9/eb/e8f9eb85-d36c-e544-b93e-747324166885/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/irtsp/id6789029918?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "CAD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "July 15, 2026"
+    },
+    {
       "rank": 47,
+      "previousRank": 42,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6753086808",
+      "name": "Python Sandbox",
+      "developer": "Leonid Gefter",
+      "developerUrl": "https://apps.apple.com/ca/developer/leonid-gefter/id1466989762?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c1/bc/6bc1bc6c-efa5-a819-d492-dd04976d3cf8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/python-sandbox/id6753086808?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "CAD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "October 02, 2025"
+    },
+    {
+      "rank": 48,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6744863722",
       "name": "neightn remote",
@@ -1058,9 +1080,9 @@
       "releaseDate": "April 22, 2025"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1532669250",
       "name": "Scarlet",
@@ -1080,9 +1102,9 @@
       "releaseDate": "June 02, 2021"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1526052028",
       "name": "Zeitgeist",
@@ -1102,75 +1124,9 @@
       "releaseDate": "December 02, 2020"
     },
     {
-      "rank": 50,
-      "previousRank": 46,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1563852783",
-      "name": "Resolutioner",
-      "developer": "Sun Apps, LLC",
-      "developerUrl": "https://apps.apple.com/ca/developer/sun-apps-llc/id1465505382?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/7e/66/bf7e6615-a8dc-a1af-d1ca-1c95320e8d53/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/resolutioner/id1563852783?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "CAD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "May 11, 2021"
-    },
-    {
       "rank": 51,
-      "previousRank": 41,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6811290737",
-      "name": "Shell Keyboard",
-      "developer": "Nguyen Nguyen",
-      "developerUrl": "https://apps.apple.com/ca/developer/nguyen-nguyen/id1071455830?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c9/82/b5c98287-e336-bab9-a3e9-ad9272a6af62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/shell-keyboard/id6811290737?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "CAD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "September 16, 2026"
-    },
-    {
-      "rank": 52,
-      "previousRank": 42,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6761261189",
-      "name": "Hard Refresh",
-      "developer": "Albuquerque de Matos, Unipessoal, LDA",
-      "developerUrl": "https://apps.apple.com/ca/developer/albuquerque-de-matos-unipessoal-lda/id1463205815?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/b8/74/47b8743d-8ee0-20a1-0250-890a55082078/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/hard-refresh/id6761261189?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "CAD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "March 31, 2026"
-    },
-    {
-      "rank": 53,
-      "previousRank": 51,
-      "rankChange": -2,
+      "previousRank": 53,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6501961979",
       "name": "iCardVerify - Card Validator",
@@ -1190,9 +1146,9 @@
       "releaseDate": "May 09, 2024"
     },
     {
-      "rank": 54,
-      "previousRank": 52,
-      "rankChange": -2,
+      "rank": 52,
+      "previousRank": 54,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "326123820",
       "name": "UDIDit",
@@ -1212,9 +1168,9 @@
       "releaseDate": "August 15, 2009"
     },
     {
-      "rank": 55,
-      "previousRank": 53,
-      "rankChange": -2,
+      "rank": 53,
+      "previousRank": 55,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1548808907",
       "name": "SecurityKit - Developer Tools",
@@ -1234,9 +1190,9 @@
       "releaseDate": "January 14, 2021"
     },
     {
-      "rank": 56,
-      "previousRank": 54,
-      "rankChange": -2,
+      "rank": 54,
+      "previousRank": 56,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1511763524",
       "name": "RegEx+",
@@ -1256,9 +1212,9 @@
       "releaseDate": "May 06, 2020"
     },
     {
-      "rank": 57,
-      "previousRank": 55,
-      "rankChange": -2,
+      "rank": 55,
+      "previousRank": 57,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1490043916",
       "name": "Http Traffic pro - sniffer",
@@ -1278,31 +1234,9 @@
       "releaseDate": "December 03, 2019"
     },
     {
-      "rank": 58,
-      "previousRank": 50,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "6753624290",
-      "name": "Credit Card Maker",
-      "developer": "Hemal Modi",
-      "developerUrl": "https://apps.apple.com/ca/developer/hemal-modi/id1522352514?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/22/8b6d22ab-d4a4-a2ef-d563-4a2de9c5b208/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/credit-card-maker/id6753624290?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "CAD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "October 06, 2025"
-    },
-    {
-      "rank": 59,
-      "previousRank": 56,
-      "rankChange": -3,
+      "rank": 56,
+      "previousRank": 59,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1517487743",
       "name": "DNS Client: Lookup & Query",
@@ -1322,9 +1256,9 @@
       "releaseDate": "July 29, 2020"
     },
     {
-      "rank": 60,
-      "previousRank": 57,
-      "rankChange": -3,
+      "rank": 57,
+      "previousRank": 60,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1245341806",
       "name": "My Lisp",
@@ -1344,9 +1278,9 @@
       "releaseDate": "November 07, 2017"
     },
     {
-      "rank": 61,
-      "previousRank": 59,
-      "rankChange": -2,
+      "rank": 58,
+      "previousRank": 61,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1296588408",
       "name": "AirTerminal - BLE Terminal",
@@ -1366,9 +1300,53 @@
       "releaseDate": "November 29, 2017"
     },
     {
-      "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "rank": 59,
+      "previousRank": 52,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6761261189",
+      "name": "Hard Refresh",
+      "developer": "Albuquerque de Matos, Unipessoal, LDA",
+      "developerUrl": "https://apps.apple.com/ca/developer/albuquerque-de-matos-unipessoal-lda/id1463205815?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/b8/74/47b8743d-8ee0-20a1-0250-890a55082078/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/hard-refresh/id6761261189?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "CAD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "March 31, 2026"
+    },
+    {
+      "rank": 60,
+      "previousRank": 58,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6753624290",
+      "name": "Credit Card Maker",
+      "developer": "Hemal Modi",
+      "developerUrl": "https://apps.apple.com/ca/developer/hemal-modi/id1522352514?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/22/8b6d22ab-d4a4-a2ef-d563-4a2de9c5b208/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/credit-card-maker/id6753624290?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "CAD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "October 06, 2025"
+    },
+    {
+      "rank": 61,
+      "previousRank": 62,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6754510277",
       "name": "GrafanaUI",
@@ -1388,9 +1366,9 @@
       "releaseDate": "November 07, 2025"
     },
     {
-      "rank": 63,
-      "previousRank": 62,
-      "rankChange": -1,
+      "rank": 62,
+      "previousRank": 63,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1525322870",
       "name": "Netdata server monitoring",
@@ -1410,9 +1388,9 @@
       "releaseDate": "September 16, 2020"
     },
     {
-      "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "rank": 63,
+      "previousRank": 64,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1347743213",
       "name": "SSL Checker",
@@ -1432,16 +1410,16 @@
       "releaseDate": "February 20, 2018"
     },
     {
-      "rank": 65,
-      "previousRank": 58,
-      "rankChange": -7,
+      "rank": 64,
+      "previousRank": 50,
+      "rankChange": -14,
       "isNew": false,
-      "appleId": "6794605802",
-      "name": "MCP Explorer Mobile",
-      "developer": "Gabriel Schreiber",
-      "developerUrl": "https://apps.apple.com/ca/developer/gabriel-schreiber/id6784729698?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/cf/77/27cf774b-0739-98ad-1caa-ac39403f14c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/mcp-explorer-mobile/id6794605802?uo=2",
+      "appleId": "1563852783",
+      "name": "Resolutioner",
+      "developer": "Sun Apps, LLC",
+      "developerUrl": "https://apps.apple.com/ca/developer/sun-apps-llc/id1465505382?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/7e/66/bf7e6615-a8dc-a1af-d1ca-1c95320e8d53/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/resolutioner/id1563852783?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "CAD",
@@ -1451,34 +1429,12 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "July 29, 2026"
+      "releaseDate": "May 11, 2021"
     },
     {
-      "rank": 66,
-      "previousRank": 64,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6760114671",
-      "name": "Internet Speed Limiter",
-      "developer": "NeuralQuark",
-      "developerUrl": "https://apps.apple.com/ca/developer/neuralquark/id1764878688?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b7/a9/c8b7a9fd-71ea-921f-6420-da1c14dba0d3/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/internet-speed-limiter/id6760114671?uo=2",
-      "price": {
-        "amount": 24.99,
-        "currency": "CAD",
-        "formatted": "$24.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "March 14, 2026"
-    },
-    {
-      "rank": 67,
-      "previousRank": 65,
-      "rankChange": -2,
+      "rank": 65,
+      "previousRank": 67,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6474973643",
       "name": "Rust IDE - Minimal Code",
@@ -1498,97 +1454,9 @@
       "releaseDate": "December 30, 2023"
     },
     {
-      "rank": 68,
-      "previousRank": 66,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1356241530",
-      "name": "a11yTools - Web Accessibility",
-      "developer": "PaulJAdam.com",
-      "developerUrl": "https://apps.apple.com/ca/developer/pauljadam-com/id436696931?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/e0/67/f9e067a5-5283-1a47-2515-03d6affc4b07/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/a11ytools-web-accessibility/id1356241530?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "CAD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "March 14, 2018"
-    },
-    {
-      "rank": 69,
-      "previousRank": 60,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "6799896801",
-      "name": "Moshpit: Terminal for Agents",
-      "developer": "文隆 胡",
-      "developerUrl": "https://apps.apple.com/ca/developer/%E6%96%87%E9%9A%86-%E8%83%A1/id6799797802?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4b/51/7c4b51f3-0465-6935-0d7f-892529ee9fab/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/moshpit-terminal-for-agents/id6799896801?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "CAD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "August 26, 2026"
-    },
-    {
-      "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6762464046",
-      "name": "Muxy",
-      "developer": "Saeed Vaziry",
-      "developerUrl": "https://apps.apple.com/ca/developer/saeed-vaziry/id1873447179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/4b/70/0a4b70c8-421e-1bec-27d8-385f2daea906/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/muxy/id6762464046?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "CAD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "May 15, 2026"
-    },
-    {
-      "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1553621603",
-      "name": "Jockey OSC & MIDI",
-      "developer": "Anton Heestand",
-      "developerUrl": "https://apps.apple.com/ca/developer/anton-heestand/id1235192207?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/b1/a1/8bb1a137-de7e-de03-f756-b0e0e7459ece/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/jockey-osc-midi/id1553621603?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "CAD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "February 13, 2021"
-    },
-    {
-      "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "rank": 66,
+      "previousRank": 72,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "1445874104",
       "name": "BLE Spy",
@@ -1608,9 +1476,97 @@
       "releaseDate": "August 23, 2019"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "rank": 67,
+      "previousRank": 68,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1356241530",
+      "name": "a11yTools - Web Accessibility",
+      "developer": "PaulJAdam.com",
+      "developerUrl": "https://apps.apple.com/ca/developer/pauljadam-com/id436696931?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/e0/67/f9e067a5-5283-1a47-2515-03d6affc4b07/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/a11ytools-web-accessibility/id1356241530?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "CAD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "March 14, 2018"
+    },
+    {
+      "rank": 68,
+      "previousRank": 70,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "6762464046",
+      "name": "Muxy",
+      "developer": "Saeed Vaziry",
+      "developerUrl": "https://apps.apple.com/ca/developer/saeed-vaziry/id1873447179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/4b/70/0a4b70c8-421e-1bec-27d8-385f2daea906/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/muxy/id6762464046?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "May 15, 2026"
+    },
+    {
+      "rank": 69,
+      "previousRank": 71,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "1553621603",
+      "name": "Jockey OSC & MIDI",
+      "developer": "Anton Heestand",
+      "developerUrl": "https://apps.apple.com/ca/developer/anton-heestand/id1235192207?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/b1/a1/8bb1a137-de7e-de03-f756-b0e0e7459ece/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/jockey-osc-midi/id1553621603?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "CAD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "February 13, 2021"
+    },
+    {
+      "rank": 70,
+      "previousRank": 66,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6760114671",
+      "name": "Internet Speed Limiter",
+      "developer": "NeuralQuark",
+      "developerUrl": "https://apps.apple.com/ca/developer/neuralquark/id1764878688?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b7/a9/c8b7a9fd-71ea-921f-6420-da1c14dba0d3/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/internet-speed-limiter/id6760114671?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "CAD",
+        "formatted": "$24.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "March 14, 2026"
+    },
+    {
+      "rank": 71,
+      "previousRank": 73,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1661026537",
       "name": "HTMLSource",
@@ -1630,9 +1586,9 @@
       "releaseDate": "December 24, 2022"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "rank": 72,
+      "previousRank": 74,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1547278785",
       "name": "SSL Toolkit",
@@ -1652,9 +1608,9 @@
       "releaseDate": "January 22, 2021"
     },
     {
-      "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "rank": 73,
+      "previousRank": 75,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1540244170",
       "name": "BASIC: programming language",
@@ -1674,9 +1630,9 @@
       "releaseDate": "November 16, 2020"
     },
     {
-      "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "rank": 74,
+      "previousRank": 76,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1506388148",
       "name": "Neural Object Detector",
@@ -1696,9 +1652,31 @@
       "releaseDate": "April 14, 2020"
     },
     {
-      "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "rank": 75,
+      "previousRank": 65,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6794605802",
+      "name": "MCP Explorer Mobile",
+      "developer": "Gabriel Schreiber",
+      "developerUrl": "https://apps.apple.com/ca/developer/gabriel-schreiber/id6784729698?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/cf/77/27cf774b-0739-98ad-1caa-ac39403f14c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/mcp-explorer-mobile/id6794605802?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "CAD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "July 29, 2026"
+    },
+    {
+      "rank": 76,
+      "previousRank": 77,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1643868615",
       "name": "TFLite LiteRT TensorFlow Test",
@@ -1718,9 +1696,9 @@
       "releaseDate": "May 09, 2023"
     },
     {
-      "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "rank": 77,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1481018071",
       "name": "SeeLess - C Compiler",
@@ -1740,38 +1718,16 @@
       "releaseDate": "November 12, 2019"
     },
     {
-      "rank": 79,
-      "previousRank": 67,
-      "rankChange": -12,
+      "rank": 78,
+      "previousRank": 69,
+      "rankChange": -9,
       "isNew": false,
-      "appleId": "6788120056",
-      "name": "Gaugely for Grafana",
-      "developer": "MACIEJ KEDZIORA",
-      "developerUrl": "https://apps.apple.com/ca/developer/maciej-kedziora/id1880217479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/d4/d6/11d4d6f5-5e2f-b8f7-2bb9-f44eed9fe301/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/gaugely-for-grafana/id6788120056?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "CAD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "September 10, 2026"
-    },
-    {
-      "rank": 80,
-      "previousRank": 68,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "6768802586",
-      "name": "Cookie Inspector for Safari",
-      "developer": "Alfredo Grassau",
-      "developerUrl": "https://apps.apple.com/ca/developer/alfredo-grassau/id1564157928?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/56/91/fa569127-140e-7770-bc80-3d0bbc81d889/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/cookie-inspector-for-safari/id6768802586?uo=2",
+      "appleId": "6799896801",
+      "name": "Moshpit: Terminal for Agents",
+      "developer": "文隆 胡",
+      "developerUrl": "https://apps.apple.com/ca/developer/%E6%96%87%E9%9A%86-%E8%83%A1/id6799797802?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b3/b2/2fb3b2f1-3ddf-7002-9b52-f6cf63134c47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/moshpit-terminal-for-agents/id6799896801?uo=2",
       "price": {
         "amount": 3.99,
         "currency": "CAD",
@@ -1781,12 +1737,12 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "May 14, 2026"
+      "releaseDate": "August 26, 2026"
     },
     {
-      "rank": 81,
-      "previousRank": 78,
-      "rankChange": -3,
+      "rank": 79,
+      "previousRank": 81,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6737245127",
       "name": "SourceView Pro - Web Inspector",
@@ -1806,9 +1762,9 @@
       "releaseDate": "October 24, 2024"
     },
     {
-      "rank": 82,
-      "previousRank": 79,
-      "rankChange": -3,
+      "rank": 80,
+      "previousRank": 82,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1534485108",
       "name": "Nan - Packet Capture",
@@ -1828,9 +1784,9 @@
       "releaseDate": "November 06, 2020"
     },
     {
-      "rank": 83,
-      "previousRank": 80,
-      "rankChange": -3,
+      "rank": 81,
+      "previousRank": 83,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1123855886",
       "name": "Colourdrop: Colour Picker",
@@ -1850,9 +1806,9 @@
       "releaseDate": "July 27, 2018"
     },
     {
-      "rank": 84,
-      "previousRank": 81,
-      "rankChange": -3,
+      "rank": 82,
+      "previousRank": 84,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "727047729",
       "name": "Ruby 2.0-run code,pro",
@@ -1872,9 +1828,9 @@
       "releaseDate": "October 16, 2014"
     },
     {
-      "rank": 85,
-      "previousRank": 82,
-      "rankChange": -3,
+      "rank": 83,
+      "previousRank": 85,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "617332649",
       "name": "Core Data Manager",
@@ -1894,9 +1850,9 @@
       "releaseDate": "March 17, 2013"
     },
     {
-      "rank": 86,
-      "previousRank": 83,
-      "rankChange": -3,
+      "rank": 84,
+      "previousRank": 86,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6450674361",
       "name": "Nmap Handbook",
@@ -1916,9 +1872,9 @@
       "releaseDate": "June 28, 2023"
     },
     {
-      "rank": 87,
-      "previousRank": 84,
-      "rankChange": -3,
+      "rank": 85,
+      "previousRank": 87,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1581312955",
       "name": "MermaidEditor",
@@ -1938,9 +1894,9 @@
       "releaseDate": "August 15, 2021"
     },
     {
-      "rank": 88,
-      "previousRank": 85,
-      "rankChange": -3,
+      "rank": 86,
+      "previousRank": 88,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1535337134",
       "name": "Haptique - Haptic Explorer",
@@ -1960,60 +1916,38 @@
       "releaseDate": "October 20, 2020"
     },
     {
-      "rank": 89,
-      "previousRank": 87,
-      "rankChange": -2,
+      "rank": 87,
+      "previousRank": 79,
+      "rankChange": -8,
       "isNew": false,
-      "appleId": "6553999598",
-      "name": "iDepth NDI",
-      "developer": "Gwangyu Lee",
-      "developerUrl": "https://apps.apple.com/ca/developer/gwangyu-lee/id1683904838?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c6/bd/7dc6bdb8-8355-38d8-58f1-b0dedaac7703/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/idepth-ndi/id6553999598?uo=2",
+      "appleId": "6788120056",
+      "name": "Gaugely for Grafana",
+      "developer": "MACIEJ KEDZIORA",
+      "developerUrl": "https://apps.apple.com/ca/developer/maciej-kedziora/id1880217479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/d4/d6/11d4d6f5-5e2f-b8f7-2bb9-f44eed9fe301/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/gaugely-for-grafana/id6788120056?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 19.99,
         "currency": "CAD",
-        "formatted": "$2.99"
+        "formatted": "$19.99"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "July 20, 2024"
+      "releaseDate": "September 10, 2026"
     },
     {
-      "rank": 90,
-      "previousRank": 88,
-      "rankChange": -2,
+      "rank": 88,
+      "previousRank": 80,
+      "rankChange": -8,
       "isNew": false,
-      "appleId": "1061486140",
-      "name": "Code Recipes Pro",
-      "developer": "Fedor Obraztsov",
-      "developerUrl": "https://apps.apple.com/ca/developer/fedor-obraztsov/id1012115119?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/61/39ef61a9-a113-8b5b-9143-0dad923901fd/AppIcon_universal_pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/code-recipes-pro/id1061486140?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "CAD",
-        "formatted": "$6.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "December 19, 2015"
-    },
-    {
-      "rank": 91,
-      "previousRank": 89,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "845986938",
-      "name": "php$ - programming language",
-      "developer": "小文 黄",
-      "developerUrl": "https://apps.apple.com/ca/developer/%E5%B0%8F%E6%96%87-%E9%BB%84/id490328393?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ae/54/28ae540a-591e-e6fe-faaf-5cf1d6dd6a07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/php%24-programming-language/id845986938?uo=2",
+      "appleId": "6768802586",
+      "name": "Cookie Inspector for Safari",
+      "developer": "Alfredo Grassau",
+      "developerUrl": "https://apps.apple.com/ca/developer/alfredo-grassau/id1564157928?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/56/91/fa569127-140e-7770-bc80-3d0bbc81d889/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/cookie-inspector-for-safari/id6768802586?uo=2",
       "price": {
         "amount": 3.99,
         "currency": "CAD",
@@ -2023,34 +1957,12 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "February 12, 2015"
+      "releaseDate": "May 14, 2026"
     },
     {
-      "rank": 92,
-      "previousRank": 86,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6762788059",
-      "name": "Openrouter Tracker",
-      "developer": "Boon Kit Gan",
-      "developerUrl": "https://apps.apple.com/ca/developer/boon-kit-gan/id1575915104?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b9/a6/c8b9a634-8f32-5fca-66fa-e499b09c7ca5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/openrouter-tracker/id6762788059?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "CAD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "June 07, 2026"
-    },
-    {
-      "rank": 93,
-      "previousRank": 90,
-      "rankChange": -3,
+      "rank": 89,
+      "previousRank": 93,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "6758571420",
       "name": "YAML Tools",
@@ -2070,9 +1982,75 @@
       "releaseDate": "February 17, 2026"
     },
     {
-      "rank": 94,
+      "rank": 90,
+      "previousRank": 89,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "6553999598",
+      "name": "iDepth NDI",
+      "developer": "Gwangyu Lee",
+      "developerUrl": "https://apps.apple.com/ca/developer/gwangyu-lee/id1683904838?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c6/bd/7dc6bdb8-8355-38d8-58f1-b0dedaac7703/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/idepth-ndi/id6553999598?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "CAD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "July 20, 2024"
+    },
+    {
+      "rank": 91,
+      "previousRank": 90,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1061486140",
+      "name": "Code Recipes Pro",
+      "developer": "Fedor Obraztsov",
+      "developerUrl": "https://apps.apple.com/ca/developer/fedor-obraztsov/id1012115119?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ef/61/39ef61a9-a113-8b5b-9143-0dad923901fd/AppIcon_universal_pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/code-recipes-pro/id1061486140?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "CAD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "December 19, 2015"
+    },
+    {
+      "rank": 92,
       "previousRank": 91,
-      "rankChange": -3,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "845986938",
+      "name": "php$ - programming language",
+      "developer": "小文 黄",
+      "developerUrl": "https://apps.apple.com/ca/developer/%E5%B0%8F%E6%96%87-%E9%BB%84/id490328393?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ae/54/28ae540a-591e-e6fe-faaf-5cf1d6dd6a07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/php%24-programming-language/id845986938?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "February 12, 2015"
+    },
+    {
+      "rank": 93,
+      "previousRank": 94,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6446419487",
       "name": "Tanuki for GitLab",
@@ -2092,9 +2070,9 @@
       "releaseDate": "March 22, 2023"
     },
     {
-      "rank": 95,
-      "previousRank": 92,
-      "rankChange": -3,
+      "rank": 94,
+      "previousRank": 95,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1551494625",
       "name": "Lighthouse Score",
@@ -2114,9 +2092,9 @@
       "releaseDate": "February 04, 2021"
     },
     {
-      "rank": 96,
-      "previousRank": 93,
-      "rankChange": -3,
+      "rank": 95,
+      "previousRank": 96,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1545285093",
       "name": "Speechable - Text to Voice",
@@ -2136,9 +2114,9 @@
       "releaseDate": "December 20, 2020"
     },
     {
-      "rank": 97,
-      "previousRank": 94,
-      "rankChange": -3,
+      "rank": 96,
+      "previousRank": 97,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1532627187",
       "name": "BetterAppIcons",
@@ -2158,9 +2136,9 @@
       "releaseDate": "October 02, 2020"
     },
     {
-      "rank": 98,
-      "previousRank": 95,
-      "rankChange": -3,
+      "rank": 97,
+      "previousRank": 98,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1624792731",
       "name": "Haptics Studio",
@@ -2180,9 +2158,9 @@
       "releaseDate": "June 03, 2022"
     },
     {
-      "rank": 99,
-      "previousRank": 96,
-      "rankChange": -3,
+      "rank": 98,
+      "previousRank": 99,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1586466815",
       "name": "DashTabs: Firebase, AdMob …",
@@ -2202,9 +2180,9 @@
       "releaseDate": "September 19, 2021"
     },
     {
-      "rank": 100,
-      "previousRank": 97,
-      "rankChange": -3,
+      "rank": 99,
+      "previousRank": 100,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1515506950",
       "name": "Code - Compile & Run Program",
@@ -2222,6 +2200,28 @@
         "name": "Developer Tools"
       },
       "releaseDate": "June 09, 2020"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6746725511",
+      "name": "Web Inspector for Safari",
+      "developer": "Pierre Stanislas",
+      "developerUrl": "https://apps.apple.com/ca/developer/pierre-stanislas/id1261009329?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/be/6c/b1be6c5d-ca44-277b-4640-e2c002fc0a73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/web-inspector-for-safari/id6746725511?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "June 03, 2025"
     }
   ]
 }
