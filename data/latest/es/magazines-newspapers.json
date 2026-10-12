@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-11",
-  "collectedAt": "2026-10-11T06:57:24.740Z",
-  "sourceUpdatedAt": "2026-10-10T23:57:24-07:00",
+  "snapshotDate": "2026-10-12",
+  "collectedAt": "2026-10-12T07:07:58.589Z",
+  "sourceUpdatedAt": "2026-10-12T00:07:58-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/es/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,13 +17,13 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 17,
-  "actualCount": 17,
+  "expectedCount": 18,
+  "actualCount": 18,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-10-08",
+  "previousSnapshotDate": "2026-10-11",
   "apps": [
     {
       "rank": 1,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 3,
-      "rankChange": 1,
+      "previousRank": 2,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "428912452",
       "name": "Outdoor Photography Magazine",
@@ -71,30 +71,8 @@
     },
     {
       "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6447945251",
-      "name": "Pane Quotidiano",
-      "developer": "COMUNITA' PAPA GIOVANNI XXIII",
-      "developerUrl": "https://apps.apple.com/es/developer/comunita-papa-giovanni-xxiii/id1715928899?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ae/a7/9faea7c6-adfa-7703-c15c-78b6b53527f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/pane-quotidiano/id6447945251?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Libros"
-      },
-      "releaseDate": "24/05/2023"
-    },
-    {
-      "rank": 4,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "437204539",
       "name": "Woodcarving Magazine",
@@ -114,9 +92,9 @@
       "releaseDate": "16/05/2011"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "previousRank": 5,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "437194402",
       "name": "Furniture & Cabinetmaking",
@@ -134,6 +112,28 @@
         "name": "Referencia"
       },
       "releaseDate": "16/05/2011"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6447945251",
+      "name": "Pane Quotidiano",
+      "developer": "COMUNITA' PAPA GIOVANNI XXIII",
+      "developerUrl": "https://apps.apple.com/es/developer/comunita-papa-giovanni-xxiii/id1715928899?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ae/a7/9faea7c6-adfa-7703-c15c-78b6b53527f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/pane-quotidiano/id6447945251?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Libros"
+      },
+      "releaseDate": "24/05/2023"
     },
     {
       "rank": 6,
@@ -398,6 +398,28 @@
         "name": "Revistas y periódicos"
       },
       "releaseDate": "13/12/2015"
+    },
+    {
+      "rank": 18,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "971959854",
+      "name": "One Small World",
+      "developer": "Jose Eduardo Arredondo",
+      "developerUrl": "https://apps.apple.com/es/developer/jose-eduardo-arredondo/id625558126?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/af/a7/46/afa74667-39e5-637b-3778-153342de34e2/AppIcon-0-1x_U007emarketing-0-0-85-220-10.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/one-small-world/id971959854?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Libros"
+      },
+      "releaseDate": "04/03/2015"
     }
   ]
 }
