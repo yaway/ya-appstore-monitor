@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-12",
-  "collectedAt": "2026-10-12T07:06:52.536Z",
-  "sourceUpdatedAt": "2026-10-12T00:06:51-07:00",
+  "snapshotDate": "2026-10-13",
+  "collectedAt": "2026-10-13T07:31:22.284Z",
+  "sourceUpdatedAt": "2026-10-13T00:31:21-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6003/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "旅游"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 100,
+  "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-11",
+  "previousSnapshotDate": "2026-10-12",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 3,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "357421934",
+      "name": "PeakFinder",
+      "developer": "PeakFinder GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/peakfinder-gmbh/id357421937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/peakfinder/id357421934?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "12.03.2010"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "435871950",
       "name": "HappyCow - Vegan Food Near You",
@@ -46,8 +68,8 @@
       "releaseDate": "11.05.2011"
     },
     {
-      "rank": 2,
-      "previousRank": 1,
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6778099993",
@@ -66,28 +88,6 @@
         "name": "Reisen"
       },
       "releaseDate": "09.06.2026"
-    },
-    {
-      "rank": 3,
-      "previousRank": 3,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "357421934",
-      "name": "PeakFinder",
-      "developer": "PeakFinder GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/peakfinder-gmbh/id357421937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/peakfinder/id357421934?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "12.03.2010"
     },
     {
       "rank": 4,
@@ -157,8 +157,30 @@
     },
     {
       "rank": 7,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6445821606",
+      "name": "Machu picchu audioguide",
+      "developer": "MATTHIEU ANTOINE SCHMITT",
+      "developerUrl": "https://apps.apple.com/de/developer/matthieu-antoine-schmitt/id1673985498?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/71/ca/2b71ca88-4c68-439c-cc14-75f238540c5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/machu-picchu-audioguide/id6445821606?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "28.02.2023"
+    },
+    {
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "317809458",
       "name": "LiveATC Air Radio",
@@ -178,9 +200,31 @@
       "releaseDate": "09.06.2009"
     },
     {
-      "rank": 8,
-      "previousRank": 49,
-      "rankChange": 41,
+      "rank": 9,
+      "previousRank": 60,
+      "rankChange": 51,
+      "isNew": false,
+      "appleId": "6753910113",
+      "name": "Peloponnese Guide",
+      "developer": "Ghica Reinvent Media srl",
+      "developerUrl": "https://apps.apple.com/de/developer/ghica-reinvent-media-srl/id1726192953?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/e8/d8/5be8d80d-6e76-9c04-3ae2-ee8ce846816d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/peloponnese-guide/id6753910113?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "23.10.2025"
+    },
+    {
+      "rank": 10,
+      "previousRank": 8,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "983056779",
       "name": "Wise Pilgrim Camino Portugués",
@@ -200,31 +244,9 @@
       "releaseDate": "24.03.2016"
     },
     {
-      "rank": 9,
-      "previousRank": 11,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "650684932",
-      "name": "OBD Fusion",
-      "developer": "OCTech, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/octech-llc/id650684935?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/obd-fusion/id650684932?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "01.06.2013"
-    },
-    {
-      "rank": 10,
-      "previousRank": 12,
-      "rankChange": 2,
+      "rank": 11,
+      "previousRank": 10,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "505367096",
       "name": "Nebel der Welt (Fog of World)",
@@ -244,53 +266,9 @@
       "releaseDate": "18.09.2012"
     },
     {
-      "rank": 11,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1457589144",
-      "name": "Büsum Urlaubs App",
-      "developer": "Rolf Eschenbach",
-      "developerUrl": "https://apps.apple.com/de/developer/rolf-eschenbach/id1205358771?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6a/11/156a11fd-1b9f-38c4-726d-6c544d197fa6/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/b%C3%BCsum-urlaubs-app/id1457589144?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "27.03.2019"
-    },
-    {
       "rank": 12,
-      "previousRank": 8,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1479414941",
-      "name": "Iceland Visually",
-      "developer": "Anders Peter Amsnaes",
-      "developerUrl": "https://apps.apple.com/de/developer/anders-peter-amsnaes/id452949522?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/5d/5c/275d5c2a-8aa9-bea6-b1e2-477a65f80fb4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iceland-visually/id1479414941?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "25.09.2019"
-    },
-    {
-      "rank": 13,
-      "previousRank": 24,
-      "rankChange": 11,
+      "previousRank": 13,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6759321221",
       "name": "Museum  Ludwig",
@@ -310,9 +288,9 @@
       "releaseDate": "03.03.2026"
     },
     {
-      "rank": 14,
-      "previousRank": 23,
-      "rankChange": 9,
+      "rank": 13,
+      "previousRank": 14,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6752834894",
       "name": "Campgas Finder",
@@ -332,53 +310,9 @@
       "releaseDate": "08.10.2025"
     },
     {
-      "rank": 15,
-      "previousRank": 37,
-      "rankChange": 22,
-      "isNew": false,
-      "appleId": "6467651337",
-      "name": "Parco Archeologico di Ercolano",
-      "developer": "D'Uva Workshop s.r.l.",
-      "developerUrl": "https://apps.apple.com/de/developer/duva-workshop-s-r-l/id360150209?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "29.09.2023"
-    },
-    {
-      "rank": 16,
-      "previousRank": 52,
-      "rankChange": 36,
-      "isNew": false,
-      "appleId": "6754614514",
-      "name": "GoMoof",
-      "developer": "GoApp Technologies UG (haftungsbeschränkt)",
-      "developerUrl": "https://apps.apple.com/de/developer/goapp-technologies-ug-haftungsbeschr%C3%A4nkt/id1849251510?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/3b/50/3e3b5038-d428-49bd-e93f-82980310b6aa/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/gomoof/id6754614514?uo=2",
-      "price": {
-        "amount": 16.99,
-        "currency": "EUR",
-        "formatted": "16,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "22.12.2025"
-    },
-    {
-      "rank": 17,
-      "previousRank": 55,
-      "rankChange": 38,
+      "rank": 14,
+      "previousRank": 17,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "6749021992",
       "name": "Wilde Heimat",
@@ -398,75 +332,9 @@
       "releaseDate": "09.12.2025"
     },
     {
-      "rank": 18,
-      "previousRank": 58,
-      "rankChange": 40,
-      "isNew": false,
-      "appleId": "727297302",
-      "name": "Flug Plan Pro | Live Flughafen",
-      "developer": "Flight Tracker Apps Studio",
-      "developerUrl": "https://apps.apple.com/de/developer/flight-tracker-apps-studio/id1375444248?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b4/aa/4ab4aa44-6a11-3115-cf99-c669a9a34ff5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/flug-plan-pro-live-flughafen/id727297302?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "11.11.2013"
-    },
-    {
-      "rank": 19,
-      "previousRank": 66,
-      "rankChange": 47,
-      "isNew": false,
-      "appleId": "310516332",
-      "name": "eCurrency - Währungsrechner",
-      "developer": "Hendrik Holtmann",
-      "developerUrl": "https://apps.apple.com/de/developer/hendrik-holtmann/id310516335?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/97/d5/5797d5bc-24cc-5204-7223-fd8edc0f5d59/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ecurrency-w%C3%A4hrungsrechner/id310516332?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "08.04.2009"
-    },
-    {
-      "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6746325439",
-      "name": "Jason Japan Travel",
-      "developer": "Jason Grant",
-      "developerUrl": "https://apps.apple.com/de/developer/jason-grant/id1816158059?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/a8/95/b8a89592-e3ee-c17e-f901-a59a9724e0c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/jason-japan-travel/id6746325439?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "EUR",
-        "formatted": "14,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "25.05.2025"
-    },
-    {
-      "rank": 21,
-      "previousRank": 71,
-      "rankChange": 50,
+      "rank": 15,
+      "previousRank": 21,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "705513489",
       "name": "Pack The Bag Pro",
@@ -486,163 +354,31 @@
       "releaseDate": "20.09.2013"
     },
     {
-      "rank": 22,
-      "previousRank": 76,
-      "rankChange": 54,
+      "rank": 16,
+      "previousRank": 20,
+      "rankChange": 4,
       "isNew": false,
-      "appleId": "630776793",
-      "name": "Archiescampings",
-      "developer": "Henk van Harmelen",
-      "developerUrl": "https://apps.apple.com/de/developer/henk-van-harmelen/id630776796?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/0b/28/270b2809-ed26-bea3-0840-7267c5e90536/AppIcon-1x_U007emarketing-0-4-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/archiescampings/id630776793?uo=2",
+      "appleId": "6746325439",
+      "name": "Jason Japan Travel",
+      "developer": "Jason Grant",
+      "developerUrl": "https://apps.apple.com/de/developer/jason-grant/id1816158059?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/a8/95/b8a89592-e3ee-c17e-f901-a59a9724e0c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/jason-japan-travel/id6746325439?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 14.99,
         "currency": "EUR",
-        "formatted": "3,99 €"
+        "formatted": "14,99 €"
       },
       "primaryCategory": {
         "id": "6003",
         "name": "Reisen"
       },
-      "releaseDate": "10.04.2013"
+      "releaseDate": "25.05.2025"
     },
     {
-      "rank": 23,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1607484355",
-      "name": "Pompeii Tour - Travel Guide",
-      "developer": "Caspar Roderick Nelissen",
-      "developerUrl": "https://apps.apple.com/de/developer/caspar-roderick-nelissen/id1607472482?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/99/3d/ee993d6a-5ea3-6b66-879e-cb4495c8b97e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/pompeii-tour-travel-guide/id1607484355?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "29.01.2022"
-    },
-    {
-      "rank": 24,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1522740303",
-      "name": "RuhrtalRadweg Companion",
-      "developer": "Krankikom GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/krankikom-gmbh/id364575374?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/41/09/56410985-478d-409f-7dee-3c865cf3fbc1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ruhrtalradweg-companion/id1522740303?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "10.07.2020"
-    },
-    {
-      "rank": 25,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "715135955",
-      "name": "Dortmund Airport (DTM) + Radar",
-      "developer": "Renji Mathew",
-      "developerUrl": "https://apps.apple.com/de/developer/renji-mathew/id1092863420?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/95/a2/5795a2fa-fe26-1679-5ce9-e23ca3c0d7ce/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dortmund-airport-dtm-radar/id715135955?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "25.09.2013"
-    },
-    {
-      "rank": 26,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6785297952",
-      "name": "Dusseldorf DUS Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/de/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/04/76/e20476de-8f26-754f-982a-ca9ba03b81e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dusseldorf-dus-airport/id6785297952?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "01.07.2026"
-    },
-    {
-      "rank": 27,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1114291644",
-      "name": "Sri Lanka Trains",
-      "developer": "Bhagya Silva",
-      "developerUrl": "https://apps.apple.com/de/developer/bhagya-silva/id954163660?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/f8/15/eaf81541-62fc-4c1d-423b-62ea7eff1e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sri-lanka-trains/id1114291644?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "23.05.2016"
-    },
-    {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6463730105",
-      "name": "Berliner Wanderwege",
-      "developer": "Finn Pauls",
-      "developerUrl": "https://apps.apple.com/de/developer/finn-pauls/id1566753827?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/f5/f9/41f5f93b-594b-ceac-c221-3bb4e1f1a954/AppIcon-1x_U007ephone-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/berliner-wanderwege/id6463730105?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "30.08.2023"
-    },
-    {
-      "rank": 29,
-      "previousRank": 9,
-      "rankChange": -20,
+      "rank": 17,
+      "previousRank": 29,
+      "rankChange": 12,
       "isNew": false,
       "appleId": "1558620021",
       "name": "Munda Biddi Trail Guide",
@@ -662,10 +398,692 @@
       "releaseDate": "18.03.2021"
     },
     {
+      "rank": 18,
+      "previousRank": 41,
+      "rankChange": 23,
+      "isNew": false,
+      "appleId": "1467351707",
+      "name": "KrugerExplorer",
+      "developer": "Explorer Apps",
+      "developerUrl": "https://apps.apple.com/de/developer/explorer-apps/id1457890076?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/b2/ce/c6b2ce25-7384-d2f7-b8ee-645d92e841bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/krugerexplorer/id1467351707?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "19.07.2019"
+    },
+    {
+      "rank": 19,
+      "previousRank": 44,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "6752487459",
+      "name": "Camprio Camper Van Level",
+      "developer": "Norbert Weiss",
+      "developerUrl": "https://apps.apple.com/de/developer/norbert-weiss/id1839437890?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7d/3b/417d3b89-9150-958e-2871-6645d100da3d/AppIcon_iOS-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/camprio-camper-van-level/id6752487459?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "14.10.2025"
+    },
+    {
+      "rank": 20,
+      "previousRank": 68,
+      "rankChange": 48,
+      "isNew": false,
+      "appleId": "6762631402",
+      "name": "RailsMaps",
+      "developer": "Bartomiej Banasik",
+      "developerUrl": "https://apps.apple.com/de/developer/bartomiej-banasik/id1894564986?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/f5/76/8cf57652-6a38-4b8c-da92-d81bade97d73/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/railsmaps/id6762631402?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "15.06.2026"
+    },
+    {
+      "rank": 21,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6758859145",
+      "name": "Chouette Tour - Dijon",
+      "developer": "Benoit Baraille",
+      "developerUrl": "https://apps.apple.com/de/developer/benoit-baraille/id1704017436?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/dd/9e/75dd9e19-fc3b-5994-1cff-ab146b86abaa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/chouette-tour-dijon/id6758859145?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "25.02.2026"
+    },
+    {
+      "rank": 22,
+      "previousRank": 71,
+      "rankChange": 49,
+      "isNew": false,
+      "appleId": "294236771",
+      "name": "ICOON globales Bildwörterbuch",
+      "developer": "Malgorzata Karolina Warrink",
+      "developerUrl": "https://apps.apple.com/de/developer/malgorzata-karolina-warrink/id294236774?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/13/b8/4b/13b84bda-f87f-3a75-8f02-c39a621ecbb9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/icoon-globales-bildw%C3%B6rterbuch/id294236771?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "06.12.2008"
+    },
+    {
+      "rank": 23,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "556384965",
+      "name": "Wise Pilgrim Finisterre",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/5d/99/015d99c2-d144-df30-2082-98e345133cf7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wise-pilgrim-finisterre/id556384965?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "05.09.2012"
+    },
+    {
+      "rank": 24,
+      "previousRank": 82,
+      "rankChange": 58,
+      "isNew": false,
+      "appleId": "787088888",
+      "name": "Nordsee Gezeiten",
+      "developer": "dimento.com gmbh",
+      "developerUrl": "https://apps.apple.com/de/developer/dimento-com-gmbh/id605328573?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d2/cc/d5d2cc18-ffb6-5148-f04d-7ff9dd3660e1/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nordsee-gezeiten/id787088888?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "17.01.2014"
+    },
+    {
+      "rank": 25,
+      "previousRank": 84,
+      "rankChange": 59,
+      "isNew": false,
+      "appleId": "1517061932",
+      "name": "Sila Yolu Sevenler",
+      "developer": "Onder Ozbek",
+      "developerUrl": "https://apps.apple.com/de/developer/onder-ozbek/id1402206867?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/63/14/eb631477-6bf9-a234-23e0-70960d0401d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sila-yolu-sevenler/id1517061932?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.06.2020"
+    },
+    {
+      "rank": 26,
+      "previousRank": 96,
+      "rankChange": 70,
+      "isNew": false,
+      "appleId": "1198499960",
+      "name": "GPS Status & Toolbox",
+      "developer": "MobiWIA Kft.",
+      "developerUrl": "https://apps.apple.com/de/developer/mobiwia-kft/id1198499959?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/fe/1e/1ffe1e63-0436-ed2e-8885-93d99dc0f5f4/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/gps-status-toolbox/id1198499960?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "17.02.2017"
+    },
+    {
+      "rank": 27,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1257573007",
+      "name": "RV Dump Stations",
+      "developer": "Kyle Modesitt",
+      "developerUrl": "https://apps.apple.com/de/developer/kyle-modesitt/id1801852904?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/9b/03/c99b0377-f97b-678a-2cff-dae758dcf3be/RVDumpsAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rv-dump-stations/id1257573007?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.07.2017"
+    },
+    {
+      "rank": 28,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "633118268",
+      "name": "Rotterdam Metro",
+      "developer": "LASZLO FACZAN",
+      "developerUrl": "https://apps.apple.com/de/developer/laszlo-faczan/id537046007?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/58/91/5c/58915cde-4e81-fb72-7eac-6c76f41645e8/AppIcon-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rotterdam-metro/id633118268?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "13.04.2013"
+    },
+    {
+      "rank": 29,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "323121197",
+      "name": "Italian Dictionary + ©",
+      "developer": "Ascendo Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/ascendo-inc/id320494153?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/14/d5/0f14d565-21e6-d5ef-9cad-bc9e53ec7045/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/italian-dictionary/id323121197?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "29.07.2009"
+    },
+    {
       "rank": 30,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
+      "appleId": "6785299378",
+      "name": "Frankfurt FRA Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/de/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ee/96/8aee9680-a4f7-c471-c8fb-8692b983d278/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/frankfurt-fra-airport/id6785299378?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "01.07.2026"
+    },
+    {
+      "rank": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "609975446",
+      "name": "Jeddah Airport Info + Radar",
+      "developer": "Renji Mathew",
+      "developerUrl": "https://apps.apple.com/de/developer/renji-mathew/id1092863420?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/78/9f/ab789f86-e52a-c8af-0b26-0ff4f43ea0d0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/jeddah-airport-info-radar/id609975446?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "28.02.2013"
+    },
+    {
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6473245960",
+      "name": "Vietnam Birds (plus)",
+      "developer": "Bao Nguyen",
+      "developerUrl": "https://apps.apple.com/de/developer/bao-nguyen/id674437162?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/a2/71/daa27141-abf7-b93d-e5ab-46ad4ebc6a2e/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vietnam-birds-plus/id6473245960?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "29.12.2023"
+    },
+    {
+      "rank": 33,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759205366",
+      "name": "AOT Hita Guide",
+      "developer": "Enrico Mazzoli",
+      "developerUrl": "https://apps.apple.com/de/developer/enrico-mazzoli/id405563979?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3a/4f/5d3a4f2d-2322-0387-45ad-9b1e6b65bad6/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/aot-hita-guide/id6759205366?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "12.03.2026"
+    },
+    {
+      "rank": 34,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1628230176",
+      "name": "Mawson Trail Guide",
+      "developer": "Find the Fun Pty Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/find-the-fun-pty-ltd/id1225795177?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/41/ae/1741ae11-38e3-ce82-960a-877ba8cc2d92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mawson-trail-guide/id1628230176?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "08.06.2022"
+    },
+    {
+      "rank": 35,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6809863931",
+      "name": "Flytly: Travel Map & Tracker",
+      "developer": "Christos Mountzouris",
+      "developerUrl": "https://apps.apple.com/de/developer/christos-mountzouris/id1550753130?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/21/02/082102fd-d4e4-4556-6dc7-c3fce51aa18d/CruiseGlass-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/flytly-travel-map-tracker/id6809863931?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.09.2026"
+    },
+    {
+      "rank": 36,
+      "previousRank": 9,
+      "rankChange": -27,
+      "isNew": false,
+      "appleId": "650684932",
+      "name": "OBD Fusion",
+      "developer": "OCTech, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/octech-llc/id650684935?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/obd-fusion/id650684932?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "01.06.2013"
+    },
+    {
+      "rank": 37,
+      "previousRank": 11,
+      "rankChange": -26,
+      "isNew": false,
+      "appleId": "1457589144",
+      "name": "Büsum Urlaubs App",
+      "developer": "Rolf Eschenbach",
+      "developerUrl": "https://apps.apple.com/de/developer/rolf-eschenbach/id1205358771?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6a/11/156a11fd-1b9f-38c4-726d-6c544d197fa6/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/b%C3%BCsum-urlaubs-app/id1457589144?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "27.03.2019"
+    },
+    {
+      "rank": 38,
+      "previousRank": 12,
+      "rankChange": -26,
+      "isNew": false,
+      "appleId": "1479414941",
+      "name": "Iceland Visually",
+      "developer": "Anders Peter Amsnaes",
+      "developerUrl": "https://apps.apple.com/de/developer/anders-peter-amsnaes/id452949522?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/5d/5c/275d5c2a-8aa9-bea6-b1e2-477a65f80fb4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iceland-visually/id1479414941?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "25.09.2019"
+    },
+    {
+      "rank": 39,
+      "previousRank": 15,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "6467651337",
+      "name": "Parco Archeologico di Ercolano",
+      "developer": "D'Uva Workshop s.r.l.",
+      "developerUrl": "https://apps.apple.com/de/developer/duva-workshop-s-r-l/id360150209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "29.09.2023"
+    },
+    {
+      "rank": 40,
+      "previousRank": 16,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "6754614514",
+      "name": "GoMoof",
+      "developer": "GoApp Technologies UG (haftungsbeschränkt)",
+      "developerUrl": "https://apps.apple.com/de/developer/goapp-technologies-ug-haftungsbeschr%C3%A4nkt/id1849251510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/3b/50/3e3b5038-d428-49bd-e93f-82980310b6aa/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/gomoof/id6754614514?uo=2",
+      "price": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "formatted": "16,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "22.12.2025"
+    },
+    {
+      "rank": 41,
+      "previousRank": 19,
+      "rankChange": -22,
+      "isNew": false,
+      "appleId": "310516332",
+      "name": "eCurrency - Währungsrechner",
+      "developer": "Hendrik Holtmann",
+      "developerUrl": "https://apps.apple.com/de/developer/hendrik-holtmann/id310516335?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/97/d5/5797d5bc-24cc-5204-7223-fd8edc0f5d59/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ecurrency-w%C3%A4hrungsrechner/id310516332?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "08.04.2009"
+    },
+    {
+      "rank": 42,
+      "previousRank": 18,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "727297302",
+      "name": "Flug Plan Pro | Live Flughafen",
+      "developer": "Flight Tracker Apps Studio",
+      "developerUrl": "https://apps.apple.com/de/developer/flight-tracker-apps-studio/id1375444248?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b4/aa/4ab4aa44-6a11-3115-cf99-c669a9a34ff5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/flug-plan-pro-live-flughafen/id727297302?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "11.11.2013"
+    },
+    {
+      "rank": 43,
+      "previousRank": 22,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "630776793",
+      "name": "Archiescampings",
+      "developer": "Henk van Harmelen",
+      "developerUrl": "https://apps.apple.com/de/developer/henk-van-harmelen/id630776796?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/0b/28/270b2809-ed26-bea3-0840-7267c5e90536/AppIcon-1x_U007emarketing-0-4-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/archiescampings/id630776793?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.04.2013"
+    },
+    {
+      "rank": 44,
+      "previousRank": 24,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "1522740303",
+      "name": "RuhrtalRadweg Companion",
+      "developer": "Krankikom GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/krankikom-gmbh/id364575374?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/41/09/56410985-478d-409f-7dee-3c865cf3fbc1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ruhrtalradweg-companion/id1522740303?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.07.2020"
+    },
+    {
+      "rank": 45,
+      "previousRank": 23,
+      "rankChange": -22,
+      "isNew": false,
+      "appleId": "1607484355",
+      "name": "Pompeii Tour - Travel Guide",
+      "developer": "Caspar Roderick Nelissen",
+      "developerUrl": "https://apps.apple.com/de/developer/caspar-roderick-nelissen/id1607472482?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/99/3d/ee993d6a-5ea3-6b66-879e-cb4495c8b97e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pompeii-tour-travel-guide/id1607484355?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "29.01.2022"
+    },
+    {
+      "rank": 46,
+      "previousRank": 25,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "715135955",
+      "name": "Dortmund Airport (DTM) + Radar",
+      "developer": "Renji Mathew",
+      "developerUrl": "https://apps.apple.com/de/developer/renji-mathew/id1092863420?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/95/a2/5795a2fa-fe26-1679-5ce9-e23ca3c0d7ce/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dortmund-airport-dtm-radar/id715135955?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "25.09.2013"
+    },
+    {
+      "rank": 47,
+      "previousRank": 27,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "1114291644",
+      "name": "Sri Lanka Trains",
+      "developer": "Bhagya Silva",
+      "developerUrl": "https://apps.apple.com/de/developer/bhagya-silva/id954163660?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/f8/15/eaf81541-62fc-4c1d-423b-62ea7eff1e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sri-lanka-trains/id1114291644?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "23.05.2016"
+    },
+    {
+      "rank": 48,
+      "previousRank": 28,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "6463730105",
+      "name": "Berliner Wanderwege",
+      "developer": "Finn Pauls",
+      "developerUrl": "https://apps.apple.com/de/developer/finn-pauls/id1566753827?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/f5/f9/41f5f93b-594b-ceac-c221-3bb4e1f1a954/AppIcon-1x_U007ephone-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/berliner-wanderwege/id6463730105?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "30.08.2023"
+    },
+    {
+      "rank": 49,
+      "previousRank": 30,
+      "rankChange": -19,
+      "isNew": false,
       "appleId": "6753875998",
       "name": "Charge Tracker - Ladetagebuch",
       "developer": "Moritz-Alexander Heinke",
@@ -684,10 +1102,32 @@
       "releaseDate": "22.10.2025"
     },
     {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 50,
+      "previousRank": 26,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "6785297952",
+      "name": "Dusseldorf DUS Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/de/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/04/76/e20476de-8f26-754f-982a-ca9ba03b81e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dusseldorf-dus-airport/id6785297952?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "01.07.2026"
+    },
+    {
+      "rank": 51,
+      "previousRank": 31,
+      "rankChange": -20,
+      "isNew": false,
       "appleId": "1637092521",
       "name": "Death Valley Offline Guide",
       "developer": "I Heart Travel Inc.",
@@ -706,10 +1146,10 @@
       "releaseDate": "23.10.2022"
     },
     {
-      "rank": 32,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 52,
+      "previousRank": 32,
+      "rankChange": -20,
+      "isNew": false,
       "appleId": "1116734791",
       "name": "Wild Guide Yorkshire Dales",
       "developer": "Wild Things Publishing Ltd",
@@ -728,9 +1168,9 @@
       "releaseDate": "26.05.2016"
     },
     {
-      "rank": 33,
-      "previousRank": 10,
-      "rankChange": -23,
+      "rank": 53,
+      "previousRank": 33,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "582527125",
       "name": "WikiCamps New Zealand",
@@ -750,9 +1190,9 @@
       "releaseDate": "17.12.2012"
     },
     {
-      "rank": 34,
-      "previousRank": 13,
-      "rankChange": -21,
+      "rank": 54,
+      "previousRank": 34,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "1221399711",
       "name": "Chillon",
@@ -772,9 +1212,9 @@
       "releaseDate": "11.07.2017"
     },
     {
-      "rank": 35,
-      "previousRank": 14,
-      "rankChange": -21,
+      "rank": 55,
+      "previousRank": 35,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "6755781701",
       "name": "Aurora Tromsø",
@@ -794,30 +1234,8 @@
       "releaseDate": "08.12.2025"
     },
     {
-      "rank": 36,
-      "previousRank": 15,
-      "rankChange": -21,
-      "isNew": false,
-      "appleId": "1045063030",
-      "name": "Coaster-Count",
-      "developer": "Volker Sauer",
-      "developerUrl": "https://apps.apple.com/de/developer/volker-sauer/id638041324?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9c/54/ea/9c54eadf-9d79-f5d0-c493-5548972706da/iPhone-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/coaster-count/id1045063030?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "23.11.2015"
-    },
-    {
-      "rank": 37,
-      "previousRank": 18,
+      "rank": 56,
+      "previousRank": 37,
       "rankChange": -19,
       "isNew": false,
       "appleId": "327783342",
@@ -838,15 +1256,37 @@
       "releaseDate": "03.09.2009"
     },
     {
-      "rank": 38,
-      "previousRank": 16,
-      "rankChange": -22,
+      "rank": 57,
+      "previousRank": 36,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "1045063030",
+      "name": "Coaster-Count",
+      "developer": "Volker Sauer",
+      "developerUrl": "https://apps.apple.com/de/developer/volker-sauer/id638041324?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9c/54/ea/9c54eadf-9d79-f5d0-c493-5548972706da/iPhone-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/coaster-count/id1045063030?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "23.11.2015"
+    },
+    {
+      "rank": 58,
+      "previousRank": 38,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "1635542796",
       "name": "Harz App - mit Stempelheft",
       "developer": "Gerhard Prein",
       "developerUrl": "https://apps.apple.com/de/developer/gerhard-prein/id1634041636?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/3d/b6/613db61b-f739-c8aa-cb04-fdd629dba64e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/a1/e5/8fa1e535-eca6-96a1-5c8c-e428266585b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/harz-app-mit-stempelheft/id1635542796?uo=2",
       "price": {
         "amount": 5.99,
@@ -860,9 +1300,9 @@
       "releaseDate": "21.07.2022"
     },
     {
-      "rank": 39,
-      "previousRank": 17,
-      "rankChange": -22,
+      "rank": 59,
+      "previousRank": 39,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "1537956680",
       "name": "Museum der Oper del Duomo",
@@ -882,9 +1322,9 @@
       "releaseDate": "05.11.2020"
     },
     {
-      "rank": 40,
-      "previousRank": 19,
-      "rankChange": -21,
+      "rank": 60,
+      "previousRank": 40,
+      "rankChange": -20,
       "isNew": false,
       "appleId": "903328237",
       "name": "Audioguide Tulum",
@@ -904,31 +1344,9 @@
       "releaseDate": "11.09.2014"
     },
     {
-      "rank": 41,
-      "previousRank": 20,
-      "rankChange": -21,
-      "isNew": false,
-      "appleId": "1467351707",
-      "name": "KrugerExplorer",
-      "developer": "Explorer Apps",
-      "developerUrl": "https://apps.apple.com/de/developer/explorer-apps/id1457890076?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/b2/ce/c6b2ce25-7384-d2f7-b8ee-645d92e841bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/krugerexplorer/id1467351707?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "EUR",
-        "formatted": "12,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "19.07.2019"
-    },
-    {
-      "rank": 42,
-      "previousRank": 21,
-      "rankChange": -21,
+      "rank": 61,
+      "previousRank": 42,
+      "rankChange": -19,
       "isNew": false,
       "appleId": "1558758282",
       "name": "Trakų istorijos muziejus",
@@ -948,9 +1366,9 @@
       "releaseDate": "25.03.2021"
     },
     {
-      "rank": 43,
-      "previousRank": 22,
-      "rankChange": -21,
+      "rank": 62,
+      "previousRank": 43,
+      "rankChange": -19,
       "isNew": false,
       "appleId": "294730339",
       "name": "TripView",
@@ -970,31 +1388,9 @@
       "releaseDate": "26.03.2009"
     },
     {
-      "rank": 44,
-      "previousRank": 25,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "6752487459",
-      "name": "Camprio Camper Van Level",
-      "developer": "Norbert Weiss",
-      "developerUrl": "https://apps.apple.com/de/developer/norbert-weiss/id1839437890?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7d/3b/417d3b89-9150-958e-2871-6645d100da3d/AppIcon_iOS-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/camprio-camper-van-level/id6752487459?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "14.10.2025"
-    },
-    {
-      "rank": 45,
-      "previousRank": 26,
-      "rankChange": -19,
+      "rank": 63,
+      "previousRank": 45,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "603542902",
       "name": "Palma de Mallorca Airport Info",
@@ -1014,9 +1410,9 @@
       "releaseDate": "28.02.2013"
     },
     {
-      "rank": 46,
-      "previousRank": 27,
-      "rankChange": -19,
+      "rank": 64,
+      "previousRank": 46,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "1456390677",
       "name": "Langeoog App für den Urlaub",
@@ -1036,9 +1432,9 @@
       "releaseDate": "16.03.2019"
     },
     {
-      "rank": 47,
-      "previousRank": 28,
-      "rankChange": -19,
+      "rank": 65,
+      "previousRank": 47,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6752323987",
       "name": "Tank Tracker - Tanktagebuch",
@@ -1058,9 +1454,9 @@
       "releaseDate": "12.09.2025"
     },
     {
-      "rank": 48,
-      "previousRank": 29,
-      "rankChange": -19,
+      "rank": 66,
+      "previousRank": 48,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6743394842",
       "name": "Höhlenkarte",
@@ -1080,9 +1476,9 @@
       "releaseDate": "27.03.2025"
     },
     {
-      "rank": 49,
-      "previousRank": 30,
-      "rankChange": -19,
+      "rank": 67,
+      "previousRank": 49,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "602167419",
       "name": "Toronto Airport Info + Radar",
@@ -1102,9 +1498,9 @@
       "releaseDate": "15.02.2013"
     },
     {
-      "rank": 50,
-      "previousRank": 31,
-      "rankChange": -19,
+      "rank": 68,
+      "previousRank": 50,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6782682614",
       "name": "Palma de Mallorca PMI Airport",
@@ -1124,9 +1520,9 @@
       "releaseDate": "22.06.2026"
     },
     {
-      "rank": 51,
-      "previousRank": 32,
-      "rankChange": -19,
+      "rank": 69,
+      "previousRank": 51,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "1444681822",
       "name": "BorderWatcher",
@@ -1146,9 +1542,9 @@
       "releaseDate": "12.12.2018"
     },
     {
-      "rank": 52,
-      "previousRank": 33,
-      "rankChange": -19,
+      "rank": 70,
+      "previousRank": 52,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6755662656",
       "name": "Grand Egyptian Museum (GEM)",
@@ -1168,360 +1564,8 @@
       "releaseDate": "22.12.2025"
     },
     {
-      "rank": 53,
-      "previousRank": 34,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "6787380177",
-      "name": "TravelSheet: Smarte Packliste",
-      "developer": "Sebastian Peters",
-      "developerUrl": "https://apps.apple.com/de/developer/sebastian-peters/id1812401531?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/a1/08/93a1085f-3e2d-860a-cfc6-8ef6d44b9c99/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/travelsheet-smarte-packliste/id6787380177?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "10.07.2026"
-    },
-    {
-      "rank": 54,
-      "previousRank": 35,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "683353582",
-      "name": "Hong Kong Taxi Cards",
-      "developer": "TechmaxApp",
-      "developerUrl": "https://apps.apple.com/de/developer/techmaxapp/id617391262?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/18/7c/b8187c6b-b104-9833-daaf-773476fcddbb/AppIcon-2-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/hong-kong-taxi-cards/id683353582?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "08.08.2013"
-    },
-    {
-      "rank": 55,
-      "previousRank": 38,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "768160271",
-      "name": "航旅纵横PRO-民航官方直销平台",
-      "developer": "China Travelsky Technology Limited",
-      "developerUrl": "https://apps.apple.com/de/developer/china-travelsky-technology-limited/id443898877?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/5d/51/165d5177-7a31-26eb-14f2-7b2a5f130cc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AApro-%E6%B0%91%E8%88%AA%E5%AE%98%E6%96%B9%E7%9B%B4%E9%94%80%E5%B9%B3%E5%8F%B0/id768160271?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "18.12.2013"
-    },
-    {
-      "rank": 56,
-      "previousRank": 36,
-      "rankChange": -20,
-      "isNew": false,
-      "appleId": "715582724",
-      "name": "Leipzig Airport (LEJ) + Radar",
-      "developer": "Renji Mathew",
-      "developerUrl": "https://apps.apple.com/de/developer/renji-mathew/id1092863420?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/68/c5/d3/68c5d38e-c002-6fd5-c398-c7a9fe72e398/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/leipzig-airport-lej-radar/id715582724?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "28.09.2013"
-    },
-    {
-      "rank": 57,
-      "previousRank": 39,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "942945514",
-      "name": "TraceMyTrack PRO",
-      "developer": "Corandus GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/corandus-gmbh/id554944480?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/19/69/4b196989-3b51-2b12-2d96-9ef86a191890/NewAppProIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tracemytrack-pro/id942945514?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "15.04.2015"
-    },
-    {
-      "rank": 58,
-      "previousRank": 40,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "977385841",
-      "name": "Wise Pilgrim Camino Inglés",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/de/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/f5/1b/f3f51bda-53b1-c4e6-a937-029f98f7be22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wise-pilgrim-camino-ingl%C3%A9s/id977385841?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "10.04.2015"
-    },
-    {
-      "rank": 59,
-      "previousRank": 41,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "1097761458",
-      "name": "Castel Sant'Angelo - English",
-      "developer": "AudioGuide®",
-      "developerUrl": "https://apps.apple.com/de/developer/audioguide/id405502582?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/12/92/59129218-c62d-da1c-3e2d-7720cc0d8b0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/castel-santangelo-english/id1097761458?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "04.04.2016"
-    },
-    {
-      "rank": 60,
-      "previousRank": 42,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6753910113",
-      "name": "Peloponnese Guide",
-      "developer": "Ghica Reinvent Media srl",
-      "developerUrl": "https://apps.apple.com/de/developer/ghica-reinvent-media-srl/id1726192953?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/e8/d8/5be8d80d-6e76-9c04-3ae2-ee8ce846816d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/peloponnese-guide/id6753910113?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "23.10.2025"
-    },
-    {
-      "rank": 61,
-      "previousRank": 43,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "1496121904",
-      "name": "Sizilien Offline",
-      "developer": "Joerg Holz",
-      "developerUrl": "https://apps.apple.com/de/developer/joerg-holz/id1118663216?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/05/5e/82055e04-c063-5ce3-f563-b7a0eab2378d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sizilien-offline/id1496121904?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "31.01.2020"
-    },
-    {
-      "rank": 62,
-      "previousRank": 45,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "6472152988",
-      "name": "Malerweg - Deutchland",
-      "developer": "Bad Rhino ApS",
-      "developerUrl": "https://apps.apple.com/de/developer/bad-rhino-aps/id1053234944?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ee/c2/beeec2d6-4be6-4a67-f93a-63e7ea6344e2/AppIcon-1x_U007emarketing-0-9-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/malerweg-deutchland/id6472152988?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "16.05.2024"
-    },
-    {
-      "rank": 63,
-      "previousRank": 44,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "6760250773",
-      "name": "Viativity: bei Reisekrankheit",
-      "developer": "Dieter Schmidli",
-      "developerUrl": "https://apps.apple.com/de/developer/dieter-schmidli/id1883469371?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/8b/61/768b616d-d0d1-871c-4166-bae1ba6360ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/viativity-bei-reisekrankheit/id6760250773?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "14.04.2026"
-    },
-    {
-      "rank": 64,
-      "previousRank": 46,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6774957430",
-      "name": "HelpMyCamper",
-      "developer": "help2camp GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/help2camp-gmbh/id1728408470?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2b/26/fb2b26b1-b6e4-e314-5b01-ac256ffcd131/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/helpmycamper/id6774957430?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "12.06.2026"
-    },
-    {
-      "rank": 65,
-      "previousRank": 47,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6758871831",
-      "name": "Kruger Park - Safari Spotter",
-      "developer": "Leighton Friend",
-      "developerUrl": "https://apps.apple.com/de/developer/leighton-friend/id1874680353?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8b/2d/c98b2db2-3320-a7e3-d735-5aa90db1768d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/kruger-park-safari-spotter/id6758871831?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "EUR",
-        "formatted": "14,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "25.02.2026"
-    },
-    {
-      "rank": 66,
-      "previousRank": 48,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6757470837",
-      "name": "Reisephrasen",
-      "developer": "Martin Hanske",
-      "developerUrl": "https://apps.apple.com/de/developer/martin-hanske/id1716050508?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/b7/20/06b72046-25ea-fb21-99c0-48f213c5f24b/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/reisephrasen/id6757470837?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "17.01.2026"
-    },
-    {
-      "rank": 67,
-      "previousRank": 50,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "1630656541",
-      "name": "Namibia Audioguide Exploradio",
-      "developer": "Jana Marie Backhaus-Tors",
-      "developerUrl": "https://apps.apple.com/de/developer/jana-marie-backhaus-tors/id1549189956?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/d3/ed/9ad3ed9b-3ee1-917c-b796-fda8826ec96d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/namibia-audioguide-exploradio/id1630656541?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "06.07.2022"
-    },
-    {
-      "rank": 68,
-      "previousRank": 51,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "6762631402",
-      "name": "RailsMaps",
-      "developer": "Bartomiej Banasik",
-      "developerUrl": "https://apps.apple.com/de/developer/bartomiej-banasik/id1894564986?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/f5/76/8cf57652-6a38-4b8c-da92-d81bade97d73/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/railsmaps/id6762631402?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "15.06.2026"
-    },
-    {
-      "rank": 69,
-      "previousRank": 67,
+      "rank": 71,
+      "previousRank": 69,
       "rankChange": -2,
       "isNew": false,
       "appleId": "291863430",
@@ -1542,8 +1586,8 @@
       "releaseDate": "27.09.2008"
     },
     {
-      "rank": 70,
-      "previousRank": 68,
+      "rank": 72,
+      "previousRank": 70,
       "rankChange": -2,
       "isNew": false,
       "appleId": "297404959",
@@ -1564,31 +1608,9 @@
       "releaseDate": "22.11.2008"
     },
     {
-      "rank": 71,
-      "previousRank": 69,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "294236771",
-      "name": "ICOON globales Bildwörterbuch",
-      "developer": "Malgorzata Karolina Warrink",
-      "developerUrl": "https://apps.apple.com/de/developer/malgorzata-karolina-warrink/id294236774?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/13/b8/4b/13b84bda-f87f-3a75-8f02-c39a621ecbb9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/icoon-globales-bildw%C3%B6rterbuch/id294236771?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "06.12.2008"
-    },
-    {
-      "rank": 72,
-      "previousRank": 70,
-      "rankChange": -2,
+      "rank": 73,
+      "previousRank": 72,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "430243601",
       "name": "Boarding Pass - Flug Check-in",
@@ -1608,8 +1630,8 @@
       "releaseDate": "08.04.2011"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
+      "rank": 74,
+      "previousRank": 73,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1130542083",
@@ -1630,8 +1652,8 @@
       "releaseDate": "08.09.2016"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
+      "rank": 75,
+      "previousRank": 74,
       "rankChange": -1,
       "isNew": false,
       "appleId": "406845187",
@@ -1652,8 +1674,8 @@
       "releaseDate": "10.12.2010"
     },
     {
-      "rank": 75,
-      "previousRank": 74,
+      "rank": 76,
+      "previousRank": 75,
       "rankChange": -1,
       "isNew": false,
       "appleId": "416442703",
@@ -1674,8 +1696,8 @@
       "releaseDate": "16.02.2011"
     },
     {
-      "rank": 76,
-      "previousRank": 75,
+      "rank": 77,
+      "previousRank": 76,
       "rankChange": -1,
       "isNew": false,
       "appleId": "323470584",
@@ -1696,9 +1718,9 @@
       "releaseDate": "26.08.2009"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "603577831",
       "name": "Checkliste für Koffer sachen",
@@ -1718,9 +1740,9 @@
       "releaseDate": "21.02.2013"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "344188034",
       "name": "Autokennzeichen App",
@@ -1740,9 +1762,9 @@
       "releaseDate": "11.12.2009"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "933997029",
       "name": "Flugradar Pro, Flight Radar 24",
@@ -1762,9 +1784,9 @@
       "releaseDate": "03.04.2015"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "348737462",
       "name": "Mein Reiseplaner",
@@ -1784,9 +1806,9 @@
       "releaseDate": "04.01.2010"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "535467020",
       "name": "Frankfurt – S Bahn & U Bahn",
@@ -1804,28 +1826,6 @@
         "name": "Reisen"
       },
       "releaseDate": "22.06.2012"
-    },
-    {
-      "rank": 82,
-      "previousRank": 82,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "787088888",
-      "name": "Nordsee Gezeiten",
-      "developer": "dimento.com gmbh",
-      "developerUrl": "https://apps.apple.com/de/developer/dimento-com-gmbh/id605328573?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d2/cc/d5d2cc18-ffb6-5148-f04d-7ff9dd3660e1/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nordsee-gezeiten/id787088888?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "17.01.2014"
     },
     {
       "rank": 83,
@@ -1851,30 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 84,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1517061932",
-      "name": "Sila Yolu Sevenler",
-      "developer": "Onder Ozbek",
-      "developerUrl": "https://apps.apple.com/de/developer/onder-ozbek/id1402206867?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/63/14/eb631477-6bf9-a234-23e0-70960d0401d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sila-yolu-sevenler/id1517061932?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "10.06.2020"
-    },
-    {
-      "rank": 85,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "506760190",
       "name": "Jakdojade Premium",
@@ -1894,9 +1872,9 @@
       "releaseDate": "22.03.2012"
     },
     {
-      "rank": 86,
+      "rank": 85,
       "previousRank": 86,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "504291325",
       "name": "Offline Übersetzer English Pro",
@@ -1916,9 +1894,9 @@
       "releaseDate": "02.03.2012"
     },
     {
-      "rank": 87,
+      "rank": 86,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "451238611",
       "name": "Urlaubsliste",
@@ -1938,9 +1916,9 @@
       "releaseDate": "25.07.2011"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "417103751",
       "name": "Glasenuhr",
@@ -1960,9 +1938,9 @@
       "releaseDate": "02.02.2011"
     },
     {
-      "rank": 89,
-      "previousRank": 56,
-      "rankChange": -33,
+      "rank": 88,
+      "previousRank": 89,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1045268097",
       "name": "Inquire by Tamper",
@@ -1982,9 +1960,9 @@
       "releaseDate": "07.12.2015"
     },
     {
-      "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "rank": 89,
+      "previousRank": 90,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1178703539",
       "name": "OpenADSB",
@@ -2004,9 +1982,9 @@
       "releaseDate": "19.01.2018"
     },
     {
-      "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "rank": 90,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "498493962",
       "name": "Offline Übersetzer Pro  8 Spr.",
@@ -2026,9 +2004,9 @@
       "releaseDate": "05.02.2012"
     },
     {
-      "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "rank": 91,
+      "previousRank": 92,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "302761307",
       "name": "Times Square Live",
@@ -2048,9 +2026,9 @@
       "releaseDate": "16.02.2009"
     },
     {
-      "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "rank": 92,
+      "previousRank": 93,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "607104710",
       "name": "Flughafen München - Tracker",
@@ -2070,9 +2048,9 @@
       "releaseDate": "26.02.2013"
     },
     {
-      "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "rank": 93,
+      "previousRank": 94,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "525956148",
       "name": "Flug Tracker Pro, Flugradar 24",
@@ -2092,9 +2070,9 @@
       "releaseDate": "22.05.2012"
     },
     {
-      "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "rank": 94,
+      "previousRank": 95,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "715265526",
       "name": "Hamburg Airport Info + Radar",
@@ -2114,31 +2092,9 @@
       "releaseDate": "28.09.2013"
     },
     {
-      "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1198499960",
-      "name": "GPS Status & Toolbox",
-      "developer": "MobiWIA Kft.",
-      "developerUrl": "https://apps.apple.com/de/developer/mobiwia-kft/id1198499959?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/fe/1e/1ffe1e63-0436-ed2e-8885-93d99dc0f5f4/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/gps-status-toolbox/id1198499960?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Reisen"
-      },
-      "releaseDate": "17.02.2017"
-    },
-    {
-      "rank": 97,
-      "previousRank": 96,
-      "rankChange": -1,
+      "rank": 95,
+      "previousRank": 97,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "953333522",
       "name": "PackPoint Premium - Packlisten",
@@ -2158,9 +2114,9 @@
       "releaseDate": "06.01.2015"
     },
     {
-      "rank": 98,
-      "previousRank": 97,
-      "rankChange": -1,
+      "rank": 96,
+      "previousRank": 98,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1175575949",
       "name": "Mein Schiff 4 Bordfinder",
@@ -2180,9 +2136,9 @@
       "releaseDate": "31.07.2017"
     },
     {
-      "rank": 99,
-      "previousRank": 98,
-      "rankChange": -1,
+      "rank": 97,
+      "previousRank": 99,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1370145300",
       "name": "Mein Schiff 6 Bordfinder",
@@ -2200,6 +2156,72 @@
         "name": "Reisen"
       },
       "releaseDate": "21.04.2018"
+    },
+    {
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1062688481",
+      "name": "ÖV Teneriffa",
+      "developer": "M23 Solutions GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/m23-solutions-gmbh/id997113036?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9b/a9/9f9ba94d-c1f4-f56a-620f-20c4dd883ae8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/%C3%B6v-teneriffa/id1062688481?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "04.01.2016"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "308579423",
+      "name": "Airport Codes",
+      "developer": "VersaEdge Software, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/versaedge-software-llc/id301294952?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/0e/4e/ab0e4efc-595c-c6cf-7d3d-d057cd0402c7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/airport-codes/id308579423?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "26.03.2009"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "981485539",
+      "name": "Wise Pilgrim Camino del Norte",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f8/67/19f867a4-7593-8031-5032-cd2ab20f2852/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wise-pilgrim-camino-del-norte/id981485539?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Reisen"
+      },
+      "releaseDate": "10.04.2015"
     }
   ]
 }

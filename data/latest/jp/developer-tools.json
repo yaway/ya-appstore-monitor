@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-12",
-  "collectedAt": "2026-10-12T07:06:50.816Z",
-  "sourceUpdatedAt": "2026-10-12T00:06:50-07:00",
+  "snapshotDate": "2026-10-13",
+  "collectedAt": "2026-10-13T07:31:17.938Z",
+  "sourceUpdatedAt": "2026-10-13T00:31:17-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/jp/rss/toppaidapplications/limit=100/genre=6026/json",
   "chartType": "paid",
@@ -17,22 +17,66 @@
     "name": "开发工具"
   },
   "requestedLimit": 100,
-  "expectedCount": 98,
-  "actualCount": 98,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-11",
+  "previousSnapshotDate": "2026-10-12",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 41,
+      "rankChange": 40,
+      "isNew": false,
+      "appleId": "6787769891",
+      "name": "CodexBar Usage Monitor",
+      "developer": "Franz Hemmer",
+      "developerUrl": "https://apps.apple.com/jp/developer/franz-hemmer/id6787769894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/a5/7b/4ea57bd9-274d-8192-7890-f450bbfc5ec2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/codexbar-usage-monitor/id6787769891?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年7月9日"
+    },
+    {
+      "rank": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6774837597",
+      "name": "gterm: Ghostty SSH",
+      "developer": "Shanghai Tangzixiang Information Technology Co., Ltd",
+      "developerUrl": "https://apps.apple.com/jp/developer/shanghai-tangzixiang-information-technology-co-ltd/id6778303406?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/e0/47/61e047d7-ea2f-10bd-5de9-fd9cd356c591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/gterm-ghostty-ssh/id6774837597?uo=2",
+      "price": {
+        "amount": 300,
+        "currency": "JPY",
+        "formatted": "¥300"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年6月4日"
+    },
+    {
+      "rank": 3,
+      "previousRank": 1,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6759213045",
       "name": "SSH Term X",
       "developer": "Haga Kunihiko",
       "developerUrl": "https://apps.apple.com/jp/developer/haga-kunihiko/id1553088822?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/8f/94/d48f9400-cc34-70f9-e02a-c3a57b6b5568/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/34/3e/2b343e12-e19b-2e34-d7d7-4d3732b602ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/jp/app/ssh-term-x/id6759213045?uo=2",
       "price": {
         "amount": 800,
@@ -46,9 +90,9 @@
       "releaseDate": "2026年2月24日"
     },
     {
-      "rank": 2,
-      "previousRank": 13,
-      "rankChange": 11,
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6758669847",
       "name": "Echo - SSH + Mosh Client",
@@ -68,9 +112,9 @@
       "releaseDate": "2026年2月7日"
     },
     {
-      "rank": 3,
-      "previousRank": 12,
-      "rankChange": 9,
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1203594958",
       "name": "Inspect Browser",
@@ -90,10 +134,10 @@
       "releaseDate": "2017年6月6日"
     },
     {
-      "rank": 4,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "6802876300",
       "name": "Vesper Python REPL & Editor",
       "developer": "Nathan Baughman",
@@ -112,9 +156,9 @@
       "releaseDate": "2026年9月2日"
     },
     {
-      "rank": 5,
-      "previousRank": 1,
-      "rankChange": -4,
+      "rank": 7,
+      "previousRank": 5,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6739490717",
       "name": "Domain Health: DNS Checker",
@@ -134,31 +178,9 @@
       "releaseDate": "2025年1月10日"
     },
     {
-      "rank": 6,
-      "previousRank": 3,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6469319815",
-      "name": "CSS Inspector for Safari",
-      "developer": "Alfredo Grassau",
-      "developerUrl": "https://apps.apple.com/jp/developer/alfredo-grassau/id1564157928?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/04/e2/6204e2b0-4bce-f573-8638-af93bbda4dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/css-inspector-for-safari/id6469319815?uo=2",
-      "price": {
-        "amount": 500,
-        "currency": "JPY",
-        "formatted": "¥500"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2023年10月16日"
-    },
-    {
-      "rank": 7,
-      "previousRank": 5,
-      "rankChange": -2,
+      "rank": 8,
+      "previousRank": 7,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "386737169",
       "name": "LadderTouch",
@@ -178,9 +200,9 @@
       "releaseDate": "2010年8月25日"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "previousRank": 8,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "921385542",
       "name": "Source 3",
@@ -200,9 +222,9 @@
       "releaseDate": "2014年10月8日"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "previousRank": 9,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1095213378",
       "name": "Continuous .NET C# and F# IDE",
@@ -222,9 +244,9 @@
       "releaseDate": "2016年7月6日"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6474695786",
       "name": "iPulse - Monitor Your Device",
@@ -244,9 +266,9 @@
       "releaseDate": "2024年3月12日"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "previousRank": 11,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "326123820",
       "name": "UDIDit",
@@ -266,9 +288,9 @@
       "releaseDate": "2009年8月14日"
     },
     {
-      "rank": 12,
-      "previousRank": 6,
-      "rankChange": -6,
+      "rank": 13,
+      "previousRank": 12,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1512938504",
       "name": "Code App",
@@ -288,31 +310,9 @@
       "releaseDate": "2020年5月28日"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1315744137",
-      "name": "Juno Connect: Jupyter Client",
-      "developer": "Rational Matter",
-      "developerUrl": "https://apps.apple.com/jp/developer/rational-matter/id1315744136?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/d4/78/78d478ee-9669-1a93-b4d7-36dab633d414/AppIcon-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/juno-connect-jupyter-client/id1315744137?uo=2",
-      "price": {
-        "amount": 800,
-        "currency": "JPY",
-        "formatted": "¥800"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2018年1月23日"
-    },
-    {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "593757593",
       "name": "DraftCode for PHP IDE",
@@ -333,8 +333,30 @@
     },
     {
       "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "previousRank": 13,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1315744137",
+      "name": "Juno Connect: Jupyter Client",
+      "developer": "Rational Matter",
+      "developerUrl": "https://apps.apple.com/jp/developer/rational-matter/id1315744136?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/d4/78/78d478ee-9669-1a93-b4d7-36dab633d414/AppIcon-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/juno-connect-jupyter-client/id1315744137?uo=2",
+      "price": {
+        "amount": 800,
+        "currency": "JPY",
+        "formatted": "¥800"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2018年1月23日"
+    },
+    {
+      "rank": 16,
+      "previousRank": 15,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1468880337",
       "name": "Hexer — Hex File Viewer",
@@ -354,9 +376,9 @@
       "releaseDate": "2019年10月1日"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1532669250",
       "name": "Scarlet",
@@ -376,9 +398,9 @@
       "releaseDate": "2021年6月2日"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
-      "rankChange": 1,
+      "rank": 18,
+      "previousRank": 17,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6446626905",
       "name": "Cookie Editor Safari 拡張機能",
@@ -398,9 +420,9 @@
       "releaseDate": "2023年4月5日"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
+      "rank": 19,
+      "previousRank": 18,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6747303824",
       "name": "QuickIssue - 1秒GitHub Issue記録",
@@ -420,31 +442,9 @@
       "releaseDate": "2025年7月2日"
     },
     {
-      "rank": 19,
-      "previousRank": 20,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6443893597",
-      "name": "Simple Server: HTTP Server",
-      "developer": "Bitsbaker LLC.",
-      "developerUrl": "https://apps.apple.com/jp/developer/bitsbaker-llc/id1631721150?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/6d/1f/fe6d1fc8-2d59-ce03-5724-75c7cdf2a412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/simple-server-http-server/id6443893597?uo=2",
-      "price": {
-        "amount": 600,
-        "currency": "JPY",
-        "formatted": "¥600"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2022年10月18日"
-    },
-    {
       "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1534470128",
       "name": "Node-PAD",
@@ -465,51 +465,29 @@
     },
     {
       "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "previousRank": 19,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "475312085",
-      "name": "SQLed - SQL Database Manager",
-      "developer": "Andreas Zimnas",
-      "developerUrl": "https://apps.apple.com/jp/developer/andreas-zimnas/id350841938?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/1a/c0/1f1ac058-476a-a710-1a95-cba3476afbbc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/sqled-sql-database-manager/id475312085?uo=2",
+      "appleId": "6443893597",
+      "name": "Simple Server: HTTP Server",
+      "developer": "Bitsbaker LLC.",
+      "developerUrl": "https://apps.apple.com/jp/developer/bitsbaker-llc/id1631721150?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/aa/1f/22aa1fa5-6650-5d5c-727a-bc387412c05e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/simple-server-http-server/id6443893597?uo=2",
       "price": {
-        "amount": 300,
+        "amount": 600,
         "currency": "JPY",
-        "formatted": "¥300"
+        "formatted": "¥600"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2011年11月15日"
+      "releaseDate": "2022年10月18日"
     },
     {
       "rank": 22,
       "previousRank": 23,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1567601472",
-      "name": "ESP32 BLE Terminal",
-      "developer": "Gopi Gadhiya",
-      "developerUrl": "https://apps.apple.com/jp/developer/gopi-gadhiya/id1387816354?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/esp32-ble-terminal/id1567601472?uo=2",
-      "price": {
-        "amount": 150,
-        "currency": "JPY",
-        "formatted": "¥150"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2021年6月1日"
-    },
-    {
-      "rank": 23,
-      "previousRank": 24,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1260223542",
@@ -530,9 +508,53 @@
       "releaseDate": "2017年7月24日"
     },
     {
+      "rank": 23,
+      "previousRank": 21,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "475312085",
+      "name": "SQLed - SQL Database Manager",
+      "developer": "Andreas Zimnas",
+      "developerUrl": "https://apps.apple.com/jp/developer/andreas-zimnas/id350841938?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/1a/c0/1f1ac058-476a-a710-1a95-cba3476afbbc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/sqled-sql-database-manager/id475312085?uo=2",
+      "price": {
+        "amount": 300,
+        "currency": "JPY",
+        "formatted": "¥300"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2011年11月15日"
+    },
+    {
       "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "previousRank": 22,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1567601472",
+      "name": "ESP32 BLE Terminal",
+      "developer": "Gopi Gadhiya",
+      "developerUrl": "https://apps.apple.com/jp/developer/gopi-gadhiya/id1387816354?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/esp32-ble-terminal/id1567601472?uo=2",
+      "price": {
+        "amount": 150,
+        "currency": "JPY",
+        "formatted": "¥150"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2021年6月1日"
+    },
+    {
+      "rank": 25,
+      "previousRank": 24,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1245341806",
       "name": "My Lisp",
@@ -552,9 +574,9 @@
       "releaseDate": "2017年11月7日"
     },
     {
-      "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "rank": 26,
+      "previousRank": 25,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6447426581",
       "name": "Developer Colour Palette",
@@ -574,9 +596,9 @@
       "releaseDate": "2023年4月21日"
     },
     {
-      "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "rank": 27,
+      "previousRank": 26,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1314212521",
       "name": "PPHub For GitHub - Developer",
@@ -596,9 +618,9 @@
       "releaseDate": "2017年11月20日"
     },
     {
-      "rank": 27,
-      "previousRank": 28,
-      "rankChange": 1,
+      "rank": 28,
+      "previousRank": 27,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1252988123",
       "name": "RegEx Lab: Regular Expressions",
@@ -618,9 +640,9 @@
       "releaseDate": "2017年7月26日"
     },
     {
-      "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "rank": 29,
+      "previousRank": 28,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1061486140",
       "name": "Code Recipes Pro",
@@ -640,52 +662,8 @@
       "releaseDate": "2015年12月19日"
     },
     {
-      "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6806762989",
-      "name": "LoHo Local Server",
-      "developer": "Johannes Franciscus Hendrikus Hermans",
-      "developerUrl": "https://apps.apple.com/jp/developer/johannes-franciscus-hendrikus-hermans/id1815027662?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/76/61/627661e9-6829-cd39-1f87-dfd8f4a96266/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/loho-local-server/id6806762989?uo=2",
-      "price": {
-        "amount": 150,
-        "currency": "JPY",
-        "formatted": "¥150"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年9月3日"
-    },
-    {
       "rank": 30,
       "previousRank": 31,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6758960270",
-      "name": "GitSync.md",
-      "developer": "Cody Russell Bontecou",
-      "developerUrl": "https://apps.apple.com/jp/developer/cody-russell-bontecou/id1850631579?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/51/e3/ea51e354-a957-97d9-27d0-47ca496cb99f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/gitsync-md/id6758960270?uo=2",
-      "price": {
-        "amount": 1500,
-        "currency": "JPY",
-        "formatted": "¥1,500"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年2月13日"
-    },
-    {
-      "rank": 31,
-      "previousRank": 32,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1470146079",
@@ -706,8 +684,8 @@
       "releaseDate": "2019年9月19日"
     },
     {
-      "rank": 32,
-      "previousRank": 33,
+      "rank": 31,
+      "previousRank": 32,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1481149807",
@@ -728,8 +706,8 @@
       "releaseDate": "2019年12月15日"
     },
     {
-      "rank": 33,
-      "previousRank": 34,
+      "rank": 32,
+      "previousRank": 33,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1425213172",
@@ -750,8 +728,8 @@
       "releaseDate": "2018年8月18日"
     },
     {
-      "rank": 34,
-      "previousRank": 35,
+      "rank": 33,
+      "previousRank": 34,
       "rankChange": 1,
       "isNew": false,
       "appleId": "727047729",
@@ -772,38 +750,16 @@
       "releaseDate": "2014年10月16日"
     },
     {
-      "rank": 35,
-      "previousRank": 7,
-      "rankChange": -28,
+      "rank": 34,
+      "previousRank": 30,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "6759809062",
-      "name": "CodeMan - VSCode",
-      "developer": "Michael Frey",
-      "developerUrl": "https://apps.apple.com/jp/developer/michael-frey/id1842493393?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/48/01/df4801d1-d7a8-efb6-57f6-b1e72c6f35cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/codeman-vscode/id6759809062?uo=2",
-      "price": {
-        "amount": 800,
-        "currency": "JPY",
-        "formatted": "¥800"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年3月16日"
-    },
-    {
-      "rank": 36,
-      "previousRank": 36,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6743685377",
-      "name": "Termix Pro: SSH & SFTP Client",
-      "developer": "Simon Zvara",
-      "developerUrl": "https://apps.apple.com/jp/developer/simon-zvara/id1490607194?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/fa/2a/b3fa2af4-20a5-953f-3e8f-95bf35e92141/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/termix-pro-ssh-sftp-client/id6743685377?uo=2",
+      "appleId": "6758960270",
+      "name": "GitSync.md",
+      "developer": "Cody Russell Bontecou",
+      "developerUrl": "https://apps.apple.com/jp/developer/cody-russell-bontecou/id1850631579?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/51/e3/ea51e354-a957-97d9-27d0-47ca496cb99f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/gitsync-md/id6758960270?uo=2",
       "price": {
         "amount": 1500,
         "currency": "JPY",
@@ -813,12 +769,34 @@
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2025年3月24日"
+      "releaseDate": "2026年2月13日"
     },
     {
-      "rank": 37,
-      "previousRank": 40,
-      "rankChange": 3,
+      "rank": 35,
+      "previousRank": 29,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "6806762989",
+      "name": "LoHo Local Server",
+      "developer": "Johannes Franciscus Hendrikus Hermans",
+      "developerUrl": "https://apps.apple.com/jp/developer/johannes-franciscus-hendrikus-hermans/id1815027662?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/76/61/627661e9-6829-cd39-1f87-dfd8f4a96266/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/loho-local-server/id6806762989?uo=2",
+      "price": {
+        "amount": 150,
+        "currency": "JPY",
+        "formatted": "¥150"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年9月3日"
+    },
+    {
+      "rank": 36,
+      "previousRank": 37,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1054670022",
       "name": "Adaptivity (A)",
@@ -838,16 +816,16 @@
       "releaseDate": "2015年11月16日"
     },
     {
-      "rank": 38,
-      "previousRank": 37,
-      "rankChange": -1,
+      "rank": 37,
+      "previousRank": 6,
+      "rankChange": -31,
       "isNew": false,
-      "appleId": "1630463521",
-      "name": "TWSNMP For Mobile",
-      "developer": "Masayuki Yamai",
-      "developerUrl": "https://apps.apple.com/jp/developer/masayuki-yamai/id1535856644?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/81/a3/f681a39d-3b86-34c1-79c7-348286fa257d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/twsnmp-for-mobile/id1630463521?uo=2",
+      "appleId": "6469319815",
+      "name": "CSS Inspector for Safari",
+      "developer": "Alfredo Grassau",
+      "developerUrl": "https://apps.apple.com/jp/developer/alfredo-grassau/id1564157928?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/04/e2/6204e2b0-4bce-f573-8638-af93bbda4dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/css-inspector-for-safari/id6469319815?uo=2",
       "price": {
         "amount": 500,
         "currency": "JPY",
@@ -857,34 +835,34 @@
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2022年6月20日"
+      "releaseDate": "2023年10月16日"
     },
     {
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": 0,
+      "rank": 38,
+      "previousRank": 36,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "1515506950",
-      "name": "Code - Compile & Run Program",
-      "developer": "Arjun Komath",
-      "developerUrl": "https://apps.apple.com/jp/developer/arjun-komath/id1388042509?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/0b/a1/9a0ba126-511f-3ef6-2ba2-47dc14cbbb48/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/code-compile-run-program/id1515506950?uo=2",
+      "appleId": "6743685377",
+      "name": "Termix Pro: SSH & SFTP Client",
+      "developer": "Simon Zvara",
+      "developerUrl": "https://apps.apple.com/jp/developer/simon-zvara/id1490607194?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/fa/2a/b3fa2af4-20a5-953f-3e8f-95bf35e92141/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/termix-pro-ssh-sftp-client/id6743685377?uo=2",
       "price": {
-        "amount": 600,
+        "amount": 1500,
         "currency": "JPY",
-        "formatted": "¥600"
+        "formatted": "¥1,500"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2020年6月9日"
+      "releaseDate": "2025年3月24日"
     },
     {
-      "rank": 40,
-      "previousRank": 42,
-      "rankChange": 2,
+      "rank": 39,
+      "previousRank": 40,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1581312955",
       "name": "MermaidEditor",
@@ -904,30 +882,30 @@
       "releaseDate": "2021年8月15日"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "previousRank": 38,
-      "rankChange": -3,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "6787769891",
-      "name": "CodexBar Usage Monitor",
-      "developer": "Franz Hemmer",
-      "developerUrl": "https://apps.apple.com/jp/developer/franz-hemmer/id6787769894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/a5/7b/4ea57bd9-274d-8192-7890-f450bbfc5ec2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/codexbar-usage-monitor/id6787769891?uo=2",
+      "appleId": "1630463521",
+      "name": "TWSNMP For Mobile",
+      "developer": "Masayuki Yamai",
+      "developerUrl": "https://apps.apple.com/jp/developer/masayuki-yamai/id1535856644?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/81/a3/f681a39d-3b86-34c1-79c7-348286fa257d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/twsnmp-for-mobile/id1630463521?uo=2",
       "price": {
-        "amount": 600,
+        "amount": 500,
         "currency": "JPY",
-        "formatted": "¥600"
+        "formatted": "¥500"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2026年7月9日"
+      "releaseDate": "2022年6月20日"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
+      "rank": 41,
+      "previousRank": 42,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1517487743",
@@ -948,16 +926,38 @@
       "releaseDate": "2020年7月29日"
     },
     {
-      "rank": 43,
-      "previousRank": 41,
-      "rankChange": -2,
+      "rank": 42,
+      "previousRank": 35,
+      "rankChange": -7,
       "isNew": false,
-      "appleId": "1517211662",
-      "name": "TinyServer",
-      "developer": "Christian Lobach",
-      "developerUrl": "https://apps.apple.com/jp/developer/christian-lobach/id516573165?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/51/46/eb514653-6601-efda-8b23-3ef51a1c32cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/tinyserver/id1517211662?uo=2",
+      "appleId": "6759809062",
+      "name": "CodeMan - VSCode",
+      "developer": "Michael Frey",
+      "developerUrl": "https://apps.apple.com/jp/developer/michael-frey/id1842493393?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/48/01/df4801d1-d7a8-efb6-57f6-b1e72c6f35cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/codeman-vscode/id6759809062?uo=2",
+      "price": {
+        "amount": 800,
+        "currency": "JPY",
+        "formatted": "¥800"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年3月16日"
+    },
+    {
+      "rank": 43,
+      "previousRank": 39,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1515506950",
+      "name": "Code - Compile & Run Program",
+      "developer": "Arjun Komath",
+      "developerUrl": "https://apps.apple.com/jp/developer/arjun-komath/id1388042509?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/0b/a1/9a0ba126-511f-3ef6-2ba2-47dc14cbbb48/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/code-compile-run-program/id1515506950?uo=2",
       "price": {
         "amount": 600,
         "currency": "JPY",
@@ -967,12 +967,12 @@
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2020年6月7日"
+      "releaseDate": "2020年6月9日"
     },
     {
       "rank": 44,
-      "previousRank": 45,
-      "rankChange": 1,
+      "previousRank": 44,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6756200055",
       "name": "電子書籍作成アプリ e-book Studio",
@@ -993,8 +993,30 @@
     },
     {
       "rank": 45,
-      "previousRank": 46,
-      "rankChange": 1,
+      "previousRank": 43,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1517211662",
+      "name": "TinyServer",
+      "developer": "Christian Lobach",
+      "developerUrl": "https://apps.apple.com/jp/developer/christian-lobach/id516573165?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/51/46/eb514653-6601-efda-8b23-3ef51a1c32cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/tinyserver/id1517211662?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2020年6月7日"
+    },
+    {
+      "rank": 46,
+      "previousRank": 45,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "932296259",
       "name": "websta$-learn html css and js",
@@ -1014,31 +1036,9 @@
       "releaseDate": "2014年11月12日"
     },
     {
-      "rank": 46,
-      "previousRank": 44,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1558236648",
-      "name": "Packet Sender - UDP/ TCP/ SSL",
-      "developer": "NagleCode, LLC",
-      "developerUrl": "https://apps.apple.com/jp/developer/naglecode-llc/id1338199853?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/41/96/5f41967f-1319-541e-3efc-0521ae4ed547/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/packet-sender-udp-tcp-ssl/id1558236648?uo=2",
-      "price": {
-        "amount": 300,
-        "currency": "JPY",
-        "formatted": "¥300"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2021年3月20日"
-    },
-    {
       "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6759057599",
       "name": "Mdly – Markdownビューア",
@@ -1059,8 +1059,30 @@
     },
     {
       "rank": 48,
-      "previousRank": 50,
-      "rankChange": 2,
+      "previousRank": 46,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1558236648",
+      "name": "Packet Sender - UDP/TCP/HTTP",
+      "developer": "NagleCode, LLC",
+      "developerUrl": "https://apps.apple.com/jp/developer/naglecode-llc/id1338199853?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/a5/00/0ea50012-b8bd-92d0-b500-c069d2c7eb55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/packet-sender-udp-tcp-http/id1558236648?uo=2",
+      "price": {
+        "amount": 300,
+        "currency": "JPY",
+        "formatted": "¥300"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2021年3月20日"
+    },
+    {
+      "rank": 49,
+      "previousRank": 48,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6749019257",
       "name": "ViewChanger – スマホでPCサイト表示",
@@ -1080,9 +1102,9 @@
       "releaseDate": "2025年7月24日"
     },
     {
-      "rank": 49,
-      "previousRank": 51,
-      "rankChange": 2,
+      "rank": 50,
+      "previousRank": 49,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1661684144",
       "name": "Bee - Cookie Editor For Safari",
@@ -1102,9 +1124,9 @@
       "releaseDate": "2023年1月2日"
     },
     {
-      "rank": 50,
-      "previousRank": 52,
-      "rankChange": 2,
+      "rank": 51,
+      "previousRank": 50,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1474606532",
       "name": "Haptics - Test Haptic Feedback",
@@ -1124,31 +1146,9 @@
       "releaseDate": "2019年9月19日"
     },
     {
-      "rank": 51,
-      "previousRank": 47,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6799927158",
-      "name": "iperf3 - Network Tools",
-      "developer": "RanduSoft SRL",
-      "developerUrl": "https://apps.apple.com/jp/developer/randusoft-srl/id1132039950?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d0/f7/17d0f7ba-3f4c-be86-616a-7ff8318ace39/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/iperf3-network-tools/id6799927158?uo=2",
-      "price": {
-        "amount": 150,
-        "currency": "JPY",
-        "formatted": "¥150"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年8月11日"
-    },
-    {
       "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1611554653",
       "name": "Logger for Shortcuts",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1463315864",
       "name": "iHTTP Tracker -Network monitor",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1461666739",
       "name": "Kuber - Kubernetes Dashboard",
@@ -1213,30 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 49,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6789478063",
-      "name": "TextDiff - テキスト差分比較",
-      "developer": "SMART BIT K.K",
-      "developerUrl": "https://apps.apple.com/jp/developer/smart-bit-k-k/id1896559487?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/e7/32/5ae732ed-d178-f63d-2b5d-d0012bd69dea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/textdiff-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E5%B7%AE%E5%88%86%E6%AF%94%E8%BC%83/id6789478063?uo=2",
-      "price": {
-        "amount": 200,
-        "currency": "JPY",
-        "formatted": "¥200"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年7月31日"
-    },
-    {
-      "rank": 56,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1565641091",
       "name": "Text Editor - Document Editor",
@@ -1256,9 +1234,9 @@
       "releaseDate": "2021年5月12日"
     },
     {
-      "rank": 57,
+      "rank": 56,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1553621603",
       "name": "Jockey OSC & MIDI",
@@ -1278,9 +1256,9 @@
       "releaseDate": "2021年2月13日"
     },
     {
-      "rank": 58,
+      "rank": 57,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1191488320",
       "name": "PasteMe - Pastebin Client",
@@ -1298,6 +1276,28 @@
         "name": "開発ツール"
       },
       "releaseDate": "2017年1月12日"
+    },
+    {
+      "rank": 58,
+      "previousRank": 51,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6799927158",
+      "name": "iperf3 - Network Tools",
+      "developer": "RanduSoft SRL",
+      "developerUrl": "https://apps.apple.com/jp/developer/randusoft-srl/id1132039950?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d0/f7/17d0f7ba-3f4c-be86-616a-7ff8318ace39/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/iperf3-network-tools/id6799927158?uo=2",
+      "price": {
+        "amount": 150,
+        "currency": "JPY",
+        "formatted": "¥150"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年8月11日"
     },
     {
       "rank": 59,
@@ -1433,8 +1433,30 @@
     },
     {
       "rank": 65,
+      "previousRank": 55,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6789478063",
+      "name": "TextDiff - テキスト差分比較",
+      "developer": "SMART BIT K.K",
+      "developerUrl": "https://apps.apple.com/jp/developer/smart-bit-k-k/id1896559487?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/e7/32/5ae732ed-d178-f63d-2b5d-d0012bd69dea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/textdiff-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E5%B7%AE%E5%88%86%E6%AF%94%E8%BC%83/id6789478063?uo=2",
+      "price": {
+        "amount": 200,
+        "currency": "JPY",
+        "formatted": "¥200"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年7月31日"
+    },
+    {
+      "rank": 66,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737245127",
       "name": "ソースビューア Pro",
@@ -1454,9 +1476,9 @@
       "releaseDate": "2024年10月24日"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1481018071",
       "name": "SeeLess - C Compiler",
@@ -1476,9 +1498,9 @@
       "releaseDate": "2019年11月12日"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1665329294",
       "name": "Cupertino Catalog",
@@ -1498,9 +1520,9 @@
       "releaseDate": "2023年1月18日"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1237825358",
       "name": "MongoLime - manage databases",
@@ -1520,9 +1542,9 @@
       "releaseDate": "2017年8月17日"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "908937788",
       "name": "C/C++$-LLVM Clang",
@@ -1542,9 +1564,9 @@
       "releaseDate": "2015年6月12日"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1608053878",
       "name": "UDevice - 開発アシスタント",
@@ -1564,9 +1586,9 @@
       "releaseDate": "2022年2月2日"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1534485108",
       "name": "Nan - Packet Capture",
@@ -1586,9 +1608,9 @@
       "releaseDate": "2020年11月6日"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1347743213",
       "name": "SSL Checker",
@@ -1608,9 +1630,9 @@
       "releaseDate": "2018年2月20日"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "511639148",
       "name": "Source Code Reader",
@@ -1628,28 +1650,6 @@
         "name": "開発ツール"
       },
       "releaseDate": "2012年3月25日"
-    },
-    {
-      "rank": 74,
-      "previousRank": 74,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6776793703",
-      "name": "Custom JS & CSS for Safari",
-      "developer": "Alfredo Grassau",
-      "developerUrl": "https://apps.apple.com/jp/developer/alfredo-grassau/id1564157928?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/a6/74/a9a6749c-63a0-4228-c5cb-3f8f23104c38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/custom-js-css-for-safari/id6776793703?uo=2",
-      "price": {
-        "amount": 500,
-        "currency": "JPY",
-        "formatted": "¥500"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年6月8日"
     },
     {
       "rank": 75,
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 83,
-      "rankChange": 2,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6758571420",
       "name": "YAML Tools",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 84,
-      "rankChange": 2,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1572726721",
       "name": "Python Recipes Pro",
@@ -1829,52 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 81,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6780277386",
-      "name": "Classic BASIC",
-      "developer": "Nathan Baughman",
-      "developerUrl": "https://apps.apple.com/jp/developer/nathan-baughman/id1802995512?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/9b/24d09b95-9d3d-551f-df4c-98232d1b489a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/classic-basic/id6780277386?uo=2",
-      "price": {
-        "amount": 500,
-        "currency": "JPY",
-        "formatted": "¥500"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2026年6月21日"
-    },
-    {
-      "rank": 84,
-      "previousRank": 82,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1366963152",
-      "name": "[3D] Preview",
-      "developer": "designmatic",
-      "developerUrl": "https://apps.apple.com/jp/developer/designmatic/id1197399292?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/99/cf/c899cfcf-f26c-11bf-64ef-93d9875f7666/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/3d-preview/id1366963152?uo=2",
-      "price": {
-        "amount": 800,
-        "currency": "JPY",
-        "formatted": "¥800"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "開発ツール"
-      },
-      "releaseDate": "2018年4月22日"
-    },
-    {
-      "rank": 85,
-      "previousRank": 86,
-      "rankChange": 1,
+      "previousRank": 85,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6757315226",
       "name": "MDC - Markdown Copier",
@@ -1894,9 +1850,9 @@
       "releaseDate": "2026年1月8日"
     },
     {
-      "rank": 86,
-      "previousRank": 87,
-      "rankChange": 1,
+      "rank": 84,
+      "previousRank": 86,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6474973643",
       "name": "Rust IDE - Minimal Code",
@@ -1916,9 +1872,9 @@
       "releaseDate": "2023年12月30日"
     },
     {
-      "rank": 87,
-      "previousRank": 88,
-      "rankChange": 1,
+      "rank": 85,
+      "previousRank": 87,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6443946748",
       "name": "Rust Recipes Pro",
@@ -1938,9 +1894,9 @@
       "releaseDate": "2022年10月24日"
     },
     {
-      "rank": 88,
-      "previousRank": 89,
-      "rankChange": 1,
+      "rank": 86,
+      "previousRank": 88,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1596457459",
       "name": "Cown Zoo",
@@ -1960,9 +1916,9 @@
       "releaseDate": "2022年1月7日"
     },
     {
-      "rank": 89,
-      "previousRank": 90,
-      "rankChange": 1,
+      "rank": 87,
+      "previousRank": 89,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1526052028",
       "name": "Zeitgeist",
@@ -1982,9 +1938,9 @@
       "releaseDate": "2020年12月2日"
     },
     {
-      "rank": 90,
-      "previousRank": 91,
-      "rankChange": 1,
+      "rank": 88,
+      "previousRank": 90,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1296588408",
       "name": "AirTerminal - BLE Terminal",
@@ -2004,26 +1960,70 @@
       "releaseDate": "2017年11月29日"
     },
     {
-      "rank": 91,
-      "previousRank": 85,
+      "rank": 89,
+      "previousRank": 83,
       "rankChange": -6,
       "isNew": false,
-      "appleId": "6479564286",
-      "name": "Spck Editor Lite",
-      "developer": "Zeb Zhao",
-      "developerUrl": "https://apps.apple.com/jp/developer/zeb-zhao/id1507309510?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/49/07/27490753-f388-5795-0bb4-64be88a6c29b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/spck-editor-lite/id6479564286?uo=2",
+      "appleId": "6780277386",
+      "name": "Classic BASIC",
+      "developer": "Nathan Baughman",
+      "developerUrl": "https://apps.apple.com/jp/developer/nathan-baughman/id1802995512?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/9b/24d09b95-9d3d-551f-df4c-98232d1b489a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/classic-basic/id6780277386?uo=2",
       "price": {
-        "amount": 1500,
+        "amount": 500,
         "currency": "JPY",
-        "formatted": "¥1,500"
+        "formatted": "¥500"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "開発ツール"
       },
-      "releaseDate": "2024年3月19日"
+      "releaseDate": "2026年6月21日"
+    },
+    {
+      "rank": 90,
+      "previousRank": 84,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1366963152",
+      "name": "[3D] Preview",
+      "developer": "designmatic",
+      "developerUrl": "https://apps.apple.com/jp/developer/designmatic/id1197399292?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/99/cf/c899cfcf-f26c-11bf-64ef-93d9875f7666/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/3d-preview/id1366963152?uo=2",
+      "price": {
+        "amount": 800,
+        "currency": "JPY",
+        "formatted": "¥800"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2018年4月22日"
+    },
+    {
+      "rank": 91,
+      "previousRank": 74,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "6776793703",
+      "name": "Custom JS & CSS for Safari",
+      "developer": "Alfredo Grassau",
+      "developerUrl": "https://apps.apple.com/jp/developer/alfredo-grassau/id1564157928?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/a6/74/a9a6749c-63a0-4228-c5cb-3f8f23104c38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/custom-js-css-for-safari/id6776793703?uo=2",
+      "price": {
+        "amount": 500,
+        "currency": "JPY",
+        "formatted": "¥500"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2026年6月8日"
     },
     {
       "rank": 92,
@@ -2178,6 +2178,28 @@
         "name": "開発ツール"
       },
       "releaseDate": "2021年1月6日"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1123855886",
+      "name": "Colordrop: Color Picker",
+      "developer": "George Jones",
+      "developerUrl": "https://apps.apple.com/jp/developer/george-jones/id498780233?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/c9/f6/d8c9f6bd-fbee-ecb9-442b-bb5f629aa467/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/colordrop-color-picker/id1123855886?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "開発ツール"
+      },
+      "releaseDate": "2018年7月27日"
     }
   ]
 }

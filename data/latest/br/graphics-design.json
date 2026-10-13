@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-12",
-  "collectedAt": "2026-10-12T07:07:16.971Z",
-  "sourceUpdatedAt": "2026-10-12T00:07:16-07:00",
+  "snapshotDate": "2026-10-13",
+  "collectedAt": "2026-10-13T07:31:45.197Z",
+  "sourceUpdatedAt": "2026-10-13T00:31:44-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/br/rss/toppaidapplications/limit=100/genre=6027/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "图形与设计"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 100,
+  "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-11",
+  "previousSnapshotDate": "2026-10-12",
   "apps": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "name": "Nomad Sculpt",
       "developer": "Hexanomad",
       "developerUrl": "https://apps.apple.com/br/developer/hexanomad/id1519508655?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/aa/00/bdaa0036-4e88-84ec-c51c-d2b3b44312f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/92/c6/1c92c693-c25b-87da-d455-815c390e91e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/br/app/nomad-sculpt/id1519508653?uo=2",
       "price": {
         "amount": 129.9,
@@ -91,8 +91,30 @@
     },
     {
       "rank": 4,
+      "previousRank": 7,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "6450205342",
+      "name": "KiCAD PCB Viewer",
+      "developer": "明杰 曾",
+      "developerUrl": "https://apps.apple.com/br/developer/%E6%98%8E%E6%9D%B0-%E6%9B%BE/id1695506895?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/aa/23/95aa2347-1437-2fdc-2498-f8bde97bde30/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/kicad-pcb-viewer/id6450205342?uo=2",
+      "price": {
+        "amount": 12.9,
+        "currency": "BRL",
+        "formatted": "R$ 12,90"
+      },
+      "primaryCategory": {
+        "id": "6027",
+        "name": "Artes gráficas e design"
+      },
+      "releaseDate": "29/06/2023"
+    },
+    {
+      "rank": 5,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "441179131",
       "name": "ibis Paint",
@@ -110,28 +132,6 @@
         "name": "Artes gráficas e design"
       },
       "releaseDate": "21/06/2011"
-    },
-    {
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6747758024",
-      "name": "WigglyPaint : Draw Cute Pixel",
-      "developer": "骏骁 马",
-      "developerUrl": "https://apps.apple.com/br/developer/%E9%AA%8F%E9%AA%81-%E9%A9%AC/id1534340413?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4a/fa/9c4afa23-6038-2ca9-667a-9c5293426d01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/wigglypaint-draw-cute-pixel/id6747758024?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6027",
-        "name": "Artes gráficas e design"
-      },
-      "releaseDate": "03/09/2025"
     },
     {
       "rank": 6,
@@ -157,25 +157,25 @@
     },
     {
       "rank": 7,
-      "previousRank": 7,
-      "rankChange": 0,
+      "previousRank": 5,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "6450205342",
-      "name": "KiCAD PCB Viewer",
-      "developer": "明杰 曾",
-      "developerUrl": "https://apps.apple.com/br/developer/%E6%98%8E%E6%9D%B0-%E6%9B%BE/id1695506895?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/aa/23/95aa2347-1437-2fdc-2498-f8bde97bde30/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/kicad-pcb-viewer/id6450205342?uo=2",
+      "appleId": "6747758024",
+      "name": "WigglyPaint : Draw Cute Pixel",
+      "developer": "骏骁 马",
+      "developerUrl": "https://apps.apple.com/br/developer/%E9%AA%8F%E9%AA%81-%E9%A9%AC/id1534340413?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4a/fa/9c4afa23-6038-2ca9-667a-9c5293426d01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/wigglypaint-draw-cute-pixel/id6747758024?uo=2",
       "price": {
-        "amount": 12.9,
+        "amount": 29.9,
         "currency": "BRL",
-        "formatted": "R$ 12,90"
+        "formatted": "R$ 29,90"
       },
       "primaryCategory": {
         "id": "6027",
         "name": "Artes gráficas e design"
       },
-      "releaseDate": "29/06/2023"
+      "releaseDate": "03/09/2025"
     },
     {
       "rank": 8,
@@ -443,8 +443,8 @@
     },
     {
       "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1544707791",
       "name": "ArtPics",
@@ -465,7 +465,29 @@
     },
     {
       "rank": 21,
-      "previousRank": 20,
+      "previousRank": 22,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "6472942395",
+      "name": "Explorer for Sketchfab",
+      "developer": "Sozzled LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/sozzled-llc/id1715133421?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/cb/c4/69cbc466-2f85-b193-db61-00cb8d7dd168/AppIcon-1x_U007epad-0-P3-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/explorer-for-sketchfab/id6472942395?uo=2",
+      "price": {
+        "amount": 6.9,
+        "currency": "BRL",
+        "formatted": "R$ 6,90"
+      },
+      "primaryCategory": {
+        "id": "6027",
+        "name": "Artes gráficas e design"
+      },
+      "releaseDate": "07/01/2024"
+    },
+    {
+      "rank": 22,
+      "previousRank": 21,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6502952180",
@@ -484,28 +506,6 @@
         "name": "Artes gráficas e design"
       },
       "releaseDate": "31/05/2024"
-    },
-    {
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6472942395",
-      "name": "Explorer for Sketchfab",
-      "developer": "Sozzled LLC",
-      "developerUrl": "https://apps.apple.com/br/developer/sozzled-llc/id1715133421?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/cb/c4/69cbc466-2f85-b193-db61-00cb8d7dd168/AppIcon-1x_U007epad-0-P3-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/explorer-for-sketchfab/id6472942395?uo=2",
-      "price": {
-        "amount": 6.9,
-        "currency": "BRL",
-        "formatted": "R$ 6,90"
-      },
-      "primaryCategory": {
-        "id": "6027",
-        "name": "Artes gráficas e design"
-      },
-      "releaseDate": "07/01/2024"
     },
     {
       "rank": 23,
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 31,
-      "rankChange": 2,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1527385328",
       "name": "Sanzo Color Palettes",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 32,
-      "rankChange": 1,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "329021851",
       "name": "EDGE touch (pixel art tool)",
@@ -707,8 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 33,
-      "rankChange": 1,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1271805173",
       "name": "Art Model - Pose e morfologia",
@@ -729,30 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": 29,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6756968218",
-      "name": "scanbust 3D",
-      "developer": "drillstars",
-      "developerUrl": "https://apps.apple.com/br/developer/drillstars/id1653313261?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/52/33/3e5233ab-56d3-8d52-6cf4-9a642e34a40a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/scanbust-3d/id6756968218?uo=2",
-      "price": {
-        "amount": 149.9,
-        "currency": "BRL",
-        "formatted": "R$ 149,90"
-      },
-      "primaryCategory": {
-        "id": "6027",
-        "name": "Artes gráficas e design"
-      },
-      "releaseDate": "06/01/2026"
-    },
-    {
-      "rank": 34,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6502478442",
       "name": "PixelMaster - Arte Pixel",
@@ -772,9 +750,9 @@
       "releaseDate": "10/05/2024"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1454088469",
       "name": "Object Removal Pro Eraser BG",
@@ -794,9 +772,9 @@
       "releaseDate": "09/03/2019"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1575265935",
       "name": "PieChart Maker",
@@ -816,9 +794,9 @@
       "releaseDate": "06/07/2021"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1565379256",
       "name": "Convertui - Pixel para Cm",
@@ -838,9 +816,9 @@
       "releaseDate": "30/04/2021"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1521959252",
       "name": "ArtRage Vitae Mobile Painting",
@@ -860,9 +838,31 @@
       "releaseDate": "11/04/2021"
     },
     {
+      "rank": 38,
+      "previousRank": 33,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6756968218",
+      "name": "scanbust 3D",
+      "developer": "drillstars",
+      "developerUrl": "https://apps.apple.com/br/developer/drillstars/id1653313261?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/52/33/3e5233ab-56d3-8d52-6cf4-9a642e34a40a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/scanbust-3d/id6756968218?uo=2",
+      "price": {
+        "amount": 149.9,
+        "currency": "BRL",
+        "formatted": "R$ 149,90"
+      },
+      "primaryCategory": {
+        "id": "6027",
+        "name": "Artes gráficas e design"
+      },
+      "releaseDate": "06/01/2026"
+    },
+    {
       "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "previousRank": 39,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6465173621",
       "name": "WordCloudMaster: Nuvem",
@@ -883,8 +883,8 @@
     },
     {
       "rank": 40,
-      "previousRank": 41,
-      "rankChange": 1,
+      "previousRank": 40,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1456248929",
       "name": "Selecionador de cores - Paleta",
@@ -905,8 +905,8 @@
     },
     {
       "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
+      "previousRank": 41,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1582701490",
       "name": "Color Harmony by Powsty",
@@ -927,30 +927,8 @@
     },
     {
       "rank": 42,
-      "previousRank": 39,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6799225012",
-      "name": "ImageBuddy — Easy Edits",
-      "developer": "Benjamin Dansby",
-      "developerUrl": "https://apps.apple.com/br/developer/benjamin-dansby/id1895087808?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/d5/ca/ecd5ca88-7613-a6f4-ce95-1276ac160d50/ImageBuddy-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/imagebuddy-easy-edits/id6799225012?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6027",
-        "name": "Artes gráficas e design"
-      },
-      "releaseDate": "12/08/2026"
-    },
-    {
-      "rank": 43,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1546692330",
       "name": "Face Mojo",
@@ -968,6 +946,28 @@
         "name": "Artes gráficas e design"
       },
       "releaseDate": "08/04/2021"
+    },
+    {
+      "rank": 43,
+      "previousRank": 42,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "6799225012",
+      "name": "ImageBuddy — Easy Edits",
+      "developer": "Benjamin Dansby",
+      "developerUrl": "https://apps.apple.com/br/developer/benjamin-dansby/id1895087808?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/1e/84/311e84ef-8ad3-1bde-a16f-a661d33ee3a6/ImageBuddy-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/imagebuddy-easy-edits/id6799225012?uo=2",
+      "price": {
+        "amount": 29.9,
+        "currency": "BRL",
+        "formatted": "R$ 29,90"
+      },
+      "primaryCategory": {
+        "id": "6027",
+        "name": "Artes gráficas e design"
+      },
+      "releaseDate": "12/08/2026"
     },
     {
       "rank": 44,
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 61,
-      "rankChange": 1,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6447179702",
       "name": "Focus Line",
@@ -1345,8 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 62,
-      "rankChange": 1,
+      "previousRank": 61,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6444068649",
       "name": "Codepoint",
@@ -1367,8 +1367,8 @@
     },
     {
       "rank": 62,
-      "previousRank": 63,
-      "rankChange": 1,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1168117279",
       "name": "Brushes",
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 64,
-      "rankChange": 1,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6474502720",
       "name": "Dark Aura - Aurora Dark Themes",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 65,
-      "rankChange": 1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6450967410",
       "name": "Valence 3D",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 66,
-      "rankChange": 1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6449164281",
       "name": "O Pintor - Desenhe e Esboce",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 68,
-      "rankChange": 2,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1587486837",
       "name": "Fonts for Stories and Chats",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 69,
-      "rankChange": 2,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1524074329",
       "name": "Tattoo Print System",
@@ -1499,8 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 70,
-      "rankChange": 2,
+      "previousRank": 68,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1454153126",
       "name": "Looom",
@@ -1521,8 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 71,
-      "rankChange": 2,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1442352186",
       "name": "Voxel Max: 3D Modeling",
@@ -1543,8 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 72,
-      "rankChange": 2,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1380326509",
       "name": "Sketch Tree Pro - My Art Pad",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 73,
-      "rankChange": 2,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1326075156",
       "name": "Manus - Hand reference for art",
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 74,
-      "rankChange": 2,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "592599278",
       "name": "VOSC Visual Particle Synth",
@@ -1609,8 +1609,8 @@
     },
     {
       "rank": 73,
-      "previousRank": 75,
-      "rankChange": 2,
+      "previousRank": 73,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6751736178",
       "name": "Dither By Eyed™ - Photo Editor",
@@ -1631,8 +1631,8 @@
     },
     {
       "rank": 74,
-      "previousRank": 76,
-      "rankChange": 2,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6747405708",
       "name": "Quick Draw: AR Tracing",
@@ -1653,8 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 77,
-      "rankChange": 2,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6740265241",
       "name": "KiCAD Schematic Viewer",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 78,
-      "rankChange": 2,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6480251529",
       "name": "Criador de cartões esportivos",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 79,
-      "rankChange": 2,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6478023236",
       "name": "3D modeling: ArtiMesh",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 80,
-      "rankChange": 2,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6452432269",
       "name": "Mandala Maker 360 Pro",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 81,
-      "rankChange": 2,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6451358191",
       "name": "Seletor de Сores, Gerador",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 82,
-      "rankChange": 2,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1631334188",
       "name": "Mesh Gradient",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 83,
-      "rankChange": 2,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "573334305",
       "name": "Sketch Grid",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 84,
-      "rankChange": 2,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6670616550",
       "name": "Viv.AR",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 85,
-      "rankChange": 2,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6476870857",
       "name": "Landing On",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 86,
-      "rankChange": 2,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6449098473",
       "name": "Palette Hunt: Cores de fotos",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 87,
-      "rankChange": 2,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1638164698",
       "name": "Magic Emoji: merge two emojis",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 88,
-      "rankChange": 2,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1460774857",
       "name": "Sketch Ideas - Art Prompts",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 89,
-      "rankChange": 2,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1441945328",
       "name": "Drawing References Pro",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 90,
-      "rankChange": 2,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1431308757",
       "name": "Real Paint mixing tools",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 91,
-      "rankChange": 2,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1331320224",
       "name": "Liquid Math",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 92,
-      "rankChange": 2,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "980492665",
       "name": "Mister Icon",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 93,
-      "rankChange": 2,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "493340607",
       "name": "What Color?",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 94,
-      "rankChange": 2,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6775065853",
       "name": "Signal Loss",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 95,
-      "rankChange": 2,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6754860845",
       "name": "PixLab - Edite fotos com IA",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 96,
-      "rankChange": 2,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6746449755",
       "name": "Music for the Senses",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 97,
-      "rankChange": 2,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6741479541",
       "name": "Image Tracer",
@@ -2115,8 +2115,8 @@
     },
     {
       "rank": 96,
-      "previousRank": 98,
-      "rankChange": 2,
+      "previousRank": 96,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6738379372",
       "name": "Kaleidoscope Real",
@@ -2137,8 +2137,8 @@
     },
     {
       "rank": 97,
-      "previousRank": 99,
-      "rankChange": 2,
+      "previousRank": 97,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6673887248",
       "name": "WordArt – Nuvem de Palavras",
@@ -2159,8 +2159,8 @@
     },
     {
       "rank": 98,
-      "previousRank": 100,
-      "rankChange": 2,
+      "previousRank": 98,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6494989453",
       "name": "Image Resizer.",
@@ -2181,9 +2181,9 @@
     },
     {
       "rank": 99,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 99,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "6475955513",
       "name": "JPG Converter.",
       "developer": "Viet Ho Duc",
@@ -2200,6 +2200,28 @@
         "name": "Artes gráficas e design"
       },
       "releaseDate": "12/01/2024"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6446984601",
+      "name": "TREK: Icons",
+      "developer": "NSTE, LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/nste-llc/id1671708345?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/ba/3d/6fba3d93-d950-7e1e-2457-db1b8e16107e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/trek-icons/id6446984601?uo=2",
+      "price": {
+        "amount": 24.9,
+        "currency": "BRL",
+        "formatted": "R$ 24,90"
+      },
+      "primaryCategory": {
+        "id": "6027",
+        "name": "Artes gráficas e design"
+      },
+      "releaseDate": "07/04/2023"
     }
   ]
 }
