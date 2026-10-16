@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-15",
-  "collectedAt": "2026-10-15T05:42:54.325Z",
-  "sourceUpdatedAt": "2026-10-14T22:42:53-07:00",
+  "snapshotDate": "2026-10-16",
+  "collectedAt": "2026-10-16T05:38:42.130Z",
+  "sourceUpdatedAt": "2026-10-15T22:38:41-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/vn/rss/toppaidapplications/limit=100/genre=6018/json",
   "chartType": "paid",
@@ -21,7 +21,7 @@
   "actualCount": 97,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-13",
+  "previousSnapshotDate": "2026-10-15",
   "apps": [
     {
       "rank": 1,
@@ -69,9 +69,9 @@
     },
     {
       "rank": 3,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 3,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "1342047566",
       "name": "El Principito - Audiolibro",
       "developer": "Jorge Lucioni Charalla",
@@ -91,7 +91,29 @@
     },
     {
       "rank": 4,
-      "previousRank": 3,
+      "previousRank": 5,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1041727137",
+      "name": "Bound - Audiobook Player",
+      "developer": "Deadpan, LLC",
+      "developerUrl": "https://apps.apple.com/vn/developer/deadpan-llc/id1521868530?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/bound-audiobook-player/id1041727137?uo=2",
+      "price": {
+        "amount": 149000,
+        "currency": "VND",
+        "formatted": "149.000đ"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "16 December 2015"
+    },
+    {
+      "rank": 5,
+      "previousRank": 4,
       "rankChange": -1,
       "isNew": false,
       "appleId": "911031782",
@@ -110,28 +132,6 @@
         "name": "Books"
       },
       "releaseDate": "03 October 2015"
-    },
-    {
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1041727137",
-      "name": "Bound - Audiobook Player",
-      "developer": "Deadpan, LLC",
-      "developerUrl": "https://apps.apple.com/vn/developer/deadpan-llc/id1521868530?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/bound-audiobook-player/id1041727137?uo=2",
-      "price": {
-        "amount": 149000,
-        "currency": "VND",
-        "formatted": "149.000đ"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "16 December 2015"
     },
     {
       "rank": 6,
@@ -355,30 +355,8 @@
     },
     {
       "rank": 16,
-      "previousRank": 4,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "642097030",
-      "name": "ComicShare - Streaming Reader",
-      "developer": "yoshitaka haneda",
-      "developerUrl": "https://apps.apple.com/vn/developer/yoshitaka-haneda/id642097033?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c6/02/88c602f9-e8e2-eb67-885a-a99a642e93e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/comicshare-streaming-reader/id642097030?uo=2",
-      "price": {
-        "amount": 119000,
-        "currency": "VND",
-        "formatted": "119.000đ"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "22 May 2013"
-    },
-    {
-      "rank": 17,
-      "previousRank": 16,
-      "rankChange": -1,
+      "previousRank": 17,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "352615816",
       "name": "Audiobooks - 5,239 Classics Ready to Listen",
@@ -398,9 +376,9 @@
       "releaseDate": "05 February 2010"
     },
     {
-      "rank": 18,
-      "previousRank": 17,
-      "rankChange": -1,
+      "rank": 17,
+      "previousRank": 18,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "387136454",
       "name": "MegaReader",
@@ -420,9 +398,9 @@
       "releaseDate": "28 August 2010"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "301201602",
       "name": "Self Help Classics .",
@@ -442,9 +420,31 @@
       "releaseDate": "10 January 2009"
     },
     {
+      "rank": 19,
+      "previousRank": 16,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "642097030",
+      "name": "ComicShare - Streaming Reader",
+      "developer": "yoshitaka haneda",
+      "developerUrl": "https://apps.apple.com/vn/developer/yoshitaka-haneda/id642097033?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c6/02/88c602f9-e8e2-eb67-885a-a99a642e93e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/comicshare-streaming-reader/id642097030?uo=2",
+      "price": {
+        "amount": 119000,
+        "currency": "VND",
+        "formatted": "119.000đ"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "22 May 2013"
+    },
+    {
       "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "395149950",
       "name": "BookBuddy Pro: Book Tracker",
@@ -465,8 +465,8 @@
     },
     {
       "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "961648591",
       "name": "Transformers Rescue Bots: Dino",
@@ -487,8 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "889580711",
       "name": "MP3 Audiobook Player Pro",
@@ -509,8 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 24,
-      "rankChange": 1,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "394275498",
       "name": "Bluefire Reader",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "317776727",
       "name": "Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library",
@@ -553,30 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 18,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "1496909206",
-      "name": "cMate-IMDG Code",
-      "developer": "Maxim Lukyanenko",
-      "developerUrl": "https://apps.apple.com/vn/developer/maxim-lukyanenko/id1496252741?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/45/71/7d457149-38c2-011f-4a13-3c089a250def/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/cmate-imdg-code/id1496909206?uo=2",
-      "price": {
-        "amount": 119000,
-        "currency": "VND",
-        "formatted": "119.000đ"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "29 January 2020"
-    },
-    {
-      "rank": 26,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1351831223",
       "name": "Komi Reader - TXT & PDF",
@@ -596,9 +574,9 @@
       "releaseDate": "02 March 2018"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1158762426",
       "name": "Trolls: Poppy's Party - Read and Sing-Along Book",
@@ -618,9 +596,9 @@
       "releaseDate": "26 October 2016"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1549608440",
       "name": "MotoJitsu",
@@ -638,6 +616,28 @@
         "name": "Books"
       },
       "releaseDate": "30 January 2021"
+    },
+    {
+      "rank": 28,
+      "previousRank": 25,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1496909206",
+      "name": "cMate-IMDG Code",
+      "developer": "Maxim Lukyanenko",
+      "developerUrl": "https://apps.apple.com/vn/developer/maxim-lukyanenko/id1496252741?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/45/71/7d457149-38c2-011f-4a13-3c089a250def/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/cmate-imdg-code/id1496909206?uo=2",
+      "price": {
+        "amount": 119000,
+        "currency": "VND",
+        "formatted": "119.000đ"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "29 January 2020"
     },
     {
       "rank": 29,
@@ -707,30 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 20,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "463474316",
-      "name": "The three_little_pigs",
-      "developer": "Digital Taps",
-      "developerUrl": "https://apps.apple.com/vn/developer/digital-taps/id338472059?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/1b/9e/8b1b9e57-157d-2a4f-d104-329599b2787e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/the-three-little-pigs/id463474316?uo=2",
-      "price": {
-        "amount": 29000,
-        "currency": "VND",
-        "formatted": "29.000đ"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "02 October 2011"
-    },
-    {
-      "rank": 33,
-      "previousRank": 32,
-      "rankChange": -1,
+      "previousRank": 33,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "418750972",
       "name": "두란노 성경&사전",
@@ -750,9 +728,9 @@
       "releaseDate": "15 February 2011"
     },
     {
-      "rank": 34,
-      "previousRank": 33,
-      "rankChange": -1,
+      "rank": 33,
+      "previousRank": 34,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1300717402",
       "name": "Nighty Night Forest",
@@ -772,9 +750,9 @@
       "releaseDate": "21 November 2017"
     },
     {
-      "rank": 35,
-      "previousRank": 34,
-      "rankChange": -1,
+      "rank": 34,
+      "previousRank": 35,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1017353772",
       "name": "My Little Pony: Rarity Chic",
@@ -794,9 +772,9 @@
       "releaseDate": "27 August 2015"
     },
     {
-      "rank": 36,
-      "previousRank": 35,
-      "rankChange": -1,
+      "rank": 35,
+      "previousRank": 36,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "860180350",
       "name": "MapleRead CE",
@@ -816,9 +794,31 @@
       "releaseDate": "28 May 2014"
     },
     {
+      "rank": 36,
+      "previousRank": 32,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "463474316",
+      "name": "The three_little_pigs",
+      "developer": "Digital Taps",
+      "developerUrl": "https://apps.apple.com/vn/developer/digital-taps/id338472059?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/1b/9e/8b1b9e57-157d-2a4f-d104-329599b2787e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/the-three-little-pigs/id463474316?uo=2",
+      "price": {
+        "amount": 29000,
+        "currency": "VND",
+        "formatted": "29.000đ"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "02 October 2011"
+    },
+    {
       "rank": 37,
-      "previousRank": 36,
-      "rankChange": -1,
+      "previousRank": 37,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1234382668",
       "name": "My Little Pony: The Movie",
@@ -839,8 +839,8 @@
     },
     {
       "rank": 38,
-      "previousRank": 37,
-      "rankChange": -1,
+      "previousRank": 38,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1065623382",
       "name": "Mr. Potato Head: School Rush",
@@ -861,8 +861,8 @@
     },
     {
       "rank": 39,
-      "previousRank": 38,
-      "rankChange": -1,
+      "previousRank": 39,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "523419125",
       "name": "DjVu Reader Pro - Viewer for djvu and pdf formats",
@@ -883,8 +883,8 @@
     },
     {
       "rank": 40,
-      "previousRank": 39,
-      "rankChange": -1,
+      "previousRank": 40,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "333441801",
       "name": "QuickReader - Speed Reading",
@@ -905,8 +905,8 @@
     },
     {
       "rank": 41,
-      "previousRank": 40,
-      "rankChange": -1,
+      "previousRank": 41,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017354785",
       "name": "Littlest Pet Shop: Pet Style",
@@ -927,8 +927,8 @@
     },
     {
       "rank": 42,
-      "previousRank": 41,
-      "rankChange": -1,
+      "previousRank": 42,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "361225439",
       "name": "eBook: Think and Grow Rich",
@@ -1037,30 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 42,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "924161750",
-      "name": "PLAY-DOH: Seek and Squish",
-      "developer": "PlayDate Digital",
-      "developerUrl": "https://apps.apple.com/vn/developer/playdate-digital/id652113715?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/de/4c/f2de4c22-3a4e-c8b2-b7dd-75ca249bf6b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/play-doh-seek-and-squish/id924161750?uo=2",
-      "price": {
-        "amount": 99000,
-        "currency": "VND",
-        "formatted": "99.000đ"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "20 November 2014"
-    },
-    {
-      "rank": 48,
-      "previousRank": 47,
-      "rankChange": -1,
+      "previousRank": 48,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1496865132",
       "name": "cMate-Ports Info",
@@ -1080,9 +1058,9 @@
       "releaseDate": "28 January 2020"
     },
     {
-      "rank": 49,
-      "previousRank": 48,
-      "rankChange": -1,
+      "rank": 48,
+      "previousRank": 49,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "949207089",
       "name": "Booklover - eBook Reader",
@@ -1102,9 +1080,9 @@
       "releaseDate": "06 January 2015"
     },
     {
-      "rank": 50,
-      "previousRank": 49,
-      "rankChange": -1,
+      "rank": 49,
+      "previousRank": 50,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "701084505",
       "name": "My Little Pony Party of One",
@@ -1124,9 +1102,9 @@
       "releaseDate": "17 September 2013"
     },
     {
-      "rank": 51,
-      "previousRank": 50,
-      "rankChange": -1,
+      "rank": 50,
+      "previousRank": 51,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1092653027",
       "name": "Fox in Socks by Dr. Seuss",
@@ -1146,9 +1124,9 @@
       "releaseDate": "07 February 2017"
     },
     {
-      "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
+      "rank": 51,
+      "previousRank": 52,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "855056309",
       "name": "Herbs in Magick",
@@ -1168,9 +1146,9 @@
       "releaseDate": "05 May 2014"
     },
     {
-      "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "rank": 52,
+      "previousRank": 53,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "572367360",
       "name": "Livres Audio HQ",
@@ -1190,9 +1168,9 @@
       "releaseDate": "13 February 2013"
     },
     {
-      "rank": 54,
-      "previousRank": 53,
-      "rankChange": -1,
+      "rank": 53,
+      "previousRank": 54,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "418102178",
       "name": "iBunkoS",
@@ -1212,9 +1190,9 @@
       "releaseDate": "25 February 2011"
     },
     {
-      "rank": 55,
-      "previousRank": 54,
-      "rankChange": -1,
+      "rank": 54,
+      "previousRank": 55,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "335582395",
       "name": "聖經 (繁體 和合本 真人朗讀發聲)(Cantonese)(粵語)",
@@ -1234,9 +1212,9 @@
       "releaseDate": "21 October 2009"
     },
     {
-      "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "rank": 55,
+      "previousRank": 56,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1511175212",
       "name": "Smart Comic Reader",
@@ -1256,9 +1234,9 @@
       "releaseDate": "28 October 2020"
     },
     {
-      "rank": 57,
-      "previousRank": 56,
-      "rankChange": -1,
+      "rank": 56,
+      "previousRank": 57,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1275266549",
       "name": "The Foot Book - Read & Learn",
@@ -1278,9 +1256,9 @@
       "releaseDate": "01 November 2017"
     },
     {
-      "rank": 58,
-      "previousRank": 57,
-      "rankChange": -1,
+      "rank": 57,
+      "previousRank": 58,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "547102438",
       "name": "N1 文字語彙・まとめ",
@@ -1300,9 +1278,9 @@
       "releaseDate": "13 August 2012"
     },
     {
-      "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
+      "rank": 58,
+      "previousRank": 59,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "526758956",
       "name": "Wicca Spellbook",
@@ -1322,9 +1300,9 @@
       "releaseDate": "10 June 2012"
     },
     {
-      "rank": 60,
-      "previousRank": 59,
-      "rankChange": -1,
+      "rank": 59,
+      "previousRank": 60,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "409467802",
       "name": "The Monster at the End...",
@@ -1344,9 +1322,9 @@
       "releaseDate": "21 December 2010"
     },
     {
-      "rank": 61,
-      "previousRank": 60,
-      "rankChange": -1,
+      "rank": 60,
+      "previousRank": 61,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "364871348",
       "name": "Jack and the Beanstalk Interactive Storybook",
@@ -1366,9 +1344,9 @@
       "releaseDate": "06 April 2010"
     },
     {
-      "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "rank": 61,
+      "previousRank": 62,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "304517588",
       "name": "Asia Wisdom Collection  - Universal App",
@@ -1388,9 +1366,9 @@
       "releaseDate": "12 February 2009"
     },
     {
-      "rank": 63,
-      "previousRank": 62,
-      "rankChange": -1,
+      "rank": 62,
+      "previousRank": 63,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1386148836",
       "name": "Interlinear Bible",
@@ -1410,9 +1388,9 @@
       "releaseDate": "23 July 2018"
     },
     {
-      "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "rank": 63,
+      "previousRank": 64,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1094664732",
       "name": "Dickens Books",
@@ -1432,9 +1410,9 @@
       "releaseDate": "14 April 2016"
     },
     {
-      "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "rank": 64,
+      "previousRank": 65,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "527050465",
       "name": "iBouquiniste",
@@ -1454,9 +1432,9 @@
       "releaseDate": "31 May 2012"
     },
     {
-      "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "rank": 65,
+      "previousRank": 66,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "405918513",
       "name": "Tarot & Runes: Wiccan Handbook",
@@ -1476,9 +1454,9 @@
       "releaseDate": "03 December 2010"
     },
     {
-      "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "rank": 66,
+      "previousRank": 67,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1497209844",
       "name": "cMate-SMCP IMO Phrases",
@@ -1498,9 +1476,9 @@
       "releaseDate": "30 January 2020"
     },
     {
-      "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
+      "rank": 67,
+      "previousRank": 68,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1497034214",
       "name": "cMate - MARPOL",
@@ -1520,9 +1498,9 @@
       "releaseDate": "29 January 2020"
     },
     {
-      "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "rank": 68,
+      "previousRank": 69,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1249497299",
       "name": "The Sneetches by Dr. Seuss",
@@ -1542,9 +1520,9 @@
       "releaseDate": "12 July 2017"
     },
     {
-      "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
+      "rank": 69,
+      "previousRank": 70,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1171440204",
       "name": "Transformers Rescue Bots",
@@ -1564,9 +1542,9 @@
       "releaseDate": "08 November 2017"
     },
     {
-      "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "rank": 70,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1099753733",
       "name": "Pango Comics",
@@ -1586,9 +1564,9 @@
       "releaseDate": "27 April 2016"
     },
     {
-      "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "rank": 71,
+      "previousRank": 72,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1092651841",
       "name": "Horton Hears a Who!",
@@ -1608,9 +1586,9 @@
       "releaseDate": "11 October 2016"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "rank": 72,
+      "previousRank": 73,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "989829373",
       "name": "Quran Plus - Islamic Calendar",
@@ -1630,9 +1608,9 @@
       "releaseDate": "26 June 2015"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "rank": 73,
+      "previousRank": 74,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "961648076",
       "name": "My Little Pony: Pinkie Pie's Sister",
@@ -1652,9 +1630,31 @@
       "releaseDate": "02 April 2015"
     },
     {
+      "rank": 74,
+      "previousRank": 47,
+      "rankChange": -27,
+      "isNew": false,
+      "appleId": "924161750",
+      "name": "PLAY-DOH: Seek and Squish",
+      "developer": "PlayDate Digital",
+      "developerUrl": "https://apps.apple.com/vn/developer/playdate-digital/id652113715?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/de/4c/f2de4c22-3a4e-c8b2-b7dd-75ca249bf6b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/play-doh-seek-and-squish/id924161750?uo=2",
+      "price": {
+        "amount": 99000,
+        "currency": "VND",
+        "formatted": "99.000đ"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "20 November 2014"
+    },
+    {
       "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "409177911",
       "name": "Cozmo's Day Off - Storybook",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1497367034",
       "name": "cMate-FSS Fire Safety Systems",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1497344373",
       "name": "LSA. Life-Saving Appliance",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1496856089",
       "name": "cMate-UN LOCODE",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1433927529",
       "name": "QOTD: Read, Scan & Save Quotes",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1261952293",
       "name": "iLovecraft 2 Immersive Reading",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1207605571",
       "name": "MBA SCM - SupplyChainManagemen",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1063366005",
       "name": "150 Must Read Books All Time !",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1011479119",
       "name": "Dr. Seuss's ABC - Read & Learn",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "852694885",
       "name": "My Little Pony: Fluttershy",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "624152311",
       "name": "Harvard Classics",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "555855736",
       "name": "N2 文字語彙問題集",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "551580603",
       "name": "BookTree: bookshelf & note",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 87,
-      "rankChange": -1,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "535820647",
       "name": "JLPT N3 文法のまとめ",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 88,
-      "rankChange": -1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "516047066",
       "name": "Frankenstein: Interactive",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "474121500",
       "name": "planetarian - Dream of Little Star -",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "392186848",
       "name": "Berenstain Bears - Golden Rule",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "372601049",
       "name": "Learn Tarot",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "295094302",
       "name": "ShortBook",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6754930845",
       "name": "蓝狐漫画 - 二次元必备追漫神器",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6473775926",
       "name": "바이블렉스 성경본문해석사전2",
@@ -2115,8 +2115,8 @@
     },
     {
       "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
+      "previousRank": 96,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6447301850",
       "name": "Watch Reader - txt file",
@@ -2137,8 +2137,8 @@
     },
     {
       "rank": 97,
-      "previousRank": 96,
-      "rankChange": -1,
+      "previousRank": 97,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1529716191",
       "name": "ListenBook Pro: book player",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-15",
-  "collectedAt": "2026-10-15T05:42:28.554Z",
-  "sourceUpdatedAt": "2026-10-14T22:42:27-07:00",
+  "snapshotDate": "2026-10-16",
+  "collectedAt": "2026-10-16T05:38:24.672Z",
+  "sourceUpdatedAt": "2026-10-15T22:38:24-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/au/rss/toppaidapplications/limit=100/genre=6011/json",
   "chartType": "paid",
@@ -17,33 +17,33 @@
     "name": "音乐"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-14",
+  "previousSnapshotDate": "2026-10-15",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
+      "previousRank": 10,
+      "rankChange": 9,
       "isNew": false,
-      "appleId": "298206806",
-      "name": "iReal Pro",
-      "developer": "Technimo LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/technimo-llc/id298206809?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/ac/be/2cacbea2-c6a6-ca28-7c40-1bf0d0368610/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/ireal-pro/id298206806?uo=2",
+      "appleId": "1449584007",
+      "name": "Koala Sampler • Beat Maker",
+      "developer": "Mazbox Limited",
+      "developerUrl": "https://apps.apple.com/au/developer/mazbox-limited/id329604853?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d0/19/92d01993-6fa4-f058-ab6b-45cfb9319cf1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/koala-sampler-beat-maker/id1449584007?uo=2",
       "price": {
-        "amount": 34.99,
+        "amount": 7.99,
         "currency": "AUD",
-        "formatted": "$34.99"
+        "formatted": "$7.99"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "02 Dec 2008"
+      "releaseDate": "28 Feb 2019"
     },
     {
       "rank": 2,
@@ -69,30 +69,52 @@
     },
     {
       "rank": 3,
-      "previousRank": 8,
-      "rankChange": 5,
+      "previousRank": 6,
+      "rankChange": 3,
       "isNew": false,
-      "appleId": "400666114",
-      "name": "Guitar Pro",
-      "developer": "Arobas Music",
-      "developerUrl": "https://apps.apple.com/au/developer/arobas-music/id400666117?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e2/70/e5e27069-dba9-a440-c279-85af5c9cd27b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/guitar-pro/id400666114?uo=2",
+      "appleId": "432850619",
+      "name": "FL Studio Mobile",
+      "developer": "Image Line Software",
+      "developerUrl": "https://apps.apple.com/au/developer/image-line-software/id432850147?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/fl-studio-mobile/id432850619?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 14.99,
         "currency": "AUD",
-        "formatted": "$9.99"
+        "formatted": "$14.99"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "15 Jan 2011"
+      "releaseDate": "21 Jun 2011"
     },
     {
       "rank": 4,
+      "previousRank": 1,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "298206806",
+      "name": "iReal Pro",
+      "developer": "Technimo LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/technimo-llc/id298206809?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/ac/be/2cacbea2-c6a6-ca28-7c40-1bf0d0368610/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/ireal-pro/id298206806?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "AUD",
+        "formatted": "$34.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "02 Dec 2008"
+    },
+    {
+      "rank": 5,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "427362797",
       "name": "Warm Me Up!",
@@ -112,8 +134,30 @@
       "releaseDate": "31 Mar 2011"
     },
     {
-      "rank": 5,
-      "previousRank": 3,
+      "rank": 6,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6802013758",
+      "name": "Undersong",
+      "developer": "ian johnston",
+      "developerUrl": "https://apps.apple.com/au/developer/ian-johnston/id1886071653?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/undersong/id6802013758?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "15 Oct 2026"
+    },
+    {
+      "rank": 7,
+      "previousRank": 5,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1633243177",
@@ -134,16 +178,60 @@
       "releaseDate": "18 Oct 2022"
     },
     {
-      "rank": 6,
-      "previousRank": 6,
-      "rankChange": 0,
+      "rank": 8,
+      "previousRank": 19,
+      "rankChange": 11,
       "isNew": false,
-      "appleId": "432850619",
-      "name": "FL Studio Mobile",
-      "developer": "Image Line Software",
-      "developerUrl": "https://apps.apple.com/au/developer/image-line-software/id432850147?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/fl-studio-mobile/id432850619?uo=2",
+      "appleId": "6746699177",
+      "name": "Lysoniq",
+      "developer": "Tim Fagan",
+      "developerUrl": "https://apps.apple.com/au/developer/tim-fagan/id1750065373?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/6e/bd/3c6ebd2b-2654-4a54-ca85-b2978e48a2f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/lysoniq/id6746699177?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "AUD",
+        "formatted": "$22.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "22 Jul 2025"
+    },
+    {
+      "rank": 9,
+      "previousRank": 26,
+      "rankChange": 17,
+      "isNew": false,
+      "appleId": "6794137719",
+      "name": "Super 606 Drums - Drum Machine",
+      "developer": "AudioKit Pro",
+      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a9/08/1da90883-ba7c-4f91-3a29-8ba70dbdfad8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/super-606-drums-drum-machine/id6794137719?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "25 Aug 2026"
+    },
+    {
+      "rank": 10,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6782250723",
+      "name": "Best Friend for K.O. II",
+      "developer": "Brian Holt",
+      "developerUrl": "https://apps.apple.com/au/developer/brian-holt/id6782250725?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/69/e6/9f69e6fa-b5a3-3eee-4310-a9ef8373b8f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/best-friend-for-k-o-ii/id6782250723?uo=2",
       "price": {
         "amount": 14.99,
         "currency": "AUD",
@@ -153,34 +241,78 @@
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "21 Jun 2011"
+      "releaseDate": "02 Jul 2026"
     },
     {
-      "rank": 7,
-      "previousRank": 7,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "497716362",
-      "name": "TonalEnergy Tuner & Metronome",
-      "developer": "TonalEnergy, Inc",
-      "developerUrl": "https://apps.apple.com/au/developer/tonalenergy-inc/id1448604955?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/66/4b/d0664b44-47f6-bc30-6c32-58d8592299cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tonalenergy-tuner-metronome/id497716362?uo=2",
+      "rank": 11,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "815251931",
+      "name": "SonoPhone for Sonos",
+      "developer": "Stefan Hansel Solutions UG (haftungsbeschraenkt)",
+      "developerUrl": "https://apps.apple.com/au/developer/stefan-hansel-solutions-ug-haftungsbeschraenkt/id380003008?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/a1/bf/2ea1bf90-44d1-8616-058d-693e50199fac/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/sonophone-for-sonos/id815251931?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 5.99,
         "currency": "AUD",
-        "formatted": "$9.99"
+        "formatted": "$5.99"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "17 Feb 2012"
+      "releaseDate": "18 Feb 2014"
     },
     {
-      "rank": 8,
-      "previousRank": 24,
-      "rankChange": 16,
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "464787055",
+      "name": "Onyx: Pitch Pipe",
+      "developer": "forScore LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/forscore-llc/id797590287?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/a5/2e/79a52e63-891c-c560-03ae-83f6d17ad0f0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/onyx-pitch-pipe/id464787055?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "30 Sep 2011"
+    },
+    {
+      "rank": 13,
+      "previousRank": 18,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "459313476",
+      "name": "Tenuto",
+      "developer": "musictheory.net",
+      "developerUrl": "https://apps.apple.com/au/developer/musictheory-net/id459313479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/32/65/7f326508-2494-1e8f-7c26-f0a448a8ae2d/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tenuto/id459313476?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "30 Aug 2011"
+    },
+    {
+      "rank": 14,
+      "previousRank": 8,
+      "rankChange": -6,
       "isNew": false,
       "appleId": "286799607",
       "name": "Cleartune",
@@ -200,9 +332,9 @@
       "releaseDate": "13 Feb 2019"
     },
     {
-      "rank": 9,
-      "previousRank": 30,
-      "rankChange": 21,
+      "rank": 15,
+      "previousRank": 9,
+      "rankChange": -6,
       "isNew": false,
       "appleId": "6777792345",
       "name": "Blueprint 4-Track",
@@ -222,96 +354,8 @@
       "releaseDate": "17 Jul 2026"
     },
     {
-      "rank": 10,
-      "previousRank": 10,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1449584007",
-      "name": "Koala Sampler • Beat Maker",
-      "developer": "Mazbox Limited",
-      "developerUrl": "https://apps.apple.com/au/developer/mazbox-limited/id329604853?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d0/19/92d01993-6fa4-f058-ab6b-45cfb9319cf1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/koala-sampler-beat-maker/id1449584007?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "28 Feb 2019"
-    },
-    {
-      "rank": 11,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "571863178",
-      "name": "AudioStretch",
-      "developer": "Cognosonic Pte Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/cognosonic-pte-ltd/id571863181?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/74/91/117491a6-e087-6277-2ab7-00723ad95568/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/audiostretch/id571863178?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "01 Nov 2012"
-    },
-    {
-      "rank": 12,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6790872345",
-      "name": "MetroTimer Pro",
-      "developer": "ONYX Apps",
-      "developerUrl": "https://apps.apple.com/au/developer/onyx-apps/id356553882?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/66/7d/ba667dd0-c8d0-bd7a-7d13-7c70e0957b5e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/metrotimer-pro/id6790872345?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Jul 2026"
-    },
-    {
-      "rank": 13,
-      "previousRank": 5,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "6781631808",
-      "name": "NostalgicPod",
-      "developer": "Jesus manuel Curreri",
-      "developerUrl": "https://apps.apple.com/au/developer/jesus-manuel-curreri/id6781631810?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/a8/b5/45a8b5ae-9594-20a0-a965-44aecb53af7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/nostalgicpod/id6781631808?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Oct 2026"
-    },
-    {
-      "rank": 14,
-      "previousRank": 12,
+      "rank": 16,
+      "previousRank": 14,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1083801827",
@@ -332,16 +376,16 @@
       "releaseDate": "17 Jun 2016"
     },
     {
-      "rank": 15,
-      "previousRank": 14,
-      "rankChange": -1,
+      "rank": 17,
+      "previousRank": 3,
+      "rankChange": -14,
       "isNew": false,
-      "appleId": "6763518834",
-      "name": "NaviBeat",
-      "developer": "Nenad Jokic",
-      "developerUrl": "https://apps.apple.com/au/developer/nenad-jokic/id1895353961?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/b3/87/2eb387e6-60cb-e294-3378-5487349d52c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/navibeat/id6763518834?uo=2",
+      "appleId": "400666114",
+      "name": "Guitar Pro",
+      "developer": "Arobas Music",
+      "developerUrl": "https://apps.apple.com/au/developer/arobas-music/id400666117?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e2/70/e5e27069-dba9-a440-c279-85af5c9cd27b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/guitar-pro/id400666114?uo=2",
       "price": {
         "amount": 9.99,
         "currency": "AUD",
@@ -351,760 +395,12 @@
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "22 May 2026"
-    },
-    {
-      "rank": 16,
-      "previousRank": 23,
-      "rankChange": 7,
-      "isNew": false,
-      "appleId": "325307477",
-      "name": "AudioTools, dB, Sound & Audio",
-      "developer": "Andrew Smith",
-      "developerUrl": "https://apps.apple.com/au/developer/andrew-smith/id291822462?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/37/58/163758f3-4a9b-3529-a923-02b79345aba4/AudioTools_Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/audiotools-db-sound-audio/id325307477?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "08 Sep 2009"
-    },
-    {
-      "rank": 17,
-      "previousRank": 9,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "308296029",
-      "name": "iStroboSoft",
-      "developer": "Peterson Tuners",
-      "developerUrl": "https://apps.apple.com/au/developer/peterson-tuners/id308296032?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/a1/ce/95a1ce0c-5ffc-e6b2-2acd-af171e24c3fe/AppIcon-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/istrobosoft/id308296029?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "31 Mar 2009"
+      "releaseDate": "15 Jan 2011"
     },
     {
       "rank": 18,
-      "previousRank": 11,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "459313476",
-      "name": "Tenuto",
-      "developer": "musictheory.net",
-      "developerUrl": "https://apps.apple.com/au/developer/musictheory-net/id459313479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/32/65/7f326508-2494-1e8f-7c26-f0a448a8ae2d/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tenuto/id459313476?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "30 Aug 2011"
-    },
-    {
-      "rank": 19,
-      "previousRank": 59,
-      "rankChange": 40,
-      "isNew": false,
-      "appleId": "6746699177",
-      "name": "Lysoniq",
-      "developer": "Tim Fagan",
-      "developerUrl": "https://apps.apple.com/au/developer/tim-fagan/id1750065373?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/6e/bd/3c6ebd2b-2654-4a54-ca85-b2978e48a2f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/lysoniq/id6746699177?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AUD",
-        "formatted": "$22.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 Jul 2025"
-    },
-    {
-      "rank": 20,
-      "previousRank": 69,
-      "rankChange": 49,
-      "isNew": false,
-      "appleId": "6446786448",
-      "name": "WatchAudio",
-      "developer": "Atlum Limited",
-      "developerUrl": "https://apps.apple.com/au/developer/atlum-limited/id1508897591?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/37/e5/e337e5d7-dfee-a760-e5d4-46287034fc9b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/watchaudio/id6446786448?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Oct 2023"
-    },
-    {
-      "rank": 21,
-      "previousRank": 77,
-      "rankChange": 56,
-      "isNew": false,
-      "appleId": "1210584625",
-      "name": "Audyssey MultEQ Editor app",
-      "developer": "D&M Holdings",
-      "developerUrl": "https://apps.apple.com/au/developer/d-m-holdings/id388608883?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/audyssey-multeq-editor-app/id1210584625?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "03 Apr 2017"
-    },
-    {
-      "rank": 22,
-      "previousRank": 94,
-      "rankChange": 72,
-      "isNew": false,
-      "appleId": "1537057699",
-      "name": "Solo - Fretboard Visualization",
-      "developer": "Trio Software Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/trio-software-ltd/id1537057701?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/14/fe/bd14fe8e-d5d6-14b5-b093-39195006e269/AppIcon-1-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/solo-fretboard-visualization/id1537057699?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "01 Jan 2021"
-    },
-    {
-      "rank": 23,
-      "previousRank": 95,
-      "rankChange": 72,
-      "isNew": false,
-      "appleId": "1212118228",
-      "name": "OnPitch - Vocal Pitch Monitor",
-      "developer": "Alena Kucharenka",
-      "developerUrl": "https://apps.apple.com/au/developer/alena-kucharenka/id1212118227?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/5f/a9/c45fa9ef-c552-6cd6-8e84-713ddce50e69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/onpitch-vocal-pitch-monitor/id1212118228?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "11 Mar 2017"
-    },
-    {
-      "rank": 24,
-      "previousRank": 99,
-      "rankChange": 75,
-      "isNew": false,
-      "appleId": "1469365718",
-      "name": "Drambo",
-      "developer": "BeepStreet",
-      "developerUrl": "https://apps.apple.com/au/developer/beepstreet/id321412321?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d0/58/74d058f8-1433-72fc-96e4-c0771e80c356/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/drambo/id1469365718?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "AUD",
-        "formatted": "$39.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "01 Apr 2020"
-    },
-    {
-      "rank": 25,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1628299461",
-      "name": "Mini Piano Pro",
-      "developer": "Umito",
-      "developerUrl": "https://apps.apple.com/au/developer/umito/id430249452?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/82/a5/d382a546-e631-071b-c6fd-30cd7410e926/ModernAppIconPro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/mini-piano-pro/id1628299461?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "07 Jun 2022"
-    },
-    {
-      "rank": 26,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6794137719",
-      "name": "Super 606 Drums - Drum Machine",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a9/08/1da90883-ba7c-4f91-3a29-8ba70dbdfad8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/super-606-drums-drum-machine/id6794137719?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "25 Aug 2026"
-    },
-    {
-      "rank": 27,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "467923185",
-      "name": "Loopy HD: Looper",
-      "developer": "A Tasty Pixel",
-      "developerUrl": "https://apps.apple.com/au/developer/a-tasty-pixel/id300257827?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/a5/c2/c4a5c2c2-57f5-1c0f-a59c-a225e596ea0b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/loopy-hd-looper/id467923185?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 Oct 2011"
-    },
-    {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1413887036",
-      "name": "iMPC Pro 2 for iPhone",
-      "developer": "Akai Professional",
-      "developerUrl": "https://apps.apple.com/au/developer/akai-professional/id373969727?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/7e/b0/bd7eb077-b9c3-6d01-b33d-311e33bd00fd/iMPC_Pro_2_iPhone_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/impc-pro-2-for-iphone/id1413887036?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "10 Dec 2018"
-    },
-    {
-      "rank": 29,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "655607914",
-      "name": "Drumtune PRO | Drum Tuner",
-      "developer": "EXALTD CO., Limited",
-      "developerUrl": "https://apps.apple.com/au/developer/exaltd-co-limited/id1554472750?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/a6/e4/e9a6e47c-833d-e3aa-d30a-a4f8104e34ca/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/drumtune-pro-drum-tuner/id655607914?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "AUD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Jun 2013"
-    },
-    {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "326115058",
-      "name": "iTanpura",
-      "developer": "Prasad Upasani",
-      "developerUrl": "https://apps.apple.com/au/developer/prasad-upasani/id326115061?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/8a/64/d18a64b1-8f93-e0c8-650c-19e0e0ee1924/AppIcon-1x_U007emarketing-0-6-0-85-220-0.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/itanpura/id326115058?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "15 Aug 2009"
-    },
-    {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "766858884",
-      "name": "Neutron Music Player",
-      "developer": "Neutron Code Limited",
-      "developerUrl": "https://apps.apple.com/au/developer/neutron-code-limited/id766858887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/81/ea/da81eac9-431e-c6c3-70ed-1fb8f4d489ef/AppIconMP-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/neutron-music-player/id766858884?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "AUD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Dec 2013"
-    },
-    {
-      "rank": 32,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "393624808",
-      "name": "iWriteMusic",
-      "developer": "iWriteMusicProject",
-      "developerUrl": "https://apps.apple.com/au/developer/iwritemusicproject/id393551666?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/9b/26/749b26cd-2b19-715c-26de-0123a595b9b8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/iwritemusic/id393624808?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "27 Sep 2010"
-    },
-    {
-      "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1128501763",
-      "name": "bedr Pro alarm clock radio",
-      "developer": "Chung Truong",
-      "developerUrl": "https://apps.apple.com/au/developer/chung-truong/id1053241117?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/2a/07/1f2a078f-4b94-e9e7-da22-faa96a73cacc/AppIcon-Pro-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/bedr-pro-alarm-clock-radio/id1128501763?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "09 Sep 2016"
-    },
-    {
-      "rank": 34,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6756800933",
-      "name": "Super J8 Synth + AUv3",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6e/f4/0f6ef4c7-6762-d59f-8b59-e79d75b51411/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/super-j8-synth-auv3/id6756800933?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Feb 2026"
-    },
-    {
-      "rank": 35,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "418862562",
-      "name": "Talanome - Carnatic Metronome",
-      "developer": "Upbeat Labs",
-      "developerUrl": "https://apps.apple.com/au/developer/upbeat-labs/id418862565?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5f/02/325f02a6-a7c5-aaf7-5a11-e12ff51a0d7c/AppIcon-0-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/talanome-carnatic-metronome/id418862562?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 Feb 2011"
-    },
-    {
-      "rank": 36,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1274790633",
-      "name": "Bagpipes - Scottish Bagpipes",
-      "developer": "Michael Eskin",
-      "developerUrl": "https://apps.apple.com/au/developer/michael-eskin/id342739369?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/8e/9e/a18e9e9c-8deb-77ea-1b12-6fd45eeac425/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-1.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/bagpipes-scottish-bagpipes/id1274790633?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "AUD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "25 Aug 2017"
-    },
-    {
-      "rank": 37,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1545448277",
-      "name": "SonoWatch",
-      "developer": "Northmind AB",
-      "developerUrl": "https://apps.apple.com/au/developer/northmind-ab/id1498488209?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/3f/25/e73f256e-5fa3-3170-bf28-22708431efb4/AppIcon-NormalApp-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/sonowatch/id1545448277?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "AUD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "01 Nov 2021"
-    },
-    {
-      "rank": 38,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "560078788",
-      "name": "The Orchestra",
-      "developer": "NatureGuides Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/natureguides-ltd/id310574314?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/7f/04/397f042e-651c-af19-92cd-f59ab216b4e9/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/the-orchestra/id560078788?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 Dec 2012"
-    },
-    {
-      "rank": 39,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6803005934",
-      "name": "Shakuhachi SRS",
-      "developer": "Konrad Fijalkowski",
-      "developerUrl": "https://apps.apple.com/au/developer/konrad-fijalkowski/id6802775913?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b1/82/0fb182bf-58dc-2b15-b5e0-1e9dea95ef0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/shakuhachi-srs/id6803005934?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "21 Aug 2026"
-    },
-    {
-      "rank": 40,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6798428602",
-      "name": "DJMesh",
-      "developer": "Karl Rafael Yankovic Capdeville",
-      "developerUrl": "https://apps.apple.com/au/developer/karl-rafael-yankovic-capdeville/id6798428604?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/6f/3d/646f3d82-dbb7-5b6d-3ddc-12e6bfd93985/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/djmesh/id6798428602?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "AUD",
-        "formatted": "$39.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 Oct 2026"
-    },
-    {
-      "rank": 41,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6788140771",
-      "name": "Wake: Sound Activated Recorder",
-      "developer": "Elijah Lucian",
-      "developerUrl": "https://apps.apple.com/au/developer/elijah-lucian/id1881481954?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/d2/53/a3d2532f-527b-75fc-110f-697ab2e71d80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/wake-sound-activated-recorder/id6788140771?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "21 Sep 2026"
-    },
-    {
-      "rank": 42,
-      "previousRank": 13,
-      "rankChange": -29,
-      "isNew": false,
-      "appleId": "368169363",
-      "name": "Tempo Advance - Metronome",
-      "developer": "Frozen Ape Pte. Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/frozen-ape-pte-ltd/id304731504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/6b/94/966b94e7-6c2a-3414-96ac-2ce1a1dd2125/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tempo-advance-metronome/id368169363?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Apr 2010"
-    },
-    {
-      "rank": 43,
-      "previousRank": 15,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "1447768809",
-      "name": "Marvis Pro",
-      "developer": "Aditya Rajveer",
-      "developerUrl": "https://apps.apple.com/au/developer/aditya-rajveer/id882719699?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/80/7e/4c807e52-3918-1e11-85b2-e694f313316d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/marvis-pro/id1447768809?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "14 Feb 2019"
-    },
-    {
-      "rank": 44,
-      "previousRank": 16,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "954982733",
-      "name": "Tuner T1 Pro",
-      "developer": "Bijoy Thangaraj",
-      "developerUrl": "https://apps.apple.com/au/developer/bijoy-thangaraj/id453056920?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/09/f8/2a09f826-27f4-7abf-ccd4-9d62d3a457ff/AppIcon-T1-Pro-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tuner-t1-pro/id954982733?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "20 Jan 2015"
-    },
-    {
-      "rank": 45,
-      "previousRank": 17,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "6810750563",
-      "name": "Porthole Audio",
-      "developer": "Feras Alnatsheh",
-      "developerUrl": "https://apps.apple.com/au/developer/feras-alnatsheh/id1150939919?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ff/55/5aff553c-6b5b-da32-d181-dc0822ce5223/Porthole-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/porthole-audio/id6810750563?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "17 Sep 2026"
-    },
-    {
-      "rank": 46,
-      "previousRank": 18,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "1569996730",
-      "name": "TouchOSC",
-      "developer": "Hexler LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/hexler-llc/id1569922581?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/79/d1/6779d17e-c1d2-a334-c12f-c1a5bbea8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/touchosc/id1569996730?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 Jun 2021"
-    },
-    {
-      "rank": 47,
-      "previousRank": 19,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "6466678799",
-      "name": "WatchCloud: SoundCloud Player",
-      "developer": "Ryan Forsyth",
-      "developerUrl": "https://apps.apple.com/au/developer/ryan-forsyth/id1486027180?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/07/60/880760a0-6392-96aa-5295-fbef88caf884/Icon-0-0-1x_U007ephone-0-1-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/watchcloud-soundcloud-player/id6466678799?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "19 Sep 2023"
-    },
-    {
-      "rank": 48,
-      "previousRank": 20,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "6801559083",
-      "name": "Idle Dial",
-      "developer": "RUNX LTD",
-      "developerUrl": "https://apps.apple.com/au/developer/runx-ltd/id6801559085?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/72/7e/37727e59-7374-d054-87e8-d0cd6b8b4ce1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/idle-dial/id6801559083?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "29 Sep 2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 21,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "6780613102",
-      "name": "Electric Phantoms: LUMA",
-      "developer": "Christopher Morrison",
-      "developerUrl": "https://apps.apple.com/au/developer/christopher-morrison/id6780613104?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d5/46/34d54661-5330-c384-f5ab-0b7a9b3f8b81/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/electric-phantoms-luma/id6780613102?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "07 Jul 2026"
-    },
-    {
-      "rank": 50,
-      "previousRank": 25,
-      "rankChange": -25,
+      "previousRank": 50,
+      "rankChange": 32,
       "isNew": false,
       "appleId": "363738376",
       "name": "forScore",
@@ -1124,163 +420,9 @@
       "releaseDate": "09 Apr 2010"
     },
     {
-      "rank": 51,
-      "previousRank": 26,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "6761787638",
-      "name": "Fields - Audio Recorder",
-      "developer": "AudioThing Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/audiothing-ltd/id1659941236?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/51/04/6951042e-be34-5876-db83-ec194af05da0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/fields-audio-recorder/id6761787638?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Jun 2026"
-    },
-    {
-      "rank": 52,
-      "previousRank": 27,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "308998718",
-      "name": "Amazing Slow Downer",
-      "developer": "Roni Music",
-      "developerUrl": "https://apps.apple.com/au/developer/roni-music/id308998721?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/95/85/27958526-a8a0-1afa-355f-9dab054feefa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/amazing-slow-downer/id308998718?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AUD",
-        "formatted": "$22.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "26 Mar 2009"
-    },
-    {
-      "rank": 53,
-      "previousRank": 29,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "284972998",
-      "name": "SoundHound∞ Music Discovery",
-      "developer": "SoundHound, Inc.",
-      "developerUrl": "https://apps.apple.com/au/developer/soundhound-inc/id284973001?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/fe/2a/0dfe2af7-87d1-bd54-814d-03ac72ee7efc/AppIcon-Inf-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/soundhound-music-discovery/id284972998?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Feb 2019"
-    },
-    {
-      "rank": 54,
-      "previousRank": 28,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "1620569987",
-      "name": "MobileSheets®",
-      "developer": "Michael Zuber",
-      "developerUrl": "https://apps.apple.com/au/developer/michael-zuber/id1620569989?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/mobilesheets/id1620569987?uo=2",
-      "price": {
-        "amount": 24.99,
-        "currency": "AUD",
-        "formatted": "$24.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "16 Dec 2022"
-    },
-    {
-      "rank": 55,
-      "previousRank": 31,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "493157418",
-      "name": "Theory Lessons",
-      "developer": "musictheory.net",
-      "developerUrl": "https://apps.apple.com/au/developer/musictheory-net/id459313479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/theory-lessons/id493157418?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "16 Jan 2012"
-    },
-    {
-      "rank": 56,
-      "previousRank": 32,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "338977566",
-      "name": "ThumbJam",
-      "developer": "Sonosaurus LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/sonosaurus-llc/id338977569?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/6c/18/d96c188d-d130-ce87-7caf-1162712626f2/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/thumbjam/id338977566?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "14 Dec 2009"
-    },
-    {
-      "rank": 57,
-      "previousRank": 33,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "635644097",
-      "name": "Tuner by Piascore",
-      "developer": "Piascore, Inc.",
-      "developerUrl": "https://apps.apple.com/au/developer/piascore-inc/id406133802?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a3/d7/f6a3d7e1-8542-d46b-63d7-26cd6f679a71/PATuner-AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tuner-by-piascore/id635644097?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Apr 2013"
-    },
-    {
-      "rank": 58,
-      "previousRank": 34,
-      "rankChange": -24,
+      "rank": 19,
+      "previousRank": 58,
+      "rankChange": 39,
       "isNew": false,
       "appleId": "518086179",
       "name": "PercussionTutor",
@@ -1300,449 +442,9 @@
       "releaseDate": "20 Apr 2012"
     },
     {
-      "rank": 59,
-      "previousRank": 35,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "344920107",
-      "name": "MusicTools Music Dictionary",
-      "developer": "OnStage Technologies, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/onstage-technologies-llc/id344920110?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/64/c8/5464c8c3-c0a3-3cb8-e5d5-612593c4be4f/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/musictools-music-dictionary/id344920107?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "16 Dec 2009"
-    },
-    {
-      "rank": 60,
-      "previousRank": 36,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "579995876",
-      "name": "iEQ",
-      "developer": "Engineered Stuff",
-      "developerUrl": "https://apps.apple.com/au/developer/engineered-stuff/id383720996?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/42/45/2e/42452e8e-2c4c-641d-5974-26454ba7b922/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/ieq/id579995876?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 Dec 2012"
-    },
-    {
-      "rank": 61,
-      "previousRank": 37,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6749867472",
-      "name": "VIRAL Synth 2: T2x | AUv3",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ea/94/f8ea94c2-aef4-c680-ee62-b696b440dd00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/viral-synth-2-t2x-auv3/id6749867472?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "25 Sep 2025"
-    },
-    {
-      "rank": 62,
-      "previousRank": 38,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "789621046",
-      "name": "Speedy Note: Treble Clef",
-      "developer": "Brian Hughes",
-      "developerUrl": "https://apps.apple.com/au/developer/brian-hughes/id789621049?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/c0/d1/d7c0d18b-3972-faec-ea94-6bb088b895d7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/speedy-note-treble-clef/id789621046?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "07 Jan 2014"
-    },
-    {
-      "rank": 63,
-      "previousRank": 39,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1601556396",
-      "name": "FloatingPlayer: Music Player",
-      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
-      "developerUrl": "https://apps.apple.com/au/developer/innovative-digital-technologies-limited/id1331216448?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/44/4e/7c444e6f-2938-f268-d6f3-0bc703344213/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/floatingplayer-music-player/id1601556396?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "02 Jan 2022"
-    },
-    {
-      "rank": 64,
-      "previousRank": 40,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6476902290",
-      "name": "Handy Guitar Lab for MS-70CDR+",
-      "developer": "ZOOM Corporation",
-      "developerUrl": "https://apps.apple.com/au/developer/zoom-corporation/id566291782?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/01/f3/2d01f3d8-eafd-a35b-06b5-5827f39fd213/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/handy-guitar-lab-for-ms-70cdr/id6476902290?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "AUD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 Apr 2024"
-    },
-    {
-      "rank": 65,
-      "previousRank": 41,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1390797126",
-      "name": "DefleMask Mobile",
-      "developer": "Leonardo Demartino",
-      "developerUrl": "https://apps.apple.com/au/developer/leonardo-demartino/id1390797125?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/1f/fb/c41ffbec-14db-e83e-fa18-92c829842c96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/deflemask-mobile/id1390797126?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "21 Apr 2019"
-    },
-    {
-      "rank": 66,
-      "previousRank": 42,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1514964461",
-      "name": "Partifier: extract score parts",
-      "developer": "Symphonic Hub Sociedad Limitada",
-      "developerUrl": "https://apps.apple.com/au/developer/symphonic-hub-sociedad-limitada/id495844311?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/48/c4/1548c4b7-1bc3-e045-b35e-403ab1caaec7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/partifier-extract-score-parts/id1514964461?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Jul 2020"
-    },
-    {
-      "rank": 67,
-      "previousRank": 43,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6749232577",
-      "name": "Salsa Rhythms - BeatLab",
-      "developer": "Ideatic Development",
-      "developerUrl": "https://apps.apple.com/au/developer/ideatic-development/id1083570912?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/63/59/c7635940-3df1-3f29-29f7-b8746ff0b558/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/salsa-rhythms-beatlab/id6749232577?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "28 Jul 2025"
-    },
-    {
-      "rank": 68,
-      "previousRank": 44,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6752775853",
-      "name": "B00GA - Microsound Sequencer",
-      "developer": "AudioThing Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/audiothing-ltd/id1659941236?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/e8/75/b7e8751d-ac61-28da-d56e-ffc7fdda8354/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/b00ga-microsound-sequencer/id6752775853?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "AUD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "17 Nov 2025"
-    },
-    {
-      "rank": 69,
-      "previousRank": 45,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6447353824",
-      "name": "AudioScope",
-      "developer": "4Pockets.com",
-      "developerUrl": "https://apps.apple.com/au/developer/4pockets-com/id370131860?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9c/7f/6f9c7fdd-c8a0-f718-c76a-88f1d172979d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/audioscope/id6447353824?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "24 Apr 2023"
-    },
-    {
-      "rank": 70,
-      "previousRank": 46,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "608066881",
-      "name": "Rap Beat Maker - Drum Pads",
-      "developer": "Cosey Management LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/cosey-management-llc/id504404928?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/96/0a/c5960a83-f5b5-0e3a-5e58-cfc87479e914/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/rap-beat-maker-drum-pads/id608066881?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "08 Mar 2013"
-    },
-    {
-      "rank": 71,
-      "previousRank": 47,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6757296278",
-      "name": "Latin Rhythm",
-      "developer": "District One Mobile, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/district-one-mobile-llc/id812513884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/40/d9/c340d97c-6c76-c4f1-3f60-4eb8728da6c3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/latin-rhythm/id6757296278?uo=2",
-      "price": {
-        "amount": 4.49,
-        "currency": "AUD",
-        "formatted": "$4.49"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "14 Sep 2026"
-    },
-    {
-      "rank": 72,
-      "previousRank": 48,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6792924326",
-      "name": "Worship Drummer: Metronome",
-      "developer": "CC APPS PTY LTD",
-      "developerUrl": "https://apps.apple.com/au/developer/cc-apps-pty-ltd/id662543159?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/62/77/e26277b3-9e7c-b3ad-6a28-81b2b030a0de/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/worship-drummer-metronome/id6792924326?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "20 Aug 2026"
-    },
-    {
-      "rank": 73,
-      "previousRank": 49,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6775795973",
-      "name": "AumChord",
-      "developer": "Mika Edelijn",
-      "developerUrl": "https://apps.apple.com/au/developer/mika-edelijn/id6775541086?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/aumchord/id6775795973?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Oct 2026"
-    },
-    {
-      "rank": 74,
-      "previousRank": 50,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6751143237",
-      "name": "SplitFire: AI Audio Separator",
-      "developer": "Splitfire AB",
-      "developerUrl": "https://apps.apple.com/au/developer/splitfire-ab/id1831430993?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ad/73/37ad73de-47b1-1e43-8a28-d73f9534a86f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/splitfire-ai-audio-separator/id6751143237?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "21 Aug 2025"
-    },
-    {
-      "rank": 75,
-      "previousRank": 22,
-      "rankChange": -53,
-      "isNew": false,
-      "appleId": "608540795",
-      "name": "Tunable – Tuner & Metronome",
-      "developer": "AffinityBlue",
-      "developerUrl": "https://apps.apple.com/au/developer/affinityblue/id428440807?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tunable-tuner-metronome/id608540795?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "27 Mar 2013"
-    },
-    {
-      "rank": 76,
-      "previousRank": 51,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "1495152002",
-      "name": "Longplay",
-      "developer": "Adrian Schoenig",
-      "developerUrl": "https://apps.apple.com/au/developer/adrian-schoenig/id1004508517?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/fa/41/2bfa4108-2084-8aef-34c2-49daf30270cf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/longplay/id1495152002?uo=2",
-      "price": {
-        "amount": 11.99,
-        "currency": "AUD",
-        "formatted": "$11.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "18 Aug 2020"
-    },
-    {
-      "rank": 77,
-      "previousRank": 52,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "337350026",
-      "name": "iTablaPro",
-      "developer": "Prasad Upasani",
-      "developerUrl": "https://apps.apple.com/au/developer/prasad-upasani/id326115061?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/2c/d7/c42cd776-ef36-7f4c-cdbd-e67988777263/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/itablapro/id337350026?uo=2",
-      "price": {
-        "amount": 49.99,
-        "currency": "AUD",
-        "formatted": "$49.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "18 Dec 2009"
-    },
-    {
-      "rank": 78,
-      "previousRank": 75,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "319295332",
-      "name": "TuneIn Radio: Music & Sports",
-      "developer": "TuneIn",
-      "developerUrl": "https://apps.apple.com/au/developer/tunein/id319295335?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/36/ad/a836ad66-080f-a339-fbb3-9569b52f9ca5/AppIconPro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tunein-radio-music-sports/id319295332?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "03 Sep 2009"
-    },
-    {
-      "rank": 79,
-      "previousRank": 54,
-      "rankChange": -25,
+      "rank": 20,
+      "previousRank": 79,
+      "rankChange": 59,
       "isNew": false,
       "appleId": "1569230213",
       "name": "Tuner",
@@ -1762,16 +464,104 @@
       "releaseDate": "04 Jun 2021"
     },
     {
-      "rank": 80,
-      "previousRank": 55,
-      "rankChange": -25,
+      "rank": 21,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "967043604",
+      "name": "SonoSequencr",
+      "developer": "Marcus Pleintinger",
+      "developerUrl": "https://apps.apple.com/au/developer/marcus-pleintinger/id938374594?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/04/e0/e904e0ae-de58-d5a9-700c-8c2c0fa69a41/AppIcon-18-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/sonosequencr/id967043604?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "14 Apr 2015"
+    },
+    {
+      "rank": 22,
+      "previousRank": 7,
+      "rankChange": -15,
       "isNew": false,
-      "appleId": "298839433",
-      "name": "RTA",
+      "appleId": "497716362",
+      "name": "TonalEnergy Tuner & Metronome",
+      "developer": "TonalEnergy, Inc",
+      "developerUrl": "https://apps.apple.com/au/developer/tonalenergy-inc/id1448604955?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/66/4b/d0664b44-47f6-bc30-6c32-58d8592299cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tonalenergy-tuner-metronome/id497716362?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "17 Feb 2012"
+    },
+    {
+      "rank": 23,
+      "previousRank": 16,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "325307477",
+      "name": "AudioTools, dB, Sound & Audio",
       "developer": "Andrew Smith",
       "developerUrl": "https://apps.apple.com/au/developer/andrew-smith/id291822462?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f3/4b/17f34b8d-6f8a-bae5-5347-24e0977a76d8/RTA_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/rta/id298839433?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/1b/cb/751bcbc0-e8e1-9b95-5451-8c89f4feb0cc/AudioTools_Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/audiotools-db-sound-audio/id325307477?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "08 Sep 2009"
+    },
+    {
+      "rank": 24,
+      "previousRank": 17,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "308296029",
+      "name": "iStroboSoft",
+      "developer": "Peterson Tuners",
+      "developerUrl": "https://apps.apple.com/au/developer/peterson-tuners/id308296032?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/a1/ce/95a1ce0c-5ffc-e6b2-2acd-af171e24c3fe/AppIcon-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/istrobosoft/id308296029?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "31 Mar 2009"
+    },
+    {
+      "rank": 25,
+      "previousRank": 27,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "467923185",
+      "name": "Loopy HD: Looper",
+      "developer": "A Tasty Pixel",
+      "developerUrl": "https://apps.apple.com/au/developer/a-tasty-pixel/id300257827?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/a5/c2/c4a5c2c2-57f5-1c0f-a59c-a225e596ea0b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/loopy-hd-looper/id467923185?uo=2",
       "price": {
         "amount": 7.99,
         "currency": "AUD",
@@ -1781,12 +571,144 @@
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "13 Dec 2008"
+      "releaseDate": "06 Oct 2011"
     },
     {
-      "rank": 81,
-      "previousRank": 53,
-      "rankChange": -28,
+      "rank": 26,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "379868541",
+      "name": "Salsa Rhythm",
+      "developer": "District One Mobile, LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/district-one-mobile-llc/id812513884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a6/a1/c9a6a1cf-27e8-6088-1616-b4b85b2327e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/salsa-rhythm/id379868541?uo=2",
+      "price": {
+        "amount": 4.49,
+        "currency": "AUD",
+        "formatted": "$4.49"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 Jul 2010"
+    },
+    {
+      "rank": 27,
+      "previousRank": 30,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "326115058",
+      "name": "iTanpura",
+      "developer": "Prasad Upasani",
+      "developerUrl": "https://apps.apple.com/au/developer/prasad-upasani/id326115061?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/8a/64/d18a64b1-8f93-e0c8-650c-19e0e0ee1924/AppIcon-1x_U007emarketing-0-6-0-85-220-0.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/itanpura/id326115058?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "15 Aug 2009"
+    },
+    {
+      "rank": 28,
+      "previousRank": 36,
+      "rankChange": 8,
+      "isNew": false,
+      "appleId": "1274790633",
+      "name": "Bagpipes - Scottish Bagpipes",
+      "developer": "Michael Eskin",
+      "developerUrl": "https://apps.apple.com/au/developer/michael-eskin/id342739369?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/8e/9e/a18e9e9c-8deb-77ea-1b12-6fd45eeac425/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-1.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/bagpipes-scottish-bagpipes/id1274790633?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "25 Aug 2017"
+    },
+    {
+      "rank": 29,
+      "previousRank": 46,
+      "rankChange": 17,
+      "isNew": false,
+      "appleId": "1569996730",
+      "name": "TouchOSC",
+      "developer": "Hexler LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/hexler-llc/id1569922581?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/79/d1/6779d17e-c1d2-a334-c12f-c1a5bbea8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/touchosc/id1569996730?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 Jun 2021"
+    },
+    {
+      "rank": 30,
+      "previousRank": 73,
+      "rankChange": 43,
+      "isNew": false,
+      "appleId": "6775795973",
+      "name": "AumChord",
+      "developer": "Mika Edelijn",
+      "developerUrl": "https://apps.apple.com/au/developer/mika-edelijn/id6775541086?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/aumchord/id6775795973?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Oct 2026"
+    },
+    {
+      "rank": 31,
+      "previousRank": 75,
+      "rankChange": 44,
+      "isNew": false,
+      "appleId": "608540795",
+      "name": "Tunable – Tuner & Metronome",
+      "developer": "AffinityBlue",
+      "developerUrl": "https://apps.apple.com/au/developer/affinityblue/id428440807?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tunable-tuner-metronome/id608540795?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "27 Mar 2013"
+    },
+    {
+      "rank": 32,
+      "previousRank": 81,
+      "rankChange": 49,
       "isNew": false,
       "appleId": "1507575984",
       "name": "Streamlets",
@@ -1806,405 +728,9 @@
       "releaseDate": "14 Apr 2020"
     },
     {
-      "rank": 82,
-      "previousRank": 56,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "435393098",
-      "name": "Metronomics Metronome",
-      "developer": "John Nastos",
-      "developerUrl": "https://apps.apple.com/au/developer/john-nastos/id422681741?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/97/ae/5897ae80-5cd7-ae74-4f15-62210069a6bf/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/metronomics-metronome/id435393098?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "16 May 2011"
-    },
-    {
-      "rank": 83,
-      "previousRank": 57,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "401438496",
-      "name": "TwistedWave Audio Editor",
-      "developer": "TwistedWave Software Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/twistedwave-software-ltd/id401438499?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/20/54/132054c7-771a-04c7-df70-8dcda5b93870/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/twistedwave-audio-editor/id401438496?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "08 Nov 2010"
-    },
-    {
-      "rank": 84,
-      "previousRank": 58,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "1443682940",
-      "name": "Gap Click by Benny Greb",
-      "developer": "Kick Snare Hat Apps, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/kick-snare-hat-apps-llc/id945994325?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/d3/33/b2d3336b-18e7-1b4d-241e-75a9a70a97ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/gap-click-by-benny-greb/id1443682940?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "09 Jun 2020"
-    },
-    {
-      "rank": 85,
-      "previousRank": 61,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "350437349",
-      "name": "FunkBox Drum Machine",
-      "developer": "Synthetic Bits, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/synthetic-bits-llc/id330499942?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/ca/3a/96/ca3a960b-3d91-9fc5-f4cb-8a7c26c57cbc/mzl.bfmtbxkx.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/funkbox-drum-machine/id350437349?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "18 Jan 2010"
-    },
-    {
-      "rank": 86,
-      "previousRank": 60,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "543859300",
-      "name": "AudioShare",
-      "developer": "Kymatica AB",
-      "developerUrl": "https://apps.apple.com/au/developer/kymatica-ab/id522046659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/6f/ca/376fcaba-83fc-f202-5dbd-e56715dd4f38/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/audioshare/id543859300?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Jul 2012"
-    },
-    {
-      "rank": 87,
-      "previousRank": 63,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "606691230",
-      "name": "Chord!",
-      "developer": "Thomas Grapperon",
-      "developerUrl": "https://apps.apple.com/au/developer/thomas-grapperon/id606691233?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/61/8a/30/618a304d-4021-120e-7230-88400daac618/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/chord/id606691230?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "14 Mar 2013"
-    },
-    {
-      "rank": 88,
-      "previousRank": 62,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "916452748",
-      "name": "Navichord • MIDI controller",
-      "developer": "Denis Kutuzov",
-      "developerUrl": "https://apps.apple.com/au/developer/denis-kutuzov/id908077901?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/13/c2/a9/13c2a99d-c9ef-85a8-241e-97ac5163843a/AppIcon-1x_U007emarketing-0-8-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/navichord-midi-controller/id916452748?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "15 Sep 2014"
-    },
-    {
-      "rank": 89,
-      "previousRank": 64,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "1623038041",
-      "name": "Quartet 1",
-      "developer": "UK Music Apps Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/uk-music-apps-ltd/id579320222?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/b3/32/d1b332cd-9acb-9f4c-af39-1c05d808ab60/AppIcon-Quartet1-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/quartet-1/id1623038041?uo=2",
-      "price": {
-        "amount": 30,
-        "currency": "AUD",
-        "formatted": "$30.00"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Sep 2022"
-    },
-    {
-      "rank": 90,
-      "previousRank": 65,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "6448981475",
-      "name": "BLEASS Voices",
-      "developer": "BLEASS",
-      "developerUrl": "https://apps.apple.com/au/developer/bleass/id1220444177?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ec/81/ddec81ef-be90-669f-8061-8a4e0bd4a776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/bleass-voices/id6448981475?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "07 Jun 2023"
-    },
-    {
-      "rank": 91,
-      "previousRank": 66,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "6446242162",
-      "name": "Player for Watch",
-      "developer": "磊 汪",
-      "developerUrl": "https://apps.apple.com/au/developer/%E7%A3%8A-%E6%B1%AA/id1063627762?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ba/68/b1ba686d-20e6-0610-9671-de2b1553e9a0/Black-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/player-for-watch/id6446242162?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Apr 2023"
-    },
-    {
-      "rank": 92,
-      "previousRank": 67,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "959561382",
-      "name": "Longplayer",
-      "developer": "The Longplayer Trust",
-      "developerUrl": "https://apps.apple.com/au/developer/the-longplayer-trust/id959561381?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/8f/af/1a8faf70-2db9-bed6-8650-febd6b4d2c2f/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/longplayer/id959561382?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 Jun 2015"
-    },
-    {
-      "rank": 93,
-      "previousRank": 68,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "1425566795",
-      "name": "BackTrax",
-      "developer": "Aisle4 Software",
-      "developerUrl": "https://apps.apple.com/au/developer/aisle4-software/id293199585?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/25/35/35253504-6e16-c177-ea49-6aa1590f2245/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/backtrax/id1425566795?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AUD",
-        "formatted": "$22.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "11 Apr 2020"
-    },
-    {
-      "rank": 94,
-      "previousRank": 70,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1538781007",
-      "name": "MusiKraken",
-      "developer": "Snarp",
-      "developerUrl": "https://apps.apple.com/au/developer/snarp/id376179401?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/4e/ca/bd4eca99-4acb-2704-fc37-d38d82dccb60/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/musikraken/id1538781007?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "24 Nov 2020"
-    },
-    {
-      "rank": 95,
-      "previousRank": 71,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1617273967",
-      "name": "OnePlayer Pro-Offline Music",
-      "developer": "俊 李",
-      "developerUrl": "https://apps.apple.com/au/developer/%E4%BF%8A-%E6%9D%8E/id1028902680?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/0c/86380c36-d89b-a01d-8f5c-f9e3af0e17a7/OnePlayerWhite-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/oneplayer-pro-offline-music/id1617273967?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Apr 2022"
-    },
-    {
-      "rank": 96,
-      "previousRank": 72,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6760348599",
-      "name": "Spektral Mobile",
-      "developer": "Matrix Productions Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/matrix-productions-ltd/id1875094312?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/99/c1/df99c1f0-4907-c794-b77a-c7d0ed8456d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/spektral-mobile/id6760348599?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AUD",
-        "formatted": "$22.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 Mar 2026"
-    },
-    {
-      "rank": 97,
-      "previousRank": 73,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6809154327",
-      "name": "DOH1: Synthesizer 303 Bassline",
-      "developer": "Daniel Andre Olbrich",
-      "developerUrl": "https://apps.apple.com/au/developer/daniel-andre-olbrich/id6809154329?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/45/64/694564da-85b5-816d-2741-17fcbe3b509a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/doh1-synthesizer-303-bassline/id6809154327?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "17 Sep 2026"
-    },
-    {
-      "rank": 98,
-      "previousRank": 74,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "6757157174",
-      "name": "Tuning Fork for Watch",
-      "developer": "Simone Saleri",
-      "developerUrl": "https://apps.apple.com/au/developer/simone-saleri/id1738027672?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/15/46/fd1546bb-e668-5cd7-7216-36c3917ed09a/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/tuning-fork-for-watch/id6757157174?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "12 Jan 2026"
-    },
-    {
-      "rank": 99,
-      "previousRank": 76,
-      "rankChange": -23,
-      "isNew": false,
-      "appleId": "348094874",
-      "name": "Pano Tuner – Chromatic Tuner",
-      "developer": "Kaleloft Limited Liability Company",
-      "developerUrl": "https://apps.apple.com/au/developer/kaleloft-limited-liability-company/id1735935093?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/e8/94/19e894ba-08e1-915c-f67e-f7ff670ca06a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/pano-tuner-chromatic-tuner/id348094874?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 Jan 2010"
-    },
-    {
-      "rank": 100,
-      "previousRank": 79,
-      "rankChange": -21,
+      "rank": 33,
+      "previousRank": 100,
+      "rankChange": 67,
       "isNew": false,
       "appleId": "304731501",
       "name": "Tempo - Metronome with Setlist",
@@ -2222,6 +748,1458 @@
         "name": "Music"
       },
       "releaseDate": "12 Feb 2009"
+    },
+    {
+      "rank": 34,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6764386977",
+      "name": "Pro-A5 Synth + AUv3",
+      "developer": "AudioKit Pro",
+      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/54/9a/e9549a71-996f-f549-23d1-8e0dbed3ff60/AppIcon-Wood-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/pro-a5-synth-auv3/id6764386977?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "04 Jun 2026"
+    },
+    {
+      "rank": 35,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "301042349",
+      "name": "Shruti Box",
+      "developer": "C.BARATAY",
+      "developerUrl": "https://apps.apple.com/au/developer/c-baratay/id287107572?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/4d/df/d14ddf2b-5096-f731-2aaf-b1f37bfc77a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/shruti-box/id301042349?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "02 Jan 2009"
+    },
+    {
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1207839273",
+      "name": "Cubasis 3 - DAW & Music Studio",
+      "developer": "Steinberg Media Technologies GmbH",
+      "developerUrl": "https://apps.apple.com/au/developer/steinberg-media-technologies-gmbh/id316698251?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/21/a0/cb21a069-d49f-c2e6-482b-15da52cc38a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/cubasis-3-daw-music-studio/id1207839273?uo=2",
+      "price": {
+        "amount": 79.99,
+        "currency": "AUD",
+        "formatted": "$79.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "18 Dec 2019"
+    },
+    {
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1234266367",
+      "name": "iDrumTune Precision Drum Tuner",
+      "developer": "RT Sixty Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/rt-sixty-ltd/id509606275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/73/25/137325b1-f718-6fc3-6b2f-8a9c8e2039e8/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/idrumtune-precision-drum-tuner/id1234266367?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "AUD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "31 May 2017"
+    },
+    {
+      "rank": 38,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1477672473",
+      "name": "Tongan hymns FWC",
+      "developer": "Tau'olunga komipiuta",
+      "developerUrl": "https://apps.apple.com/au/developer/tauolunga-komipiuta/id1198069266?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/48/91/a148917c-cd8a-e7e6-3a3c-a25507040bdb/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tongan-hymns-fwc/id1477672473?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "09 Mar 2020"
+    },
+    {
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "526650611",
+      "name": "DM1 for iPhone",
+      "developer": "Fingerlab",
+      "developerUrl": "https://apps.apple.com/au/developer/fingerlab/id412786610?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/19/55/9c195531-4f79-22dd-c862-8c45c4d2de6c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/dm1-for-iphone/id526650611?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 Jun 2012"
+    },
+    {
+      "rank": 40,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "489827076",
+      "name": "GuitarTapp PRO - Tabs & Chords",
+      "developer": "8:45 Tools",
+      "developerUrl": "https://apps.apple.com/au/developer/8-45-tools/id489827079?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/46/9e/4f/469e4ff8-25e4-95f5-ecd2-d128bd518210/mzl.rjckexcv.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/guitartapp-pro-tabs-chords/id489827076?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "21 Dec 2011"
+    },
+    {
+      "rank": 41,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1382755469",
+      "name": "X Air Controller",
+      "developer": "Nicholas Arduini",
+      "developerUrl": "https://apps.apple.com/au/developer/nicholas-arduini/id993068062?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/47/39/b4/4739b4cc-f3be-d6b1-364f-bf48dd1ecd68/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/x-air-controller/id1382755469?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "26 May 2018"
+    },
+    {
+      "rank": 42,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "381015280",
+      "name": "Singing Fingers",
+      "developer": "Beginner's Mind",
+      "developerUrl": "https://apps.apple.com/au/developer/beginners-mind/id381015283?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a4/fa/00/a4fa008c-93a9-42a4-1cf0-ff038dcc6d79/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/singing-fingers/id381015280?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "13 Jul 2010"
+    },
+    {
+      "rank": 43,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "905746421",
+      "name": "Evermusic Pro: music player",
+      "developer": "EVERAPPZ SL",
+      "developerUrl": "https://apps.apple.com/au/developer/everappz-sl/id1719367008?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/4b/a7/f34ba722-5528-648d-a4a0-762df6a33ec8/AppIcon_evermusic_pro-0-0-1x_U007epad-0-1-512MB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/evermusic-pro-music-player/id905746421?uo=2",
+      "price": {
+        "amount": 59.99,
+        "currency": "AUD",
+        "formatted": "$59.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "13 Aug 2014"
+    },
+    {
+      "rank": 44,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "421065079",
+      "name": "Talking Tuner",
+      "developer": "HotPaw Productions",
+      "developerUrl": "https://apps.apple.com/au/developer/hotpaw-productions/id285074853?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/88/3e/71/883e7149-ba9a-8259-9525-ee8f29e5af45/AppIcon-1x_U007emarketing-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/talking-tuner/id421065079?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "25 Feb 2011"
+    },
+    {
+      "rank": 45,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6477292651",
+      "name": "Handy Guitar Lab for MS-60B+",
+      "developer": "ZOOM Corporation",
+      "developerUrl": "https://apps.apple.com/au/developer/zoom-corporation/id566291782?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/84/21/be8421b7-293a-76b3-79c1-aa8833bbf41f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/handy-guitar-lab-for-ms-60b/id6477292651?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 May 2024"
+    },
+    {
+      "rank": 46,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1089475352",
+      "name": "IbanezTuner",
+      "developer": "HOSHINO GAKKI CO., LTD.",
+      "developerUrl": "https://apps.apple.com/au/developer/hoshino-gakki-co-ltd/id1089475351?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/1e/35/761e35ba-3e94-d1d9-a17a-a81a2c845739/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/ibaneztuner/id1089475352?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 Jun 2016"
+    },
+    {
+      "rank": 47,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1600262501",
+      "name": "Quanta – Vinyl Companion",
+      "developer": "Christian Privitelli",
+      "developerUrl": "https://apps.apple.com/au/developer/christian-privitelli/id1653979266?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bd/ac/67bdacfc-97b2-a2b3-9d46-31dd7e50ff3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/quanta-vinyl-companion/id1600262501?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "27 Dec 2022"
+    },
+    {
+      "rank": 48,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1473824566",
+      "name": "Key Finder - Musical Scales",
+      "developer": "Mizo LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/mizo-llc/id1820590289?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/b1/ec/8ab1ecb6-3867-64af-ef53-1850a9855425/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/key-finder-musical-scales/id1473824566?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "27 Jul 2019"
+    },
+    {
+      "rank": 49,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6790190192",
+      "name": "Studio Field",
+      "developer": "Lithium ehf",
+      "developerUrl": "https://apps.apple.com/au/developer/lithium-ehf/id1583999127?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/4e/74/e94e74e7-c439-ab63-51a2-9ee9ab5c613f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/studio-field/id6790190192?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "AUD",
+        "formatted": "$49.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "20 Jul 2026"
+    },
+    {
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6760565160",
+      "name": "Vocal Trainer Console",
+      "developer": "Batikan Bozkurt Kursat",
+      "developerUrl": "https://apps.apple.com/au/developer/batikan-bozkurt-kursat/id1869444187?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/72/e7/f372e7da-4db3-66f4-9b6e-6ad107a61438/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/vocal-trainer-console/id6760565160?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "18 Mar 2026"
+    },
+    {
+      "rank": 51,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6818329288",
+      "name": "Pragmatic Audio PEQ",
+      "developer": "KONECKTA LIMITED",
+      "developerUrl": "https://apps.apple.com/au/developer/koneckta-limited/id1779735440?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/58/87/92588767-e891-f153-299a-5aa6ced7c9d9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/pragmatic-audio-peq/id6818329288?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "14 Oct 2026"
+    },
+    {
+      "rank": 52,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6815097396",
+      "name": "CroMusic: Offline Music Player",
+      "developer": "健 陆",
+      "developerUrl": "https://apps.apple.com/au/developer/%E5%81%A5-%E9%99%86/id1858980070?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/40/cc/eb40cc5b-8be2-3fbb-69cb-8e8bff277ae0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/cromusic-offline-music-player/id6815097396?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "01 Oct 2026"
+    },
+    {
+      "rank": 53,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6802367630",
+      "name": "Walking Bass Trainer",
+      "developer": "Joe Gass",
+      "developerUrl": "https://apps.apple.com/au/developer/joe-gass/id6802367632?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/8c/87/908c8747-94ee-e20d-7ee7-56c6338fbbb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/walking-bass-trainer/id6802367630?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "31 Aug 2026"
+    },
+    {
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6800332474",
+      "name": "VU202 FX",
+      "developer": "Dariusz Chynek",
+      "developerUrl": "https://apps.apple.com/au/developer/dariusz-chynek/id1805845479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/c8/6e/eec86e04-dc72-6005-be8e-35a04e98028d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/vu202-fx/id6800332474?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "26 Aug 2026"
+    },
+    {
+      "rank": 55,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6799498407",
+      "name": "VU950 FX",
+      "developer": "Dariusz Chynek",
+      "developerUrl": "https://apps.apple.com/au/developer/dariusz-chynek/id1805845479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/52/66/775266c1-009d-5199-e303-c71066601efb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/vu950-fx/id6799498407?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "25 Aug 2026"
+    },
+    {
+      "rank": 56,
+      "previousRank": 11,
+      "rankChange": -45,
+      "isNew": false,
+      "appleId": "571863178",
+      "name": "AudioStretch",
+      "developer": "Cognosonic Pte Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/cognosonic-pte-ltd/id571863181?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/74/91/117491a6-e087-6277-2ab7-00723ad95568/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/audiostretch/id571863178?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "01 Nov 2012"
+    },
+    {
+      "rank": 57,
+      "previousRank": 12,
+      "rankChange": -45,
+      "isNew": false,
+      "appleId": "6790872345",
+      "name": "MetroTimer Pro",
+      "developer": "ONYX Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/onyx-apps/id356553882?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/66/7d/ba667dd0-c8d0-bd7a-7d13-7c70e0957b5e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/metrotimer-pro/id6790872345?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "23 Jul 2026"
+    },
+    {
+      "rank": 58,
+      "previousRank": 13,
+      "rankChange": -45,
+      "isNew": false,
+      "appleId": "6781631808",
+      "name": "NostalgicPod",
+      "developer": "Jesus manuel Curreri",
+      "developerUrl": "https://apps.apple.com/au/developer/jesus-manuel-curreri/id6781631810?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/a8/b5/45a8b5ae-9594-20a0-a965-44aecb53af7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/nostalgicpod/id6781631808?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "05 Oct 2026"
+    },
+    {
+      "rank": 59,
+      "previousRank": 15,
+      "rankChange": -44,
+      "isNew": false,
+      "appleId": "6763518834",
+      "name": "NaviBeat",
+      "developer": "Nenad Jokic",
+      "developerUrl": "https://apps.apple.com/au/developer/nenad-jokic/id1895353961?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/b3/87/2eb387e6-60cb-e294-3378-5487349d52c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/navibeat/id6763518834?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "22 May 2026"
+    },
+    {
+      "rank": 60,
+      "previousRank": 43,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1447768809",
+      "name": "Marvis Pro",
+      "developer": "Aditya Rajveer",
+      "developerUrl": "https://apps.apple.com/au/developer/aditya-rajveer/id882719699?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/80/7e/4c807e52-3918-1e11-85b2-e694f313316d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/marvis-pro/id1447768809?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "14 Feb 2019"
+    },
+    {
+      "rank": 61,
+      "previousRank": 20,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "6446786448",
+      "name": "WatchAudio",
+      "developer": "Atlum Limited",
+      "developerUrl": "https://apps.apple.com/au/developer/atlum-limited/id1508897591?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/37/e5/e337e5d7-dfee-a760-e5d4-46287034fc9b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/watchaudio/id6446786448?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Oct 2023"
+    },
+    {
+      "rank": 62,
+      "previousRank": 21,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1210584625",
+      "name": "Audyssey MultEQ Editor app",
+      "developer": "D&M Holdings",
+      "developerUrl": "https://apps.apple.com/au/developer/d-m-holdings/id388608883?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/audyssey-multeq-editor-app/id1210584625?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "03 Apr 2017"
+    },
+    {
+      "rank": 63,
+      "previousRank": 22,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1537057699",
+      "name": "Solo - Fretboard Visualization",
+      "developer": "Trio Software Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/trio-software-ltd/id1537057701?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/14/fe/bd14fe8e-d5d6-14b5-b093-39195006e269/AppIcon-1-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/solo-fretboard-visualization/id1537057699?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "01 Jan 2021"
+    },
+    {
+      "rank": 64,
+      "previousRank": 23,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1212118228",
+      "name": "OnPitch - Vocal Pitch Monitor",
+      "developer": "Alena Kucharenka",
+      "developerUrl": "https://apps.apple.com/au/developer/alena-kucharenka/id1212118227?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/5f/a9/c45fa9ef-c552-6cd6-8e84-713ddce50e69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/onpitch-vocal-pitch-monitor/id1212118228?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "11 Mar 2017"
+    },
+    {
+      "rank": 65,
+      "previousRank": 24,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1469365718",
+      "name": "Drambo",
+      "developer": "BeepStreet",
+      "developerUrl": "https://apps.apple.com/au/developer/beepstreet/id321412321?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d0/58/74d058f8-1433-72fc-96e4-c0771e80c356/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/drambo/id1469365718?uo=2",
+      "price": {
+        "amount": 39.99,
+        "currency": "AUD",
+        "formatted": "$39.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "01 Apr 2020"
+    },
+    {
+      "rank": 66,
+      "previousRank": 25,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1628299461",
+      "name": "Mini Piano Pro",
+      "developer": "Umito",
+      "developerUrl": "https://apps.apple.com/au/developer/umito/id430249452?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/82/a5/d382a546-e631-071b-c6fd-30cd7410e926/ModernAppIconPro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/mini-piano-pro/id1628299461?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 Jun 2022"
+    },
+    {
+      "rank": 67,
+      "previousRank": 29,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "655607914",
+      "name": "Drumtune PRO | Drum Tuner",
+      "developer": "EXALTD CO., Limited",
+      "developerUrl": "https://apps.apple.com/au/developer/exaltd-co-limited/id1554472750?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/a6/e4/e9a6e47c-833d-e3aa-d30a-a4f8104e34ca/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/drumtune-pro-drum-tuner/id655607914?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "AUD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "05 Jun 2013"
+    },
+    {
+      "rank": 68,
+      "previousRank": 28,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "1413887036",
+      "name": "iMPC Pro 2 for iPhone",
+      "developer": "Akai Professional",
+      "developerUrl": "https://apps.apple.com/au/developer/akai-professional/id373969727?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/7e/b0/bd7eb077-b9c3-6d01-b33d-311e33bd00fd/iMPC_Pro_2_iPhone_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/impc-pro-2-for-iphone/id1413887036?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "10 Dec 2018"
+    },
+    {
+      "rank": 69,
+      "previousRank": 31,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "766858884",
+      "name": "Neutron Music Player",
+      "developer": "Neutron Code Limited",
+      "developerUrl": "https://apps.apple.com/au/developer/neutron-code-limited/id766858887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/81/ea/da81eac9-431e-c6c3-70ed-1fb8f4d489ef/AppIconMP-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/neutron-music-player/id766858884?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "AUD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "05 Dec 2013"
+    },
+    {
+      "rank": 70,
+      "previousRank": 32,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "393624808",
+      "name": "iWriteMusic",
+      "developer": "iWriteMusicProject",
+      "developerUrl": "https://apps.apple.com/au/developer/iwritemusicproject/id393551666?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/99/cd/f299cd0c-cd48-47d4-7913-8ed3fcb1d342/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/iwritemusic/id393624808?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "27 Sep 2010"
+    },
+    {
+      "rank": 71,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1062583712",
+      "name": "Music Library Tracker",
+      "developer": "Dodo Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/dodo-apps/id1062583711?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/58/7e/fd587e9b-eebb-f171-32fc-ba9dfd5b721b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/music-library-tracker/id1062583712?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Jan 2016"
+    },
+    {
+      "rank": 72,
+      "previousRank": 33,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "1128501763",
+      "name": "bedr Pro alarm clock radio",
+      "developer": "Chung Truong",
+      "developerUrl": "https://apps.apple.com/au/developer/chung-truong/id1053241117?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/2a/07/1f2a078f-4b94-e9e7-da22-faa96a73cacc/AppIcon-Pro-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/bedr-pro-alarm-clock-radio/id1128501763?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "09 Sep 2016"
+    },
+    {
+      "rank": 73,
+      "previousRank": 34,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6756800933",
+      "name": "Super J8 Synth + AUv3",
+      "developer": "AudioKit Pro",
+      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6e/f4/0f6ef4c7-6762-d59f-8b59-e79d75b51411/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/super-j8-synth-auv3/id6756800933?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Feb 2026"
+    },
+    {
+      "rank": 74,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6711332153",
+      "name": "String Position Pro",
+      "developer": "Lachlan Dent",
+      "developerUrl": "https://apps.apple.com/au/developer/lachlan-dent/id1760494001?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/5b/cd/c55bcde6-99e1-842b-1d89-42b837462f23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/string-position-pro/id6711332153?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "14 Nov 2024"
+    },
+    {
+      "rank": 75,
+      "previousRank": 35,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "418862562",
+      "name": "Talanome - Carnatic Metronome",
+      "developer": "Upbeat Labs",
+      "developerUrl": "https://apps.apple.com/au/developer/upbeat-labs/id418862565?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5f/02/325f02a6-a7c5-aaf7-5a11-e12ff51a0d7c/AppIcon-0-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/talanome-carnatic-metronome/id418862562?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "22 Feb 2011"
+    },
+    {
+      "rank": 76,
+      "previousRank": 37,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "1545448277",
+      "name": "SonoWatch",
+      "developer": "Northmind AB",
+      "developerUrl": "https://apps.apple.com/au/developer/northmind-ab/id1498488209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/3f/25/e73f256e-5fa3-3170-bf28-22708431efb4/AppIcon-NormalApp-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/sonowatch/id1545448277?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "01 Nov 2021"
+    },
+    {
+      "rank": 77,
+      "previousRank": 38,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "560078788",
+      "name": "The Orchestra",
+      "developer": "NatureGuides Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/natureguides-ltd/id310574314?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/7f/04/397f042e-651c-af19-92cd-f59ab216b4e9/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/the-orchestra/id560078788?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 Dec 2012"
+    },
+    {
+      "rank": 78,
+      "previousRank": 39,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6803005934",
+      "name": "Shakuhachi SRS",
+      "developer": "Konrad Fijalkowski",
+      "developerUrl": "https://apps.apple.com/au/developer/konrad-fijalkowski/id6802775913?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b1/82/0fb182bf-58dc-2b15-b5e0-1e9dea95ef0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/shakuhachi-srs/id6803005934?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "21 Aug 2026"
+    },
+    {
+      "rank": 79,
+      "previousRank": 40,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6798428602",
+      "name": "DJMesh",
+      "developer": "Karl Rafael Yankovic Capdeville",
+      "developerUrl": "https://apps.apple.com/au/developer/karl-rafael-yankovic-capdeville/id6798428604?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/6f/3d/646f3d82-dbb7-5b6d-3ddc-12e6bfd93985/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/djmesh/id6798428602?uo=2",
+      "price": {
+        "amount": 39.99,
+        "currency": "AUD",
+        "formatted": "$39.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 Oct 2026"
+    },
+    {
+      "rank": 80,
+      "previousRank": 41,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6788140771",
+      "name": "Wake: Sound Activated Recorder",
+      "developer": "Elijah Lucian",
+      "developerUrl": "https://apps.apple.com/au/developer/elijah-lucian/id1881481954?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/d2/53/a3d2532f-527b-75fc-110f-697ab2e71d80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/wake-sound-activated-recorder/id6788140771?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "21 Sep 2026"
+    },
+    {
+      "rank": 81,
+      "previousRank": 42,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "368169363",
+      "name": "Tempo Advance - Metronome",
+      "developer": "Frozen Ape Pte. Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/frozen-ape-pte-ltd/id304731504?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/6b/94/966b94e7-6c2a-3414-96ac-2ce1a1dd2125/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tempo-advance-metronome/id368169363?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "23 Apr 2010"
+    },
+    {
+      "rank": 82,
+      "previousRank": 44,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "954982733",
+      "name": "Tuner T1 Pro",
+      "developer": "Bijoy Thangaraj",
+      "developerUrl": "https://apps.apple.com/au/developer/bijoy-thangaraj/id453056920?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/09/f8/2a09f826-27f4-7abf-ccd4-9d62d3a457ff/AppIcon-T1-Pro-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tuner-t1-pro/id954982733?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "20 Jan 2015"
+    },
+    {
+      "rank": 83,
+      "previousRank": 78,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "319295332",
+      "name": "TuneIn Radio: Music & Sports",
+      "developer": "TuneIn",
+      "developerUrl": "https://apps.apple.com/au/developer/tunein/id319295335?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/36/ad/a836ad66-080f-a339-fbb3-9569b52f9ca5/AppIconPro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tunein-radio-music-sports/id319295332?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "03 Sep 2009"
+    },
+    {
+      "rank": 84,
+      "previousRank": 45,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6810750563",
+      "name": "Porthole Audio",
+      "developer": "Feras Alnatsheh",
+      "developerUrl": "https://apps.apple.com/au/developer/feras-alnatsheh/id1150939919?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ff/55/5aff553c-6b5b-da32-d181-dc0822ce5223/Porthole-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/porthole-audio/id6810750563?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "17 Sep 2026"
+    },
+    {
+      "rank": 85,
+      "previousRank": 47,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "6466678799",
+      "name": "WatchCloud: SoundCloud Player",
+      "developer": "Ryan Forsyth",
+      "developerUrl": "https://apps.apple.com/au/developer/ryan-forsyth/id1486027180?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/07/60/880760a0-6392-96aa-5295-fbef88caf884/Icon-0-0-1x_U007ephone-0-1-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/watchcloud-soundcloud-player/id6466678799?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "19 Sep 2023"
+    },
+    {
+      "rank": 86,
+      "previousRank": 48,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "6801559083",
+      "name": "Idle Dial",
+      "developer": "RUNX LTD",
+      "developerUrl": "https://apps.apple.com/au/developer/runx-ltd/id6801559085?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/72/7e/37727e59-7374-d054-87e8-d0cd6b8b4ce1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/idle-dial/id6801559083?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "29 Sep 2026"
+    },
+    {
+      "rank": 87,
+      "previousRank": 49,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "6780613102",
+      "name": "Electric Phantoms: LUMA",
+      "developer": "Christopher Morrison",
+      "developerUrl": "https://apps.apple.com/au/developer/christopher-morrison/id6780613104?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d5/46/34d54661-5330-c384-f5ab-0b7a9b3f8b81/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/electric-phantoms-luma/id6780613102?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 Jul 2026"
+    },
+    {
+      "rank": 88,
+      "previousRank": 53,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "284972998",
+      "name": "SoundHound∞ Music Discovery",
+      "developer": "SoundHound, Inc.",
+      "developerUrl": "https://apps.apple.com/au/developer/soundhound-inc/id284973001?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/fe/2a/0dfe2af7-87d1-bd54-814d-03ac72ee7efc/AppIcon-Inf-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/soundhound-music-discovery/id284972998?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Feb 2019"
+    },
+    {
+      "rank": 89,
+      "previousRank": 51,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "6761787638",
+      "name": "Fields - Audio Recorder",
+      "developer": "AudioThing Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/audiothing-ltd/id1659941236?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/51/04/6951042e-be34-5876-db83-ec194af05da0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/fields-audio-recorder/id6761787638?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 Jun 2026"
+    },
+    {
+      "rank": 90,
+      "previousRank": 52,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "308998718",
+      "name": "Amazing Slow Downer",
+      "developer": "Roni Music",
+      "developerUrl": "https://apps.apple.com/au/developer/roni-music/id308998721?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/95/85/27958526-a8a0-1afa-355f-9dab054feefa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/amazing-slow-downer/id308998718?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "AUD",
+        "formatted": "$22.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "26 Mar 2009"
+    },
+    {
+      "rank": 91,
+      "previousRank": 54,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "1620569987",
+      "name": "MobileSheets®",
+      "developer": "Michael Zuber",
+      "developerUrl": "https://apps.apple.com/au/developer/michael-zuber/id1620569989?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/mobilesheets/id1620569987?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "AUD",
+        "formatted": "$24.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "16 Dec 2022"
+    },
+    {
+      "rank": 92,
+      "previousRank": 55,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "493157418",
+      "name": "Theory Lessons",
+      "developer": "musictheory.net",
+      "developerUrl": "https://apps.apple.com/au/developer/musictheory-net/id459313479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/theory-lessons/id493157418?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "16 Jan 2012"
+    },
+    {
+      "rank": 93,
+      "previousRank": 56,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "338977566",
+      "name": "ThumbJam",
+      "developer": "Sonosaurus LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/sonosaurus-llc/id338977569?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/6c/18/d96c188d-d130-ce87-7caf-1162712626f2/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/thumbjam/id338977566?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "14 Dec 2009"
+    },
+    {
+      "rank": 94,
+      "previousRank": 57,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "635644097",
+      "name": "Tuner by Piascore",
+      "developer": "Piascore, Inc.",
+      "developerUrl": "https://apps.apple.com/au/developer/piascore-inc/id406133802?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a3/d7/f6a3d7e1-8542-d46b-63d7-26cd6f679a71/PATuner-AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/tuner-by-piascore/id635644097?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "23 Apr 2013"
+    },
+    {
+      "rank": 95,
+      "previousRank": 59,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "344920107",
+      "name": "MusicTools Music Dictionary",
+      "developer": "OnStage Technologies, LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/onstage-technologies-llc/id344920110?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/64/c8/5464c8c3-c0a3-3cb8-e5d5-612593c4be4f/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/musictools-music-dictionary/id344920107?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "16 Dec 2009"
+    },
+    {
+      "rank": 96,
+      "previousRank": 60,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "579995876",
+      "name": "iEQ",
+      "developer": "Engineered Stuff",
+      "developerUrl": "https://apps.apple.com/au/developer/engineered-stuff/id383720996?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/42/45/2e/42452e8e-2c4c-641d-5974-26454ba7b922/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/ieq/id579995876?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 Dec 2012"
+    },
+    {
+      "rank": 97,
+      "previousRank": 61,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "6749867472",
+      "name": "VIRAL Synth 2: T2x | AUv3",
+      "developer": "AudioKit Pro",
+      "developerUrl": "https://apps.apple.com/au/developer/audiokit-pro/id1307785645?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ea/94/f8ea94c2-aef4-c680-ee62-b696b440dd00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/viral-synth-2-t2x-auv3/id6749867472?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "25 Sep 2025"
+    },
+    {
+      "rank": 98,
+      "previousRank": 62,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "789621046",
+      "name": "Speedy Note: Treble Clef",
+      "developer": "Brian Hughes",
+      "developerUrl": "https://apps.apple.com/au/developer/brian-hughes/id789621049?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/c0/d1/d7c0d18b-3972-faec-ea94-6bb088b895d7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/speedy-note-treble-clef/id789621046?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 Jan 2014"
+    },
+    {
+      "rank": 99,
+      "previousRank": 63,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "1601556396",
+      "name": "FloatingPlayer: Music Player",
+      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
+      "developerUrl": "https://apps.apple.com/au/developer/innovative-digital-technologies-limited/id1331216448?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/44/4e/7c444e6f-2938-f268-d6f3-0bc703344213/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/floatingplayer-music-player/id1601556396?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "02 Jan 2022"
     }
   ]
 }

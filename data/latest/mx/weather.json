@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-15",
-  "collectedAt": "2026-10-15T05:42:39.620Z",
-  "sourceUpdatedAt": "2026-10-14T22:42:38-07:00",
+  "snapshotDate": "2026-10-16",
+  "collectedAt": "2026-10-16T05:38:33.562Z",
+  "sourceUpdatedAt": "2026-10-15T22:38:32-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/mx/rss/toppaidapplications/limit=100/genre=6001/json",
   "chartType": "paid",
@@ -17,60 +17,16 @@
     "name": "天气"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 94,
+  "actualCount": 94,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-14",
+  "previousSnapshotDate": "2026-10-15",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1449893235",
-      "name": "Sismo Detector",
-      "developer": "Futura Innovation SRL",
-      "developerUrl": "https://apps.apple.com/mx/developer/futura-innovation-srl/id1449885464?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/99/b0ee9915-56f8-83b1-2573-ddafdafe85ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/sismo-detector/id1449893235?uo=2",
-      "price": {
-        "amount": 39,
-        "currency": "MXN",
-        "formatted": "$39.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "05/06/2019"
-    },
-    {
-      "rank": 2,
-      "previousRank": 8,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "378120971",
-      "name": "AeroWeather Pro",
-      "developer": "Lakehorn AG",
-      "developerUrl": "https://apps.apple.com/mx/developer/lakehorn-ag/id288286082?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/aa/e4/d4aae43a-405d-12a6-b6d6-604d6e8eceb0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/aeroweather-pro/id378120971?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "30/06/2010"
-    },
-    {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
+      "previousRank": 3,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1020486527",
       "name": "Mi Rastreador de Huracanes Pro",
@@ -90,9 +46,53 @@
       "releaseDate": "25/07/2015"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
+      "rank": 2,
+      "previousRank": 1,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "1449893235",
+      "name": "Sismo Detector",
+      "developer": "Futura Innovation SRL",
+      "developerUrl": "https://apps.apple.com/mx/developer/futura-innovation-srl/id1449885464?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/99/b0ee9915-56f8-83b1-2573-ddafdafe85ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/sismo-detector/id1449893235?uo=2",
+      "price": {
+        "amount": 39,
+        "currency": "MXN",
+        "formatted": "$39.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "05/06/2019"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "378120971",
+      "name": "AeroWeather Pro",
+      "developer": "Lakehorn AG",
+      "developerUrl": "https://apps.apple.com/mx/developer/lakehorn-ag/id288286082?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/aa/e4/d4aae43a-405d-12a6-b6d6-604d6e8eceb0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/aeroweather-pro/id378120971?uo=2",
+      "price": {
+        "amount": 99,
+        "currency": "MXN",
+        "formatted": "$99.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "30/06/2010"
+    },
+    {
+      "rank": 4,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1608949422",
       "name": "Metar-Taf",
@@ -113,8 +113,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 4,
-      "rankChange": -1,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "288419283",
       "name": "RadarScope",
@@ -135,52 +135,8 @@
     },
     {
       "rank": 6,
-      "previousRank": 5,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1439881811",
-      "name": "RadarOmega: Doppler Radar App",
-      "developer": "SDS Weather LLC",
-      "developerUrl": "https://apps.apple.com/mx/developer/sds-weather-llc/id1727853866?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/radaromega-doppler-radar-app/id1439881811?uo=2",
-      "price": {
-        "amount": 199,
-        "currency": "MXN",
-        "formatted": "$199.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "26/05/2019"
-    },
-    {
-      "rank": 7,
-      "previousRank": 6,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "486059426",
-      "name": "NOAA Weather Radar",
-      "developer": "Christopher Coudriet",
-      "developerUrl": "https://apps.apple.com/mx/developer/christopher-coudriet/id316500319?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/bb/93/d8bb93d3-6a4e-d744-b0b0-a3ccc8fc8413/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/noaa-weather-radar/id486059426?uo=2",
-      "price": {
-        "amount": 39,
-        "currency": "MXN",
-        "formatted": "$39.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "24/01/2012"
-    },
-    {
-      "rank": 8,
-      "previousRank": 7,
-      "rankChange": -1,
+      "previousRank": 8,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "379869627",
       "name": "Living Earth - Clock & Weather",
@@ -200,9 +156,9 @@
       "releaseDate": "17/08/2010"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "previousRank": 9,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "294631159",
       "name": "WeatherPro",
@@ -222,9 +178,9 @@
       "releaseDate": "10/11/2008"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "previousRank": 10,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "336901296",
       "name": "Windfinder Pro: viento y clima",
@@ -244,9 +200,9 @@
       "releaseDate": "15/11/2009"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "previousRank": 11,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1032783648",
       "name": "Fases de la luna Calendario",
@@ -266,9 +222,9 @@
       "releaseDate": "03/10/2015"
     },
     {
-      "rank": 12,
+      "rank": 10,
       "previousRank": 12,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "608515289",
       "name": "Compañero de Tiempo Pro",
@@ -288,9 +244,9 @@
       "releaseDate": "12/03/2013"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "previousRank": 13,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "897511324",
       "name": "NOAA Now Pro",
@@ -310,9 +266,9 @@
       "releaseDate": "19/07/2014"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "previousRank": 14,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "473165402",
       "name": "Mooncast",
@@ -332,9 +288,9 @@
       "releaseDate": "27/10/2011"
     },
     {
-      "rank": 15,
+      "rank": 13,
       "previousRank": 15,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "401533966",
       "name": "eWeather HD: el Tiempo,Alertas",
@@ -354,9 +310,9 @@
       "releaseDate": "10/11/2010"
     },
     {
-      "rank": 16,
+      "rank": 14,
       "previousRank": 16,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "395148744",
       "name": "Hurricane Center",
@@ -376,9 +332,9 @@
       "releaseDate": "10/10/2010"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "previousRank": 17,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1106389686",
       "name": "El Clima a 14 Días Pro",
@@ -398,9 +354,9 @@
       "releaseDate": "20/05/2016"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "previousRank": 18,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "975770717",
       "name": "Mis Alertas de Terremotos Pro",
@@ -420,9 +376,9 @@
       "releaseDate": "04/04/2015"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "485251405",
       "name": "Fishing Deluxe",
@@ -442,9 +398,9 @@
       "releaseDate": "06/12/2011"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1075462280",
       "name": "My Aurora Forecast Pro",
@@ -464,9 +420,9 @@
       "releaseDate": "26/01/2016"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "314376561",
       "name": "AviationABB - Aviation Abbreviation and Airport Code",
@@ -486,9 +442,9 @@
       "releaseDate": "05/05/2009"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "467953363",
       "name": "Best Hunting Times",
@@ -508,9 +464,9 @@
       "releaseDate": "03/10/2011"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "769602146",
       "name": "Barómetro - Presión Aire",
@@ -530,9 +486,9 @@
       "releaseDate": "11/12/2013"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "879946294",
       "name": "Índice UV: Sol Seguro",
@@ -552,9 +508,9 @@
       "releaseDate": "28/06/2014"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "716023568",
       "name": "Higrómetro - Humedad del aire",
@@ -574,9 +530,9 @@
       "releaseDate": "16/10/2013"
     },
     {
-      "rank": 26,
+      "rank": 24,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "912237070",
       "name": "Anemómetro: Velocidad viento",
@@ -596,9 +552,9 @@
       "releaseDate": "10/09/2014"
     },
     {
-      "rank": 27,
+      "rank": 25,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1104649303",
       "name": "My Moon Phase Pro - Alerts",
@@ -618,9 +574,9 @@
       "releaseDate": "27/04/2016"
     },
     {
-      "rank": 28,
+      "rank": 26,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "639101137",
       "name": "El Tiempo HD Live +",
@@ -640,9 +596,9 @@
       "releaseDate": "02/05/2013"
     },
     {
-      "rank": 29,
+      "rank": 27,
       "previousRank": 29,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "606193225",
       "name": "YoWindow Tiempo",
@@ -662,9 +618,9 @@
       "releaseDate": "16/04/2013"
     },
     {
-      "rank": 30,
+      "rank": 28,
       "previousRank": 30,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "419841529",
       "name": "Fishing Times Pro",
@@ -684,9 +640,9 @@
       "releaseDate": "18/02/2011"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "495546638",
       "name": "Termohigrómetro",
@@ -706,9 +662,9 @@
       "releaseDate": "25/01/2012"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "970644763",
       "name": "La Estación Meteorológica",
@@ -728,9 +684,9 @@
       "releaseDate": "10/05/2015"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "547934690",
       "name": "Hurricane Track+ Storm Tracker",
@@ -750,9 +706,9 @@
       "releaseDate": "06/08/2012"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "294937581",
       "name": "Sun n Moon",
@@ -772,9 +728,9 @@
       "releaseDate": "30/10/2008"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "366765248",
       "name": "Wind Seeker",
@@ -794,9 +750,9 @@
       "releaseDate": "10/04/2010"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "455218380",
       "name": "Pronóstico del viento",
@@ -816,9 +772,9 @@
       "releaseDate": "08/08/2011"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "558257741",
       "name": "Orbit: Posición del Sol",
@@ -838,9 +794,9 @@
       "releaseDate": "12/09/2012"
     },
     {
-      "rank": 38,
+      "rank": 36,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "516492507",
       "name": "Hunting Calendar Deluxe",
@@ -860,9 +816,9 @@
       "releaseDate": "10/04/2012"
     },
     {
-      "rank": 39,
+      "rank": 37,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "409985317",
       "name": "Temperature App",
@@ -882,9 +838,9 @@
       "releaseDate": "19/12/2010"
     },
     {
-      "rank": 40,
-      "previousRank": 41,
-      "rankChange": 1,
+      "rank": 38,
+      "previousRank": 40,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "491537291",
       "name": "Sol: Sun Clock",
@@ -904,9 +860,9 @@
       "releaseDate": "06/01/2012"
     },
     {
-      "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
+      "rank": 39,
+      "previousRank": 41,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1011499945",
       "name": "Fases Lunares - Calendario",
@@ -926,9 +882,9 @@
       "releaseDate": "15/08/2015"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
-      "rankChange": 1,
+      "rank": 40,
+      "previousRank": 42,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "482617382",
       "name": "Radar HD Future Weather Radar",
@@ -948,31 +904,9 @@
       "releaseDate": "17/02/2015"
     },
     {
-      "rank": 43,
-      "previousRank": 40,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1059718989",
-      "name": "雨时",
-      "developer": "启玄 宋",
-      "developerUrl": "https://apps.apple.com/mx/developer/%E5%90%AF%E7%8E%84-%E5%AE%8B/id1035099838?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/a4/2a/5aa42a5e-ab0b-2352-598e-cc31ad006c26/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/%E9%9B%A8%E6%97%B6/id1059718989?uo=2",
-      "price": {
-        "amount": 5,
-        "currency": "MXN",
-        "formatted": "$5.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "01/12/2015"
-    },
-    {
-      "rank": 44,
+      "rank": 41,
       "previousRank": 44,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "322814201",
       "name": "Snowtam",
@@ -992,9 +926,9 @@
       "releaseDate": "17/07/2009"
     },
     {
-      "rank": 45,
+      "rank": 42,
       "previousRank": 45,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "513879979",
       "name": "Mapa del tiempo",
@@ -1014,9 +948,53 @@
       "releaseDate": "23/05/2012"
     },
     {
-      "rank": 46,
+      "rank": 43,
+      "previousRank": 6,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "1439881811",
+      "name": "RadarOmega: Doppler Radar App",
+      "developer": "SDS Weather LLC",
+      "developerUrl": "https://apps.apple.com/mx/developer/sds-weather-llc/id1727853866?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/radaromega-doppler-radar-app/id1439881811?uo=2",
+      "price": {
+        "amount": 199,
+        "currency": "MXN",
+        "formatted": "$199.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "26/05/2019"
+    },
+    {
+      "rank": 44,
+      "previousRank": 43,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1059718989",
+      "name": "雨时",
+      "developer": "启玄 宋",
+      "developerUrl": "https://apps.apple.com/mx/developer/%E5%90%AF%E7%8E%84-%E5%AE%8B/id1035099838?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/a4/2a/5aa42a5e-ab0b-2352-598e-cc31ad006c26/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/%E9%9B%A8%E6%97%B6/id1059718989?uo=2",
+      "price": {
+        "amount": 5,
+        "currency": "MXN",
+        "formatted": "$5.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "01/12/2015"
+    },
+    {
+      "rank": 45,
       "previousRank": 46,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "305728705",
       "name": "WeatherCyclopedia™ Premium",
@@ -1036,9 +1014,9 @@
       "releaseDate": "21/02/2009"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1341392811",
       "name": "InstantWeather: Local Forecast",
@@ -1058,9 +1036,9 @@
       "releaseDate": "31/01/2018"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "992351930",
       "name": "Weather Radar Map Live Pro",
@@ -1080,9 +1058,9 @@
       "releaseDate": "23/06/2015"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "945662966",
       "name": "Storm Tracker° Pro",
@@ -1102,9 +1080,9 @@
       "releaseDate": "16/12/2014"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "936669093",
       "name": "¿Lloverá? (Will it Rain?) PRO",
@@ -1124,9 +1102,9 @@
       "releaseDate": "21/11/2014"
     },
     {
-      "rank": 51,
+      "rank": 50,
       "previousRank": 51,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1080118736",
       "name": "Golden Hour One",
@@ -1146,8 +1124,8 @@
       "releaseDate": "02/09/2016"
     },
     {
-      "rank": 52,
-      "previousRank": 53,
+      "rank": 51,
+      "previousRank": 52,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1224548795",
@@ -1168,9 +1146,9 @@
       "releaseDate": "12/04/2017"
     },
     {
-      "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "rank": 52,
+      "previousRank": 53,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "839999161",
       "name": "Termómetro: Temperatura local",
@@ -1188,6 +1166,28 @@
         "name": "Clima"
       },
       "releaseDate": "11/04/2014"
+    },
+    {
+      "rank": 53,
+      "previousRank": 7,
+      "rankChange": -46,
+      "isNew": false,
+      "appleId": "486059426",
+      "name": "NOAA Weather Radar",
+      "developer": "Christopher Coudriet",
+      "developerUrl": "https://apps.apple.com/mx/developer/christopher-coudriet/id316500319?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/bb/93/d8bb93d3-6a4e-d744-b0b0-a3ccc8fc8413/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/noaa-weather-radar/id486059426?uo=2",
+      "price": {
+        "amount": 39,
+        "currency": "MXN",
+        "formatted": "$39.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "24/01/2012"
     },
     {
       "rank": 54,
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 56,
-      "rankChange": 1,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "610493235",
       "name": "World Now",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 57,
-      "rankChange": 1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1174281818",
       "name": "Barómetro Plus - Altímetro PRO",
@@ -1257,8 +1257,8 @@
     },
     {
       "rank": 57,
-      "previousRank": 58,
-      "rankChange": 1,
+      "previousRank": 57,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "540120977",
       "name": "Scope Nights Astronomy Weather",
@@ -1279,8 +1279,8 @@
     },
     {
       "rank": 58,
-      "previousRank": 59,
-      "rankChange": 1,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "429394638",
       "name": "PocketGrib",
@@ -1301,30 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 55,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6744972823",
-      "name": "Radar Now: Mapa Lluvia y Nieve",
-      "developer": "Mykhailo Davydovych",
-      "developerUrl": "https://apps.apple.com/mx/developer/mykhailo-davydovych/id1841905419?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c4/c0/fec4c0fa-eae3-5aa0-fe6e-6ef2e43ae026/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/radar-now-mapa-lluvia-y-nieve/id6744972823?uo=2",
-      "price": {
-        "amount": 299,
-        "currency": "MXN",
-        "formatted": "$299.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "28/04/2025"
-    },
-    {
-      "rank": 60,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1492559559",
       "name": "Northern Lights Forecast",
@@ -1344,9 +1322,9 @@
       "releaseDate": "24/12/2019"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1146608794",
       "name": "Sun Position Viewer",
@@ -1366,9 +1344,9 @@
       "releaseDate": "10/09/2016"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "804031883",
       "name": "Mis Horarios de Mareas Pro",
@@ -1388,9 +1366,9 @@
       "releaseDate": "10/02/2014"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1175757480",
       "name": "Termo Higrómetro",
@@ -1410,9 +1388,9 @@
       "releaseDate": "20/12/2016"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "839923054",
       "name": "14 Day NOAA Weather +",
@@ -1432,9 +1410,9 @@
       "releaseDate": "08/04/2014"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "400743351",
       "name": "eQuakeMapPro",
@@ -1454,9 +1432,9 @@
       "releaseDate": "11/11/2010"
     },
     {
-      "rank": 66,
+      "rank": 65,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "467953321",
       "name": "Best Fishing Times",
@@ -1476,9 +1454,9 @@
       "releaseDate": "30/09/2011"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "529677249",
       "name": "Flight Winds",
@@ -1498,9 +1476,9 @@
       "releaseDate": "30/05/2012"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "299504833",
       "name": "El Tiempo",
@@ -1520,9 +1498,9 @@
       "releaseDate": "20/12/2008"
     },
     {
-      "rank": 69,
+      "rank": 68,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1104486867",
       "name": "Partly Sunny",
@@ -1542,9 +1520,9 @@
       "releaseDate": "16/11/2016"
     },
     {
-      "rank": 70,
+      "rank": 69,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1181171736",
       "name": "NOAA Aviation PRO Live Weather",
@@ -1564,9 +1542,9 @@
       "releaseDate": "26/01/2017"
     },
     {
-      "rank": 71,
+      "rank": 70,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1309507749",
       "name": "Thermometer X ++ Digital Temp",
@@ -1586,9 +1564,9 @@
       "releaseDate": "03/12/2017"
     },
     {
-      "rank": 72,
+      "rank": 71,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1000246864",
       "name": "METARs Aviation Weather",
@@ -1608,9 +1586,9 @@
       "releaseDate": "05/02/2016"
     },
     {
-      "rank": 73,
+      "rank": 72,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "418723845",
       "name": "Weather4D Lite",
@@ -1628,6 +1606,28 @@
         "name": "Clima"
       },
       "releaseDate": "24/03/2011"
+    },
+    {
+      "rank": 73,
+      "previousRank": 59,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "6744972823",
+      "name": "Radar Now: Mapa Lluvia y Nieve",
+      "developer": "Mykhailo Davydovych",
+      "developerUrl": "https://apps.apple.com/mx/developer/mykhailo-davydovych/id1841905419?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c4/c0/fec4c0fa-eae3-5aa0-fe6e-6ef2e43ae026/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/radar-now-mapa-lluvia-y-nieve/id6744972823?uo=2",
+      "price": {
+        "amount": 299,
+        "currency": "MXN",
+        "formatted": "$299.00"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Clima"
+      },
+      "releaseDate": "28/04/2025"
     },
     {
       "rank": 74,
@@ -1836,7 +1836,7 @@
       "name": "Fireguard: Incendios",
       "developer": "Qvyshift LLC",
       "developerUrl": "https://apps.apple.com/mx/developer/qvyshift-llc/id1536442361?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/fa/39/1bfa39fc-9440-1e9f-17a3-c5ed4a81260b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cc/0a/d6cc0a1c-1397-36b7-bd15-5debb4a74e96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/mx/app/fireguard-incendios/id1609656462?uo=2",
       "price": {
         "amount": 199,
@@ -2090,50 +2090,6 @@
         "name": "Clima"
       },
       "releaseDate": "21/11/2011"
-    },
-    {
-      "rank": 95,
-      "previousRank": 95,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "480688850",
-      "name": "Snow Day Calculator",
-      "developer": "David Sukhin",
-      "developerUrl": "https://apps.apple.com/mx/developer/david-sukhin/id480688853?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/ac/47/31ac474b-4e29-697e-807b-f823b7ad4b2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/snow-day-calculator/id480688850?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "04/12/2011"
-    },
-    {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "313904274",
-      "name": "WeatherLCD",
-      "developer": "homedatasheet.com, Inc.",
-      "developerUrl": "https://apps.apple.com/mx/developer/homedatasheet-com-inc/id307726715?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/00/20/ad00200e-53e5-4667-230a-b3be4334795d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/weatherlcd/id313904274?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Clima"
-      },
-      "releaseDate": "08/08/2009"
     }
   ]
 }
