@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-16",
-  "collectedAt": "2026-10-16T05:38:31.724Z",
-  "sourceUpdatedAt": "2026-10-15T22:38:30-07:00",
+  "snapshotDate": "2026-10-17",
+  "collectedAt": "2026-10-17T05:25:35.328Z",
+  "sourceUpdatedAt": "2026-10-16T22:25:34-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/br/rss/toppaidapplications/limit=100/genre=6013/json",
   "chartType": "paid",
@@ -17,16 +17,16 @@
     "name": "健康健美"
   },
   "requestedLimit": 100,
-  "expectedCount": 94,
-  "actualCount": 94,
+  "expectedCount": 95,
+  "actualCount": 95,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-15",
+  "previousSnapshotDate": "2026-10-16",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1164801111",
       "name": "AutoSleep – Rastreador de sono",
@@ -47,7 +47,29 @@
     },
     {
       "rank": 2,
-      "previousRank": 1,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6502992892",
+      "name": "Honest Measure",
+      "developer": "Hoon Kim",
+      "developerUrl": "https://apps.apple.com/br/developer/hoon-kim/id1747700721?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/0d/bd/d80dbd09-2403-ba9a-a049-fadce6c57380/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/honest-measure/id6502992892?uo=2",
+      "price": {
+        "amount": 99.9,
+        "currency": "BRL",
+        "formatted": "R$ 99,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "17/07/2024"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "963034692",
@@ -68,75 +90,9 @@
       "releaseDate": "31/05/2015"
     },
     {
-      "rank": 3,
-      "previousRank": 40,
-      "rankChange": 37,
-      "isNew": false,
-      "appleId": "984225820",
-      "name": "BruxApp",
-      "developer": "Chiara Bonanni",
-      "developerUrl": "https://apps.apple.com/br/developer/chiara-bonanni/id1478421144?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/af/16/75/af1675a3-f9ea-398d-f497-7d09c1c2a120/AppIconNew-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/bruxapp/id984225820?uo=2",
-      "price": {
-        "amount": 12.9,
-        "currency": "BRL",
-        "formatted": "R$ 12,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "29/01/2016"
-    },
-    {
       "rank": 4,
-      "previousRank": 7,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1241909999",
-      "name": "WorkOutDoors",
-      "developer": "CCS Ltd",
-      "developerUrl": "https://apps.apple.com/br/developer/ccs-ltd/id569489568?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/workoutdoors/id1241909999?uo=2",
-      "price": {
-        "amount": 59.9,
-        "currency": "BRL",
-        "formatted": "R$ 59,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "13/07/2017"
-    },
-    {
-      "rank": 5,
-      "previousRank": 3,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1202650514",
-      "name": "HealthFit",
-      "developer": "Stephane Lizeray",
-      "developerUrl": "https://apps.apple.com/br/developer/stephane-lizeray/id617677771?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/11/b5/8f11b51c-f228-e86a-b2e5-c0b07cf354bd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/healthfit/id1202650514?uo=2",
-      "price": {
-        "amount": 49.9,
-        "currency": "BRL",
-        "formatted": "R$ 49,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "25/09/2017"
-    },
-    {
-      "rank": 6,
-      "previousRank": 11,
-      "rankChange": 5,
+      "previousRank": 6,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1062745479",
       "name": "HeartWatch: Monitor Frequência",
@@ -156,126 +112,16 @@
       "releaseDate": "07/12/2015"
     },
     {
-      "rank": 7,
-      "previousRank": 13,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "347400507",
-      "name": "Pocket Yoga",
-      "developer": "Rainfrog, LLC",
-      "developerUrl": "https://apps.apple.com/br/developer/rainfrog-llc/id347400510?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/b6/70/eab67086-3fbd-92d2-5086-6a04454d091f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/pocket-yoga/id347400507?uo=2",
-      "price": {
-        "amount": 19.9,
-        "currency": "BRL",
-        "formatted": "R$ 19,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "20/03/2010"
-    },
-    {
-      "rank": 8,
-      "previousRank": 27,
-      "rankChange": 19,
-      "isNew": false,
-      "appleId": "1509943403",
-      "name": "Taco App: Tabela Nutricional",
-      "developer": "Seleto Company LTDA",
-      "developerUrl": "https://apps.apple.com/br/developer/seleto-company-ltda/id1182758420?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/10/28/1f102806-d30d-3303-9b4c-380e0f9386cc/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/taco-app-tabela-nutricional/id1509943403?uo=2",
-      "price": {
-        "amount": 6.9,
-        "currency": "BRL",
-        "formatted": "R$ 6,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "29/04/2020"
-    },
-    {
-      "rank": 9,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "646414918",
-      "name": "RunTempo - Runners Metronome",
-      "developer": "DockMarket LLC",
-      "developerUrl": "https://apps.apple.com/br/developer/dockmarket-llc/id316076698?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8c/47/ec8c47b7-313d-05ab-6246-cab59725ce67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/runtempo-runners-metronome/id646414918?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "24/09/2013"
-    },
-    {
-      "rank": 10,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6745478633",
-      "name": "Toothify: Timer de Escovação",
-      "developer": "Peak Labs Ltd",
-      "developerUrl": "https://apps.apple.com/br/developer/peak-labs-ltd/id1720943976?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/62/a8/bf62a833-834b-7940-793b-94eadef31b16/AppIcon-0-0-1x_U007ewatch-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/toothify-timer-de-escova%C3%A7%C3%A3o/id6745478633?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "06/05/2025"
-    },
-    {
-      "rank": 11,
+      "rank": 5,
       "previousRank": 4,
-      "rankChange": -7,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "1422489202",
-      "name": "ProBikeGarage: Bicycle tracker",
-      "developer": "Jaime Gil de Sagredo Luna",
-      "developerUrl": "https://apps.apple.com/br/developer/jaime-gil-de-sagredo-luna/id1422489201?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ea/f3/34eaf34e-9cdd-26e3-e32b-c557e6e0aa87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/probikegarage-bicycle-tracker/id1422489202?uo=2",
-      "price": {
-        "amount": 24.9,
-        "currency": "BRL",
-        "formatted": "R$ 24,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "29/03/2019"
-    },
-    {
-      "rank": 12,
-      "previousRank": 5,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "686923970",
-      "name": "HRV4Training",
-      "developer": "A.S.M.A. B.V.",
-      "developerUrl": "https://apps.apple.com/br/developer/a-s-m-a-b-v/id1066843463?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/86/97/f28697b6-4a3d-6b90-1440-11ea42064793/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/hrv4training/id686923970?uo=2",
+      "appleId": "1241909999",
+      "name": "WorkOutDoors",
+      "developer": "CCS Ltd",
+      "developerUrl": "https://apps.apple.com/br/developer/ccs-ltd/id569489568?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/workoutdoors/id1241909999?uo=2",
       "price": {
         "amount": 59.9,
         "currency": "BRL",
@@ -285,188 +131,12 @@
         "id": "6013",
         "name": "Saúde e fitness"
       },
-      "releaseDate": "14/08/2013"
+      "releaseDate": "13/07/2017"
     },
     {
-      "rank": 13,
-      "previousRank": 6,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "6815223444",
-      "name": "GRX: Ficha de Treino Offline",
-      "developer": "Grx Labs Ltda",
-      "developerUrl": "https://apps.apple.com/br/developer/grx-labs-ltda/id1813589672?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/35/3c/a2353c5a-ef7e-6f0d-ef04-2147cfde9155/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/grx-ficha-de-treino-offline/id6815223444?uo=2",
-      "price": {
-        "amount": 99.9,
-        "currency": "BRL",
-        "formatted": "R$ 99,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "01/10/2026"
-    },
-    {
-      "rank": 14,
-      "previousRank": 44,
-      "rankChange": 30,
-      "isNew": false,
-      "appleId": "352247139",
-      "name": "Calorie Counter PRO MyNetDiary",
-      "developer": "MyNetDiary Inc.",
-      "developerUrl": "https://apps.apple.com/br/developer/mynetdiary-inc/id287529760?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/a6/1d/9ca61dfb-8fdc-38ca-63b5-a303faf2d2f9/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/calorie-counter-pro-mynetdiary/id352247139?uo=2",
-      "price": {
-        "amount": 24.9,
-        "currency": "BRL",
-        "formatted": "R$ 24,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "02/02/2010"
-    },
-    {
-      "rank": 15,
-      "previousRank": 85,
-      "rankChange": 70,
-      "isNew": false,
-      "appleId": "478610069",
-      "name": "The Work App",
-      "developer": "Byron Katie International, Inc",
-      "developerUrl": "https://apps.apple.com/br/developer/byron-katie-international-inc/id478610072?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/3a/20/773a2092-d6cc-ba3b-6646-25588968c386/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/the-work-app/id478610069?uo=2",
-      "price": {
-        "amount": 6.9,
-        "currency": "BRL",
-        "formatted": "R$ 6,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "11/11/2011"
-    },
-    {
-      "rank": 16,
-      "previousRank": 8,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "988527143",
-      "name": "Mind Monitor",
-      "developer": "James Clutterbuck",
-      "developerUrl": "https://apps.apple.com/br/developer/james-clutterbuck/id988527142?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/8d/a3/b88da338-7249-00ea-6059-bb3985fe5564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/mind-monitor/id988527143?uo=2",
-      "price": {
-        "amount": 99.9,
-        "currency": "BRL",
-        "formatted": "R$ 99,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "01/07/2015"
-    },
-    {
-      "rank": 17,
-      "previousRank": 9,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "1577752006",
-      "name": "Soccer Plus: Rastreador Futbol",
-      "developer": "伟伟 李",
-      "developerUrl": "https://apps.apple.com/br/developer/%E4%BC%9F%E4%BC%9F-%E6%9D%8E/id1525655772?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/26/5b/e0265b2a-8d94-d228-7dba-cfc06415a71d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/soccer-plus-rastreador-futbol/id1577752006?uo=2",
-      "price": {
-        "amount": 24.9,
-        "currency": "BRL",
-        "formatted": "R$ 24,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "01/09/2021"
-    },
-    {
-      "rank": 18,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "286228072",
-      "name": "Round Timer",
-      "developer": "Plain and Simple Software",
-      "developerUrl": "https://apps.apple.com/br/developer/plain-and-simple-software/id286228075?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ce/2a/45/ce2a45ce-0030-8ae7-e8e4-6c8a02194890/AppIcon-1x_U007emarketing-85-220-4.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/round-timer/id286228072?uo=2",
-      "price": {
-        "amount": 6.9,
-        "currency": "BRL",
-        "formatted": "R$ 6,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "03/02/2019"
-    },
-    {
-      "rank": 19,
-      "previousRank": 10,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "6759006922",
-      "name": "Health Exporter & Shortcuts",
-      "developer": "Michele Cantelli",
-      "developerUrl": "https://apps.apple.com/br/developer/michele-cantelli/id1303530062?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b2/09/bfb209a5-bc75-1ad7-86f4-4ca86db3ae4e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/health-exporter-shortcuts/id6759006922?uo=2",
-      "price": {
-        "amount": 19.9,
-        "currency": "BRL",
-        "formatted": "R$ 19,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "19/02/2026"
-    },
-    {
-      "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6747236979",
-      "name": "Grabovoi",
-      "developer": "Maike Warner",
-      "developerUrl": "https://apps.apple.com/br/developer/maike-warner/id1393756317?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1f/3e/6d1f3e23-3146-359d-619a-36c0f7895c3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/grabovoi/id6747236979?uo=2",
-      "price": {
-        "amount": 6.9,
-        "currency": "BRL",
-        "formatted": "R$ 6,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "01/07/2025"
-    },
-    {
-      "rank": 21,
-      "previousRank": 12,
-      "rankChange": -9,
+      "rank": 6,
+      "previousRank": 21,
+      "rankChange": 15,
       "isNew": false,
       "appleId": "419606496",
       "name": "Baby Shusher Sleep Miracle App",
@@ -486,38 +156,104 @@
       "releaseDate": "28/02/2011"
     },
     {
-      "rank": 22,
-      "previousRank": 14,
-      "rankChange": -8,
+      "rank": 7,
+      "previousRank": 34,
+      "rankChange": 27,
       "isNew": false,
-      "appleId": "1294700966",
-      "name": "TNM8 Breast Cancer Calculator",
-      "developer": "Wesley Andrade",
-      "developerUrl": "https://apps.apple.com/br/developer/wesley-andrade/id1294700965?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0c/e4/9c/0ce49cb9-2eb3-d1f5-0c52-52930b34b4cd/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/tnm8-breast-cancer-calculator/id1294700966?uo=2",
+      "appleId": "410413185",
+      "name": "Peso Diário",
+      "developer": "CURLYBRACE APPS LTD",
+      "developerUrl": "https://apps.apple.com/br/developer/curlybrace-apps-ltd/id410413205?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/51/6c/45516ca1-bd46-b00d-0665-c40b40349bed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/peso-di%C3%A1rio/id410413185?uo=2",
       "price": {
-        "amount": 69.9,
+        "amount": 49.9,
         "currency": "BRL",
-        "formatted": "R$ 69,90"
+        "formatted": "R$ 49,90"
       },
       "primaryCategory": {
         "id": "6013",
         "name": "Saúde e fitness"
       },
-      "releaseDate": "19/10/2017"
+      "releaseDate": "12/01/2011"
     },
     {
-      "rank": 23,
-      "previousRank": 15,
-      "rankChange": -8,
+      "rank": 8,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6805099342",
+      "name": "HzLab: Solfeggio & Noise",
+      "developer": "Code and DESIGN inc.",
+      "developerUrl": "https://apps.apple.com/br/developer/code-and-design-inc/id1172903960?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/c7/a0/fac7a0e5-cdfa-6eb1-f093-ae4e26bccec4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/hzlab-solfeggio-noise/id6805099342?uo=2",
+      "price": {
+        "amount": 29.9,
+        "currency": "BRL",
+        "formatted": "R$ 29,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "25/08/2026"
+    },
+    {
+      "rank": 9,
+      "previousRank": 3,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "882840649",
-      "name": "Temporizador de Meditação",
-      "developer": "Zenoki Ltd",
-      "developerUrl": "https://apps.apple.com/br/developer/zenoki-ltd/id552797520?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/62/95/6c6295eb-a86a-fb14-1ec6-e79b66d25d6f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/temporizador-de-medita%C3%A7%C3%A3o/id882840649?uo=2",
+      "appleId": "984225820",
+      "name": "BruxApp",
+      "developer": "Chiara Bonanni",
+      "developerUrl": "https://apps.apple.com/br/developer/chiara-bonanni/id1478421144?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/af/16/75/af1675a3-f9ea-398d-f497-7d09c1c2a120/AppIconNew-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/bruxapp/id984225820?uo=2",
+      "price": {
+        "amount": 12.9,
+        "currency": "BRL",
+        "formatted": "R$ 12,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "29/01/2016"
+    },
+    {
+      "rank": 10,
+      "previousRank": 5,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "1202650514",
+      "name": "HealthFit",
+      "developer": "Stephane Lizeray",
+      "developerUrl": "https://apps.apple.com/br/developer/stephane-lizeray/id617677771?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/11/b5/8f11b51c-f228-e86a-b2e5-c0b07cf354bd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/healthfit/id1202650514?uo=2",
+      "price": {
+        "amount": 49.9,
+        "currency": "BRL",
+        "formatted": "R$ 49,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "25/09/2017"
+    },
+    {
+      "rank": 11,
+      "previousRank": 7,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "347400507",
+      "name": "Pocket Yoga",
+      "developer": "Rainfrog, LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/rainfrog-llc/id347400510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/b6/70/eab67086-3fbd-92d2-5086-6a04454d091f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/pocket-yoga/id347400507?uo=2",
       "price": {
         "amount": 19.9,
         "currency": "BRL",
@@ -527,34 +263,298 @@
         "id": "6013",
         "name": "Saúde e fitness"
       },
-      "releaseDate": "19/07/2014"
+      "releaseDate": "20/03/2010"
     },
     {
-      "rank": 24,
-      "previousRank": 16,
-      "rankChange": -8,
+      "rank": 12,
+      "previousRank": 8,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "6741898821",
-      "name": "The 50 Day-Habit Challenge App",
-      "developer": "雅婷 高",
-      "developerUrl": "https://apps.apple.com/br/developer/%E9%9B%85%E5%A9%B7-%E9%AB%98/id1778270142?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/e2/18/d5e21867-7b39-1eba-32e3-14008f01ac48/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/the-50-day-habit-challenge-app/id6741898821?uo=2",
+      "appleId": "1509943403",
+      "name": "Taco App: Tabela Nutricional",
+      "developer": "Seleto Company LTDA",
+      "developerUrl": "https://apps.apple.com/br/developer/seleto-company-ltda/id1182758420?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/10/28/1f102806-d30d-3303-9b4c-380e0f9386cc/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/taco-app-tabela-nutricional/id1509943403?uo=2",
       "price": {
-        "amount": 14.9,
+        "amount": 6.9,
         "currency": "BRL",
-        "formatted": "R$ 14,90"
+        "formatted": "R$ 6,90"
       },
       "primaryCategory": {
         "id": "6013",
         "name": "Saúde e fitness"
       },
-      "releaseDate": "13/02/2025"
+      "releaseDate": "29/04/2020"
+    },
+    {
+      "rank": 13,
+      "previousRank": 9,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "646414918",
+      "name": "RunTempo - Runners Metronome",
+      "developer": "DockMarket LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/dockmarket-llc/id316076698?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8c/47/ec8c47b7-313d-05ab-6246-cab59725ce67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/runtempo-runners-metronome/id646414918?uo=2",
+      "price": {
+        "amount": 29.9,
+        "currency": "BRL",
+        "formatted": "R$ 29,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "24/09/2013"
+    },
+    {
+      "rank": 14,
+      "previousRank": 10,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6745478633",
+      "name": "Toothify: Timer de Escovação",
+      "developer": "Peak Labs Ltd",
+      "developerUrl": "https://apps.apple.com/br/developer/peak-labs-ltd/id1720943976?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/62/a8/bf62a833-834b-7940-793b-94eadef31b16/AppIcon-0-0-1x_U007ewatch-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/toothify-timer-de-escova%C3%A7%C3%A3o/id6745478633?uo=2",
+      "price": {
+        "amount": 29.9,
+        "currency": "BRL",
+        "formatted": "R$ 29,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "06/05/2025"
+    },
+    {
+      "rank": 15,
+      "previousRank": 11,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1422489202",
+      "name": "ProBikeGarage: Bicycle tracker",
+      "developer": "Jaime Gil de Sagredo Luna",
+      "developerUrl": "https://apps.apple.com/br/developer/jaime-gil-de-sagredo-luna/id1422489201?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ea/f3/34eaf34e-9cdd-26e3-e32b-c557e6e0aa87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/probikegarage-bicycle-tracker/id1422489202?uo=2",
+      "price": {
+        "amount": 24.9,
+        "currency": "BRL",
+        "formatted": "R$ 24,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "29/03/2019"
+    },
+    {
+      "rank": 16,
+      "previousRank": 12,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "686923970",
+      "name": "HRV4Training",
+      "developer": "A.S.M.A. B.V.",
+      "developerUrl": "https://apps.apple.com/br/developer/a-s-m-a-b-v/id1066843463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/86/97/f28697b6-4a3d-6b90-1440-11ea42064793/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/hrv4training/id686923970?uo=2",
+      "price": {
+        "amount": 59.9,
+        "currency": "BRL",
+        "formatted": "R$ 59,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "14/08/2013"
+    },
+    {
+      "rank": 17,
+      "previousRank": 13,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6815223444",
+      "name": "GRX: Ficha de Treino Offline",
+      "developer": "Grx Labs Ltda",
+      "developerUrl": "https://apps.apple.com/br/developer/grx-labs-ltda/id1813589672?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/35/3c/a2353c5a-ef7e-6f0d-ef04-2147cfde9155/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/grx-ficha-de-treino-offline/id6815223444?uo=2",
+      "price": {
+        "amount": 99.9,
+        "currency": "BRL",
+        "formatted": "R$ 99,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "01/10/2026"
+    },
+    {
+      "rank": 18,
+      "previousRank": 14,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "352247139",
+      "name": "Calorie Counter PRO MyNetDiary",
+      "developer": "MyNetDiary Inc.",
+      "developerUrl": "https://apps.apple.com/br/developer/mynetdiary-inc/id287529760?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/a6/1d/9ca61dfb-8fdc-38ca-63b5-a303faf2d2f9/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/calorie-counter-pro-mynetdiary/id352247139?uo=2",
+      "price": {
+        "amount": 24.9,
+        "currency": "BRL",
+        "formatted": "R$ 24,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "02/02/2010"
+    },
+    {
+      "rank": 19,
+      "previousRank": 15,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "478610069",
+      "name": "The Work App",
+      "developer": "Byron Katie International, Inc",
+      "developerUrl": "https://apps.apple.com/br/developer/byron-katie-international-inc/id478610072?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/3a/20/773a2092-d6cc-ba3b-6646-25588968c386/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/the-work-app/id478610069?uo=2",
+      "price": {
+        "amount": 6.9,
+        "currency": "BRL",
+        "formatted": "R$ 6,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "11/11/2011"
+    },
+    {
+      "rank": 20,
+      "previousRank": 16,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "988527143",
+      "name": "Mind Monitor",
+      "developer": "James Clutterbuck",
+      "developerUrl": "https://apps.apple.com/br/developer/james-clutterbuck/id988527142?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/8d/a3/b88da338-7249-00ea-6059-bb3985fe5564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/mind-monitor/id988527143?uo=2",
+      "price": {
+        "amount": 99.9,
+        "currency": "BRL",
+        "formatted": "R$ 99,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "01/07/2015"
+    },
+    {
+      "rank": 21,
+      "previousRank": 17,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1577752006",
+      "name": "Soccer Plus: Rastreador Futbol",
+      "developer": "伟伟 李",
+      "developerUrl": "https://apps.apple.com/br/developer/%E4%BC%9F%E4%BC%9F-%E6%9D%8E/id1525655772?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/26/5b/e0265b2a-8d94-d228-7dba-cfc06415a71d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/soccer-plus-rastreador-futbol/id1577752006?uo=2",
+      "price": {
+        "amount": 24.9,
+        "currency": "BRL",
+        "formatted": "R$ 24,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "01/09/2021"
+    },
+    {
+      "rank": 22,
+      "previousRank": 18,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "286228072",
+      "name": "Round Timer",
+      "developer": "Plain and Simple Software",
+      "developerUrl": "https://apps.apple.com/br/developer/plain-and-simple-software/id286228075?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ce/2a/45/ce2a45ce-0030-8ae7-e8e4-6c8a02194890/AppIcon-1x_U007emarketing-85-220-4.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/round-timer/id286228072?uo=2",
+      "price": {
+        "amount": 6.9,
+        "currency": "BRL",
+        "formatted": "R$ 6,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "03/02/2019"
+    },
+    {
+      "rank": 23,
+      "previousRank": 19,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6759006922",
+      "name": "Health Exporter & Shortcuts",
+      "developer": "Michele Cantelli",
+      "developerUrl": "https://apps.apple.com/br/developer/michele-cantelli/id1303530062?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b2/09/bfb209a5-bc75-1ad7-86f4-4ca86db3ae4e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/health-exporter-shortcuts/id6759006922?uo=2",
+      "price": {
+        "amount": 19.9,
+        "currency": "BRL",
+        "formatted": "R$ 19,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "19/02/2026"
+    },
+    {
+      "rank": 24,
+      "previousRank": 20,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6747236979",
+      "name": "Grabovoi",
+      "developer": "Maike Warner",
+      "developerUrl": "https://apps.apple.com/br/developer/maike-warner/id1393756317?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1f/3e/6d1f3e23-3146-359d-619a-36c0f7895c3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/grabovoi/id6747236979?uo=2",
+      "price": {
+        "amount": 6.9,
+        "currency": "BRL",
+        "formatted": "R$ 6,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "01/07/2025"
     },
     {
       "rank": 25,
-      "previousRank": 22,
-      "rankChange": -3,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "680170305",
       "name": "Treino de 7 minutos - 7 Minute",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 23,
-      "rankChange": -3,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "573916046",
       "name": "Fitness Point Pro: Gym & Home",
@@ -597,8 +597,8 @@
     },
     {
       "rank": 27,
-      "previousRank": 24,
-      "rankChange": -3,
+      "previousRank": 27,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "441079429",
       "name": "Cardiógrafo Clássico",
@@ -619,8 +619,8 @@
     },
     {
       "rank": 28,
-      "previousRank": 25,
-      "rankChange": -3,
+      "previousRank": 28,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "443646748",
       "name": "Fitness Amigo+",
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 26,
-      "rankChange": -3,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "429135422",
       "name": "Calendário WomanLog Pro",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 28,
-      "rankChange": -2,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "331529422",
       "name": "Relax Melodies P: Sleep Sounds",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 29,
-      "rankChange": -2,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "958239026",
       "name": "50em5",
@@ -707,8 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 30,
-      "rankChange": -2,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "307219387",
       "name": "BrainWave: Série 40 Binaural",
@@ -729,8 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": 31,
-      "rankChange": -2,
+      "previousRank": 33,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1210251567",
       "name": "SleepTown",
@@ -751,30 +751,8 @@
     },
     {
       "rank": 34,
-      "previousRank": 32,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "410413185",
-      "name": "Peso Diário",
-      "developer": "CURLYBRACE APPS LTD",
-      "developerUrl": "https://apps.apple.com/br/developer/curlybrace-apps-ltd/id410413205?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/51/6c/45516ca1-bd46-b00d-0665-c40b40349bed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/peso-di%C3%A1rio/id410413185?uo=2",
-      "price": {
-        "amount": 49.9,
-        "currency": "BRL",
-        "formatted": "R$ 49,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "12/01/2011"
-    },
-    {
-      "rank": 35,
-      "previousRank": 33,
-      "rankChange": -2,
+      "previousRank": 35,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "862773459",
       "name": "Noisli",
@@ -794,9 +772,9 @@
       "releaseDate": "08/05/2014"
     },
     {
-      "rank": 36,
-      "previousRank": 34,
-      "rankChange": -2,
+      "rank": 35,
+      "previousRank": 36,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "469067434",
       "name": "Treinos Diários",
@@ -816,9 +794,9 @@
       "releaseDate": "31/10/2011"
     },
     {
-      "rank": 37,
-      "previousRank": 35,
-      "rankChange": -2,
+      "rank": 36,
+      "previousRank": 37,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "687421118",
       "name": "Buddhify: Guided Meditation",
@@ -838,9 +816,9 @@
       "releaseDate": "01/01/2014"
     },
     {
-      "rank": 38,
-      "previousRank": 36,
-      "rankChange": -2,
+      "rank": 37,
+      "previousRank": 38,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "846205070",
       "name": "Sons de Dormir HQ",
@@ -860,9 +838,9 @@
       "releaseDate": "10/04/2014"
     },
     {
-      "rank": 39,
-      "previousRank": 37,
-      "rankChange": -2,
+      "rank": 38,
+      "previousRank": 39,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "289894882",
       "name": "White Noise",
@@ -882,9 +860,9 @@
       "releaseDate": "31/01/2019"
     },
     {
-      "rank": 40,
-      "previousRank": 38,
-      "rankChange": -2,
+      "rank": 39,
+      "previousRank": 40,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "290231956",
       "name": "iPeriod Period Tracker +",
@@ -904,9 +882,9 @@
       "releaseDate": "12/02/2019"
     },
     {
-      "rank": 41,
-      "previousRank": 39,
-      "rankChange": -2,
+      "rank": 40,
+      "previousRank": 41,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "418288707",
       "name": "LADYTIMER ovulação menstruação",
@@ -926,9 +904,9 @@
       "releaseDate": "10/02/2011"
     },
     {
-      "rank": 42,
-      "previousRank": 41,
-      "rankChange": -1,
+      "rank": 41,
+      "previousRank": 42,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1391084560",
       "name": "Modern Essentials Plus",
@@ -948,9 +926,9 @@
       "releaseDate": "31/10/2018"
     },
     {
-      "rank": 43,
-      "previousRank": 42,
-      "rankChange": -1,
+      "rank": 42,
+      "previousRank": 43,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "566752651",
       "name": "Rainy Mood",
@@ -970,9 +948,9 @@
       "releaseDate": "08/10/2012"
     },
     {
-      "rank": 44,
-      "previousRank": 43,
-      "rankChange": -1,
+      "rank": 43,
+      "previousRank": 44,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "448200679",
       "name": "Meditation & Relax Music Pro",
@@ -992,9 +970,9 @@
       "releaseDate": "15/07/2011"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "previousRank": 45,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "337998484",
       "name": "Water Your Body",
@@ -1014,9 +992,9 @@
       "releaseDate": "15/11/2009"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "previousRank": 46,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "347858530",
       "name": "Map My Tracks: pro",
@@ -1036,9 +1014,9 @@
       "releaseDate": "26/01/2010"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "363978811",
       "name": "Seconds Pro Interval Timer",
@@ -1056,6 +1034,28 @@
         "name": "Saúde e fitness"
       },
       "releaseDate": "13/07/2010"
+    },
+    {
+      "rank": 47,
+      "previousRank": 22,
+      "rankChange": -25,
+      "isNew": false,
+      "appleId": "1294700966",
+      "name": "TNM8 Breast Cancer Calculator",
+      "developer": "Wesley Andrade",
+      "developerUrl": "https://apps.apple.com/br/developer/wesley-andrade/id1294700965?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0c/e4/9c/0ce49cb9-2eb3-d1f5-0c52-52930b34b4cd/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/tnm8-breast-cancer-calculator/id1294700966?uo=2",
+      "price": {
+        "amount": 69.9,
+        "currency": "BRL",
+        "formatted": "R$ 69,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "19/10/2017"
     },
     {
       "rank": 48,
@@ -1653,8 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 17,
-      "rankChange": -58,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1158767577",
       "name": "Tennis Plus",
@@ -1675,7 +1675,29 @@
     },
     {
       "rank": 76,
-      "previousRank": 75,
+      "previousRank": 77,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "470476048",
+      "name": "Sleep Bug Pro",
+      "developer": "Arnt-Henning Moberg",
+      "developerUrl": "https://apps.apple.com/br/developer/arnt-henning-moberg/id467483179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/c3/18/3cc31806-6fa6-022c-009e-1d08693b1df1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/sleep-bug-pro/id470476048?uo=2",
+      "price": {
+        "amount": 12.9,
+        "currency": "BRL",
+        "formatted": "R$ 12,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "30/10/2011"
+    },
+    {
+      "rank": 77,
+      "previousRank": 76,
       "rankChange": -1,
       "isNew": false,
       "appleId": "493912733",
@@ -1696,31 +1718,9 @@
       "releaseDate": "16/01/2012"
     },
     {
-      "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "470476048",
-      "name": "Sleep Bug Pro",
-      "developer": "Arnt-Henning Moberg",
-      "developerUrl": "https://apps.apple.com/br/developer/arnt-henning-moberg/id467483179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/c3/18/3cc31806-6fa6-022c-009e-1d08693b1df1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/sleep-bug-pro/id470476048?uo=2",
-      "price": {
-        "amount": 12.9,
-        "currency": "BRL",
-        "formatted": "R$ 12,90"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Saúde e fitness"
-      },
-      "releaseDate": "30/10/2011"
-    },
-    {
       "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "471786434",
       "name": "Pocket Yoga Teacher",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "398550057",
       "name": "Treino Diário de Glúteos",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "296266786",
       "name": "Sleep Analyzer",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "483994942",
       "name": "QuitNow PRO",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "718972145",
       "name": "Calendário WomanLog Baby Pro",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "313494823",
       "name": "Run 5k - couch to 5k program",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1322330291",
       "name": "Treinador FitProSport FULL",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "408385001",
       "name": "Treino Diário de Cardio",
@@ -2090,6 +2090,28 @@
         "name": "Saúde e fitness"
       },
       "releaseDate": "22/07/2012"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "436146485",
+      "name": "Treino Diário das Pernas",
+      "developer": "Daily Workout Apps, LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/daily-workout-apps-llc/id329427288?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/8d/67/c68d6797-9c47-47cf-6f5d-d55d13909187/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/treino-di%C3%A1rio-das-pernas/id436146485?uo=2",
+      "price": {
+        "amount": 59.9,
+        "currency": "BRL",
+        "formatted": "R$ 59,90"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Saúde e fitness"
+      },
+      "releaseDate": "30/08/2011"
     }
   ]
 }
