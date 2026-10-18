@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-17",
-  "collectedAt": "2026-10-17T05:26:56.177Z",
-  "sourceUpdatedAt": "2026-10-16T22:26:55-07:00",
+  "snapshotDate": "2026-10-18",
+  "collectedAt": "2026-10-18T05:36:09.233Z",
+  "sourceUpdatedAt": "2026-10-17T22:36:08-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/ae/rss/toppaidapplications/limit=100/genre=6015/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "财务"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 97,
+  "actualCount": 97,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-16",
+  "previousSnapshotDate": "2026-10-17",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 6,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "564730202",
+      "name": "Money Manager (Remove Ads)",
+      "developer": "Realbyte Inc.",
+      "developerUrl": "https://apps.apple.com/ae/developer/realbyte-inc/id560481813?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/33/67/26336788-d68a-5641-9fcf-f274d332e86b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/money-manager-remove-ads/id564730202?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "AED",
+        "formatted": "AED 22.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "03 October 2012"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6778774809",
       "name": "Cashtra - Budget Tracker",
@@ -46,9 +68,9 @@
       "releaseDate": "18 June 2026"
     },
     {
-      "rank": 2,
-      "previousRank": 8,
-      "rankChange": 6,
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "482482660",
       "name": "Debt Manager",
@@ -68,8 +90,8 @@
       "releaseDate": "08 December 2011"
     },
     {
-      "rank": 3,
-      "previousRank": 2,
+      "rank": 4,
+      "previousRank": 3,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6742040639",
@@ -90,8 +112,8 @@
       "releaseDate": "16 April 2025"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
+      "rank": 5,
+      "previousRank": 4,
       "rankChange": -1,
       "isNew": false,
       "appleId": "525997288",
@@ -112,53 +134,9 @@
       "releaseDate": "16 May 2012"
     },
     {
-      "rank": 5,
-      "previousRank": 4,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6802341104",
-      "name": "Silo - Budget & Bills Tracker",
-      "developer": "Joeren Christopher Lee",
-      "developerUrl": "https://apps.apple.com/ae/developer/joeren-christopher-lee/id6802341106?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/94/83/0b948379-7acb-93c2-e2c6-b244c029435d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/silo-budget-bills-tracker/id6802341104?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AED",
-        "formatted": "AED 12.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "17 September 2026"
-    },
-    {
       "rank": 6,
-      "previousRank": 5,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "564730202",
-      "name": "Money Manager (Remove Ads)",
-      "developer": "Realbyte Inc.",
-      "developerUrl": "https://apps.apple.com/ae/developer/realbyte-inc/id560481813?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/33/67/26336788-d68a-5641-9fcf-f274d332e86b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/money-manager-remove-ads/id564730202?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AED",
-        "formatted": "AED 22.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "03 October 2012"
-    },
-    {
-      "rank": 7,
-      "previousRank": 9,
-      "rankChange": 2,
+      "previousRank": 7,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "306257910",
       "name": "HomeBudget with Sync",
@@ -178,9 +156,9 @@
       "releaseDate": "26 February 2009"
     },
     {
-      "rank": 8,
-      "previousRank": 10,
-      "rankChange": 2,
+      "rank": 7,
+      "previousRank": 8,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "918609651",
       "name": "Money Pro: Personal Finance AR",
@@ -200,9 +178,9 @@
       "releaseDate": "22 October 2014"
     },
     {
-      "rank": 9,
-      "previousRank": 11,
-      "rankChange": 2,
+      "rank": 8,
+      "previousRank": 9,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "284947174",
       "name": "iXpenseIt Pro: Manage Finance",
@@ -222,9 +200,9 @@
       "releaseDate": "12 February 2019"
     },
     {
-      "rank": 10,
-      "previousRank": 12,
-      "rankChange": 2,
+      "rank": 9,
+      "previousRank": 10,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "533054060",
       "name": "Money Monitor Pro",
@@ -244,9 +222,9 @@
       "releaseDate": "12 June 2012"
     },
     {
-      "rank": 11,
-      "previousRank": 6,
-      "rankChange": -5,
+      "rank": 10,
+      "previousRank": 11,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "592962356",
       "name": "DataMan - Data Usage Widget",
@@ -266,8 +244,8 @@
       "releaseDate": "17 January 2013"
     },
     {
-      "rank": 12,
-      "previousRank": 13,
+      "rank": 11,
+      "previousRank": 12,
       "rankChange": 1,
       "isNew": false,
       "appleId": "358228999",
@@ -288,8 +266,8 @@
       "releaseDate": "02 March 2010"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
+      "rank": 12,
+      "previousRank": 13,
       "rankChange": 1,
       "isNew": false,
       "appleId": "679044544",
@@ -310,8 +288,8 @@
       "releaseDate": "05 August 2013"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
+      "rank": 13,
+      "previousRank": 14,
       "rankChange": 1,
       "isNew": false,
       "appleId": "329739750",
@@ -332,8 +310,8 @@
       "releaseDate": "12 December 2011"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
+      "rank": 14,
+      "previousRank": 15,
       "rankChange": 1,
       "isNew": false,
       "appleId": "961048437",
@@ -354,8 +332,8 @@
       "releaseDate": "03 February 2015"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
+      "rank": 15,
+      "previousRank": 16,
       "rankChange": 1,
       "isNew": false,
       "appleId": "305709452",
@@ -376,8 +354,8 @@
       "releaseDate": "21 February 2009"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
+      "rank": 16,
+      "previousRank": 17,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1511250212",
@@ -398,8 +376,8 @@
       "releaseDate": "02 May 2020"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
+      "rank": 17,
+      "previousRank": 18,
       "rankChange": 1,
       "isNew": false,
       "appleId": "338971047",
@@ -420,8 +398,8 @@
       "releaseDate": "20 November 2009"
     },
     {
-      "rank": 19,
-      "previousRank": 20,
+      "rank": 18,
+      "previousRank": 19,
       "rankChange": 1,
       "isNew": false,
       "appleId": "290874373",
@@ -442,8 +420,8 @@
       "releaseDate": "12 February 2019"
     },
     {
-      "rank": 20,
-      "previousRank": 21,
+      "rank": 19,
+      "previousRank": 20,
       "rankChange": 1,
       "isNew": false,
       "appleId": "468993411",
@@ -464,8 +442,8 @@
       "releaseDate": "05 October 2011"
     },
     {
-      "rank": 21,
-      "previousRank": 22,
+      "rank": 20,
+      "previousRank": 21,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1524435907",
@@ -486,8 +464,8 @@
       "releaseDate": "16 September 2020"
     },
     {
-      "rank": 22,
-      "previousRank": 23,
+      "rank": 21,
+      "previousRank": 22,
       "rankChange": 1,
       "isNew": false,
       "appleId": "929822826",
@@ -508,8 +486,8 @@
       "releaseDate": "22 October 2014"
     },
     {
-      "rank": 23,
-      "previousRank": 24,
+      "rank": 22,
+      "previousRank": 23,
       "rankChange": 1,
       "isNew": false,
       "appleId": "395153197",
@@ -530,9 +508,9 @@
       "releaseDate": "05 October 2010"
     },
     {
-      "rank": 24,
-      "previousRank": 26,
-      "rankChange": 2,
+      "rank": 23,
+      "previousRank": 24,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "427714758",
       "name": "Currency+ (Currency Converter)",
@@ -552,9 +530,9 @@
       "releaseDate": "01 April 2011"
     },
     {
-      "rank": 25,
-      "previousRank": 29,
-      "rankChange": 4,
+      "rank": 24,
+      "previousRank": 25,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "474439550",
       "name": "Forex Strength Meter",
@@ -574,8 +552,8 @@
       "releaseDate": "31 October 2011"
     },
     {
-      "rank": 26,
-      "previousRank": 27,
+      "rank": 25,
+      "previousRank": 26,
       "rankChange": 1,
       "isNew": false,
       "appleId": "360256797",
@@ -596,8 +574,8 @@
       "releaseDate": "04 October 2010"
     },
     {
-      "rank": 27,
-      "previousRank": 28,
+      "rank": 26,
+      "previousRank": 27,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1481719060",
@@ -618,9 +596,9 @@
       "releaseDate": "05 October 2019"
     },
     {
-      "rank": 28,
-      "previousRank": 31,
-      "rankChange": 3,
+      "rank": 27,
+      "previousRank": 28,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "436402486",
       "name": "Gold - Live Badge Price",
@@ -640,9 +618,9 @@
       "releaseDate": "13 May 2011"
     },
     {
-      "rank": 29,
-      "previousRank": 33,
-      "rankChange": 4,
+      "rank": 28,
+      "previousRank": 29,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "489819235",
       "name": "Best Budget Pro",
@@ -662,9 +640,9 @@
       "releaseDate": "21 December 2011"
     },
     {
-      "rank": 30,
-      "previousRank": 34,
-      "rankChange": 4,
+      "rank": 29,
+      "previousRank": 30,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "494333145",
       "name": "Accounts 2 Checkbook",
@@ -684,9 +662,31 @@
       "releaseDate": "27 January 2012"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "previousRank": 32,
-      "rankChange": 1,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "304485729",
+      "name": "Loan Calculator Pro",
+      "developer": "SVT Software",
+      "developerUrl": "https://apps.apple.com/ae/developer/svt-software/id286029963?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/e1/9c23e12e-ce26-a358-3761-5d82d925403c/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/loan-calculator-pro/id304485729?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AED",
+        "formatted": "AED 2.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "11 February 2009"
+    },
+    {
+      "rank": 31,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "443673909",
       "name": "Loan Calculator +",
@@ -707,51 +707,7 @@
     },
     {
       "rank": 32,
-      "previousRank": 35,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "304485729",
-      "name": "Loan Calculator Pro",
-      "developer": "SVT Software",
-      "developerUrl": "https://apps.apple.com/ae/developer/svt-software/id286029963?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/d7/4f/aed74fa9-e657-8650-29fb-0366dea27752/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/loan-calculator-pro/id304485729?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AED",
-        "formatted": "AED 7.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "11 February 2009"
-    },
-    {
-      "rank": 33,
-      "previousRank": 30,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6818018555",
-      "name": "Zero - Finance Tracker",
-      "developer": "Bryl Kezter Lim",
-      "developerUrl": "https://apps.apple.com/ae/developer/bryl-kezter-lim/id1609198408?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/29/e0/9129e06c-e265-12b7-e9ab-4d8471096710/AppIconiOS-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/zero-finance-tracker/id6818018555?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AED",
-        "formatted": "AED 12.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "05 October 2026"
-    },
-    {
-      "rank": 34,
-      "previousRank": 36,
+      "previousRank": 34,
       "rankChange": 2,
       "isNew": false,
       "appleId": "600375778",
@@ -772,8 +728,8 @@
       "releaseDate": "13 February 2013"
     },
     {
-      "rank": 35,
-      "previousRank": 37,
+      "rank": 33,
+      "previousRank": 35,
       "rankChange": 2,
       "isNew": false,
       "appleId": "932687167",
@@ -794,8 +750,8 @@
       "releaseDate": "04 November 2014"
     },
     {
-      "rank": 36,
-      "previousRank": 38,
+      "rank": 34,
+      "previousRank": 36,
       "rankChange": 2,
       "isNew": false,
       "appleId": "488892606",
@@ -816,8 +772,8 @@
       "releaseDate": "09 February 2012"
     },
     {
-      "rank": 37,
-      "previousRank": 39,
+      "rank": 35,
+      "previousRank": 37,
       "rankChange": 2,
       "isNew": false,
       "appleId": "719162125",
@@ -838,9 +794,53 @@
       "releaseDate": "31 October 2013"
     },
     {
+      "rank": 36,
+      "previousRank": 39,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "1125952051",
+      "name": "Simple Cashbook",
+      "developer": "General Scripting GmbH",
+      "developerUrl": "https://apps.apple.com/ae/developer/general-scripting-gmbh/id1125952050?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/b0/78/0db078d1-ba7a-7673-379b-2a02afcad2a6/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/simple-cashbook/id1125952051?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AED",
+        "formatted": "AED 7.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "04 July 2016"
+    },
+    {
+      "rank": 37,
+      "previousRank": 40,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "494038769",
+      "name": "Print Cheque",
+      "developer": "Moon Technolabs Pvt Ltd",
+      "developerUrl": "https://apps.apple.com/ae/developer/moon-technolabs-pvt-ltd/id558496197?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/14/ce/34/14ce3430-3e42-16a7-7775-4e14bd988616/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/print-cheque/id494038769?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AED",
+        "formatted": "AED 7.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "30 March 2012"
+    },
+    {
       "rank": 38,
-      "previousRank": 7,
-      "rankChange": -31,
+      "previousRank": 38,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "638668003",
       "name": "Debts Monitor Pro",
@@ -861,51 +861,29 @@
     },
     {
       "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "previousRank": 33,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "1125952051",
-      "name": "Simple Cashbook",
-      "developer": "General Scripting GmbH",
-      "developerUrl": "https://apps.apple.com/ae/developer/general-scripting-gmbh/id1125952050?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/b0/78/0db078d1-ba7a-7673-379b-2a02afcad2a6/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/simple-cashbook/id1125952051?uo=2",
+      "appleId": "6818018555",
+      "name": "Zero - Finance Tracker",
+      "developer": "Bryl Kezter Lim",
+      "developerUrl": "https://apps.apple.com/ae/developer/bryl-kezter-lim/id1609198408?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/29/e0/9129e06c-e265-12b7-e9ab-4d8471096710/AppIconiOS-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/zero-finance-tracker/id6818018555?uo=2",
       "price": {
-        "amount": 7.99,
+        "amount": 12.99,
         "currency": "AED",
-        "formatted": "AED 7.99"
+        "formatted": "AED 12.99"
       },
       "primaryCategory": {
         "id": "6015",
         "name": "Finance"
       },
-      "releaseDate": "04 July 2016"
+      "releaseDate": "05 October 2026"
     },
     {
       "rank": 40,
       "previousRank": 41,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "494038769",
-      "name": "Print Cheque",
-      "developer": "Moon Technolabs Pvt Ltd",
-      "developerUrl": "https://apps.apple.com/ae/developer/moon-technolabs-pvt-ltd/id558496197?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/14/ce/34/14ce3430-3e42-16a7-7775-4e14bd988616/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/print-cheque/id494038769?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AED",
-        "formatted": "AED 7.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "30 March 2012"
-    },
-    {
-      "rank": 41,
-      "previousRank": 42,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1517829258",
@@ -926,8 +904,8 @@
       "releaseDate": "21 July 2020"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
+      "rank": 41,
+      "previousRank": 42,
       "rankChange": 1,
       "isNew": false,
       "appleId": "441683476",
@@ -948,8 +926,8 @@
       "releaseDate": "05 August 2011"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
+      "rank": 42,
+      "previousRank": 43,
       "rankChange": 1,
       "isNew": false,
       "appleId": "298398207",
@@ -970,8 +948,8 @@
       "releaseDate": "03 December 2008"
     },
     {
-      "rank": 44,
-      "previousRank": 45,
+      "rank": 43,
+      "previousRank": 44,
       "rankChange": 1,
       "isNew": false,
       "appleId": "826488967",
@@ -992,8 +970,8 @@
       "releaseDate": "02 March 2014"
     },
     {
-      "rank": 45,
-      "previousRank": 46,
+      "rank": 44,
+      "previousRank": 45,
       "rankChange": 1,
       "isNew": false,
       "appleId": "694047660",
@@ -1014,8 +992,8 @@
       "releaseDate": "10 September 2013"
     },
     {
-      "rank": 46,
-      "previousRank": 47,
+      "rank": 45,
+      "previousRank": 46,
       "rankChange": 1,
       "isNew": false,
       "appleId": "328224790",
@@ -1036,8 +1014,8 @@
       "releaseDate": "29 August 2009"
     },
     {
-      "rank": 47,
-      "previousRank": 48,
+      "rank": 46,
+      "previousRank": 47,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1572877652",
@@ -1058,8 +1036,8 @@
       "releaseDate": "02 July 2021"
     },
     {
-      "rank": 48,
-      "previousRank": 49,
+      "rank": 47,
+      "previousRank": 48,
       "rankChange": 1,
       "isNew": false,
       "appleId": "367654505",
@@ -1080,8 +1058,8 @@
       "releaseDate": "16 April 2010"
     },
     {
-      "rank": 49,
-      "previousRank": 50,
+      "rank": 48,
+      "previousRank": 49,
       "rankChange": 1,
       "isNew": false,
       "appleId": "503641946",
@@ -1102,8 +1080,8 @@
       "releaseDate": "12 March 2012"
     },
     {
-      "rank": 50,
-      "previousRank": 51,
+      "rank": 49,
+      "previousRank": 50,
       "rankChange": 1,
       "isNew": false,
       "appleId": "956161779",
@@ -1124,9 +1102,9 @@
       "releaseDate": "11 January 2015"
     },
     {
-      "rank": 51,
-      "previousRank": 53,
-      "rankChange": 2,
+      "rank": 50,
+      "previousRank": 51,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1038175626",
       "name": "WalletApp",
@@ -1146,9 +1124,9 @@
       "releaseDate": "21 September 2015"
     },
     {
-      "rank": 52,
-      "previousRank": 54,
-      "rankChange": 2,
+      "rank": 51,
+      "previousRank": 52,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1035430719",
       "name": "My Currency Converter Pro",
@@ -1168,9 +1146,9 @@
       "releaseDate": "16 September 2015"
     },
     {
-      "rank": 53,
-      "previousRank": 55,
-      "rankChange": 2,
+      "rank": 52,
+      "previousRank": 53,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "382452060",
       "name": "10BII Calc HD",
@@ -1190,9 +1168,9 @@
       "releaseDate": "20 September 2010"
     },
     {
-      "rank": 54,
-      "previousRank": 56,
-      "rankChange": 2,
+      "rank": 53,
+      "previousRank": 54,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "320867406",
       "name": "iValidCard",
@@ -1212,9 +1190,9 @@
       "releaseDate": "03 July 2009"
     },
     {
-      "rank": 55,
-      "previousRank": 57,
-      "rankChange": 2,
+      "rank": 54,
+      "previousRank": 55,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "299972304",
       "name": "StockSpy: Real-time Quotes",
@@ -1234,9 +1212,9 @@
       "releaseDate": "16 December 2008"
     },
     {
-      "rank": 56,
-      "previousRank": 58,
-      "rankChange": 2,
+      "rank": 55,
+      "previousRank": 56,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1197275827",
       "name": "金十数据专业版-为交易而生",
@@ -1256,9 +1234,9 @@
       "releaseDate": "05 May 2017"
     },
     {
-      "rank": 57,
-      "previousRank": 59,
-      "rankChange": 2,
+      "rank": 56,
+      "previousRank": 57,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "588959204",
       "name": "Quick Checkbook Pro",
@@ -1278,9 +1256,9 @@
       "releaseDate": "02 January 2013"
     },
     {
-      "rank": 58,
-      "previousRank": 60,
-      "rankChange": 2,
+      "rank": 57,
+      "previousRank": 58,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "290776107",
       "name": "CashFlow",
@@ -1300,9 +1278,9 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 59,
-      "previousRank": 61,
-      "rankChange": 2,
+      "rank": 58,
+      "previousRank": 59,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "357412761",
       "name": "Bookkeeping",
@@ -1322,9 +1300,9 @@
       "releaseDate": "24 February 2010"
     },
     {
-      "rank": 60,
-      "previousRank": 62,
-      "rankChange": 2,
+      "rank": 59,
+      "previousRank": 60,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1437040397",
       "name": "Stock Market Hours Stock Clock",
@@ -1344,31 +1322,9 @@
       "releaseDate": "24 September 2018"
     },
     {
-      "rank": 61,
-      "previousRank": 52,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "6759565663",
-      "name": "AI Salary Budget Planner PRO",
-      "developer": "Aneesh Pradeep",
-      "developerUrl": "https://apps.apple.com/ae/developer/aneesh-pradeep/id1836157821?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ef/d5/8cefd5e9-c14f-2ab1-3e55-440425f37ec6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/ai-salary-budget-planner-pro/id6759565663?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AED",
-        "formatted": "AED 7.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "02 March 2026"
-    },
-    {
-      "rank": 62,
-      "previousRank": 63,
-      "rankChange": 1,
+      "rank": 60,
+      "previousRank": 62,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1425670575",
       "name": "Crude Oil - Live Badge Price",
@@ -1388,9 +1344,9 @@
       "releaseDate": "25 August 2018"
     },
     {
-      "rank": 63,
-      "previousRank": 64,
-      "rankChange": 1,
+      "rank": 61,
+      "previousRank": 63,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "606700873",
       "name": "EZ Financial Calculators Pro",
@@ -1410,9 +1366,9 @@
       "releaseDate": "14 March 2013"
     },
     {
-      "rank": 64,
-      "previousRank": 65,
-      "rankChange": 1,
+      "rank": 62,
+      "previousRank": 64,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6759276340",
       "name": "Split - Receipt Splitter",
@@ -1432,9 +1388,9 @@
       "releaseDate": "27 February 2026"
     },
     {
-      "rank": 65,
-      "previousRank": 66,
-      "rankChange": 1,
+      "rank": 63,
+      "previousRank": 65,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "440993724",
       "name": "EUR/USD Exchange Rate Live",
@@ -1454,9 +1410,9 @@
       "releaseDate": "06 June 2011"
     },
     {
-      "rank": 66,
-      "previousRank": 67,
-      "rankChange": 1,
+      "rank": 64,
+      "previousRank": 66,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1492998632",
       "name": "Axia - Budget Tracker",
@@ -1476,9 +1432,9 @@
       "releaseDate": "10 June 2020"
     },
     {
-      "rank": 67,
-      "previousRank": 68,
-      "rankChange": 1,
+      "rank": 65,
+      "previousRank": 67,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "901757157",
       "name": "Balance Sheet",
@@ -1498,8 +1454,8 @@
       "releaseDate": "30 July 2014"
     },
     {
-      "rank": 68,
-      "previousRank": 70,
+      "rank": 66,
+      "previousRank": 68,
       "rankChange": 2,
       "isNew": false,
       "appleId": "288511764",
@@ -1520,9 +1476,53 @@
       "releaseDate": "30 April 2021"
     },
     {
+      "rank": 67,
+      "previousRank": 5,
+      "rankChange": -62,
+      "isNew": false,
+      "appleId": "6802341104",
+      "name": "Silo - Budget & Bills Tracker",
+      "developer": "Joeren Christopher Lee",
+      "developerUrl": "https://apps.apple.com/ae/developer/joeren-christopher-lee/id6802341106?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/67/7e/6f677e26-cea7-fbba-9b91-a2408e51c1b0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/silo-budget-bills-tracker/id6802341104?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AED",
+        "formatted": "AED 12.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "17 September 2026"
+    },
+    {
+      "rank": 68,
+      "previousRank": 61,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6759565663",
+      "name": "AI Salary Budget Planner PRO",
+      "developer": "Aneesh Pradeep",
+      "developerUrl": "https://apps.apple.com/ae/developer/aneesh-pradeep/id1836157821?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ef/d5/8cefd5e9-c14f-2ab1-3e55-440425f37ec6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/ai-salary-budget-planner-pro/id6759565663?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AED",
+        "formatted": "AED 7.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "02 March 2026"
+    },
+    {
       "rank": 69,
-      "previousRank": 71,
-      "rankChange": 2,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "293047420",
       "name": "Share-a-bill",
@@ -1543,8 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 72,
-      "rankChange": 2,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "594801784",
       "name": "CashSync+PRO: Expense tracking",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 73,
-      "rankChange": 2,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "529090535",
       "name": "Download Meter - track Data Usage and avoid Data Plan Overage",
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 74,
-      "rankChange": 2,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "507466769",
       "name": "Savings Goals Pro",
@@ -1609,8 +1609,8 @@
     },
     {
       "rank": 73,
-      "previousRank": 75,
-      "rankChange": 2,
+      "previousRank": 73,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "427141357",
       "name": "MoneyBook Pro",
@@ -1631,8 +1631,8 @@
     },
     {
       "rank": 74,
-      "previousRank": 76,
-      "rankChange": 2,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "398299456",
       "name": "iAllowance (Chores Allowances)",
@@ -1653,29 +1653,7 @@
     },
     {
       "rank": 75,
-      "previousRank": 69,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6761880199",
-      "name": "Finko",
-      "developer": "Yandoama Consulting",
-      "developerUrl": "https://apps.apple.com/ae/developer/yandoama-consulting/id1857250814?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/73/12/647312cf-c794-ba1b-a03d-740455f7ff37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ae/app/finko/id6761880199?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AED",
-        "formatted": "AED 2.99"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finance"
-      },
-      "releaseDate": "13 April 2026"
-    },
-    {
-      "rank": 76,
-      "previousRank": 77,
+      "previousRank": 76,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1619543002",
@@ -1696,8 +1674,8 @@
       "releaseDate": "17 April 2022"
     },
     {
-      "rank": 77,
-      "previousRank": 78,
+      "rank": 76,
+      "previousRank": 77,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1572398139",
@@ -1718,8 +1696,8 @@
       "releaseDate": "18 June 2021"
     },
     {
-      "rank": 78,
-      "previousRank": 79,
+      "rank": 77,
+      "previousRank": 78,
       "rankChange": 1,
       "isNew": false,
       "appleId": "540976900",
@@ -1740,8 +1718,8 @@
       "releaseDate": "14 July 2012"
     },
     {
-      "rank": 79,
-      "previousRank": 80,
+      "rank": 78,
+      "previousRank": 79,
       "rankChange": 1,
       "isNew": false,
       "appleId": "321504242",
@@ -1762,8 +1740,8 @@
       "releaseDate": "04 July 2009"
     },
     {
-      "rank": 80,
-      "previousRank": 81,
+      "rank": 79,
+      "previousRank": 80,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6761981766",
@@ -1784,8 +1762,8 @@
       "releaseDate": "14 April 2026"
     },
     {
-      "rank": 81,
-      "previousRank": 82,
+      "rank": 80,
+      "previousRank": 81,
       "rankChange": 1,
       "isNew": false,
       "appleId": "931188326",
@@ -1806,8 +1784,8 @@
       "releaseDate": "25 February 2015"
     },
     {
-      "rank": 82,
-      "previousRank": 83,
+      "rank": 81,
+      "previousRank": 82,
       "rankChange": 1,
       "isNew": false,
       "appleId": "469331073",
@@ -1828,8 +1806,8 @@
       "releaseDate": "05 October 2011"
     },
     {
-      "rank": 83,
-      "previousRank": 84,
+      "rank": 82,
+      "previousRank": 83,
       "rankChange": 1,
       "isNew": false,
       "appleId": "316520188",
@@ -1850,8 +1828,8 @@
       "releaseDate": "22 May 2009"
     },
     {
-      "rank": 84,
-      "previousRank": 85,
+      "rank": 83,
+      "previousRank": 84,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1071399705",
@@ -1872,8 +1850,8 @@
       "releaseDate": "09 January 2016"
     },
     {
-      "rank": 85,
-      "previousRank": 86,
+      "rank": 84,
+      "previousRank": 85,
       "rankChange": 1,
       "isNew": false,
       "appleId": "409695797",
@@ -1894,8 +1872,8 @@
       "releaseDate": "17 December 2010"
     },
     {
-      "rank": 86,
-      "previousRank": 87,
+      "rank": 85,
+      "previousRank": 86,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1437054263",
@@ -1916,8 +1894,8 @@
       "releaseDate": "15 February 2021"
     },
     {
-      "rank": 87,
-      "previousRank": 88,
+      "rank": 86,
+      "previousRank": 87,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1054634018",
@@ -1938,8 +1916,8 @@
       "releaseDate": "08 November 2015"
     },
     {
-      "rank": 88,
-      "previousRank": 89,
+      "rank": 87,
+      "previousRank": 88,
       "rankChange": 1,
       "isNew": false,
       "appleId": "388544752",
@@ -1960,9 +1938,31 @@
       "releaseDate": "26 August 2010"
     },
     {
+      "rank": 88,
+      "previousRank": 75,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6761880199",
+      "name": "Finko",
+      "developer": "Yandoama Consulting",
+      "developerUrl": "https://apps.apple.com/ae/developer/yandoama-consulting/id1857250814?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/73/12/647312cf-c794-ba1b-a03d-740455f7ff37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/finko/id6761880199?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AED",
+        "formatted": "AED 2.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "13 April 2026"
+    },
+    {
       "rank": 89,
-      "previousRank": 90,
-      "rankChange": 1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "473206441",
       "name": "Stocks Live + Stock Tracker",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 91,
-      "rankChange": 1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "329884406",
       "name": "Gold Money Pro",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 92,
-      "rankChange": 1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "320551309",
       "name": "Meter Readings",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 93,
-      "rankChange": 1,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1370838641",
       "name": "i know percent",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 94,
-      "rankChange": 1,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6449488158",
       "name": "Financial Calculator Pro",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 95,
-      "rankChange": 1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "482380860",
       "name": "Exchange rate converter",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 96,
-      "rankChange": 1,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1543967835",
       "name": "Goals - Save Money",
@@ -2115,8 +2115,8 @@
     },
     {
       "rank": 96,
-      "previousRank": 97,
-      "rankChange": 1,
+      "previousRank": 96,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "878579033",
       "name": "Money OK pro",
@@ -2134,6 +2134,28 @@
         "name": "Finance"
       },
       "releaseDate": "22 May 2014"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "488541859",
+      "name": "Filki - Expenses and Income",
+      "developer": "Mikhail Akopov",
+      "developerUrl": "https://apps.apple.com/ae/developer/mikhail-akopov/id467468541?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/82/79/2382799b-db94-846e-95db-92a3cb707287/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ae/app/filki-expenses-and-income/id488541859?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AED",
+        "formatted": "AED 12.99"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "15 December 2011"
     }
   ]
 }
