@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-19",
-  "collectedAt": "2026-10-19T05:53:58.498Z",
-  "sourceUpdatedAt": "2026-10-18T22:53:57-07:00",
+  "snapshotDate": "2026-10-20",
+  "collectedAt": "2026-10-20T05:45:40.297Z",
+  "sourceUpdatedAt": "2026-10-19T22:45:39-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6002/json",
   "chartType": "paid",
@@ -17,17 +17,17 @@
     "name": "工具"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-18",
+  "previousSnapshotDate": "2026-10-19",
   "apps": [
     {
       "rank": 1,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 1,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "6796775271",
       "name": "Stay On Target 1138",
       "developer": "Harin Wickremasinghe",
@@ -47,7 +47,29 @@
     },
     {
       "rank": 2,
-      "previousRank": 1,
+      "previousRank": 3,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "932747118",
+      "name": "Shadowrocket",
+      "developer": "Shadow Launch Technology Limited",
+      "developerUrl": "https://apps.apple.com/de/developer/shadow-launch-technology-limited/id687237009?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/2d/64242de2-a763-914f-c686-8777445b83a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/shadowrocket/id932747118?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "13.04.2015"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1662217862",
@@ -68,30 +90,30 @@
       "releaseDate": "12.11.2024"
     },
     {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
+      "rank": 4,
+      "previousRank": 5,
+      "rankChange": 1,
       "isNew": false,
-      "appleId": "932747118",
-      "name": "Shadowrocket",
-      "developer": "Shadow Launch Technology Limited",
-      "developerUrl": "https://apps.apple.com/de/developer/shadow-launch-technology-limited/id687237009?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/2d/64242de2-a763-914f-c686-8777445b83a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/shadowrocket/id932747118?uo=2",
+      "appleId": "639343132",
+      "name": "iConnectHue für Philips Hue",
+      "developer": "Stefan Gohler",
+      "developerUrl": "https://apps.apple.com/de/developer/stefan-gohler/id410704634?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/27/95/40279526-f03f-e4b0-6f5b-78184e6d6d2d/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iconnecthue-f%C3%BCr-philips-hue/id639343132?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 4.99,
         "currency": "EUR",
-        "formatted": "2,99 €"
+        "formatted": "4,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "13.04.2015"
+      "releaseDate": "29.04.2013"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
+      "rank": 5,
+      "previousRank": 4,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1581140954",
@@ -112,53 +134,9 @@
       "releaseDate": "20.09.2021"
     },
     {
-      "rank": 5,
-      "previousRank": 11,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "639343132",
-      "name": "iConnectHue für Philips Hue",
-      "developer": "Stefan Gohler",
-      "developerUrl": "https://apps.apple.com/de/developer/stefan-gohler/id410704634?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/27/95/40279526-f03f-e4b0-6f5b-78184e6d6d2d/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iconnecthue-f%C3%BCr-philips-hue/id639343132?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "29.04.2013"
-    },
-    {
       "rank": 6,
-      "previousRank": 5,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1052863684",
-      "name": "Controller für Bose SoundTouch",
-      "developer": "Christian Harms",
-      "developerUrl": "https://apps.apple.com/de/developer/christian-harms/id519574988?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/02/20/6602209e-1637-4405-1e90-45721ab0176a/AppIconIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/controller-f%C3%BCr-bose-soundtouch/id1052863684?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "18.11.2015"
-    },
-    {
-      "rank": 7,
-      "previousRank": 4,
-      "rankChange": -3,
+      "previousRank": 7,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1605488891",
       "name": "VESC Tool",
@@ -178,9 +156,9 @@
       "releaseDate": "30.03.2022"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "previousRank": 8,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1126386264",
       "name": "AdGuard Pro: Safari Ad Blocker",
@@ -200,8 +178,8 @@
       "releaseDate": "30.09.2016"
     },
     {
-      "rank": 9,
-      "previousRank": 10,
+      "rank": 8,
+      "previousRank": 9,
       "rankChange": 1,
       "isNew": false,
       "appleId": "892347083",
@@ -222,31 +200,75 @@
       "releaseDate": "02.11.2014"
     },
     {
-      "rank": 10,
-      "previousRank": 14,
-      "rankChange": 4,
+      "rank": 9,
+      "previousRank": 24,
+      "rankChange": 15,
       "isNew": false,
-      "appleId": "499470113",
-      "name": "FE File Explorer",
-      "developer": "Skyjos Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/de/developer/skyjos-co-ltd/id499470116?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/82/b6/f982b600-1d22-a5e7-5faf-5edc22c9cd09/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fe-file-explorer/id499470113?uo=2",
+      "appleId": "1563561126",
+      "name": "DPF Monitor for VAG",
+      "developer": "Thomas Wilson",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-wilson/id1563561128?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/de/0b/8ade0bf4-569b-6faf-6efb-f3ce16f2eb26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dpf-monitor-for-vag/id1563561126?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 6.99,
         "currency": "EUR",
-        "formatted": "5,99 €"
+        "formatted": "6,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "28.02.2012"
+      "releaseDate": "29.08.2023"
+    },
+    {
+      "rank": 10,
+      "previousRank": 6,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1052863684",
+      "name": "Controller für Bose SoundTouch",
+      "developer": "Christian Harms",
+      "developerUrl": "https://apps.apple.com/de/developer/christian-harms/id519574988?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/02/20/6602209e-1637-4405-1e90-45721ab0176a/AppIconIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/controller-f%C3%BCr-bose-soundtouch/id1052863684?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "18.11.2015"
     },
     {
       "rank": 11,
-      "previousRank": 12,
-      "rankChange": 1,
+      "previousRank": 19,
+      "rankChange": 8,
+      "isNew": false,
+      "appleId": "1661419573",
+      "name": "atvTools",
+      "developer": "Oleksandr Hamlii",
+      "developerUrl": "https://apps.apple.com/de/developer/oleksandr-hamlii/id1661419575?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/eb/7c/94eb7ca7-b324-3f6a-94af-9a180ffa74b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/atvtools/id1661419573?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "08.01.2023"
+    },
+    {
+      "rank": 12,
+      "previousRank": 11,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "410821142",
       "name": "Schichtkalender",
@@ -266,9 +288,31 @@
       "releaseDate": "21.12.2010"
     },
     {
-      "rank": 12,
-      "previousRank": 18,
-      "rankChange": 6,
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6784959087",
+      "name": "TuneHelper",
+      "developer": "Thomas Sojka",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-sojka/id1885573704?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3f/53/393f538b-3636-46af-0ec5-e2b6f07884c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tunehelper/id6784959087?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "02.07.2026"
+    },
+    {
+      "rank": 14,
+      "previousRank": 12,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1033342465",
       "name": "Just Press Record",
@@ -288,53 +332,9 @@
       "releaseDate": "21.09.2015"
     },
     {
-      "rank": 13,
-      "previousRank": 7,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "1466120520",
-      "name": "iVerify Basic",
-      "developer": "iVerify",
-      "developerUrl": "https://apps.apple.com/de/developer/iverify/id1700333884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iverify-basic/id1466120520?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.11.2019"
-    },
-    {
-      "rank": 14,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1668996691",
-      "name": "ShoppingList 4 (Einkaufsliste)",
-      "developer": "Pecora GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/pecora-gmbh/id402870103?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/72/78/1c72787d-25ca-28a6-8a44-675dd4110cc5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/shoppinglist-4-einkaufsliste/id1668996691?uo=2",
-      "price": {
-        "amount": 2.79,
-        "currency": "EUR",
-        "formatted": "2,79 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "02.03.2023"
-    },
-    {
       "rank": 15,
-      "previousRank": 9,
-      "rankChange": -6,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "557405467",
       "name": "Network Analyzer Pro: IP Tools",
@@ -355,30 +355,74 @@
     },
     {
       "rank": 16,
-      "previousRank": 6,
-      "rankChange": -10,
+      "previousRank": 10,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "1591303229",
-      "name": "Vinegar - Tube Cleaner",
-      "developer": "And a Dinosaur",
-      "developerUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/a6/2ccfa6a8-a6e4-6517-8591-5ca664da7965/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=2",
+      "appleId": "499470113",
+      "name": "FE File Explorer",
+      "developer": "Skyjos Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/de/developer/skyjos-co-ltd/id499470116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/82/b6/f982b600-1d22-a5e7-5faf-5edc22c9cd09/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/fe-file-explorer/id499470113?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 5.99,
         "currency": "EUR",
-        "formatted": "1,99 €"
+        "formatted": "5,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "06.11.2021"
+      "releaseDate": "28.02.2012"
     },
     {
       "rank": 17,
-      "previousRank": 43,
-      "rankChange": 26,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6752605548",
+      "name": "No Reel For Instagram",
+      "developer": "Guillaume Claverie",
+      "developerUrl": "https://apps.apple.com/de/developer/guillaume-claverie/id1223020090?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/46/b1/4346b133-cfad-e8c3-3f49-4960c6aac89e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/no-reel-for-instagram/id6752605548?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "17.09.2025"
+    },
+    {
+      "rank": 18,
+      "previousRank": 13,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "1466120520",
+      "name": "iVerify Basic",
+      "developer": "iVerify",
+      "developerUrl": "https://apps.apple.com/de/developer/iverify/id1700333884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iverify-basic/id1466120520?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "08.11.2019"
+    },
+    {
+      "rank": 19,
+      "previousRank": 17,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6448106860",
       "name": "Private LLM - Lokaler KI-Chat",
@@ -398,38 +442,16 @@
       "releaseDate": "05.06.2023"
     },
     {
-      "rank": 18,
-      "previousRank": 32,
-      "rankChange": 14,
-      "isNew": false,
-      "appleId": "6756966178",
-      "name": "V2Box Pro - V2ray Client",
-      "developer": "Hexa Software",
-      "developerUrl": "https://apps.apple.com/de/developer/hexa-software/id1702698881?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a4/65/7aa465f1-790a-38e6-fc2f-5a9f86940868/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/v2box-pro-v2ray-client/id6756966178?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "16.05.2026"
-    },
-    {
-      "rank": 19,
-      "previousRank": 13,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "1661419573",
-      "name": "atvTools",
-      "developer": "Oleksandr Hamlii",
-      "developerUrl": "https://apps.apple.com/de/developer/oleksandr-hamlii/id1661419575?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/eb/7c/94eb7ca7-b324-3f6a-94af-9a180ffa74b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/atvtools/id1661419573?uo=2",
+      "rank": 20,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6752425721",
+      "name": "Rentenrechner Countdown",
+      "developer": "Thomas Dittmar",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-dittmar/id1835167763?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/25/43/2b254316-ea45-269d-69ab-00fd697ea03d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rentenrechner-countdown/id6752425721?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "EUR",
@@ -439,151 +461,19 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "08.01.2023"
-    },
-    {
-      "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "289616509",
-      "name": "Mobile Mouse Remote",
-      "developer": "R.P.A. Tech",
-      "developerUrl": "https://apps.apple.com/de/developer/r-p-a-tech/id289616512?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/93/b7/6793b7be-ee58-d684-d377-9943f3ab7a4a/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mobile-mouse-remote/id289616509?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "11.02.2019"
+      "releaseDate": "15.09.2025"
     },
     {
       "rank": 21,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6760443436",
-      "name": "Html Preview - Web File Viewer",
-      "developer": "CyberGame Limited",
-      "developerUrl": "https://apps.apple.com/de/developer/cybergame-limited/id1778824442?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b8/91/d0b8919b-e3b5-1cce-48ec-9eee1a959f01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/html-preview-web-file-viewer/id6760443436?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "16.03.2026"
-    },
-    {
-      "rank": 22,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1670762759",
-      "name": "Necrometer",
-      "developer": "chris rogers",
-      "developerUrl": "https://apps.apple.com/de/developer/chris-rogers/id1119043156?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e7/9d/ede79d99-8f0e-eed7-3f69-e83d0138d0c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/necrometer/id1670762759?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "25.05.2023"
-    },
-    {
-      "rank": 23,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1645848490",
-      "name": "Watch Massager",
-      "developer": "Tocapp Games S.L.",
-      "developerUrl": "https://apps.apple.com/de/developer/tocapp-games-s-l/id1382683382?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/9a/22/789a2263-d994-dc98-e34a-f66791c4bef2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/watch-massager/id1645848490?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "25.11.2022"
-    },
-    {
-      "rank": 24,
-      "previousRank": 15,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1563561126",
-      "name": "DPF Monitor for VAG",
-      "developer": "Thomas Wilson",
-      "developerUrl": "https://apps.apple.com/de/developer/thomas-wilson/id1563561128?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/de/0b/8ade0bf4-569b-6faf-6efb-f3ce16f2eb26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dpf-monitor-for-vag/id1563561126?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "29.08.2023"
-    },
-    {
-      "rank": 25,
-      "previousRank": 16,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1503080791",
-      "name": "scan my T3SLA",
-      "developer": "Amund Borsand",
-      "developerUrl": "https://apps.apple.com/de/developer/amund-borsand/id1503080790?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4d/f9/194df923-6898-9fcc-68ea-43f7b57a83e4/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/scan-my-t3sla/id1503080791?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "29.04.2020"
-    },
-    {
-      "rank": 26,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6784621588",
-      "name": "Digi Voices",
-      "developer": "Fatih ONDER",
-      "developerUrl": "https://apps.apple.com/de/developer/fatih-onder/id6776188512?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/digi-voices/id6784621588?uo=2",
+      "appleId": "1154832936",
+      "name": "Call Ranger: Spam-Anrufblocker",
+      "developer": "Konstantinos Papadakis",
+      "developerUrl": "https://apps.apple.com/de/developer/konstantinos-papadakis/id506133922?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/6d/ef/616def8c-19e4-c5d5-2ae9-981a774adb5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/call-ranger-spam-anrufblocker/id1154832936?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -593,12 +483,12 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "02.07.2026"
+      "releaseDate": "25.10.2016"
     },
     {
-      "rank": 27,
-      "previousRank": 33,
-      "rankChange": 6,
+      "rank": 22,
+      "previousRank": 27,
+      "rankChange": 5,
       "isNew": false,
       "appleId": "305242949",
       "name": "iNet Pro - Netzwerkscanner",
@@ -618,9 +508,361 @@
       "releaseDate": "09.04.2009"
     },
     {
+      "rank": 23,
+      "previousRank": 16,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "1591303229",
+      "name": "Vinegar - Tube Cleaner",
+      "developer": "And a Dinosaur",
+      "developerUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/a6/2ccfa6a8-a6e4-6517-8591-5ca664da7965/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "06.11.2021"
+    },
+    {
+      "rank": 24,
+      "previousRank": 49,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "6443677513",
+      "name": "Keka •",
+      "developer": "Jorge Garcia Armero",
+      "developerUrl": "https://apps.apple.com/de/developer/jorge-garcia-armero/id373208304?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e5/af/00e5af1c-d230-13b7-3b95-ff9066c075c5/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/keka/id6443677513?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "05.01.2023"
+    },
+    {
+      "rank": 25,
+      "previousRank": 51,
+      "rankChange": 26,
+      "isNew": false,
+      "appleId": "6451330524",
+      "name": "Shorts Blocker for YouTube",
+      "developer": "Yevhen Tretiakov",
+      "developerUrl": "https://apps.apple.com/de/developer/yevhen-tretiakov/id1592732760?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ba/c4/f4bac4fd-8c88-6c0b-0c85-5beb12582213/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/shorts-blocker-for-youtube/id6451330524?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "28.08.2023"
+    },
+    {
+      "rank": 26,
+      "previousRank": 18,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "6756966178",
+      "name": "V2Box Pro - V2ray Client",
+      "developer": "Hexa Software",
+      "developerUrl": "https://apps.apple.com/de/developer/hexa-software/id1702698881?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a4/65/7aa465f1-790a-38e6-fc2f-5a9f86940868/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/v2box-pro-v2ray-client/id6756966178?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "16.05.2026"
+    },
+    {
+      "rank": 27,
+      "previousRank": 65,
+      "rankChange": 38,
+      "isNew": false,
+      "appleId": "6474076666",
+      "name": "MoofMate",
+      "developer": "Mark Kunst",
+      "developerUrl": "https://apps.apple.com/de/developer/mark-kunst/id1720564136?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/d9/03/fdd90332-a4e6-e68e-9d33-d112dff49c06/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/moofmate/id6474076666?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "28.12.2023"
+    },
+    {
       "rank": 28,
-      "previousRank": 40,
-      "rankChange": 12,
+      "previousRank": 69,
+      "rankChange": 41,
+      "isNew": false,
+      "appleId": "6759071028",
+      "name": "A32X Tools · A320 ECAM Resets",
+      "developer": "Adria Raventos ruiz",
+      "developerUrl": "https://apps.apple.com/de/developer/adria-raventos-ruiz/id1876663356?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/bc/21/36bc210b-975f-3045-f1a2-13aa76bf4c15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/a32x-tools-a320-ecam-resets/id6759071028?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "22.02.2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": 95,
+      "rankChange": 66,
+      "isNew": false,
+      "appleId": "991367080",
+      "name": "Watch Tuner Timegrapher",
+      "developer": "Bartlomiej Swiatek",
+      "developerUrl": "https://apps.apple.com/de/developer/bartlomiej-swiatek/id943509577?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/e8/ea/ebe8ea72-259c-fc59-4461-3d2a857f149b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/watch-tuner-timegrapher/id991367080?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "14.05.2015"
+    },
+    {
+      "rank": 30,
+      "previousRank": 100,
+      "rankChange": 70,
+      "isNew": false,
+      "appleId": "6484069424",
+      "name": "iTest.",
+      "developer": "Hugh Jeffreys",
+      "developerUrl": "https://apps.apple.com/de/developer/hugh-jeffreys/id1740475585?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b1/b7/58b1b765-79de-045a-6a9b-49a01c36288c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/itest/id6484069424?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "24.04.2024"
+    },
+    {
+      "rank": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6760564390",
+      "name": "Einsatztagebuch",
+      "developer": "Lars Schaefer-Dryden",
+      "developerUrl": "https://apps.apple.com/de/developer/lars-schaefer-dryden/id642726139?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/5e/2f/695e2fd9-775b-b0a2-f7a0-7c369230b109/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/einsatztagebuch/id6760564390?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.03.2026"
+    },
+    {
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "549003590",
+      "name": "NiceClock Pro",
+      "developer": "NiceApps GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/niceapps-gmbh/id501767855?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/32/7d/d2327de3-b612-b62a-7ed0-44f9b7c304db/NiceClockProIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/niceclock-pro/id549003590?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "07.08.2012"
+    },
+    {
+      "rank": 33,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1550970114",
+      "name": "Moofer",
+      "developer": "ADEMA Hockey",
+      "developerUrl": "https://apps.apple.com/de/developer/adema-hockey/id1542506578?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/da/06/9ada067a-b35f-c18e-4eb8-8c117c3c8e56/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/moofer/id1550970114?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "29.01.2021"
+    },
+    {
+      "rank": 34,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1130695925",
+      "name": "Punch Board Calculator",
+      "developer": "Nicolas Camenisch",
+      "developerUrl": "https://apps.apple.com/de/developer/nicolas-camenisch/id1122054654?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/09/88/a2/0988a29b-be4c-e644-7c36-72681c9f183a/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/punch-board-calculator/id1130695925?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "04.07.2016"
+    },
+    {
+      "rank": 35,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6762619998",
+      "name": "Hakkani Yolu Pro",
+      "developer": "Mehmet Kurt",
+      "developerUrl": "https://apps.apple.com/de/developer/mehmet-kurt/id1632901437?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/30/8f/84308f32-cf7e-71be-0e11-4a6d3725c896/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/hakkani-yolu-pro/id6762619998?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "12.05.2026"
+    },
+    {
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1562015706",
+      "name": "Stitch/Reihenzähler für/Häkeln",
+      "developer": "Sylvain Huon",
+      "developerUrl": "https://apps.apple.com/de/developer/sylvain-huon/id1552904209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/f2/84/75f284c0-b337-06d9-4897-8e600750309d/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/stitch-reihenz%C3%A4hler-f%C3%BCr-h%C3%A4keln/id1562015706?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "07.04.2021"
+    },
+    {
+      "rank": 37,
+      "previousRank": 21,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "6760443436",
+      "name": "Html Preview - Web File Viewer",
+      "developer": "CyberGame Limited",
+      "developerUrl": "https://apps.apple.com/de/developer/cybergame-limited/id1778824442?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b8/91/d0b8919b-e3b5-1cce-48ec-9eee1a959f01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/html-preview-web-file-viewer/id6760443436?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "16.03.2026"
+    },
+    {
+      "rank": 38,
+      "previousRank": 25,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "1503080791",
+      "name": "scan my T3SLA",
+      "developer": "Amund Borsand",
+      "developerUrl": "https://apps.apple.com/de/developer/amund-borsand/id1503080790?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4d/f9/194df923-6898-9fcc-68ea-43f7b57a83e4/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/scan-my-t3sla/id1503080791?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "29.04.2020"
+    },
+    {
+      "rank": 39,
+      "previousRank": 28,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "397993104",
       "name": "SatFinder",
@@ -640,119 +882,9 @@
       "releaseDate": "20.10.2010"
     },
     {
-      "rank": 29,
-      "previousRank": 53,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "364738545",
-      "name": "FileBrowser - Document Manager",
-      "developer": "Stratospherix Ltd",
-      "developerUrl": "https://apps.apple.com/de/developer/stratospherix-ltd/id323133606?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/3b/d8/c43bd8fe-d16b-a5b4-fbe1-bcb8d28979a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/filebrowser-document-manager/id364738545?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "03.04.2010"
-    },
-    {
-      "rank": 30,
-      "previousRank": 73,
-      "rankChange": 43,
-      "isNew": false,
-      "appleId": "1193531073",
-      "name": "WebBLE",
-      "developer": "GreenParkSoftware",
-      "developerUrl": "https://apps.apple.com/de/developer/greenparksoftware/id449062540?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/0b/c5/040bc5d3-eeb8-1784-642a-264f5ab38bdc/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/webble/id1193531073?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "12.01.2017"
-    },
-    {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "829739720",
-      "name": "Red Onion - Darknet Browser",
-      "developer": "Omar Mody",
-      "developerUrl": "https://apps.apple.com/de/developer/omar-mody/id297279263?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f7/22/56f722df-7080-8753-3630-954b4e196aea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/red-onion-darknet-browser/id829739720?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "07.03.2014"
-    },
-    {
-      "rank": 32,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6742115339",
-      "name": "Level plus",
-      "developer": "DIETER AUGUST DR. ACKERMANN",
-      "developerUrl": "https://apps.apple.com/de/developer/dieter-august-dr-ackermann/id1796660549?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/25/06/3e250604-598d-9b0d-c9f8-93f35c97ad39/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/level-plus/id6742115339?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "EUR",
-        "formatted": "14,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "20.02.2025"
-    },
-    {
-      "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6780130646",
-      "name": "SoundPull: Audio extrahieren",
-      "developer": "Kohei Omori",
-      "developerUrl": "https://apps.apple.com/de/developer/kohei-omori/id1886931034?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/3d/9b/d43d9bfc-a83c-61b7-40f8-2736d4ef9b02/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/soundpull-audio-extrahieren/id6780130646?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "20.08.2026"
-    },
-    {
-      "rank": 34,
-      "previousRank": 20,
-      "rankChange": -14,
+      "rank": 40,
+      "previousRank": 34,
+      "rankChange": -6,
       "isNew": false,
       "appleId": "1458368189",
       "name": "Link Station Pro",
@@ -772,54 +904,10 @@
       "releaseDate": "30.08.2019"
     },
     {
-      "rank": 35,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1590589672",
-      "name": "Map Redirect for Map Links",
-      "developer": "Miao Wang",
-      "developerUrl": "https://apps.apple.com/de/developer/miao-wang/id1578890790?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/46/b8/c746b823-2315-dda6-6304-b03996447916/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/map-redirect-for-map-links/id1590589672?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "19.10.2021"
-    },
-    {
-      "rank": 36,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1207383840",
-      "name": "Textify - Lesen statt Hören!",
-      "developer": "Dimitri Staufer",
-      "developerUrl": "https://apps.apple.com/de/developer/dimitri-staufer/id1089007350?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1b/e3/141be3dc-3ce0-96e4-7380-08fc762cf1dd/TextifyIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/textify-lesen-statt-h%C3%B6ren/id1207383840?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "07.03.2017"
-    },
-    {
-      "rank": 37,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 41,
+      "previousRank": 37,
+      "rankChange": -4,
+      "isNew": false,
       "appleId": "6475652306",
       "name": "MapSwitch - Mapper for Safari",
       "developer": "Ameen Mody",
@@ -838,10 +926,10 @@
       "releaseDate": "09.01.2024"
     },
     {
-      "rank": 38,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 42,
+      "previousRank": 38,
+      "rankChange": -4,
+      "isNew": false,
       "appleId": "6736568063",
       "name": "SatPathFinder",
       "developer": "Thomas Lindner, DL2RUM",
@@ -860,31 +948,9 @@
       "releaseDate": "26.10.2024"
     },
     {
-      "rank": 39,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6805026877",
-      "name": "VerbrauchsLog",
-      "developer": "Marc Schneiderbanger",
-      "developerUrl": "https://apps.apple.com/de/developer/marc-schneiderbanger/id6805026879?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/86/4c/ef864cb7-8a97-4f8f-1760-47850c26ef89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/verbrauchslog/id6805026877?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "06.10.2026"
-    },
-    {
-      "rank": 40,
-      "previousRank": 27,
-      "rankChange": -13,
+      "rank": 43,
+      "previousRank": 40,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "6809166912",
       "name": "Schreiner Calc",
@@ -904,31 +970,9 @@
       "releaseDate": "16.09.2026"
     },
     {
-      "rank": 41,
-      "previousRank": 28,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "309010388",
-      "name": "WomoSet",
-      "developer": "Ralf Andrae",
-      "developerUrl": "https://apps.apple.com/de/developer/ralf-andrae/id305338261?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/15/90/5115904c-00e1-c387-d4bb-a5d31805e872/AppIcon-0-0-1x_U007emarketing-0-5-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/womoset/id309010388?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "26.03.2009"
-    },
-    {
-      "rank": 42,
-      "previousRank": 30,
-      "rankChange": -12,
+      "rank": 44,
+      "previousRank": 42,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6783872393",
       "name": "OpenWebUI - Mobile",
@@ -948,31 +992,9 @@
       "releaseDate": "27.06.2026"
     },
     {
-      "rank": 43,
-      "previousRank": 31,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "320876271",
-      "name": "Prowl: Easy Push Notifications",
-      "developer": "Prowl Solutions LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/prowl-solutions-llc/id320876274?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1c/3d/a6/1c3da6cb-0182-e061-68f4-68573731c4d6/mzl.xbttojza.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/prowl-easy-push-notifications/id320876271?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "03.07.2009"
-    },
-    {
-      "rank": 44,
-      "previousRank": 29,
-      "rankChange": -15,
+      "rank": 45,
+      "previousRank": 44,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1621531549",
       "name": "Adblocker For YouTube Videos",
@@ -992,31 +1014,9 @@
       "releaseDate": "28.04.2022"
     },
     {
-      "rank": 45,
-      "previousRank": 38,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "1610305853",
-      "name": "SunOnTrack: Sonnenverlauf",
-      "developer": "Thomas Moder",
-      "developerUrl": "https://apps.apple.com/de/developer/thomas-moder/id1610305855?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/f8/43/5ef843f0-643d-6a78-c313-a02b295867d5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sunontrack-sonnenverlauf/id1610305853?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "28.04.2022"
-    },
-    {
       "rank": 46,
-      "previousRank": 45,
-      "rankChange": -1,
+      "previousRank": 46,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "989638672",
       "name": "Energy Meter",
@@ -1037,162 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 47,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "522661666",
-      "name": "Total files pro",
-      "developer": "App Ideas",
-      "developerUrl": "https://apps.apple.com/de/developer/app-ideas/id522661689?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/87/11/618711bf-1c1d-39e0-22ad-16369e760f99/AppIcon_total-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/total-files-pro/id522661666?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "15.05.2012"
-    },
-    {
-      "rank": 48,
-      "previousRank": 49,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "286215117",
-      "name": "Clinometer + Neigungsmesser",
-      "developer": "Peter Breitling",
-      "developerUrl": "https://apps.apple.com/de/developer/peter-breitling/id286215120?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/a1/b1/2fa1b11f-38e3-aa1b-c0b9-7c70fe63779a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/clinometer-neigungsmesser/id286215117?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "07.02.2019"
-    },
-    {
-      "rank": 49,
-      "previousRank": 56,
+      "previousRank": 54,
       "rankChange": 7,
-      "isNew": false,
-      "appleId": "6443677513",
-      "name": "Keka •",
-      "developer": "Jorge Garcia Armero",
-      "developerUrl": "https://apps.apple.com/de/developer/jorge-garcia-armero/id373208304?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e5/af/00e5af1c-d230-13b7-3b95-ff9066c075c5/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/keka/id6443677513?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "05.01.2023"
-    },
-    {
-      "rank": 50,
-      "previousRank": 58,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "6762182398",
-      "name": "After Inc. Scenario Creator",
-      "developer": "Ndemic Creations",
-      "developerUrl": "https://apps.apple.com/de/developer/ndemic-creations/id525818842?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/0b/8b/720b8b51-ed45-4683-d752-abbc8a58066b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/after-inc-scenario-creator/id6762182398?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "30.08.2026"
-    },
-    {
-      "rank": 51,
-      "previousRank": 59,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "6451330524",
-      "name": "Shorts Blocker for YouTube",
-      "developer": "Yevhen Tretiakov",
-      "developerUrl": "https://apps.apple.com/de/developer/yevhen-tretiakov/id1592732760?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ba/c4/f4bac4fd-8c88-6c0b-0c85-5beb12582213/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/shorts-blocker-for-youtube/id6451330524?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "28.08.2023"
-    },
-    {
-      "rank": 52,
-      "previousRank": 63,
-      "rankChange": 11,
-      "isNew": false,
-      "appleId": "6753719221",
-      "name": "Tag My Spool – NFC Filament",
-      "developer": "KraftPixel Digital Solutions Pvt Ltd",
-      "developerUrl": "https://apps.apple.com/de/developer/kraftpixel-digital-solutions-pvt-ltd/id1844647042?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ec/93/31ec9388-a24a-dda9-c249-89ec3a89e9d6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tag-my-spool-nfc-filament/id6753719221?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "EUR",
-        "formatted": "8,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "13.10.2025"
-    },
-    {
-      "rank": 53,
-      "previousRank": 67,
-      "rankChange": 14,
-      "isNew": false,
-      "appleId": "6762881597",
-      "name": "AVR Maestro für Denon Marantz",
-      "developer": "MiyaraHub Technologies LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/miyarahub-technologies-llc/id1883545892?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/44/79/b24479ad-2d8c-735b-fecd-c039a516d57d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/avr-maestro-f%C3%BCr-denon-marantz/id6762881597?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "22.04.2026"
-    },
-    {
-      "rank": 54,
-      "previousRank": 76,
-      "rankChange": 22,
       "isNew": false,
       "appleId": "6806353067",
       "name": "dB Messer Sonolab: Lärmmessung",
@@ -1212,472 +1058,10 @@
       "releaseDate": "16.09.2026"
     },
     {
-      "rank": 55,
-      "previousRank": 88,
-      "rankChange": 33,
+      "rank": 48,
+      "previousRank": 76,
+      "rankChange": 28,
       "isNew": false,
-      "appleId": "6443811423",
-      "name": "My Classic-Retro Console",
-      "developer": "Raster Field Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/de/developer/raster-field-co-ltd/id1630514056?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c4/e4/a5c4e44e-8e7f-63be-daaa-d0f05d5383a8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/my-classic-retro-console/id6443811423?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "14.10.2022"
-    },
-    {
-      "rank": 56,
-      "previousRank": 89,
-      "rankChange": 33,
-      "isNew": false,
-      "appleId": "1558154409",
-      "name": "PowerToYou: Battery Widget",
-      "developer": "Karandeep Singh",
-      "developerUrl": "https://apps.apple.com/de/developer/karandeep-singh/id1516651531?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/2d/cf/f22dcf30-25d0-b030-e4ee-324c3df5cb81/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/powertoyou-battery-widget/id1558154409?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "15.03.2021"
-    },
-    {
-      "rank": 57,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6615061994",
-      "name": "EzioDashPro",
-      "developer": "Peter Bornhall",
-      "developerUrl": "https://apps.apple.com/de/developer/peter-bornhall/id1659057927?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/d1/86/00d186a9-0162-44a2-55ce-afb47755379e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/eziodashpro/id6615061994?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.04.2025"
-    },
-    {
-      "rank": 58,
-      "previousRank": 94,
-      "rankChange": 36,
-      "isNew": false,
-      "appleId": "6740918122",
-      "name": "Resin Control",
-      "developer": "Pedro Soria Martinez",
-      "developerUrl": "https://apps.apple.com/de/developer/pedro-soria-martinez/id1575398557?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/b3/9a/b7b39a6b-3033-1421-11fd-4ebb7b10a7c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/resin-control/id6740918122?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "26.01.2025"
-    },
-    {
-      "rank": 59,
-      "previousRank": 95,
-      "rankChange": 36,
-      "isNew": false,
-      "appleId": "6797805201",
-      "name": "MSFS Companion",
-      "developer": "Marc Embrechts",
-      "developerUrl": "https://apps.apple.com/de/developer/marc-embrechts/id6797805203?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c0/d8/2cc0d8ae-9397-02b1-d79a-4202dffccc2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/msfs-companion/id6797805201?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "14.09.2026"
-    },
-    {
-      "rank": 60,
-      "previousRank": 17,
-      "rankChange": -43,
-      "isNew": false,
-      "appleId": "1113002956",
-      "name": "Plague Inc: Szenarioersteller",
-      "developer": "Ndemic Creations",
-      "developerUrl": "https://apps.apple.com/de/developer/ndemic-creations/id525818842?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/54/e7/fe54e74a-b5a4-088b-3818-c70a4912be09/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/plague-inc-szenarioersteller/id1113002956?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "11.04.2017"
-    },
-    {
-      "rank": 61,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "926008509",
-      "name": "Type Nine - T9 Keyboard",
-      "developer": "Rasmus Porsager",
-      "developerUrl": "https://apps.apple.com/de/developer/rasmus-porsager/id926008508?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/04/d2/c704d2c1-a93a-f38a-632c-2b2130672cba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/type-nine-t9-keyboard/id926008509?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "10.11.2014"
-    },
-    {
-      "rank": 62,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6757775860",
-      "name": "Wonder Mail - Inbox Cleaner",
-      "developer": "小利 薛",
-      "developerUrl": "https://apps.apple.com/de/developer/%E5%B0%8F%E5%88%A9-%E8%96%9B/id1675817893?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/3d/84/1c3d84ae-cdc5-6c2c-10e5-0e6e06cf3096/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wonder-mail-inbox-cleaner/id6757775860?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "18.02.2026"
-    },
-    {
-      "rank": 63,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "308111628",
-      "name": "iCab Mobile (Web Browser)",
-      "developer": "Alexander Clauss",
-      "developerUrl": "https://apps.apple.com/de/developer/alexander-clauss/id286091996?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/09/11/e309114c-b0f8-5ac4-8369-e300ed92cd84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/icab-mobile-web-browser/id308111628?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "21.04.2009"
-    },
-    {
-      "rank": 64,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6746368921",
-      "name": "Die Große Tastatur",
-      "developer": "Defriction LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/defriction-llc/id1626590021?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/5e/07/095e07ff-ea86-2c72-630c-0372a73f5d42/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/die-gro%C3%9Fe-tastatur/id6746368921?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "02.06.2025"
-    },
-    {
-      "rank": 65,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6474076666",
-      "name": "MoofMate",
-      "developer": "Mark Kunst",
-      "developerUrl": "https://apps.apple.com/de/developer/mark-kunst/id1720564136?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/d9/03/fdd90332-a4e6-e68e-9d33-d112dff49c06/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/moofmate/id6474076666?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "28.12.2023"
-    },
-    {
-      "rank": 66,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6757446844",
-      "name": "ICS Toolkit",
-      "developer": "Pawel Karpinski",
-      "developerUrl": "https://apps.apple.com/de/developer/pawel-karpinski/id1662830028?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/54/26/2b5426c2-60da-2cc3-3c36-cb67faad6139/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ics-toolkit/id6757446844?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.01.2026"
-    },
-    {
-      "rank": 67,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1273607490",
-      "name": "Easy KNX",
-      "developer": "Mauricio Domenech",
-      "developerUrl": "https://apps.apple.com/de/developer/mauricio-domenech/id990988048?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/75/c9/9375c9d0-35d3-9e5d-85ae-ebd6b79cd394/AppIconEasyKNX-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/easy-knx/id1273607490?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "EUR",
-        "formatted": "29,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "18.05.2018"
-    },
-    {
-      "rank": 68,
-      "previousRank": 19,
-      "rankChange": -49,
-      "isNew": false,
-      "appleId": "6756194050",
-      "name": "Word Clock Pro - Widget",
-      "developer": "Vasic Stefan",
-      "developerUrl": "https://apps.apple.com/de/developer/vasic-stefan/id1711365101?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/00/11/d00011ff-a563-317f-1e34-ef1b4d2ceb75/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/word-clock-pro-widget/id6756194050?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "29.12.2025"
-    },
-    {
-      "rank": 69,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6759071028",
-      "name": "A32X Tools · A320 ECAM Resets",
-      "developer": "Adria Raventos ruiz",
-      "developerUrl": "https://apps.apple.com/de/developer/adria-raventos-ruiz/id1876663356?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/bc/21/36bc210b-975f-3045-f1a2-13aa76bf4c15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/a32x-tools-a320-ecam-resets/id6759071028?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "22.02.2026"
-    },
-    {
-      "rank": 70,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6756437919",
-      "name": "PC View Mode for Safari",
-      "developer": "Seiya.k",
-      "developerUrl": "https://apps.apple.com/de/developer/seiya-k/id383021944?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b3/ba/bbb3ba83-f40b-6eff-541b-39ebada7cd4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/pc-view-mode-for-safari/id6756437919?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "12.12.2025"
-    },
-    {
-      "rank": 71,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6471380298",
-      "name": "StopTheMadness Pro",
-      "developer": "Jeff Johnson",
-      "developerUrl": "https://apps.apple.com/de/developer/jeff-johnson/id1176742298?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/e2/80/7ae2800b-0045-2fef-5ea8-5b85e8b3ce9e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/stopthemadness-pro/id6471380298?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "12.12.2023"
-    },
-    {
-      "rank": 72,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6777932800",
-      "name": "CookieCrumble für Safari",
-      "developer": "Michael Preidel",
-      "developerUrl": "https://apps.apple.com/de/developer/michael-preidel/id1728009525?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/dc/1a/77dc1aa1-380a-e27f-747b-cefcc8979c27/CookieCrumble-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/cookiecrumble-f%C3%BCr-safari/id6777932800?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "24.06.2026"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1396698319",
-      "name": "Necrophonic",
-      "developer": "chris rogers",
-      "developerUrl": "https://apps.apple.com/de/developer/chris-rogers/id1119043156?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/necrophonic/id1396698319?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "24.07.2018"
-    },
-    {
-      "rank": 74,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1585833321",
-      "name": "Achoo HTML Viewer & Inspector",
-      "developer": "Christian Selig",
-      "developerUrl": "https://apps.apple.com/de/developer/christian-selig/id687795558?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/23/c7/b123c70a-8778-6c94-34f4-754661f3df52/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/achoo-html-viewer-inspector/id1585833321?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "20.09.2021"
-    },
-    {
-      "rank": 75,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1356726417",
-      "name": "ForzaTune Pro",
-      "developer": "Crosswise Ventures, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/crosswise-ventures-llc/id329815590?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/70/e4/3770e483-44ad-095d-1bde-4b68d209669d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/forzatune-pro/id1356726417?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.05.2018"
-    },
-    {
-      "rank": 76,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "1603239519",
       "name": "Rebel Inc.: Szenario-Editor",
       "developer": "Ndemic Creations",
@@ -1696,230 +1080,10 @@
       "releaseDate": "11.05.2022"
     },
     {
-      "rank": 77,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6816404264",
-      "name": "WattBench",
-      "developer": "Seth Egger",
-      "developerUrl": "https://apps.apple.com/de/developer/seth-egger/id6790598060?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/ab/03/5fab030a-bd24-e05b-df4a-40943abd3655/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wattbench/id6816404264?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "09.10.2026"
-    },
-    {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6751759869",
-      "name": "MakeEveryDayCount: Countdown",
-      "developer": "DOMINIK MARC GERSTER",
-      "developerUrl": "https://apps.apple.com/de/developer/dominik-marc-gerster/id1836648212?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/e1/ff/2fe1ff08-c228-e4f3-bd14-042f10e1a0be/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/makeeverydaycount-countdown/id6751759869?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "09.09.2025"
-    },
-    {
-      "rank": 79,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6760341080",
-      "name": "Md Preview - Markdown Anzeige",
-      "developer": "CyberGame Limited",
-      "developerUrl": "https://apps.apple.com/de/developer/cybergame-limited/id1778824442?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/16/25/26162532-8b93-a7b8-8898-922f9db407cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/md-preview-markdown-anzeige/id6760341080?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "11.03.2026"
-    },
-    {
-      "rank": 80,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6760572136",
-      "name": "OpenWRT Manager",
-      "developer": "ZhenHua Wu",
-      "developerUrl": "https://apps.apple.com/de/developer/zhenhua-wu/id702839489?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/36/85/c13685bc-4af5-79f5-1bc8-b14f337e0802/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/openwrt-manager/id6760572136?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "18.03.2026"
-    },
-    {
-      "rank": 81,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6781625478",
-      "name": "KNX2GO",
-      "developer": "Alexander Maier GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/alexander-maier-gmbh/id563901268?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7f/c5/0f7fc53b-6a7e-763d-a591-6d5630ae73f9/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/knx2go/id6781625478?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "EUR",
-        "formatted": "29,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "19.08.2026"
-    },
-    {
-      "rank": 82,
-      "previousRank": 21,
-      "rankChange": -61,
+      "rank": 49,
+      "previousRank": 87,
+      "rankChange": 38,
       "isNew": false,
-      "appleId": "6772651305",
-      "name": "Mosquito Scan & ID",
-      "developer": "乐 袁",
-      "developerUrl": "https://apps.apple.com/de/developer/%E4%B9%90-%E8%A2%81/id1896300908?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7d/31/517d315a-1f1c-82ad-b363-786a9300059a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mosquito-scan-id/id6772651305?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.06.2026"
-    },
-    {
-      "rank": 83,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6759788943",
-      "name": "AirScreen · DLNA-Receiver",
-      "developer": "Xu Wang",
-      "developerUrl": "https://apps.apple.com/de/developer/xu-wang/id1216698112?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/3d/48/6b3d48b4-20ff-74cd-31fe-587bdab8438d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/airscreen-dlna-receiver/id6759788943?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "06.03.2026"
-    },
-    {
-      "rank": 84,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6818297203",
-      "name": "ScaleMate - Maßstabsrechner",
-      "developer": "Denys Dertwinkel",
-      "developerUrl": "https://apps.apple.com/de/developer/denys-dertwinkel/id6804745700?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c0/4a/9ec04af6-c8c3-ce50-c669-15482e5d24d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/scalemate-ma%C3%9Fstabsrechner/id6818297203?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "08.10.2026"
-    },
-    {
-      "rank": 85,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "351048279",
-      "name": "Gruppen-SMS",
-      "developer": "Alco Blom",
-      "developerUrl": "https://apps.apple.com/de/developer/alco-blom/id319069267?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3d/cc/3a3dcca0-9b60-536c-b89d-b601424adf7d/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/gruppen-sms/id351048279?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "25.06.2010"
-    },
-    {
-      "rank": 86,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1446555252",
-      "name": "Tome of D2",
-      "developer": "Alexander Sommerville",
-      "developerUrl": "https://apps.apple.com/de/developer/alexander-sommerville/id1446555251?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/78/28/73782853-8a73-6fa7-de1e-3f1e799eb004/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tome-of-d2/id1446555252?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "13.12.2018"
-    },
-    {
-      "rank": 87,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "920304615",
       "name": "Audiobel: Dezibel messen SPL",
       "developer": "Jorge Cozain",
@@ -1938,16 +1102,126 @@
       "releaseDate": "30.09.2014"
     },
     {
-      "rank": 88,
+      "rank": 50,
+      "previousRank": 84,
+      "rankChange": 34,
+      "isNew": false,
+      "appleId": "6818297203",
+      "name": "ScaleMate - Maßstabsrechner",
+      "developer": "Denys Dertwinkel",
+      "developerUrl": "https://apps.apple.com/de/developer/denys-dertwinkel/id6804745700?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e1/5f/96e15fa3-d720-d9fb-becb-abe66ec903e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/scalemate-ma%C3%9Fstabsrechner/id6818297203?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "08.10.2026"
+    },
+    {
+      "rank": 51,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1245475416",
-      "name": "Amperes 4: Akkuzustand Analyse",
-      "developer": "CrioSoft LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/criosoft-llc/id1245475415?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/67/27/4f6727ed-b382-3933-2563-333b7d5c1326/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/amperes-4-akkuzustand-analyse/id1245475416?uo=2",
+      "appleId": "6752443870",
+      "name": "Cable: Kabelquerschnitt",
+      "developer": "Stefan Lange-Hegermann",
+      "developerUrl": "https://apps.apple.com/de/developer/stefan-lange-hegermann/id433850787?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/91/39/6191394a-b060-9e97-313b-09289704c751/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/cable-kabelquerschnitt/id6752443870?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "16.10.2025"
+    },
+    {
+      "rank": 52,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6443996847",
+      "name": "Frame Crop – Art Mode",
+      "developer": "Shane Jeffers",
+      "developerUrl": "https://apps.apple.com/de/developer/shane-jeffers/id1544103202?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/2b/5e/5c2b5ed0-866b-676d-7753-21899d6fbba3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/frame-crop-art-mode/id6443996847?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "22.06.2023"
+    },
+    {
+      "rank": 53,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6746488971",
+      "name": "Moofment – für VanMoof-Fahrer",
+      "developer": "Aydin Can Polatkan",
+      "developerUrl": "https://apps.apple.com/de/developer/aydin-can-polatkan/id1810330156?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5b/f9/a65bf914-0f45-a2a9-fc33-782ee6565ba5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/moofment-f%C3%BCr-vanmoof-fahrer/id6746488971?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "07.06.2025"
+    },
+    {
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1041709232",
+      "name": "Block für Wizard",
+      "developer": "Vincent Flecke",
+      "developerUrl": "https://apps.apple.com/de/developer/vincent-flecke/id1041709231?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/14/c1/9814c17a-915a-0c3f-0d3e-53421b63609e/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/block-f%C3%BCr-wizard/id1041709232?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "04.09.2016"
+    },
+    {
+      "rank": 55,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1543667909",
+      "name": "SSTP Connect",
+      "developer": "Domosekai Limited",
+      "developerUrl": "https://apps.apple.com/de/developer/domosekai-limited/id1488582967?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/f6/6f/49f66f84-e135-26e9-6772-70ac349cba72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sstp-connect/id1543667909?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -1957,41 +1231,85 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "02.07.2017"
+      "releaseDate": "19.01.2021"
     },
     {
-      "rank": 89,
+      "rank": 56,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6459478110",
-      "name": "AWTRIX 3",
-      "developer": "Stephan Muehl",
-      "developerUrl": "https://apps.apple.com/de/developer/stephan-muehl/id1655208845?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/4a/24/c14a24da-d9dd-2b7f-9785-3ef2ea5b2e7c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/awtrix-3/id6459478110?uo=2",
+      "appleId": "6804784226",
+      "name": "TankO – Tankkosten & Verbrauch",
+      "developer": "Sebastian Baer",
+      "developerUrl": "https://apps.apple.com/de/developer/sebastian-baer/id1896659535?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cc/cc/29cccc41-36eb-beed-3678-31241bbf12e2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tanko-tankkosten-verbrauch/id6804784226?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 0.99,
         "currency": "EUR",
-        "formatted": "3,99 €"
+        "formatted": "0,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "22.08.2023"
+      "releaseDate": "19.09.2026"
     },
     {
-      "rank": 90,
+      "rank": 57,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1585702412",
-      "name": "Vidimote für Safari",
-      "developer": "IOSPIRIT GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/iospirit-gmbh/id402713475?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/2a/2d/872a2d5b-6247-a73c-5b85-0ca66375123c/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vidimote-f%C3%BCr-safari/id1585702412?uo=2",
+      "appleId": "516538625",
+      "name": "Disk Decipher",
+      "developer": "Richard Huveneers",
+      "developerUrl": "https://apps.apple.com/de/developer/richard-huveneers/id516538628?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ce/0f/45ce0fa0-5982-13b8-66e9-5d0345ee8d65/ModernAppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/disk-decipher/id516538625?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "24.04.2012"
+    },
+    {
+      "rank": 58,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6761303932",
+      "name": "dicto: sprachanzeige",
+      "developer": "BHB Technologies, Inc",
+      "developerUrl": "https://apps.apple.com/de/developer/bhb-technologies-inc/id1884993991?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/ee/bc/44eebc8a-e477-76cf-39a6-41f940df98f0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dicto-sprachanzeige/id6761303932?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "31.03.2026"
+    },
+    {
+      "rank": 59,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "388014573",
+      "name": "SensorLog",
+      "developer": "Bernd Thomas",
+      "developerUrl": "https://apps.apple.com/de/developer/bernd-thomas/id385441510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/c6/2b/61c62b76-c6b8-6a0e-0b55-1fe28045ec11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sensorlog/id388014573?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -2001,19 +1319,261 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "20.09.2021"
+      "releaseDate": "08.09.2010"
     },
     {
-      "rank": 91,
+      "rank": 60,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "986082042",
-      "name": "Polar Scope Align Pro Watch",
-      "developer": "Dimitrios Kechagias",
-      "developerUrl": "https://apps.apple.com/de/developer/dimitrios-kechagias/id970157964?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/78/f2/2078f289-8b45-0f1a-0ea6-fe4009925e3a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/polar-scope-align-pro-watch/id986082042?uo=2",
+      "appleId": "1554337583",
+      "name": "Schlafprotokoll 2.0",
+      "developer": "coding dads",
+      "developerUrl": "https://apps.apple.com/de/developer/coding-dads/id1554337586?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fd/8a/d7fd8a38-a336-76e3-1ae1-fc9a8ea17ba0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/schlafprotokoll-2-0/id1554337583?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.02.2021"
+    },
+    {
+      "rank": 61,
+      "previousRank": 20,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "289616509",
+      "name": "Mobile Mouse Remote",
+      "developer": "R.P.A. Tech",
+      "developerUrl": "https://apps.apple.com/de/developer/r-p-a-tech/id289616512?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/93/b7/6793b7be-ee58-d684-d377-9943f3ab7a4a/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mobile-mouse-remote/id289616509?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "11.02.2019"
+    },
+    {
+      "rank": 62,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "282758413",
+      "name": "ShoppingList Classic",
+      "developer": "Pecora GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/pecora-gmbh/id402870103?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/8f/72/908f7270-383e-efd2-9bba-5cfdc5ef31fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/shoppinglist-classic/id282758413?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "31.01.2019"
+    },
+    {
+      "rank": 63,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6443956312",
+      "name": "Solar Check",
+      "developer": "Andreas Huth",
+      "developerUrl": "https://apps.apple.com/de/developer/andreas-huth/id1480447601?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/83/59/828359a7-5e78-547d-84f4-dfad9358a0f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/solar-check/id6443956312?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "04.03.2023"
+    },
+    {
+      "rank": 64,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6474479684",
+      "name": "Spark - Ren'Py Novels",
+      "developer": "Devon Lewis",
+      "developerUrl": "https://apps.apple.com/de/developer/devon-lewis/id1721718576?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/96/3f/eb963f23-e043-8e0b-baba-56574461b7f2/Spark_Winter_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/spark-renpy-novels/id6474479684?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "21.12.2023"
+    },
+    {
+      "rank": 65,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "510249014",
+      "name": "Wasserwaage HD",
+      "developer": "良峰 侯",
+      "developerUrl": "https://apps.apple.com/de/developer/%E8%89%AF%E5%B3%B0-%E4%BE%AF/id654444245?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wasserwaage-hd/id510249014?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "21.03.2012"
+    },
+    {
+      "rank": 66,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1283371845",
+      "name": "JMARemotesPro",
+      "developer": "JMA Alejandro Altuna, S.L.U.",
+      "developerUrl": "https://apps.apple.com/de/developer/jma-alejandro-altuna-s-l-u/id1283371844?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ef/e5/e2efe564-2751-c203-8bfc-e40fd11a3fd6/AppIconPro-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/jmaremotespro/id1283371845?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "19.09.2017"
+    },
+    {
+      "rank": 67,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "689673100",
+      "name": "Voice Intercom for Sonos",
+      "developer": "Eleven K, Inc",
+      "developerUrl": "https://apps.apple.com/de/developer/eleven-k-inc/id1473190078?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/10/cd/e210cd26-b800-8d2a-6c67-3e4e6310ef7e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/voice-intercom-for-sonos/id689673100?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "22.08.2013"
+    },
+    {
+      "rank": 68,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "938922963",
+      "name": "pwSafe 2 - Password Safe",
+      "developer": "Huvisoft B.V.",
+      "developerUrl": "https://apps.apple.com/de/developer/huvisoft-b-v/id1738207783?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d9/5f/d4d95f92-a880-d3e3-4fcc-b9ebff594868/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pwsafe-2-password-safe/id938922963?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "28.11.2014"
+    },
+    {
+      "rank": 69,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6760863575",
+      "name": "KumaAlert",
+      "developer": "Robert Holmes",
+      "developerUrl": "https://apps.apple.com/de/developer/robert-holmes/id1883398515?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/09/0a/cb090a52-ab33-c639-ac66-6d061e3f9e76/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/kumaalert/id6760863575?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "08.04.2026"
+    },
+    {
+      "rank": 70,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1313357241",
+      "name": "Glass & Island  - Custom Notch",
+      "developer": "BRIJIT SHEELIA",
+      "developerUrl": "https://apps.apple.com/de/developer/brijit-sheelia/id629790554?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/70/70/01707083-d96c-b226-72a7-a585a8a9e697/Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/glass-island-custom-notch/id1313357241?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "15.11.2017"
+    },
+    {
+      "rank": 71,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759997187",
+      "name": "Pylo · HomeKit Camera",
+      "developer": "Taylor Fausak",
+      "developerUrl": "https://apps.apple.com/de/developer/taylor-fausak/id1052956593?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/57/1f/19571f49-49fb-c32e-310b-4d2b1f1a5d83/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pylo-homekit-camera/id6759997187?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -2023,63 +1583,41 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "23.04.2015"
+      "releaseDate": "07.03.2026"
     },
     {
-      "rank": 92,
+      "rank": 72,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "299697688",
-      "name": "iKeePass",
-      "developer": "fusenigk.de GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/fusenigk-de-gmbh/id299697691?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/e8/cc/f0e8cc14-8467-d599-a7cd-a6e4465ae05e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ikeepass/id299697688?uo=2",
+      "appleId": "1441797808",
+      "name": "Screen Mirroring + Chromecast",
+      "developer": "Kraus und Karnath GbR 2Kit Consulting",
+      "developerUrl": "https://apps.apple.com/de/developer/kraus-und-karnath-gbr-2kit-consulting/id477998014?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/18/d3/e718d31c-fd36-9b40-8fd4-68a0cc348612/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/screen-mirroring-chromecast/id1441797808?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 9.99,
         "currency": "EUR",
-        "formatted": "3,99 €"
+        "formatted": "9,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "05.05.2011"
+      "releaseDate": "16.11.2018"
     },
     {
-      "rank": 93,
+      "rank": 73,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1052616692",
-      "name": "Databit: Datenvolumen",
-      "developer": "Jorge Cozain",
-      "developerUrl": "https://apps.apple.com/de/developer/jorge-cozain/id576265620?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/8f/a4/ec8fa415-2a65-5f57-5612-ade2aebd1203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/databit-datenvolumen/id1052616692?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "09.11.2015"
-    },
-    {
-      "rank": 94,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "689675004",
-      "name": "Kamera Messung - PartoMeter",
-      "developer": "VisTech.Projects LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/vistech-projects-llc/id620969851?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/61/0c/89610cf6-d3f5-4836-a04a-fd913fb2493f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/kamera-messung-partometer/id689675004?uo=2",
+      "appleId": "6793657946",
+      "name": "OnlyRemote: Fernbedienung Mac",
+      "developer": "博 刘",
+      "developerUrl": "https://apps.apple.com/de/developer/%E5%8D%9A-%E5%88%98/id993397701?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/c0/90/ebc090eb-ea12-717f-ebb1-ab1c76790265/onlyswitch-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/onlyremote-fernbedienung-mac/id6793657946?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -2089,19 +1627,41 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "27.08.2013"
+      "releaseDate": "15.09.2026"
     },
     {
-      "rank": 95,
+      "rank": 74,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "991367080",
-      "name": "Watch Tuner Timegrapher",
-      "developer": "Bartlomiej Swiatek",
-      "developerUrl": "https://apps.apple.com/de/developer/bartlomiej-swiatek/id943509577?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/e8/ea/ebe8ea72-259c-fc59-4461-3d2a857f149b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/watch-tuner-timegrapher/id991367080?uo=2",
+      "appleId": "1241569778",
+      "name": "Printsmart-Drucker print app",
+      "developer": "HongKong Sunnystark limited",
+      "developerUrl": "https://apps.apple.com/de/developer/hongkong-sunnystark-limited/id1456233803?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/33/38/903338de-ee8a-2b26-793f-e9522f8147fc/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/printsmart-drucker-print-app/id1241569778?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "01.06.2017"
+    },
+    {
+      "rank": 75,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "385149531",
+      "name": "CalPrint for iPhone",
+      "developer": "EuroSmartz Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/eurosmartz-ltd/id299105918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/77/16/1a77169b-3448-e890-489c-25f051e90664/AppIcon-calpa-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/calprint-for-iphone/id385149531?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "EUR",
@@ -2111,41 +1671,349 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "14.05.2015"
+      "releaseDate": "11.08.2010"
     },
     {
-      "rank": 96,
+      "rank": 76,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1550450059",
-      "name": "Wallbox Control",
-      "developer": "Pole Position Software GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/pole-position-software-gmbh/id1550450061?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/cf/b2/d6cfb23c-9f79-b88f-23a2-36981666f8a3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wallbox-control/id1550450059?uo=2",
+      "appleId": "1643199620",
+      "name": "Any Text · Widgets",
+      "developer": "Sindre Sorhus",
+      "developerUrl": "https://apps.apple.com/de/developer/sindre-sorhus/id328077650?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/2b/f8/332bf8bf-1994-94b9-bfd1-4ecc417b42f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/any-text-widgets/id1643199620?uo=2",
       "price": {
-        "amount": 3.49,
+        "amount": 4,
         "currency": "EUR",
-        "formatted": "3,49 €"
+        "formatted": "4,00 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "31.08.2022"
+      "releaseDate": "12.09.2022"
     },
     {
-      "rank": 97,
+      "rank": 77,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "286567378",
-      "name": "Timer: Dein Intervalltimer",
-      "developer": "Francis Bonnin",
-      "developerUrl": "https://apps.apple.com/de/developer/francis-bonnin/id284043095?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e8/e8/b6e8e8d4-f11c-362e-618f-18c44a24adf8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/timer-dein-intervalltimer/id286567378?uo=2",
+      "appleId": "528940068",
+      "name": "FlashAir Instant WIFI",
+      "developer": "Trek2000",
+      "developerUrl": "https://apps.apple.com/de/developer/trek2000/id409284633?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d7/71/ae/d771aebe-7cbc-5853-65f6-ccfe7784722e/AppIcon-0-1x_U007emarketing-0-85-220-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/flashair-instant-wifi/id528940068?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "10.06.2012"
+    },
+    {
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6779731608",
+      "name": "CarHA",
+      "developer": "Veghes Lucian",
+      "developerUrl": "https://apps.apple.com/de/developer/veghes-lucian/id6779731610?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/8e/a6/c58ea663-32be-cae9-975c-f87aa85254b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/carha/id6779731608?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "23.06.2026"
+    },
+    {
+      "rank": 79,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "431188993",
+      "name": "Nest Egg Hausinventar",
+      "developer": "Nest Egg Labs, Inc",
+      "developerUrl": "https://apps.apple.com/de/developer/nest-egg-labs-inc/id431188996?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/a2/64/2ba2648d-ae00-83b8-1611-78297aa320ca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nest-egg-hausinventar/id431188993?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "05.05.2011"
+    },
+    {
+      "rank": 80,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1261944766",
+      "name": "Alook Browser - 8x Schnell",
+      "developer": "Baoding Lehuo Network Technology Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/de/developer/baoding-lehuo-network-technology-co-ltd/id1016500362?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c1/57/bdc15710-76b5-1c16-61a4-f4b072cd3098/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/alook-browser-8x-schnell/id1261944766?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "28.07.2017"
+    },
+    {
+      "rank": 81,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "591076411",
+      "name": "WiFi Mouse Pro",
+      "developer": "士猛 王",
+      "developerUrl": "https://apps.apple.com/de/developer/%E5%A3%AB%E7%8C%9B-%E7%8E%8B/id591076414?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ec/03/08/ec030829-d3a5-a675-cfb2-458fcb17ce75/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wifi-mouse-pro/id591076411?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "09.01.2013"
+    },
+    {
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6461821368",
+      "name": "iQUEST - Deine Pferde",
+      "developer": "Joerg Mueller",
+      "developerUrl": "https://apps.apple.com/de/developer/joerg-mueller/id1685530952?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/70/c5/2c70c599-9dad-c5d6-97aa-eb231b469c6e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iquest-deine-pferde/id6461821368?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "22.08.2023"
+    },
+    {
+      "rank": 83,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "654444242",
+      "name": "DayCalc Pro - Taschenrechner",
+      "developer": "良峰 侯",
+      "developerUrl": "https://apps.apple.com/de/developer/%E8%89%AF%E5%B3%B0-%E4%BE%AF/id654444245?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/bf/e1/e7bfe1d8-5169-4c82-1d8c-d797a2a5af93/AppIcon-Pro-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/daycalc-pro-taschenrechner/id654444242?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.06.2013"
+    },
+    {
+      "rank": 84,
+      "previousRank": 22,
+      "rankChange": -62,
+      "isNew": false,
+      "appleId": "1670762759",
+      "name": "Necrometer",
+      "developer": "chris rogers",
+      "developerUrl": "https://apps.apple.com/de/developer/chris-rogers/id1119043156?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e7/9d/ede79d99-8f0e-eed7-3f69-e83d0138d0c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/necrometer/id1670762759?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "25.05.2023"
+    },
+    {
+      "rank": 85,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757441584",
+      "name": "Rename Photos",
+      "developer": "OpsOh LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/opsoh-llc/id1877414741?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/6f/9b/dc6f9bcc-85ab-68bf-a9aa-dd9cd9d0c78b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rename-photos/id6757441584?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "07.01.2026"
+    },
+    {
+      "rank": 86,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6758773035",
+      "name": "Echovo - TTS & Voice Cloning",
+      "developer": "harim kang",
+      "developerUrl": "https://apps.apple.com/de/developer/harim-kang/id1833140629?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/9e/75/769e752c-d8b2-1c1a-eb78-2752b1c81ce2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/echovo-tts-voice-cloning/id6758773035?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "08.02.2026"
+    },
+    {
+      "rank": 87,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "543340655",
+      "name": "Feuerwehr Einsätze OÖ",
+      "developer": "Stephan Berer",
+      "developerUrl": "https://apps.apple.com/de/developer/stephan-berer/id543340658?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/84/0d/a1840d44-a21c-aa8c-a659-3f751b569899/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/feuerwehr-eins%C3%A4tze-o%C3%B6/id543340655?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "19.07.2012"
+    },
+    {
+      "rank": 88,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1001429231",
+      "name": "VBus®Touch FK",
+      "developer": "RESOL GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/resol-gmbh/id369420321?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/de/a2/15dea27f-4e96-2861-1202-4a69980262bc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vbus-touch-fk/id1001429231?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "03.07.2015"
+    },
+    {
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1456289142",
+      "name": "Find Bluetooth",
+      "developer": "Marcel Mendes Filho",
+      "developerUrl": "https://apps.apple.com/de/developer/marcel-mendes-filho/id1205300418?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/36/59/f1365903-d605-0071-a62b-96a3ba878b5d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/find-bluetooth/id1456289142?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.03.2019"
+    },
+    {
+      "rank": 90,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1631681393",
+      "name": "WiFi Tools & Analyzer",
+      "developer": "Tamara Dudarenko",
+      "developerUrl": "https://apps.apple.com/de/developer/tamara-dudarenko/id1602845370?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/fe/26/78fe269d-bd6b-5bd8-4206-0efad2882558/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wifi-tools-analyzer/id1631681393?uo=2",
+      "price": {
+        "amount": 2.9,
+        "currency": "EUR",
+        "formatted": "2,90 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "11.08.2022"
+    },
+    {
+      "rank": 91,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1602361102",
+      "name": "Rohrdimensionierung",
+      "developer": "Burak Doelek",
+      "developerUrl": "https://apps.apple.com/de/developer/burak-doelek/id1602361104?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/79/57/c87957db-9fea-caea-8939-3c3d719f37fa/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rohrdimensionierung/id1602361102?uo=2",
       "price": {
         "amount": 3.99,
         "currency": "EUR",
@@ -2155,41 +2023,173 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "12.02.2019"
+      "releaseDate": "03.01.2022"
+    },
+    {
+      "rank": 92,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6779991756",
+      "name": "Punktfunk",
+      "developer": "Enrico Buehler",
+      "developerUrl": "https://apps.apple.com/de/developer/enrico-buehler/id6779991759?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ad/14/b4ad14ba-8c8a-1e21-72a1-cf94bd8cdf42/punktfunk_Logo-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/punktfunk/id6779991756?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "14.09.2026"
+    },
+    {
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1625111884",
+      "name": "EMF Analytics (EMF Detector)",
+      "developer": "SpiritShack Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/spiritshack-ltd/id1562729686?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/9f/58/2d9f58c3-cfe1-87bb-01a2-fe5935e5abce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/emf-analytics-emf-detector/id1625111884?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.05.2022"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1315028732",
+      "name": "EASA FTL Calculator",
+      "developer": "William Beal",
+      "developerUrl": "https://apps.apple.com/de/developer/william-beal/id1315028731?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b2/d3/11b2d328-677e-877f-c2ba-0d7dd74e19f3/App_Icon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/easa-ftl-calculator/id1315028732?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "20.11.2017"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1120901732",
+      "name": "Web Cleaner - Select and delete ads on Browser",
+      "developer": "OH NAM KWON",
+      "developerUrl": "https://apps.apple.com/de/developer/oh-nam-kwon/id490468388?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple41/v4/6e/1e/cd/6e1ecde0-605a-b4f2-f0aa-286bc02fbe70/mzl.ttfdazgl.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/web-cleaner-select-and-delete-ads-on-browser/id1120901732?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "03.09.2016"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6444657542",
+      "name": "iPerfman Pro",
+      "developer": "伟 葛",
+      "developerUrl": "https://apps.apple.com/de/developer/%E4%BC%9F-%E8%91%9B/id1028908732?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/8b/27/b38b2746-c8a3-82ec-62d8-9c9f8014a9aa/AppIconPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iperfman-pro/id6444657542?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "28.11.2022"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6502047038",
+      "name": "WatchPDF",
+      "developer": "kim juyoung",
+      "developerUrl": "https://apps.apple.com/de/developer/kim-juyoung/id918406157?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/79/f0/b679f0ee-e4cc-eaa0-3476-23a3f245d049/watchpdf-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/watchpdf/id6502047038?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Dienst­programme"
+      },
+      "releaseDate": "07.05.2024"
     },
     {
       "rank": 98,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1080337100",
-      "name": "Lärmampel für Lehrer",
-      "developer": "ZoliTech",
-      "developerUrl": "https://apps.apple.com/de/developer/zolitech/id559472506?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/45/c2/3b45c2a1-55be-e1df-20e0-48fbab1937eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/l%C3%A4rmampel-f%C3%BCr-lehrer/id1080337100?uo=2",
+      "appleId": "6612009107",
+      "name": "PID-Regler-Simulation",
+      "developer": "立娜 王",
+      "developerUrl": "https://apps.apple.com/de/developer/%E7%AB%8B%E5%A8%9C-%E7%8E%8B/id1761096632?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/4e/c4/2f4ec4af-0138-ae9e-7cd7-42b28635e922/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pid-regler-simulation/id6612009107?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 3.99,
         "currency": "EUR",
-        "formatted": "0,99 €"
+        "formatted": "3,99 €"
       },
       "primaryCategory": {
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "04.02.2016"
+      "releaseDate": "28.08.2024"
     },
     {
       "rank": 99,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6757651401",
-      "name": "MouseGo",
-      "developer": "ClayDev Digital Inc",
-      "developerUrl": "https://apps.apple.com/de/developer/claydev-digital-inc/id1868100530?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/cf/9e/eccf9e5c-4cbb-6805-3d87-656e215299f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mousego/id6757651401?uo=2",
+      "appleId": "1637377410",
+      "name": "Flying Carpet File Transfer",
+      "developer": "Theron Spiegl",
+      "developerUrl": "https://apps.apple.com/de/developer/theron-spiegl/id1637377412?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/14/ae/f614aeeb-40e2-ce6d-19bf-57a708f3b86a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/flying-carpet-file-transfer/id1637377410?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "EUR",
@@ -2199,29 +2199,7 @@
         "id": "6002",
         "name": "Dienst­programme"
       },
-      "releaseDate": "21.02.2026"
-    },
-    {
-      "rank": 100,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6484069424",
-      "name": "iTest.",
-      "developer": "Hugh Jeffreys",
-      "developerUrl": "https://apps.apple.com/de/developer/hugh-jeffreys/id1740475585?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b1/b7/58b1b765-79de-045a-6a9b-49a01c36288c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/itest/id6484069424?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Dienst­programme"
-      },
-      "releaseDate": "24.04.2024"
+      "releaseDate": "03.08.2022"
     }
   ]
 }
