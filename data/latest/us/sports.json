@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-21",
-  "collectedAt": "2026-10-21T05:49:24.477Z",
-  "sourceUpdatedAt": "2026-10-20T22:49:24-07:00",
+  "snapshotDate": "2026-10-22",
+  "collectedAt": "2026-10-22T05:52:08.008Z",
+  "sourceUpdatedAt": "2026-10-21T22:52:07-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6004/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "体育"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 100,
+  "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-20",
+  "previousSnapshotDate": "2026-10-21",
   "apps": [
     {
       "rank": 1,
@@ -69,8 +69,8 @@
     },
     {
       "rank": 3,
-      "previousRank": 8,
-      "rankChange": 5,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1543684531",
       "name": "QZ Fitness",
@@ -91,8 +91,30 @@
     },
     {
       "rank": 4,
+      "previousRank": 8,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "794841332",
+      "name": "JB4 Mobile",
+      "developer": "Dmac Mobile Developments, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/dmac-mobile-developments-llc/id372235786?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/jb4-mobile/id794841332?uo=2",
+      "price": {
+        "amount": 27.99,
+        "currency": "USD",
+        "formatted": "$27.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 12, 2014"
+    },
+    {
+      "rank": 5,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "478462401",
       "name": "Shooter: Ballistic Calculator",
@@ -112,30 +134,74 @@
       "releaseDate": "November 11, 2011"
     },
     {
-      "rank": 5,
-      "previousRank": 16,
-      "rankChange": 11,
+      "rank": 6,
+      "previousRank": 7,
+      "rankChange": 1,
       "isNew": false,
-      "appleId": "321817464",
-      "name": "PinPal",
-      "developer": "Jeff Stuart",
-      "developerUrl": "https://apps.apple.com/us/developer/jeff-stuart/id321817467?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/98/fd/c498fd7c-7d89-423d-4df3-6211b77e11b4/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pinpal/id321817464?uo=2",
+      "appleId": "1441335342",
+      "name": "Ballistic X",
+      "developer": "Nomad Innovations, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/nomad-innovations-llc/id1441335341?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/fd/ad/10fdad54-644b-4690-4b9f-384dd63f38d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ballistic-x/id1441335342?uo=2",
       "price": {
-        "amount": 8.99,
+        "amount": 7.99,
         "currency": "USD",
-        "formatted": "$8.99"
+        "formatted": "$7.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "July 25, 2009"
+      "releaseDate": "January 27, 2019"
     },
     {
-      "rank": 6,
-      "previousRank": 3,
+      "rank": 7,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6761028245",
+      "name": "Officimate",
+      "developer": "DOUGLAS WAYNE MCALISTER",
+      "developerUrl": "https://apps.apple.com/us/developer/douglas-wayne-mcalister/id1887369561?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1c/ee/021cee83-3239-0e31-88cd-77cb039d4c7d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/officimate/id6761028245?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "October 7, 2026"
+    },
+    {
+      "rank": 8,
+      "previousRank": 13,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "6736371607",
+      "name": "Bikee",
+      "developer": "Sammy Azdoufal",
+      "developerUrl": "https://apps.apple.com/us/developer/sammy-azdoufal/id1154611798?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/20/f4/a120f462-22fd-40a6-2d8c-2b441eeb57dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bikee/id6736371607?uo=2",
+      "price": {
+        "amount": 9.95,
+        "currency": "USD",
+        "formatted": "$9.95"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "October 7, 2024"
+    },
+    {
+      "rank": 9,
+      "previousRank": 6,
       "rankChange": -3,
       "isNew": false,
       "appleId": "1191380081",
@@ -156,97 +222,31 @@
       "releaseDate": "March 29, 2017"
     },
     {
-      "rank": 7,
-      "previousRank": 10,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1441335342",
-      "name": "Ballistic X",
-      "developer": "Nomad Innovations, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/nomad-innovations-llc/id1441335341?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/74/2b/74742bda-3df7-9d6c-196e-4704ed900120/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ballistic-x/id1441335342?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 27, 2019"
-    },
-    {
-      "rank": 8,
-      "previousRank": 5,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "794841332",
-      "name": "JB4 Mobile",
-      "developer": "Dmac Mobile Developments, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/dmac-mobile-developments-llc/id372235786?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/jb4-mobile/id794841332?uo=2",
-      "price": {
-        "amount": 27.99,
-        "currency": "USD",
-        "formatted": "$27.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 12, 2014"
-    },
-    {
-      "rank": 9,
-      "previousRank": 7,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6804862160",
-      "name": "F&T Trap App",
-      "developer": "Trap App Technologies, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/trap-app-technologies-llc/id6804862252?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/31/af/6431afb7-4268-cc15-8353-bb0aaf81fa46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/f-t-trap-app/id6804862160?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 15, 2026"
-    },
-    {
       "rank": 10,
-      "previousRank": 6,
-      "rankChange": -4,
+      "previousRank": 18,
+      "rankChange": 8,
       "isNew": false,
-      "appleId": "6812458731",
-      "name": "Fantasy Basketball Draft '26",
-      "developer": "Roto Sports, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/roto-sports-inc/id327110659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/01/cd/5501cdef-25c0-25cb-266f-402969ab37bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/fantasy-basketball-draft-26/id6812458731?uo=2",
+      "appleId": "1090757314",
+      "name": "Bow Hunt Simulator",
+      "developer": "Kristian Stensoenes",
+      "developerUrl": "https://apps.apple.com/us/developer/kristian-stensoenes/id605477813?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a4/1d/12a41d04-8da9-f07e-57b4-53443a805d71/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bow-hunt-simulator/id1090757314?uo=2",
       "price": {
-        "amount": 19.99,
+        "amount": 3.99,
         "currency": "USD",
-        "formatted": "$19.99"
+        "formatted": "$3.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "September 23, 2026"
+      "releaseDate": "May 4, 2016"
     },
     {
       "rank": 11,
-      "previousRank": 13,
-      "rankChange": 2,
+      "previousRank": 11,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "499648757",
       "name": "Like My Drill",
@@ -267,52 +267,30 @@
     },
     {
       "rank": 12,
-      "previousRank": 12,
-      "rankChange": 0,
+      "previousRank": 5,
+      "rankChange": -7,
       "isNew": false,
-      "appleId": "317518472",
-      "name": "Primos Hunting Calls",
-      "developer": "DataRiver LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/datariver-llc/id317518475?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/65/80/d0/6580d09e-8ee0-0df1-39df-69431a427df4/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/primos-hunting-calls/id317518472?uo=2",
+      "appleId": "321817464",
+      "name": "PinPal",
+      "developer": "Jeff Stuart",
+      "developerUrl": "https://apps.apple.com/us/developer/jeff-stuart/id321817467?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/98/fd/c498fd7c-7d89-423d-4df3-6211b77e11b4/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pinpal/id321817464?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 8.99,
         "currency": "USD",
-        "formatted": "$1.99"
+        "formatted": "$8.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "June 9, 2009"
+      "releaseDate": "July 25, 2009"
     },
     {
       "rank": 13,
-      "previousRank": 9,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6736371607",
-      "name": "Bikee",
-      "developer": "Sammy Azdoufal",
-      "developerUrl": "https://apps.apple.com/us/developer/sammy-azdoufal/id1154611798?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/20/f4/a120f462-22fd-40a6-2d8c-2b441eeb57dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bikee/id6736371607?uo=2",
-      "price": {
-        "amount": 9.95,
-        "currency": "USD",
-        "formatted": "$9.95"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 7, 2024"
-    },
-    {
-      "rank": 14,
-      "previousRank": 20,
-      "rankChange": 6,
+      "previousRank": 14,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "497880658",
       "name": "J23 - Release Dates & Restocks",
@@ -332,9 +310,31 @@
       "releaseDate": "February 12, 2012"
     },
     {
+      "rank": 14,
+      "previousRank": 9,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6804862160",
+      "name": "F&T Trap App",
+      "developer": "Trap App Technologies, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/trap-app-technologies-llc/id6804862252?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/31/af/6431afb7-4268-cc15-8353-bb0aaf81fa46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/f-t-trap-app/id6804862160?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "October 15, 2026"
+    },
+    {
       "rank": 15,
-      "previousRank": 17,
-      "rankChange": 2,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1129429340",
       "name": "RaceChrono Pro",
@@ -355,8 +355,8 @@
     },
     {
       "rank": 16,
-      "previousRank": 46,
-      "rankChange": 30,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "365729342",
       "name": "RacquetTune - String Tension",
@@ -377,338 +377,8 @@
     },
     {
       "rank": 17,
-      "previousRank": 14,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "365780014",
-      "name": "iSolunar™ Hunt & Fish Times",
-      "developer": "RedSnake Enterprises, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/redsnake-enterprises-llc/id365780017?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/11/48cc1159-6545-522a-6eaf-135de0a0dea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/isolunar-hunt-fish-times/id365780014?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 16, 2010"
-    },
-    {
-      "rank": 18,
-      "previousRank": 11,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "1090757314",
-      "name": "Bow Hunt Simulator",
-      "developer": "Kristian Stensoenes",
-      "developerUrl": "https://apps.apple.com/us/developer/kristian-stensoenes/id605477813?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a4/1d/12a41d04-8da9-f07e-57b4-53443a805d71/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bow-hunt-simulator/id1090757314?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "May 4, 2016"
-    },
-    {
-      "rank": 19,
-      "previousRank": 23,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "6740201330",
-      "name": "Rifle Hunt Simulator",
-      "developer": "Kristian Stensoenes",
-      "developerUrl": "https://apps.apple.com/us/developer/kristian-stensoenes/id605477813?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/1e/22/d71e2211-773e-cc4a-94fc-5633261483fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rifle-hunt-simulator/id6740201330?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 27, 2025"
-    },
-    {
-      "rank": 20,
-      "previousRank": 34,
-      "rankChange": 14,
-      "isNew": false,
-      "appleId": "417340545",
-      "name": "Primos Wind",
-      "developer": "DataRiver LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/datariver-llc/id317518475?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/06/54/84/0654847c-102c-1bcd-5b51-4c8afb4b4275/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/primos-wind/id417340545?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 4, 2011"
-    },
-    {
-      "rank": 21,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6811460023",
-      "name": "Milian Quant",
-      "developer": "Alberto Milian",
-      "developerUrl": "https://apps.apple.com/us/developer/alberto-milian/id6811460025?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/2c/85/132c8595-0d0e-25e9-2d64-9c1b9f2eff87/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/milian-quant/id6811460023?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 21, 2026"
-    },
-    {
-      "rank": 22,
-      "previousRank": 18,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1524179572",
-      "name": "Next Batter Up: Walk-Up Music",
-      "developer": "Joshua Hart",
-      "developerUrl": "https://apps.apple.com/us/developer/joshua-hart/id853952165?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/8a/7d/708a7d1a-a374-b459-c0c2-f60bdeadb556/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/next-batter-up-walk-up-music/id1524179572?uo=2",
-      "price": {
-        "amount": 5.49,
-        "currency": "USD",
-        "formatted": "$5.49"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 19, 2020"
-    },
-    {
-      "rank": 23,
-      "previousRank": 76,
-      "rankChange": 53,
-      "isNew": false,
-      "appleId": "490256272",
-      "name": "Baseball Stats Tracker Touch",
-      "developer": "TouchMint",
-      "developerUrl": "https://apps.apple.com/us/developer/touchmint/id490256275?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/67/164567e3-5e26-ebd4-7f4b-088004d36cd4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/baseball-stats-tracker-touch/id490256272?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 22, 2011"
-    },
-    {
-      "rank": 24,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6758991652",
-      "name": "Scope Click: MOA Turret",
-      "developer": "君 潘",
-      "developerUrl": "https://apps.apple.com/us/developer/%E5%90%9B-%E6%BD%98/id647696765?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e1/30/71e130ff-e0a0-c07e-ce90-e929e4058484/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/scope-click-moa-turret/id6758991652?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 11, 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "530220181",
-      "name": "The Bowling Buddy",
-      "developer": "Beasleyville",
-      "developerUrl": "https://apps.apple.com/us/developer/beasleyville/id530220184?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2e/b4/3d/2eb43dc1-bebc-593a-c0b4-7874c6b10980/mzl.fqvgicpw.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/the-bowling-buddy/id530220181?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "June 1, 2012"
-    },
-    {
-      "rank": 26,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1640029096",
-      "name": "Squirrel Magnet Squirrel Calls",
-      "developer": "Scott Dawson",
-      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/fa/cc/bffaccdc-249d-9cc7-c04a-4fe83e9d8e5a/AppIcon-Squirrel-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/squirrel-magnet-squirrel-calls/id1640029096?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 18, 2022"
-    },
-    {
-      "rank": 27,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6475737655",
-      "name": "Digital Mirror Mobile",
-      "developer": "JC Video Systems Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/jc-video-systems-inc/id479566508?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/67/89/1a67897a-d817-bb08-7479-61d21f6a8f98/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/digital-mirror-mobile/id6475737655?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 14, 2025"
-    },
-    {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6447188281",
-      "name": "Lacrosse Statistics",
-      "developer": "Mark Rogers",
-      "developerUrl": "https://apps.apple.com/us/developer/mark-rogers/id897735879?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/a0/9f/95a09f6a-9c2e-6801-9ad6-2cd9c79cf6b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/lacrosse-statistics/id6447188281?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 7, 2023"
-    },
-    {
-      "rank": 29,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6755047440",
-      "name": "Speed Tunes",
-      "developer": "Branden S Lacour",
-      "developerUrl": "https://apps.apple.com/us/developer/branden-s-lacour/id1851518307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/14/8bd11437-2511-4743-8117-0e96b5eee4fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/speed-tunes/id6755047440?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "June 29, 2026"
-    },
-    {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6766751394",
-      "name": "FlagStat",
-      "developer": "Cristian Del Rosario",
-      "developerUrl": "https://apps.apple.com/us/developer/cristian-del-rosario/id1896321902?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c5/2e/bac52e27-e9a9-9b19-bfcc-7fdb0c4fb254/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/flagstat/id6766751394?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "May 12, 2026"
-    },
-    {
-      "rank": 31,
-      "previousRank": 15,
-      "rankChange": -16,
-      "isNew": false,
-      "appleId": "1124171099",
-      "name": "CheerCast",
-      "developer": "tonya herron",
-      "developerUrl": "https://apps.apple.com/us/developer/tonya-herron/id1124171098?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/5a/90/8d5a9022-0907-e61b-ef17-faef56ef9fd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/cheercast/id1124171099?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "June 27, 2016"
-    },
-    {
-      "rank": 32,
-      "previousRank": 25,
-      "rankChange": -7,
+      "previousRank": 32,
+      "rankChange": 15,
       "isNew": false,
       "appleId": "321293183",
       "name": "DashCommand - OBD-II Gauges",
@@ -728,60 +398,38 @@
       "releaseDate": "July 14, 2009"
     },
     {
-      "rank": 33,
-      "previousRank": 31,
+      "rank": 18,
+      "previousRank": 22,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "1524179572",
+      "name": "Next Batter Up: Walk-Up Music",
+      "developer": "Joshua Hart",
+      "developerUrl": "https://apps.apple.com/us/developer/joshua-hart/id853952165?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/8a/7d/708a7d1a-a374-b459-c0c2-f60bdeadb556/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/next-batter-up-walk-up-music/id1524179572?uo=2",
+      "price": {
+        "amount": 5.49,
+        "currency": "USD",
+        "formatted": "$5.49"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "July 19, 2020"
+    },
+    {
+      "rank": 19,
+      "previousRank": 17,
       "rankChange": -2,
       "isNew": false,
-      "appleId": "516879039",
-      "name": "Flyskyhy",
-      "developer": "Renevision",
-      "developerUrl": "https://apps.apple.com/us/developer/renevision/id516879042?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f0/9e/04f09ed5-c746-e5d6-b2fe-409d32a5dc0e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/flyskyhy/id516879039?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "USD",
-        "formatted": "$8.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 17, 2012"
-    },
-    {
-      "rank": 34,
-      "previousRank": 37,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "429441281",
-      "name": "Snow Dice  : Snowboarding",
-      "developer": "Send It Apps LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/send-it-apps-llc/id1139954390?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4e/dc/65/4edc650a-6d28-dc02-d825-afc36eea5f9c/SnowAppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/snow-dice-snowboarding/id429441281?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 7, 2011"
-    },
-    {
-      "rank": 35,
-      "previousRank": 19,
-      "rankChange": -16,
-      "isNew": false,
-      "appleId": "1455799642",
-      "name": "PB Play",
-      "developer": "codeDependent Software Incorporated",
-      "developerUrl": "https://apps.apple.com/us/developer/codedependent-software-incorporated/id581353713?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/75/5c/78755c1a-8c42-63ea-c21e-fd8009e609a6/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pb-play/id1455799642?uo=2",
+      "appleId": "365780014",
+      "name": "iSolunar™ Hunt & Fish Times",
+      "developer": "RedSnake Enterprises, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/redsnake-enterprises-llc/id365780017?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/11/48cc1159-6545-522a-6eaf-135de0a0dea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/isolunar-hunt-fish-times/id365780014?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "USD",
@@ -791,19 +439,129 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "March 15, 2019"
+      "releaseDate": "April 16, 2010"
     },
     {
-      "rank": 36,
-      "previousRank": 21,
-      "rankChange": -15,
+      "rank": 20,
+      "previousRank": 12,
+      "rankChange": -8,
       "isNew": false,
-      "appleId": "430807521",
-      "name": "SprintTimer - Photo Finish",
-      "developer": "Sten Kaiser",
-      "developerUrl": "https://apps.apple.com/us/developer/sten-kaiser/id309325742?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/0b/79/170b79a3-0c93-e969-0bea-a8d0b3af9970/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sprinttimer-photo-finish/id430807521?uo=2",
+      "appleId": "317518472",
+      "name": "Primos Hunting Calls",
+      "developer": "DataRiver LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/datariver-llc/id317518475?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/65/80/d0/6580d09e-8ee0-0df1-39df-69431a427df4/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/primos-hunting-calls/id317518472?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 9, 2009"
+    },
+    {
+      "rank": 21,
+      "previousRank": 19,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6740201330",
+      "name": "Rifle Hunt Simulator",
+      "developer": "Kristian Stensoenes",
+      "developerUrl": "https://apps.apple.com/us/developer/kristian-stensoenes/id605477813?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/1e/22/d71e2211-773e-cc4a-94fc-5633261483fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rifle-hunt-simulator/id6740201330?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 27, 2025"
+    },
+    {
+      "rank": 22,
+      "previousRank": 25,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "530220181",
+      "name": "The Bowling Buddy",
+      "developer": "Beasleyville",
+      "developerUrl": "https://apps.apple.com/us/developer/beasleyville/id530220184?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2e/b4/3d/2eb43dc1-bebc-593a-c0b4-7874c6b10980/mzl.fqvgicpw.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/the-bowling-buddy/id530220181?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 1, 2012"
+    },
+    {
+      "rank": 23,
+      "previousRank": 10,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6812458731",
+      "name": "Fantasy Basketball Draft '26",
+      "developer": "Roto Sports, Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/roto-sports-inc/id327110659?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/01/cd/5501cdef-25c0-25cb-266f-402969ab37bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/fantasy-basketball-draft-26/id6812458731?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 23, 2026"
+    },
+    {
+      "rank": 24,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1460664010",
+      "name": "eMaxMobileApp",
+      "developer": "Markus Schlegel",
+      "developerUrl": "https://apps.apple.com/us/developer/markus-schlegel/id1460664009?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/bd/8e/40bd8e9f-2e40-761d-3db2-08ff23173272/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/emaxmobileapp/id1460664010?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 25, 2019"
+    },
+    {
+      "rank": 25,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1641084839",
+      "name": "Fox Magnet - Fox Calls",
+      "developer": "Scott Dawson",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/4c/e1/5e4ce17b-3c25-23f8-6323-99a19bf6552d/AppIcon-FoxMagnet-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/fox-magnet-fox-calls/id1641084839?uo=2",
       "price": {
         "amount": 4.99,
         "currency": "USD",
@@ -813,12 +571,100 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "April 14, 2011"
+      "releaseDate": "August 22, 2022"
     },
     {
-      "rank": 37,
-      "previousRank": 66,
-      "rankChange": 29,
+      "rank": 26,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "982960022",
+      "name": "Pennsylvania Trout Stocking",
+      "developer": "Red Sky Engineering, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/red-sky-engineering-llc/id333176422?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/38/dc/6838dc20-6468-40f2-9b8d-176b55ef3387/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pennsylvania-trout-stocking/id982960022?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 1, 2015"
+    },
+    {
+      "rank": 27,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1449945790",
+      "name": "High Power Wind Lab",
+      "developer": "Accuracy Software, LTD",
+      "developerUrl": "https://apps.apple.com/us/developer/accuracy-software-ltd/id1449945789?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/30/08/7c300835-8957-33c9-797a-b2a24d7005df/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/high-power-wind-lab/id1449945790?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "USD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 29, 2019"
+    },
+    {
+      "rank": 28,
+      "previousRank": 21,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6811460023",
+      "name": "Milian Quant",
+      "developer": "Alberto Milian",
+      "developerUrl": "https://apps.apple.com/us/developer/alberto-milian/id6811460025?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/2c/85/132c8595-0d0e-25e9-2d64-9c1b9f2eff87/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/milian-quant/id6811460023?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 21, 2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "430617087",
+      "name": "Ski Dice",
+      "developer": "Send It Apps LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/send-it-apps-llc/id1139954390?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/b5/db/54b5db6e-3e49-ce47-decb-6a812129969d/SnowAppIcon-1x_U007emarketing-0-4-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ski-dice/id430617087?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 10, 2011"
+    },
+    {
+      "rank": 30,
+      "previousRank": 37,
+      "rankChange": 7,
       "isNew": false,
       "appleId": "1456158229",
       "name": "Dynasty Dominator",
@@ -838,32 +684,10 @@
       "releaseDate": "April 12, 2019"
     },
     {
-      "rank": 38,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "338257907",
-      "name": "Harry's LapTimer Petrolhead",
-      "developer": "Harald Schlangmann",
-      "developerUrl": "https://apps.apple.com/us/developer/harald-schlangmann/id307688601?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/45/07/e3450738-51e2-7219-9a7e-c719c382c73d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/harrys-laptimer-petrolhead/id338257907?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "November 24, 2009"
-    },
-    {
-      "rank": 39,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 31,
+      "previousRank": 39,
+      "rankChange": 8,
+      "isNew": false,
       "appleId": "412792865",
       "name": "SkyDroid - Golf GPS",
       "developer": "GOLF MEDIA U.S.A. INC.",
@@ -882,163 +706,9 @@
       "releaseDate": "January 5, 2011"
     },
     {
-      "rank": 40,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6756325584",
-      "name": "Putt Craft Golf",
-      "developer": "Chris Hahn",
-      "developerUrl": "https://apps.apple.com/us/developer/chris-hahn/id1869441576?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/36/e4/e836e458-1e96-ac0b-5617-8353f3c092c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/putt-craft-golf/id6756325584?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 15, 2025"
-    },
-    {
-      "rank": 41,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1254939002",
-      "name": "Golf Swing Speed Analyzer",
-      "developer": "LW Brands, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/lw-brands-llc/id963599018?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/50/de/d4/50ded44b-1cf4-10f1-0303-63b0be01b8ae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/golf-swing-speed-analyzer/id1254939002?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 31, 2018"
-    },
-    {
-      "rank": 42,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "353522322",
-      "name": "FEI EquiTests 3 - Dressage",
-      "developer": "Fédération Equestre Internationale (FEI)",
-      "developerUrl": "https://apps.apple.com/us/developer/f%C3%A9d%C3%A9ration-equestre-internationale-fei/id573485804?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f1/7c/8cf17ce8-143a-e445-107e-88406eb1bcfa/FEI_EquiTests_3_Dressage_-_App_Icon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/fei-equitests-3-dressage/id353522322?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 19, 2010"
-    },
-    {
-      "rank": 43,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "301049600",
-      "name": "Dive Log",
-      "developer": "Greg Mclaughlin",
-      "developerUrl": "https://apps.apple.com/us/developer/greg-mclaughlin/id284919983?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/6f/cb/a56fcbce-265b-d8ac-9b3c-da55e19a028a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/dive-log/id301049600?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 2, 2009"
-    },
-    {
-      "rank": 44,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1293644903",
-      "name": "BLEvo - For Smart Turbo Levo",
-      "developer": "Paolo Dozio",
-      "developerUrl": "https://apps.apple.com/us/developer/paolo-dozio/id1293644902?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/f1/28/16f128c0-1656-834b-b599-a6b02a79f979/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/blevo-for-smart-turbo-levo/id1293644903?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "USD",
-        "formatted": "$8.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 15, 2018"
-    },
-    {
-      "rank": 45,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6443464554",
-      "name": "Goose Magnet - Goose Calls",
-      "developer": "Scott Dawson",
-      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/e2/40/a9e240a2-7bac-0282-3b95-3ecf2d6cc99c/AppIcon-GooseMagnet-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/goose-magnet-goose-calls/id6443464554?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 24, 2022"
-    },
-    {
-      "rank": 46,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6798921376",
-      "name": "BrokenArrow Golf Scoring",
-      "developer": "Andy Ramirez",
-      "developerUrl": "https://apps.apple.com/us/developer/andy-ramirez/id6792880426?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/fc/38/6afc3871-7cee-3b4b-2e6c-137a33abc2bf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/brokenarrow-golf-scoring/id6798921376?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 20, 2026"
-    },
-    {
-      "rank": 47,
-      "previousRank": 30,
-      "rankChange": -17,
+      "rank": 32,
+      "previousRank": 47,
+      "rankChange": 15,
       "isNew": false,
       "appleId": "1168422351",
       "name": "LethalCalls",
@@ -1058,141 +728,9 @@
       "releaseDate": "October 26, 2016"
     },
     {
-      "rank": 48,
-      "previousRank": 32,
-      "rankChange": -16,
-      "isNew": false,
-      "appleId": "6816252699",
-      "name": "Putts Tracker",
-      "developer": "Dave Golder",
-      "developerUrl": "https://apps.apple.com/us/developer/dave-golder/id6816252701?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/96/bd/a796bd1f-0758-7841-a418-8a1ea985bdc7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/putts-tracker/id6816252699?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 2, 2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 35,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "1440222018",
-      "name": "Volleyball Referee Timer",
-      "developer": "Glenn Corwin",
-      "developerUrl": "https://apps.apple.com/us/developer/glenn-corwin/id1440222017?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/4d/41/484d4167-bef1-436a-0dc5-5c025a3a008c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/volleyball-referee-timer/id1440222018?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 26, 2020"
-    },
-    {
-      "rank": 50,
-      "previousRank": 42,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "517673842",
-      "name": "BaM Video Delay",
-      "developer": "Orange Qube",
-      "developerUrl": "https://apps.apple.com/us/developer/orange-qube/id427276225?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/84/0e/94840e0d-2370-401e-8fb0-ccf08af3ecb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bam-video-delay/id517673842?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 17, 2012"
-    },
-    {
-      "rank": 51,
-      "previousRank": 51,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1476197435",
-      "name": "Enduro CheckPoint Two",
-      "developer": "John Day",
-      "developerUrl": "https://apps.apple.com/us/developer/john-day/id588912604?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/3c/4f/f03c4fce-73b7-da3a-46cd-a1ba9d94cfe3/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/enduro-checkpoint-two/id1476197435?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 20, 2019"
-    },
-    {
-      "rank": 52,
-      "previousRank": 57,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "6752836509",
-      "name": "XC & Track Timer",
-      "developer": "Sydney White",
-      "developerUrl": "https://apps.apple.com/us/developer/sydney-white/id1840645188?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/f0/9f/62f09f8a-3891-2dc1-1ca1-57c9a5c15523/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/xc-track-timer/id6752836509?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 22, 2025"
-    },
-    {
-      "rank": 53,
-      "previousRank": 22,
-      "rankChange": -31,
-      "isNew": false,
-      "appleId": "6746102543",
-      "name": "361 Fishing",
-      "developer": "361 Fishing LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/361-fishing-llc/id1815159690?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/86/bd/4786bd65-923f-a228-7dc1-12ca73019506/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/361-fishing/id6746102543?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "May 22, 2025"
-    },
-    {
-      "rank": 54,
-      "previousRank": 24,
-      "rankChange": -30,
+      "rank": 33,
+      "previousRank": 54,
+      "rankChange": 21,
       "isNew": false,
       "appleId": "6575345923",
       "name": "Whitetail Deer Calls Offline",
@@ -1212,9 +750,339 @@
       "releaseDate": "July 25, 2024"
     },
     {
-      "rank": 55,
-      "previousRank": 68,
-      "rankChange": 13,
+      "rank": 34,
+      "previousRank": 59,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "691114189",
+      "name": "LapTracker - Auto Timer",
+      "developer": "Sten Kaiser",
+      "developerUrl": "https://apps.apple.com/us/developer/sten-kaiser/id309325742?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/cc/ef/82/ccef827b-0061-4dc4-1c4c-dbeb407ef197/mzl.zimnznwo.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/laptracker-auto-timer/id691114189?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 27, 2013"
+    },
+    {
+      "rank": 35,
+      "previousRank": 76,
+      "rankChange": 41,
+      "isNew": false,
+      "appleId": "1585105577",
+      "name": "Impact Ballistics",
+      "developer": "TRACT Optics LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/tract-optics-llc/id1585105579?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/72/14/d3721416-f59e-06bd-69c7-4dcf01aa2089/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/impact-ballistics/id1585105577?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 13, 2021"
+    },
+    {
+      "rank": 36,
+      "previousRank": 99,
+      "rankChange": 63,
+      "isNew": false,
+      "appleId": "1022085584",
+      "name": "Wild Hog Pro",
+      "developer": "Big Shot, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/big-shot-llc/id950359261?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ed/65/c6ed652d-5d98-cf86-fedf-c8abef980da6/AppIcon-Hog-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wild-hog-pro/id1022085584?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 20, 2015"
+    },
+    {
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "454640919",
+      "name": "Dive List",
+      "developer": "Scott Flory",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-flory/id454640922?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/2d/64/582d6410-2f02-7ca4-9ac1-1431035d946f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dive-list/id454640919?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 8, 2011"
+    },
+    {
+      "rank": 38,
+      "previousRank": 27,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6475737655",
+      "name": "Digital Mirror Mobile",
+      "developer": "JC Video Systems Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/jc-video-systems-inc/id479566508?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/67/89/1a67897a-d817-bb08-7479-61d21f6a8f98/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/digital-mirror-mobile/id6475737655?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 14, 2025"
+    },
+    {
+      "rank": 39,
+      "previousRank": 28,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6447188281",
+      "name": "Lacrosse Statistics",
+      "developer": "Mark Rogers",
+      "developerUrl": "https://apps.apple.com/us/developer/mark-rogers/id897735879?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/a0/9f/95a09f6a-9c2e-6801-9ad6-2cd9c79cf6b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/lacrosse-statistics/id6447188281?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 7, 2023"
+    },
+    {
+      "rank": 40,
+      "previousRank": 29,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6755047440",
+      "name": "Speed Tunes",
+      "developer": "Branden S Lacour",
+      "developerUrl": "https://apps.apple.com/us/developer/branden-s-lacour/id1851518307?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/14/8bd11437-2511-4743-8117-0e96b5eee4fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/speed-tunes/id6755047440?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 29, 2026"
+    },
+    {
+      "rank": 41,
+      "previousRank": 31,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "1124171099",
+      "name": "CheerCast",
+      "developer": "tonya herron",
+      "developerUrl": "https://apps.apple.com/us/developer/tonya-herron/id1124171098?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/5a/90/8d5a9022-0907-e61b-ef17-faef56ef9fd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/cheercast/id1124171099?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 27, 2016"
+    },
+    {
+      "rank": 42,
+      "previousRank": 34,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "429441281",
+      "name": "Snow Dice  : Snowboarding",
+      "developer": "Send It Apps LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/send-it-apps-llc/id1139954390?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4e/dc/65/4edc650a-6d28-dc02-d825-afc36eea5f9c/SnowAppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/snow-dice-snowboarding/id429441281?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 7, 2011"
+    },
+    {
+      "rank": 43,
+      "previousRank": 36,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "430807521",
+      "name": "SprintTimer - Photo Finish",
+      "developer": "Sten Kaiser",
+      "developerUrl": "https://apps.apple.com/us/developer/sten-kaiser/id309325742?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/0b/79/170b79a3-0c93-e969-0bea-a8d0b3af9970/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sprinttimer-photo-finish/id430807521?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 14, 2011"
+    },
+    {
+      "rank": 44,
+      "previousRank": 44,
+      "rankChange": 0,
+      "isNew": false,
+      "appleId": "1293644903",
+      "name": "BLEvo - For Smart Turbo Levo",
+      "developer": "Paolo Dozio",
+      "developerUrl": "https://apps.apple.com/us/developer/paolo-dozio/id1293644902?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/f1/28/16f128c0-1656-834b-b599-a6b02a79f979/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/blevo-for-smart-turbo-levo/id1293644903?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "USD",
+        "formatted": "$8.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 15, 2018"
+    },
+    {
+      "rank": 45,
+      "previousRank": 49,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "1440222018",
+      "name": "Volleyball Referee Timer",
+      "developer": "Glenn Corwin",
+      "developerUrl": "https://apps.apple.com/us/developer/glenn-corwin/id1440222017?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/4d/41/484d4167-bef1-436a-0dc5-5c025a3a008c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/volleyball-referee-timer/id1440222018?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 26, 2020"
+    },
+    {
+      "rank": 46,
+      "previousRank": 50,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "517673842",
+      "name": "BaM Video Delay",
+      "developer": "Orange Qube",
+      "developerUrl": "https://apps.apple.com/us/developer/orange-qube/id427276225?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/84/0e/94840e0d-2370-401e-8fb0-ccf08af3ecb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bam-video-delay/id517673842?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "USD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 17, 2012"
+    },
+    {
+      "rank": 47,
+      "previousRank": 20,
+      "rankChange": -27,
+      "isNew": false,
+      "appleId": "417340545",
+      "name": "Primos Wind",
+      "developer": "DataRiver LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/datariver-llc/id317518475?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/06/54/84/0654847c-102c-1bcd-5b51-4c8afb4b4275/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/primos-wind/id417340545?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 4, 2011"
+    },
+    {
+      "rank": 48,
+      "previousRank": 52,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6752836509",
+      "name": "XC & Track Timer",
+      "developer": "Sydney White",
+      "developerUrl": "https://apps.apple.com/us/developer/sydney-white/id1840645188?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/f0/9f/62f09f8a-3891-2dc1-1ca1-57c9a5c15523/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/xc-track-timer/id6752836509?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 22, 2025"
+    },
+    {
+      "rank": 49,
+      "previousRank": 55,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "377664937",
       "name": "MX Buddy",
@@ -1234,16 +1102,16 @@
       "releaseDate": "June 24, 2010"
     },
     {
-      "rank": 56,
-      "previousRank": 82,
-      "rankChange": 26,
-      "isNew": false,
-      "appleId": "6767092453",
-      "name": "Game IQ: Baseball & Softball",
-      "developer": "Peak Download LLC.",
-      "developerUrl": "https://apps.apple.com/us/developer/peak-download-llc/id1868040342?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/8d/c3/f38dc30d-cc5e-f48a-9a87-af995b07006c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/game-iq-baseball-softball/id6767092453?uo=2",
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1456458659",
+      "name": "AirLab: Air Density & Altitude",
+      "developer": "Ballistic Solutions LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/ballistic-solutions-llc/id1611909747?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/2b/1a/b62b1a29-c41f-c29c-6f2e-e7113a0171f4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/airlab-air-density-altitude/id1456458659?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -1253,107 +1121,19 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "May 20, 2026"
+      "releaseDate": "March 22, 2019"
     },
     {
-      "rank": 57,
+      "rank": 51,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6822341944",
-      "name": "ReplayMark",
-      "developer": "Ruifeng Zhang",
-      "developerUrl": "https://apps.apple.com/us/developer/ruifeng-zhang/id6819031964?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/9c/46/959c4643-8a25-e0e8-2481-d71961f7ecd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/replaymark/id6822341944?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 14, 2026"
-    },
-    {
-      "rank": 58,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6444026538",
-      "name": "Polework Patterns",
-      "developer": "Nina Gill",
-      "developerUrl": "https://apps.apple.com/us/developer/nina-gill/id1651618994?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8f/1e/348f1e23-27d7-d82d-28d5-1fdd7de53178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/polework-patterns/id6444026538?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 8, 2022"
-    },
-    {
-      "rank": 59,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "691114189",
-      "name": "LapTracker - Auto Timer",
-      "developer": "Sten Kaiser",
-      "developerUrl": "https://apps.apple.com/us/developer/sten-kaiser/id309325742?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/cc/ef/82/ccef827b-0061-4dc4-1c4c-dbeb407ef197/mzl.zimnznwo.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/laptracker-auto-timer/id691114189?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 27, 2013"
-    },
-    {
-      "rank": 60,
-      "previousRank": 26,
-      "rankChange": -34,
-      "isNew": false,
-      "appleId": "1155672147",
-      "name": "Video Delay Instant Replay Pro",
-      "developer": "michal bojanowicz",
-      "developerUrl": "https://apps.apple.com/us/developer/michal-bojanowicz/id1135528823?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/21/72/04217228-650c-81ca-2274-6ade55383344/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/video-delay-instant-replay-pro/id1155672147?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "USD",
-        "formatted": "$39.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 20, 2016"
-    },
-    {
-      "rank": 61,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "531021197",
-      "name": "Bracket Maker",
-      "developer": "TouchMint",
-      "developerUrl": "https://apps.apple.com/us/developer/touchmint/id490256275?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/d4/87/4e/d4874ecf-8aaf-cf2c-466e-c529f772aee6/pr_source.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bracket-maker/id531021197?uo=2",
+      "appleId": "1625289361",
+      "name": "AirBasket",
+      "developer": "AIRGO LIMITED",
+      "developerUrl": "https://apps.apple.com/us/developer/airgo-limited/id1647133723?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ed/47/aded4706-56fc-e2a8-f27e-fc33078c3123/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/airbasket/id1625289361?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "USD",
@@ -1363,19 +1143,151 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "June 5, 2012"
+      "releaseDate": "June 12, 2022"
     },
     {
-      "rank": 62,
+      "rank": 52,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "284919980",
-      "name": "Nitrox Tools",
-      "developer": "Greg Mclaughlin",
-      "developerUrl": "https://apps.apple.com/us/developer/greg-mclaughlin/id284919983?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d2/81/a4d28198-4b49-1aac-2ae3-48b3d66f4e7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/nitrox-tools/id284919980?uo=2",
+      "appleId": "379258576",
+      "name": "JEGS Perfect Start",
+      "developer": "Horizons [Companies]",
+      "developerUrl": "https://apps.apple.com/us/developer/horizons-companies/id379258579?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/83/cc/43/83cc4337-fc6b-6a3b-fae9-a89ad872b4e1/mzl.odhupyhu.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/jegs-perfect-start/id379258576?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "July 1, 2010"
+    },
+    {
+      "rank": 53,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1327662038",
+      "name": "DJ App for Hockey Parents",
+      "developer": "Laurent Butre",
+      "developerUrl": "https://apps.apple.com/us/developer/laurent-butre/id726162065?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/93/0e/35930e27-bbbd-40d3-e5fd-7f29c6582784/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dj-app-for-hockey-parents/id1327662038?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 7, 2018"
+    },
+    {
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6451391811",
+      "name": "Shuffleboard Score",
+      "developer": "Robert Hjortsholm Moeller",
+      "developerUrl": "https://apps.apple.com/us/developer/robert-hjortsholm-moeller/id1543158510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/81/7c/f1817c52-7fd4-7ebf-00e2-d01cf4e6e5c7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/shuffleboard-score/id6451391811?uo=2",
+      "price": {
+        "amount": 0.49,
+        "currency": "USD",
+        "formatted": "$0.49"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 30, 2026"
+    },
+    {
+      "rank": 55,
+      "previousRank": 23,
+      "rankChange": -32,
+      "isNew": false,
+      "appleId": "490256272",
+      "name": "Baseball Stats Tracker Touch",
+      "developer": "TouchMint",
+      "developerUrl": "https://apps.apple.com/us/developer/touchmint/id490256275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/67/164567e3-5e26-ebd4-7f4b-088004d36cd4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/baseball-stats-tracker-touch/id490256272?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "December 22, 2011"
+    },
+    {
+      "rank": 56,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "892173604",
+      "name": "StopWatch for Cross Country",
+      "developer": "German PARDO",
+      "developerUrl": "https://apps.apple.com/us/developer/german-pardo/id664855416?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/43/1c/16431cff-56d2-4e8c-18d8-a2fcb304cd0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/stopwatch-for-cross-country/id892173604?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 4, 2014"
+    },
+    {
+      "rank": 57,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "490135959",
+      "name": "TrackAddict Pro",
+      "developer": "HP Tuners LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/hp-tuners-llc/id1767627066?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a5/eb/f7a5ebf8-7d8a-dbc7-ec2e-306b9b3485ff/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/trackaddict-pro/id490135959?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "USD",
+        "formatted": "$8.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "December 21, 2011"
+    },
+    {
+      "rank": 58,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1454952839",
+      "name": "Jetting for KTM 2T Moto",
+      "developer": "Ballistic Solutions LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/ballistic-solutions-llc/id1611909747?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9a/4c/d29a4c63-bc52-10c7-6bd3-2d679d9109c0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/jetting-for-ktm-2t-moto/id1454952839?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "USD",
@@ -1385,19 +1297,107 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "February 12, 2019"
+      "releaseDate": "March 7, 2019"
+    },
+    {
+      "rank": 59,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "412401082",
+      "name": "Soccer Teammate",
+      "developer": "Andrew England",
+      "developerUrl": "https://apps.apple.com/us/developer/andrew-england/id412401085?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/3c/19/c23c1950-25cf-9b6f-d7e8-0f88b10d8dde/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/soccer-teammate/id412401082?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 5, 2011"
+    },
+    {
+      "rank": 60,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1472278219",
+      "name": "Swipe Play Clock",
+      "developer": "Back Judge Solutions LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/back-judge-solutions-llc/id1472278218?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/49/37/a5493784-9f38-3625-e7d7-52b9abbb0054/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/swipe-play-clock/id1472278219?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 22, 2019"
+    },
+    {
+      "rank": 61,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "322197864",
+      "name": "Pro-Knot",
+      "developer": "PRO-KNOT",
+      "developerUrl": "https://apps.apple.com/us/developer/pro-knot/id1828365702?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/e3/ec/e4e3ec26-3a81-e4a7-f155-bdb59937e046/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pro-knot/id322197864?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "July 11, 2009"
+    },
+    {
+      "rank": 62,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "521634823",
+      "name": "Baseball Pitch Speed - Radar Gun",
+      "developer": "TouchMint",
+      "developerUrl": "https://apps.apple.com/us/developer/touchmint/id490256275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/44/30/8e/44308ed9-42be-31ef-0bbf-5b610aec2c8b/pr_source.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/baseball-pitch-speed-radar-gun/id521634823?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 30, 2012"
     },
     {
       "rank": 63,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "312416738",
-      "name": "PenaltyTimer",
-      "developer": "Fearless Code",
-      "developerUrl": "https://apps.apple.com/us/developer/fearless-code/id312416741?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3c/0f/4d/3c0f4d0b-438e-f7d7-3ac4-dbbd5b02db90/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/penaltytimer/id312416738?uo=2",
+      "appleId": "1468725412",
+      "name": "Elk Calls & Hunting Sounds",
+      "developer": "LW Brands, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/lw-brands-llc/id963599018?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0b/b9/b4/0bb9b410-f518-cd19-b7d2-3803ec60c233/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/elk-calls-hunting-sounds/id1468725412?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -1407,41 +1407,41 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "April 21, 2009"
+      "releaseDate": "July 2, 2019"
     },
     {
       "rank": 64,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6764444116",
-      "name": "Batter Up: Your Walk Up DJ",
-      "developer": "CHRISTOPHER ALBERT PETERSON",
-      "developerUrl": "https://apps.apple.com/us/developer/christopher-albert-peterson/id1895783306?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/18/23/0b18233b-e0b2-4ebb-93ef-8018d7919f25/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/batter-up-your-walk-up-dj/id6764444116?uo=2",
+      "appleId": "426108998",
+      "name": "Random Gate",
+      "developer": "Kurt Bagby",
+      "developerUrl": "https://apps.apple.com/us/developer/kurt-bagby/id426109001?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/92/60/5e/92605ef3-6680-ed53-c51a-877b37e185b0/mzl.ukcplybu.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/random-gate/id426108998?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 0.99,
         "currency": "USD",
-        "formatted": "$2.99"
+        "formatted": "$0.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "May 15, 2026"
+      "releaseDate": "March 22, 2011"
     },
     {
       "rank": 65,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1441914375",
-      "name": "Coyote Calls & Predator Sounds",
+      "appleId": "1449682747",
+      "name": "Turkey Call App",
       "developer": "LW Brands, LLC",
       "developerUrl": "https://apps.apple.com/us/developer/lw-brands-llc/id963599018?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/fc/c7/9efcc78b-0609-5ff9-283f-ebce54b36db4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/coyote-calls-predator-sounds/id1441914375?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/02/12/1b/02121ba2-5938-d2b0-24d4-3a21addc20db/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/turkey-call-app/id1449682747?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -1451,547 +1451,19 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "November 21, 2018"
+      "releaseDate": "February 19, 2019"
     },
     {
       "rank": 66,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1318643593",
-      "name": "Best Bowling",
-      "developer": "Tatsuhiko Koyama",
-      "developerUrl": "https://apps.apple.com/us/developer/tatsuhiko-koyama/id382780465?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/7e/0b/5a7e0bc7-56b9-475c-c7de-74353f998200/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/best-bowling/id1318643593?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 5, 2017"
-    },
-    {
-      "rank": 67,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1632394249",
-      "name": "BatApp: Baseball Exit Velocity",
-      "developer": "Juuso Mikkonen",
-      "developerUrl": "https://apps.apple.com/us/developer/juuso-mikkonen/id1632394251?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/44/b6/1744b638-d5ad-7fe2-0e7b-6af481c9adc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/batapp-baseball-exit-velocity/id1632394249?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 24, 2022"
-    },
-    {
-      "rank": 68,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6698860601",
-      "name": "Coaches Stopwatch",
-      "developer": "William Bayer",
-      "developerUrl": "https://apps.apple.com/us/developer/william-bayer/id1767741641?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/63/a4/3b63a4f1-8a4c-f59a-6b5f-06e9ea6c647e/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/coaches-stopwatch/id6698860601?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 19, 2024"
-    },
-    {
-      "rank": 69,
-      "previousRank": 27,
-      "rankChange": -42,
-      "isNew": false,
-      "appleId": "447860344",
-      "name": "iTouchdown Football Scoring",
-      "developer": "Rise Run Sports LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/rise-run-sports-llc/id1499096320?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/99/02/7b/99027b77-0f3d-2e2d-0231-b545389a6068/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/itouchdown-football-scoring/id447860344?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 1, 2011"
-    },
-    {
-      "rank": 70,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "472438128",
-      "name": "VISION54",
-      "developer": "VISION54",
-      "developerUrl": "https://apps.apple.com/us/developer/vision54/id472438191?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/22/76/f5/2276f5d3-5103-8b81-74c3-8536a92e19f2/pr_source.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/vision54/id472438128?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "October 18, 2011"
-    },
-    {
-      "rank": 71,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6764468152",
-      "name": "CoachCam: Video Analysis",
-      "developer": "Momentum Sports Training Facility Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/momentum-sports-training-facility-inc/id1895794388?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/4a/af/804aaf3f-65bb-9e7b-570e-a3d42002fe92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/coachcam-video-analysis/id6764468152?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "April 29, 2026"
-    },
-    {
-      "rank": 72,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6792565250",
-      "name": "Zero Considerations",
-      "developer": "David McCoy",
-      "developerUrl": "https://apps.apple.com/us/developer/david-mccoy/id6792565252?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/e8/e3/c0e8e3f0-d451-efc9-92f1-400687d08573/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/zero-considerations/id6792565250?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 31, 2026"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6769814753",
-      "name": "Golf Stroke Counter for Watch",
-      "developer": "Bo Kalvslund",
-      "developerUrl": "https://apps.apple.com/us/developer/bo-kalvslund/id572272193?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/de/35/28de3532-9347-8f84-84dc-56fb7e73a468/GolfWatch-0-1x_U007epad-0-1-sRGB-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/golf-stroke-counter-for-watch/id6769814753?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "May 19, 2026"
-    },
-    {
-      "rank": 74,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "356018926",
-      "name": "Solunar Table",
-      "developer": "K SOLUTION LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/k-solution-llc/id289670447?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5e/75/3b/5e753ba1-1880-5e6f-0369-5cfef2a0a22f/mzl.qtddtpoc.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/solunar-table/id356018926?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 20, 2010"
-    },
-    {
-      "rank": 75,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "484653346",
-      "name": "Rescue Knots",
-      "developer": "Fission Media Group Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/fission-media-group-inc/id343056410?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/eb/4f/1aeb4f98-4339-ea8a-2248-aa0692fbde91/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rescue-knots/id484653346?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 8, 2011"
-    },
-    {
-      "rank": 76,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1585105577",
-      "name": "Impact Ballistics",
-      "developer": "TRACT Optics LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/tract-optics-llc/id1585105579?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/72/14/d3721416-f59e-06bd-69c7-4dcf01aa2089/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/impact-ballistics/id1585105577?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 13, 2021"
-    },
-    {
-      "rank": 77,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "498419611",
-      "name": "The Last Rock Curling",
-      "developer": "Damian Biollo",
-      "developerUrl": "https://apps.apple.com/us/developer/damian-biollo/id498419615?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/cf/68/becf684d-b279-ee0a-75e6-d29f52267d54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/the-last-rock-curling/id498419611?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 16, 2012"
-    },
-    {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "686959372",
-      "name": "StopWatch + Camera",
-      "developer": "German PARDO",
-      "developerUrl": "https://apps.apple.com/us/developer/german-pardo/id664855416?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/f1/68/25f168bf-82d6-9df0-2da2-2ade2a19e562/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/stopwatch-camera/id686959372?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 14, 2013"
-    },
-    {
-      "rank": 79,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "322732891",
-      "name": "FencingRef",
-      "developer": "Mike Jaoudi",
-      "developerUrl": "https://apps.apple.com/us/developer/mike-jaoudi/id517540321?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/b7/56/c0/b756c0e3-46ed-9683-73f9-f56640bdbb2e/mzl.eshzqpgb.jpg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/fencingref/id322732891?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 17, 2009"
-    },
-    {
-      "rank": 80,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1549948338",
-      "name": "Goose Calls Pro",
-      "developer": "Ash Point Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/ash-point-ltd/id567630274?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/5b/fa/295bfa20-4405-3fb9-8695-81cd714c69b7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/goose-calls-pro/id1549948338?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 21, 2021"
-    },
-    {
-      "rank": 81,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "495601791",
-      "name": "Sports Performance Hypnosis by Glenn Harrold",
-      "developer": "Glenn Harrold Publishing Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/glenn-harrold-publishing-ltd/id1893582430?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/69/29/10/6929104d-ffc0-cfbb-ce27-03e7d85b1f99/mzl.prspaagt.jpg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sports-performance-hypnosis-by-glenn-harrold/id495601791?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 20, 2012"
-    },
-    {
-      "rank": 82,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "797328258",
-      "name": "Solo Dance",
-      "developer": "Mark Fitzgerald",
-      "developerUrl": "https://apps.apple.com/us/developer/mark-fitzgerald/id477164822?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/37/e1/5a37e19b-3fb1-44d7-55e0-137e525215bf/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/solo-dance/id797328258?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "January 19, 2014"
-    },
-    {
-      "rank": 83,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1603097195",
-      "name": "Injury Finder",
-      "developer": "RotoUnderworld LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/rotounderworld-llc/id1456143760?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/33/84/533384ee-144b-dc38-ddf1-a8da4255b034/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/injury-finder/id1603097195?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 30, 2022"
-    },
-    {
-      "rank": 84,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1526109158",
-      "name": "Up Next Soccer",
-      "developer": "Vinh Nguyen Van",
-      "developerUrl": "https://apps.apple.com/us/developer/vinh-nguyen-van/id1438004104?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/57/41/f6/5741f6b6-add4-175e-8393-9daab2c2607c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/up-next-soccer/id1526109158?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 11, 2020"
-    },
-    {
-      "rank": 85,
-      "previousRank": 28,
-      "rankChange": -57,
-      "isNew": false,
-      "appleId": "1635051817",
-      "name": "Strides Distance Calculator",
-      "developer": "Edward Bullock",
-      "developerUrl": "https://apps.apple.com/us/developer/edward-bullock/id1635051819?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/88/a1/2e/88a12e81-8186-ba41-c155-2562bd916d25/AppIcon-1x_U007emarketing-0-3-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/strides-distance-calculator/id1635051817?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "August 4, 2022"
-    },
-    {
-      "rank": 86,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6771832718",
-      "name": "MyBoatWorks",
-      "developer": "ROBERT WAYNE SIMONDS",
-      "developerUrl": "https://apps.apple.com/us/developer/robert-wayne-simonds/id6771832720?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/a9/99a8a92d-fb68-6a68-49d9-bdc3cba9620c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/myboatworks/id6771832718?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "June 24, 2026"
-    },
-    {
-      "rank": 87,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1342960148",
-      "name": "Basketball Dad's DJ Tool",
-      "developer": "Laurent Butre",
-      "developerUrl": "https://apps.apple.com/us/developer/laurent-butre/id726162065?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/6d/c6/ff6dc62d-661e-7b52-137f-b33cbd7f9022/AppIcon-1x_U007emarketing-0-7-85-220-0.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/basketball-dads-dj-tool/id1342960148?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "February 9, 2018"
-    },
-    {
-      "rank": 88,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6446438101",
-      "name": "Water Polo Clock",
-      "developer": "Mark Rogers",
-      "developerUrl": "https://apps.apple.com/us/developer/mark-rogers/id897735879?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/64/50/2364502a-a23d-afaa-0519-afed4657a20d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/water-polo-clock/id6446438101?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "March 22, 2023"
-    },
-    {
-      "rank": 89,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6807099723",
-      "name": "HuddleWrist",
-      "developer": "NIKOLAI ANDREI SEVA",
-      "developerUrl": "https://apps.apple.com/us/developer/nikolai-andrei-seva/id6807099725?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/d1/e7/a3d1e737-6e8f-7a84-c818-17fe9d317e5e/AppIcon-0-0-1x_U007emarketing-0-16-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/huddlewrist/id6807099723?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 3, 2026"
-    },
-    {
-      "rank": 90,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6480923035",
-      "name": "RO Buddy",
-      "developer": "EMIL KORSIAN",
-      "developerUrl": "https://apps.apple.com/us/developer/emil-korsian/id1739599236?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/62/09/026209c1-b1d7-bb9b-ad35-2dae5b2849c4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ro-buddy/id6480923035?uo=2",
+      "appleId": "1476318612",
+      "name": "CourseWalk 2",
+      "developer": "The Finder Network, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/the-finder-network-llc/id464116991?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/6d/3b/556d3b33-a909-6e22-2a91-7dc073165795/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/coursewalk-2/id1476318612?uo=2",
       "price": {
         "amount": 14.99,
         "currency": "USD",
@@ -2001,85 +1473,173 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "August 19, 2024"
+      "releaseDate": "November 19, 2019"
     },
     {
-      "rank": 91,
+      "rank": 67,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6804457506",
-      "name": "OnCue Widget Watch",
-      "developer": "Michael Rivers",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-rivers/id6804457508?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/a5/3e/7fa53e62-8b94-5211-88ba-00d3d0570490/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/oncue-widget-watch/id6804457506?uo=2",
+      "appleId": "6443658641",
+      "name": "Loon Sound Effects",
+      "developer": "Scott Dawson",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/46/0f/6f460f40-de1e-b14c-9477-e3b4e48a0278/AppIcon-loon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/loon-sound-effects/id6443658641?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 4.99,
         "currency": "USD",
-        "formatted": "$3.99"
+        "formatted": "$4.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "September 9, 2026"
+      "releaseDate": "October 3, 2022"
     },
     {
-      "rank": 92,
+      "rank": 68,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6761421435",
-      "name": "BlendJunk",
-      "developer": "Rogier Visser",
-      "developerUrl": "https://apps.apple.com/us/developer/rogier-visser/id672667764?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/06/15/9006153e-1676-303f-718b-aa2311459796/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/blendjunk/id6761421435?uo=2",
+      "appleId": "6755696051",
+      "name": "KinetIQ Putting Trainer",
+      "developer": "Humo LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/humo-llc/id1731291655?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/4f/ab/9b4fab01-4e53-7d58-aa56-3c801fdbe1bc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/kinetiq-putting-trainer/id6755696051?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$3.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "April 13, 2026"
+      "releaseDate": "December 2, 2025"
     },
     {
-      "rank": 93,
+      "rank": 69,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6760928381",
-      "name": "PlayerLog",
-      "developer": "ROXANNE ORSINI MCCLURE",
-      "developerUrl": "https://apps.apple.com/us/developer/roxanne-orsini-mcclure/id1886814543?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/ab/be/ecabbea6-3cb2-df99-9883-cc534325c351/AppIcon-0-0-1x_U007epad-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/playerlog/id6760928381?uo=2",
+      "appleId": "6768726923",
+      "name": "My Volleyball Stats",
+      "developer": "BRIAN EDWARD SALYER",
+      "developerUrl": "https://apps.apple.com/us/developer/brian-edward-salyer/id1896599478?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/11/84/d811848f-507e-9878-e641-d57f7c58a301/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/my-volleyball-stats/id6768726923?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$1.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "March 24, 2026"
+      "releaseDate": "June 2, 2026"
     },
     {
-      "rank": 94,
+      "rank": 70,
+      "previousRank": 24,
+      "rankChange": -46,
+      "isNew": false,
+      "appleId": "6758991652",
+      "name": "Scope Click: MOA Turret",
+      "developer": "君 潘",
+      "developerUrl": "https://apps.apple.com/us/developer/%E5%90%9B-%E6%BD%98/id647696765?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e1/30/71e130ff-e0a0-c07e-ce90-e929e4058484/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/scope-click-moa-turret/id6758991652?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 11, 2026"
+    },
+    {
+      "rank": 71,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6705135002",
-      "name": "Football Stats - Predictions",
-      "developer": "ALEXANDRU DUMITRU",
-      "developerUrl": "https://apps.apple.com/us/developer/alexandru-dumitru/id1769818282?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/6f/19/fc6f19aa-f7fa-16ca-a089-334885fc09ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/football-stats-predictions/id6705135002?uo=2",
+      "appleId": "448045769",
+      "name": "TargetScan - Pistol & Rifle",
+      "developer": "Deep Scoring Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/deep-scoring-ltd/id417113541?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/91/e4/ae91e416-0249-f3ef-c1a3-ceac2aa5baec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/targetscan-pistol-rifle/id448045769?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "USD",
+        "formatted": "$17.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "July 11, 2011"
+    },
+    {
+      "rank": 72,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1421920348",
+      "name": "Duck Tech",
+      "developer": "GOT GAME TECHNOLOGIES, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/got-game-technologies-llc/id1270297950?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/3a/8e/343a8e17-6157-97c6-9f4b-d6c3e2588a6c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/duck-tech/id1421920348?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 12, 2018"
+    },
+    {
+      "rank": 73,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6756803204",
+      "name": "Squared Circle Tycoon",
+      "developer": "Jared Eddie Countryman",
+      "developerUrl": "https://apps.apple.com/us/developer/jared-eddie-countryman/id1843701362?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d6/29/95d62906-adc3-4e6d-089f-291ea775b0f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/squared-circle-tycoon/id6756803204?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 24, 2026"
+    },
+    {
+      "rank": 74,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6756001535",
+      "name": "Open Road Ace: GPS Rally Timer",
+      "developer": "KyrosWorks LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/kyrosworks-llc/id1857901011?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ab/2f/3eab2fe8-7f8e-f1c6-159f-96326fb4790c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/open-road-ace-gps-rally-timer/id6756001535?uo=2",
       "price": {
         "amount": 29.99,
         "currency": "USD",
@@ -2089,63 +1649,19 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "August 14, 2025"
+      "releaseDate": "May 13, 2026"
     },
     {
-      "rank": 95,
+      "rank": 75,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6465487025",
-      "name": "Watch Athletics Records",
-      "developer": "Paul Scott",
-      "developerUrl": "https://apps.apple.com/us/developer/paul-scott/id1542422467?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/f0/23/d0f0232c-d16f-0bd0-bf4d-c4585c22c9d8/AppIcon-0-0-1x_U007emarketing-0-16-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/watch-athletics-records/id6465487025?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "September 11, 2023"
-    },
-    {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6786178393",
-      "name": "PickleVision AI Pickleball",
-      "developer": "岳 胡",
-      "developerUrl": "https://apps.apple.com/us/developer/%E5%B2%B3-%E8%83%A1/id1891123934?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/3d/72/eb3d72d7-e1f9-f563-1334-f509a0f7ab66/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/picklevision-ai-pickleball/id6786178393?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "July 7, 2026"
-    },
-    {
-      "rank": 97,
-      "previousRank": 29,
-      "rankChange": -68,
-      "isNew": false,
-      "appleId": "6758175703",
-      "name": "Freeze Baseball",
-      "developer": "Aaron Horne",
-      "developerUrl": "https://apps.apple.com/us/developer/aaron-horne/id1869689687?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/fc/df/3cfcdfc7-75bb-185d-1c5c-9df2036bc624/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/freeze-baseball/id6758175703?uo=2",
+      "appleId": "664855413",
+      "name": "Stopwatch for Track & Field",
+      "developer": "German PARDO",
+      "developerUrl": "https://apps.apple.com/us/developer/german-pardo/id664855416?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/3e/e6/4e3ee684-b0e6-3952-111b-cf2bc98f7877/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/stopwatch-for-track-field/id664855413?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -2155,41 +1671,19 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "January 23, 2026"
+      "releaseDate": "July 3, 2013"
     },
     {
-      "rank": 98,
-      "previousRank": 33,
-      "rankChange": -65,
-      "isNew": false,
-      "appleId": "1289128334",
-      "name": "ArcherySuccess - Score & Plot",
-      "developer": "AllTen Software Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/allten-software-limited/id1488904148?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/68/5a/78685abb-5538-253b-1d4e-b6d34eb84bba/ArcherySuccess-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/archerysuccess-score-plot/id1289128334?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "Sports"
-      },
-      "releaseDate": "December 5, 2017"
-    },
-    {
-      "rank": 99,
-      "previousRank": 36,
-      "rankChange": -63,
-      "isNew": false,
-      "appleId": "1022085584",
-      "name": "Wild Hog Pro",
-      "developer": "Big Shot, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/big-shot-llc/id950359261?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ed/65/c6ed652d-5d98-cf86-fedf-c8abef980da6/AppIcon-Hog-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wild-hog-pro/id1022085584?uo=2",
+      "rank": 76,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "325935402",
+      "name": "EasyTrails GPS",
+      "developer": "Zirak s.r.l.",
+      "developerUrl": "https://apps.apple.com/us/developer/zirak-s-r-l/id325929835?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9c/f2/ce9cf279-fdc2-70fa-8923-b34f4984bcb9/IconFull-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/easytrails-gps/id325935402?uo=2",
       "price": {
         "amount": 3.99,
         "currency": "USD",
@@ -2199,7 +1693,535 @@
         "id": "6004",
         "name": "Sports"
       },
-      "releaseDate": "August 20, 2015"
+      "releaseDate": "August 13, 2009"
+    },
+    {
+      "rank": 77,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6443434724",
+      "name": "Moose Magnet - Moose Calls",
+      "developer": "Scott Dawson",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/fb/1f/90fb1f9c-7d96-8eb0-646b-db74cc75367f/AppIcon-moose-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/moose-magnet-moose-calls/id6443434724?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 20, 2022"
+    },
+    {
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1301942401",
+      "name": "QR Laps",
+      "developer": "Ursin Tanner",
+      "developerUrl": "https://apps.apple.com/us/developer/ursin-tanner/id977043903?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/be/55/a9/be55a901-7e4e-787d-a62a-5728ffa18ccc/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/qr-laps/id1301942401?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 19, 2018"
+    },
+    {
+      "rank": 79,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "873629182",
+      "name": "Pitch Speed for Baseball and Softball - Track How Fast like Radar Gun",
+      "developer": "Keld Sperry",
+      "developerUrl": "https://apps.apple.com/us/developer/keld-sperry/id305563823?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/a4/19/67/a4196797-25ca-970c-bed0-7af88a286346/mzl.dywotayb.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pitch-speed-for-baseball-and-softball-track-how-fast/id873629182?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 7, 2014"
+    },
+    {
+      "rank": 80,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1091664467",
+      "name": "Wild Turkey Pro",
+      "developer": "Big Shot, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/big-shot-llc/id950359261?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/4f/ce/4a4fcea4-e465-dd4e-5245-eeb098c8b81b/AppIcon-Turkey-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wild-turkey-pro/id1091664467?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "March 16, 2016"
+    },
+    {
+      "rank": 81,
+      "previousRank": 26,
+      "rankChange": -55,
+      "isNew": false,
+      "appleId": "1640029096",
+      "name": "Squirrel Magnet Squirrel Calls",
+      "developer": "Scott Dawson",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-dawson/id1397641455?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/fa/cc/bffaccdc-249d-9cc7-c04a-4fe83e9d8e5a/AppIcon-Squirrel-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/squirrel-magnet-squirrel-calls/id1640029096?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 18, 2022"
+    },
+    {
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1079101633",
+      "name": "SubMOA Pro",
+      "developer": "Haiyuan Wang",
+      "developerUrl": "https://apps.apple.com/us/developer/haiyuan-wang/id972446950?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/56/34/1e56343e-c89e-7f63-b1a6-5ab540141501/AppIcon-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/submoa-pro/id1079101633?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 3, 2016"
+    },
+    {
+      "rank": 83,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "763306606",
+      "name": "InfiniteHoops Practice",
+      "developer": "Broadside LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/broadside-llc/id438132287?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/d2/34/6dd234fa-3081-2193-980b-eee3baabff4b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/infinitehoops-practice/id763306606?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "November 27, 2013"
+    },
+    {
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6760036684",
+      "name": "Stopwatch Max: Lap Timer",
+      "developer": "Mariam Markosyan",
+      "developerUrl": "https://apps.apple.com/us/developer/mariam-markosyan/id1881342713?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/fa/f8/3dfaf88d-bd1e-3703-beca-4fce7478de84/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/stopwatch-max-lap-timer/id6760036684?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "March 6, 2026"
+    },
+    {
+      "rank": 85,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1462511946",
+      "name": "LAX Keeper",
+      "developer": "Joe Ghalam",
+      "developerUrl": "https://apps.apple.com/us/developer/joe-ghalam/id1462511945?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/af/7b/c1af7b56-b565-dad7-43c7-890885dfb348/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/lax-keeper/id1462511946?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 8, 2019"
+    },
+    {
+      "rank": 86,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1530347666",
+      "name": "Jetting IAME KA100 & KFS FFSA",
+      "developer": "Ballistic Solutions LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/ballistic-solutions-llc/id1611909747?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d6/4e/3bd64e03-63ca-604f-a78e-43f9ac0552be/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/jetting-iame-ka100-kfs-ffsa/id1530347666?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "USD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 5, 2020"
+    },
+    {
+      "rank": 87,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1084174300",
+      "name": "Shootwatch",
+      "developer": "Patrick Hertzog",
+      "developerUrl": "https://apps.apple.com/us/developer/patrick-hertzog/id1084174299?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/25/a3/8225a3d1-ee27-0d30-34a8-161a3bb084f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/shootwatch/id1084174300?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "September 28, 2016"
+    },
+    {
+      "rank": 88,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1609672416",
+      "name": "Coach Practice Planner",
+      "developer": "H3 Apps, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/h3-apps-llc/id598620927?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/b7/8b/91b78bea-4958-e5da-7e37-2c8e59f758fe/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/coach-practice-planner/id1609672416?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 17, 2022"
+    },
+    {
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6449526837",
+      "name": "Pulse by Callanetics",
+      "developer": "Callanetics",
+      "developerUrl": "https://apps.apple.com/us/developer/callanetics/id1689547821?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/69/30/4d693056-dd6d-ffdb-caba-82ea77c3483a/AppIcon-0-0-1x_U007ephone-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pulse-by-callanetics/id6449526837?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 6, 2023"
+    },
+    {
+      "rank": 90,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1154050351",
+      "name": "Chronocurl Pro",
+      "developer": "Guy Simard",
+      "developerUrl": "https://apps.apple.com/us/developer/guy-simard/id1124720226?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/23/a0/4923a070-9ff0-997f-befc-1999efdc28df/AppIcon-pro-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/chronocurl-pro/id1154050351?uo=2",
+      "price": {
+        "amount": 21.99,
+        "currency": "USD",
+        "formatted": "$21.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "October 16, 2016"
+    },
+    {
+      "rank": 91,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1607170434",
+      "name": "CAYAGOLF",
+      "developer": "Terry Faggins",
+      "developerUrl": "https://apps.apple.com/us/developer/terry-faggins/id1607170436?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/65/89/f8658993-f6eb-8c0d-2e76-5506c0147383/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/cayagolf/id1607170434?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "February 8, 2022"
+    },
+    {
+      "rank": 92,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1619391782",
+      "name": "T Minus sailing timer",
+      "developer": "Paul Miller",
+      "developerUrl": "https://apps.apple.com/us/developer/paul-miller/id1619391784?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/12/48/ed1248d9-8a97-21e0-03cc-cda4b6642424/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/t-minus-sailing-timer/id1619391782?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 26, 2022"
+    },
+    {
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757989421",
+      "name": "PickleballTrkr",
+      "developer": "Datyell Close",
+      "developerUrl": "https://apps.apple.com/us/developer/datyell-close/id1870105356?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a1/6b/30a16b44-6991-38f4-9b30-28b6d7221ad0/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pickleballtrkr/id6757989421?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "January 21, 2026"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6783131372",
+      "name": "BlueVoid",
+      "developer": "Bonomodo Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/bonomodo-ltd/id6783131374?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ad/5a/68ad5ac0-4a4e-3975-d920-6d63ea1b5924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bluevoid/id6783131372?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "August 18, 2026"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759643802",
+      "name": "Sight Picture Trainer",
+      "developer": "Accuracy Software, LTD",
+      "developerUrl": "https://apps.apple.com/us/developer/accuracy-software-ltd/id1449945789?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/01/d3/5b01d326-07c9-5ffa-2f7e-9ada0f89e65d/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sight-picture-trainer/id6759643802?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "March 15, 2026"
+    },
+    {
+      "rank": 96,
+      "previousRank": 30,
+      "rankChange": -66,
+      "isNew": false,
+      "appleId": "6766751394",
+      "name": "FlagStat",
+      "developer": "Cristian Del Rosario",
+      "developerUrl": "https://apps.apple.com/us/developer/cristian-del-rosario/id1896321902?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c5/2e/bac52e27-e9a9-9b19-bfcc-7fdb0c4fb254/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/flagstat/id6766751394?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "May 12, 2026"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6766389243",
+      "name": "GoalieEval",
+      "developer": "Brett Poe",
+      "developerUrl": "https://apps.apple.com/us/developer/brett-poe/id1896283890?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/e3/bb/f7e3bb24-0f70-bdde-4348-c704e2e56e92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/goalieeval/id6766389243?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "June 2, 2026"
+    },
+    {
+      "rank": 98,
+      "previousRank": 33,
+      "rankChange": -65,
+      "isNew": false,
+      "appleId": "516879039",
+      "name": "Flyskyhy",
+      "developer": "Renevision",
+      "developerUrl": "https://apps.apple.com/us/developer/renevision/id516879042?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f0/9e/04f09ed5-c746-e5d6-b2fe-409d32a5dc0e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/flyskyhy/id516879039?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "USD",
+        "formatted": "$8.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "April 17, 2012"
+    },
+    {
+      "rank": 99,
+      "previousRank": 35,
+      "rankChange": -64,
+      "isNew": false,
+      "appleId": "1455799642",
+      "name": "PB Play",
+      "developer": "codeDependent Software Incorporated",
+      "developerUrl": "https://apps.apple.com/us/developer/codedependent-software-incorporated/id581353713?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/75/5c/78755c1a-8c42-63ea-c21e-fd8009e609a6/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pb-play/id1455799642?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "March 15, 2019"
+    },
+    {
+      "rank": 100,
+      "previousRank": 38,
+      "rankChange": -62,
+      "isNew": false,
+      "appleId": "338257907",
+      "name": "Harry's LapTimer Petrolhead",
+      "developer": "Harald Schlangmann",
+      "developerUrl": "https://apps.apple.com/us/developer/harald-schlangmann/id307688601?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/45/07/e3450738-51e2-7219-9a7e-c719c382c73d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/harrys-laptimer-petrolhead/id338257907?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "Sports"
+      },
+      "releaseDate": "November 24, 2009"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-21",
-  "collectedAt": "2026-10-21T05:49:26.863Z",
-  "sourceUpdatedAt": "2026-10-20T22:49:26-07:00",
+  "snapshotDate": "2026-10-22",
+  "collectedAt": "2026-10-22T05:52:10.001Z",
+  "sourceUpdatedAt": "2026-10-21T22:52:09-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,18 +17,18 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 43,
-  "actualCount": 43,
+  "expectedCount": 44,
+  "actualCount": 44,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-10-20",
+  "previousSnapshotDate": "2026-10-21",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6761313552",
       "name": "Kitpick",
@@ -49,8 +49,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 1,
-      "rankChange": -1,
+      "previousRank": 2,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6450701682",
       "name": "Scorpion Keys Deluxe",
@@ -445,52 +445,8 @@
     },
     {
       "rank": 20,
-      "previousRank": 20,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1065779915",
-      "name": "Maple Magazine",
-      "developer": "PressPad Sp. z o.o.",
-      "developerUrl": "https://apps.apple.com/us/developer/presspad-sp-z-o-o/id449000752?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d8/bc/1ed8bcb4-1563-b4fa-8258-7426c318208a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/maple-magazine/id1065779915?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6021",
-        "name": "Magazines & Newspapers"
-      },
-      "releaseDate": "December 13, 2015"
-    },
-    {
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "971959854",
-      "name": "One Small World",
-      "developer": "Jose Eduardo Arredondo",
-      "developerUrl": "https://apps.apple.com/us/developer/jose-eduardo-arredondo/id625558126?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/af/a7/46/afa74667-39e5-637b-3778-153342de34e2/AppIcon-0-1x_U007emarketing-0-0-85-220-10.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/one-small-world/id971959854?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "March 4, 2015"
-    },
-    {
-      "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
+      "previousRank": 22,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6761737936",
       "name": "My News Feed Choice",
@@ -510,9 +466,53 @@
       "releaseDate": "April 10, 2026"
     },
     {
-      "rank": 23,
-      "previousRank": 22,
+      "rank": 21,
+      "previousRank": 20,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "1065779915",
+      "name": "Maple Magazine",
+      "developer": "PressPad Sp. z o.o.",
+      "developerUrl": "https://apps.apple.com/us/developer/presspad-sp-z-o-o/id449000752?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d8/bc/1ed8bcb4-1563-b4fa-8258-7426c318208a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/maple-magazine/id1065779915?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6021",
+        "name": "Magazines & Newspapers"
+      },
+      "releaseDate": "December 13, 2015"
+    },
+    {
+      "rank": 22,
+      "previousRank": 21,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "971959854",
+      "name": "One Small World",
+      "developer": "Jose Eduardo Arredondo",
+      "developerUrl": "https://apps.apple.com/us/developer/jose-eduardo-arredondo/id625558126?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/af/a7/46/afa74667-39e5-637b-3778-153342de34e2/AppIcon-0-1x_U007emarketing-0-0-85-220-10.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/one-small-world/id971959854?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "March 4, 2015"
+    },
+    {
+      "rank": 23,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6752505148",
       "name": "Flux Feed for Miniflux",
@@ -533,8 +533,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6502944426",
       "name": "Power of Angels - Oracle Cards",
@@ -555,8 +555,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1543359328",
       "name": "iDaily · 2020 年度别册",
@@ -577,8 +577,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "636377390",
       "name": "Hoofbeats Magazine",
@@ -599,8 +599,30 @@
     },
     {
       "rank": 27,
-      "previousRank": 29,
-      "rankChange": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6740409517",
+      "name": "Прокуратура PRO - УК РФ УПК РФ",
+      "developer": "Oksana Nikita",
+      "developerUrl": "https://apps.apple.com/us/developer/oksana-nikita/id1723633323?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/50/aa/7150aafc-054e-7805-9289-2804e2c82584/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0-pro-%D1%83%D0%BA-%D1%80%D1%84-%D1%83%D0%BF%D0%BA-%D1%80%D1%84/id6740409517?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "USD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6021",
+        "name": "Magazines & Newspapers"
+      },
+      "releaseDate": "January 10, 2025"
+    },
+    {
+      "rank": 28,
+      "previousRank": 27,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6773385526",
       "name": "Hourly Newsy",
@@ -620,31 +642,9 @@
       "releaseDate": "July 22, 2026"
     },
     {
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6749190637",
-      "name": "Multi Screen TV Live",
-      "developer": "Omer Faruk Kislakci",
-      "developerUrl": "https://apps.apple.com/us/developer/omer-faruk-kislakci/id1671903053?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/1d/da/bb1dda36-a935-f7e9-9216-923535677028/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/multi-screen-tv-live/id6749190637?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "September 4, 2025"
-    },
-    {
       "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1479540317",
       "name": "USA Headlines",
@@ -665,8 +665,30 @@
     },
     {
       "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "previousRank": 28,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6749190637",
+      "name": "Multi Screen TV Live",
+      "developer": "Omer Faruk Kislakci",
+      "developerUrl": "https://apps.apple.com/us/developer/omer-faruk-kislakci/id1671903053?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/1d/da/bb1dda36-a935-f7e9-9216-923535677028/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/multi-screen-tv-live/id6749190637?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "September 4, 2025"
+    },
+    {
+      "rank": 31,
+      "previousRank": 30,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6449741127",
       "name": "Puffball Pufferfish Pro",
@@ -686,9 +708,9 @@
       "releaseDate": "June 13, 2023"
     },
     {
-      "rank": 31,
-      "previousRank": 24,
-      "rankChange": -7,
+      "rank": 32,
+      "previousRank": 31,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6758548229",
       "name": "DarkMode | Web",
@@ -708,9 +730,9 @@
       "releaseDate": "February 3, 2026"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6444249757",
       "name": "Pocket News - News and Article",
@@ -730,9 +752,9 @@
       "releaseDate": "November 15, 2022"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6747628668",
       "name": "WordGlean - Kindle Highlights",
@@ -752,9 +774,9 @@
       "releaseDate": "June 26, 2025"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6753128643",
       "name": "iPodcast Player",
@@ -774,9 +796,9 @@
       "releaseDate": "September 28, 2025"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6751243342",
       "name": "Auralys",
@@ -796,9 +818,9 @@
       "releaseDate": "October 2, 2025"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6740914910",
       "name": "Explorineer | 10min IT Trends",
@@ -818,9 +840,9 @@
       "releaseDate": "January 26, 2025"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737449815",
       "name": "Gerarduskalender 2025",
@@ -840,9 +862,9 @@
       "releaseDate": "October 30, 2024"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6747604851",
       "name": "ReadLater: GoodLinks Pro",
@@ -862,9 +884,9 @@
       "releaseDate": "June 27, 2025"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6478848141",
       "name": "LOL - Lies or Laughs",
@@ -884,9 +906,9 @@
       "releaseDate": "April 18, 2024"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6761642667",
       "name": "Listkit:Minima Local Todo",
@@ -906,9 +928,9 @@
       "releaseDate": "April 7, 2026"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6742094162",
       "name": "World Economic Central Asia",
@@ -928,9 +950,9 @@
       "releaseDate": "February 19, 2025"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "previousRank": 42,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6741899026",
       "name": "World Economic Journal Russian",
@@ -950,9 +972,9 @@
       "releaseDate": "February 18, 2025"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "512733218",
       "name": "Race Tech",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-21",
-  "collectedAt": "2026-10-21T05:49:52.117Z",
-  "sourceUpdatedAt": "2026-10-20T22:49:51-07:00",
+  "snapshotDate": "2026-10-22",
+  "collectedAt": "2026-10-22T05:52:36.912Z",
+  "sourceUpdatedAt": "2026-10-21T22:52:36-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/au/rss/toppaidapplications/limit=100/genre=6009/json",
   "chartType": "paid",
@@ -17,16 +17,16 @@
     "name": "新闻"
   },
   "requestedLimit": 100,
-  "expectedCount": 88,
-  "actualCount": 88,
+  "expectedCount": 89,
+  "actualCount": 89,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-20",
+  "previousSnapshotDate": "2026-10-21",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "576245922",
       "name": "QLD Fires",
@@ -47,30 +47,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "348142406",
-      "name": "VIC Fires",
-      "developer": "P4G Pty Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/p4g-pty-ltd/id296948831?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/2b/59a62b63-181d-23c2-e8e9-3f6c7362e992/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/vic-fires/id348142406?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "AUD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "28 Dec 2009"
-    },
-    {
-      "rank": 3,
-      "previousRank": 1,
-      "rankChange": -2,
+      "previousRank": 3,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "583228610",
       "name": "TAS Fires",
@@ -90,9 +68,31 @@
       "releaseDate": "12 Dec 2012"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "348142406",
+      "name": "VIC Fires",
+      "developer": "P4G Pty Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/p4g-pty-ltd/id296948831?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/2b/59a62b63-181d-23c2-e8e9-3f6c7362e992/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/vic-fires/id348142406?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "28 Dec 2009"
+    },
+    {
+      "rank": 4,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "352740821",
       "name": "SA Fires",
@@ -113,8 +113,30 @@
     },
     {
       "rank": 5,
-      "previousRank": 6,
-      "rankChange": 1,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1607080654",
+      "name": "Khabri Bai - My News Buddy",
+      "developer": "Umesh Jakhar",
+      "developerUrl": "https://apps.apple.com/au/developer/umesh-jakhar/id1607080866?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/88/55/ef8855b1-3da1-e94d-efb0-58d9cf607bfd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/khabri-bai-my-news-buddy/id1607080654?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "26 Jan 2022"
+    },
+    {
+      "rank": 6,
+      "previousRank": 5,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "350111353",
       "name": "NSW Fires",
@@ -134,9 +156,9 @@
       "releaseDate": "13 Jan 2010"
     },
     {
-      "rank": 6,
-      "previousRank": 8,
-      "rankChange": 2,
+      "rank": 7,
+      "previousRank": 6,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "393858566",
       "name": "Downcast",
@@ -156,9 +178,9 @@
       "releaseDate": "01 Oct 2010"
     },
     {
-      "rank": 7,
-      "previousRank": 14,
-      "rankChange": 7,
+      "rank": 8,
+      "previousRank": 7,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1474335294",
       "name": "GoodLinks",
@@ -178,9 +200,9 @@
       "releaseDate": "10 Jun 2020"
     },
     {
-      "rank": 8,
-      "previousRank": 5,
-      "rankChange": -3,
+      "rank": 9,
+      "previousRank": 8,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1032668306",
       "name": "News Explorer",
@@ -200,31 +222,9 @@
       "releaseDate": "02 Sep 2016"
     },
     {
-      "rank": 9,
-      "previousRank": 7,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1531976425",
-      "name": "lire: RSS Reader",
-      "developer": "Kunal Sood",
-      "developerUrl": "https://apps.apple.com/au/developer/kunal-sood/id542137548?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8b/55/968b555b-1f83-22f9-b943-3361562a9a64/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/lire-rss-reader/id1531976425?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "16 Sep 2020"
-    },
-    {
       "rank": 10,
-      "previousRank": 9,
-      "rankChange": -1,
+      "previousRank": 10,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "314600768",
       "name": "QuakeWatch",
@@ -245,8 +245,8 @@
     },
     {
       "rank": 11,
-      "previousRank": 10,
-      "rankChange": -1,
+      "previousRank": 11,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1326693810",
       "name": "Outcast for Watch",
@@ -267,8 +267,8 @@
     },
     {
       "rank": 12,
-      "previousRank": 11,
-      "rankChange": -1,
+      "previousRank": 12,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "414419105",
       "name": "iCatcher! Podcast App",
@@ -289,8 +289,8 @@
     },
     {
       "rank": 13,
-      "previousRank": 12,
-      "rankChange": -1,
+      "previousRank": 13,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1539571750",
       "name": "WAFires",
@@ -311,8 +311,8 @@
     },
     {
       "rank": 14,
-      "previousRank": 13,
-      "rankChange": -1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1529445840",
       "name": "Reeder Classic",
@@ -377,8 +377,30 @@
     },
     {
       "rank": 17,
+      "previousRank": 9,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "1531976425",
+      "name": "lire: RSS Reader",
+      "developer": "Kunal Sood",
+      "developerUrl": "https://apps.apple.com/au/developer/kunal-sood/id542137548?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8b/55/968b555b-1f83-22f9-b943-3361562a9a64/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/lire-rss-reader/id1531976425?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "16 Sep 2020"
+    },
+    {
+      "rank": 18,
       "previousRank": 17,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "448638079",
       "name": "Earthquake 3D",
@@ -398,9 +420,9 @@
       "releaseDate": "14 Jul 2011"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "previousRank": 18,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "903637019",
       "name": "The Aviation Herald",
@@ -420,9 +442,9 @@
       "releaseDate": "01 Aug 2014"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "919056339",
       "name": "Feeddler RSS Reader Pro",
@@ -442,9 +464,9 @@
       "releaseDate": "25 Sep 2014"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6758530974",
       "name": "Current - RSS Feed Reader",
@@ -464,9 +486,9 @@
       "releaseDate": "17 Feb 2026"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "724226640",
       "name": "RIP VIP: The Death Alert App.",
@@ -486,9 +508,9 @@
       "releaseDate": "22 Oct 2013"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1441890371",
       "name": "Podcast Alarm - Player & Alarm",
@@ -508,9 +530,9 @@
       "releaseDate": "30 Sep 2019"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1152396902",
       "name": "凤凰新闻(专业版)-头条新闻阅读平台",
@@ -530,9 +552,9 @@
       "releaseDate": "07 Oct 2016"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "416339439",
       "name": "Lottery (Thai) - ตรวจหวย",
@@ -552,9 +574,9 @@
       "releaseDate": "10 Feb 2011"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "339408916",
       "name": "Hacker News",
@@ -574,9 +596,9 @@
       "releaseDate": "08 Dec 2009"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "698220406",
       "name": "Pincase - A Pinboard.in client, that is simple, elegant and powerful, perfect for managing your daily discoveries.",
@@ -596,9 +618,9 @@
       "releaseDate": "25 Sep 2013"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1231701793",
       "name": "LIVE CCTV Camera :Sci-Fi Theme",
@@ -618,16 +640,16 @@
       "releaseDate": "30 Apr 2017"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "711503013",
-      "name": "Simple RSS Push+",
+      "name": "Simple RSS Push+ · Feed Reader",
       "developer": "Alexandre Fabri",
       "developerUrl": "https://apps.apple.com/au/developer/alexandre-fabri/id1870502938?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/42/be/5c42bedf-0837-29c3-84ff-80c782050a00/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/simple-rss-push/id711503013?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/d0/47/32d0471e-3e36-1533-429d-70b62b805dbd/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/simple-rss-push-feed-reader/id711503013?uo=2",
       "price": {
         "amount": 9.99,
         "currency": "AUD",
@@ -640,9 +662,9 @@
       "releaseDate": "07 Oct 2013"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "previousRank": 29,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "865369938",
       "name": "Croatian TV+",
@@ -662,9 +684,9 @@
       "releaseDate": "20 Jun 2014"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "previousRank": 30,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1135890904",
       "name": "网易新闻（专业版）",
@@ -684,9 +706,9 @@
       "releaseDate": "24 Oct 2016"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "723422355",
       "name": "Network - Podcast App",
@@ -706,9 +728,9 @@
       "releaseDate": "18 Dec 2013"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "897185985",
       "name": "Mocast",
@@ -728,9 +750,9 @@
       "releaseDate": "18 Jul 2014"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "317642402",
       "name": "Teletext - TextTV",
@@ -750,9 +772,9 @@
       "releaseDate": "04 Jun 2009"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "337268548",
       "name": "BiH TV",
@@ -772,9 +794,9 @@
       "releaseDate": "04 Nov 2009"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1503490043",
       "name": "Police Scanner on Watch",
@@ -794,9 +816,9 @@
       "releaseDate": "30 Mar 2020"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1084209377",
       "name": "HackerWeb - Hacker News client",
@@ -816,9 +838,9 @@
       "releaseDate": "29 Feb 2016"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1207200983",
       "name": "CCTV LIVE Camera Footage",
@@ -838,9 +860,9 @@
       "releaseDate": "19 Feb 2017"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "376534631",
       "name": "Italian TV Schedule",
@@ -860,9 +882,9 @@
       "releaseDate": "11 Jun 2010"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1015225810",
       "name": "ZAKER专业版",
@@ -882,9 +904,9 @@
       "releaseDate": "02 May 2018"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1039945866",
       "name": "Electoral Map Maker 2024",
@@ -904,9 +926,9 @@
       "releaseDate": "29 Jan 2016"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "943358739",
       "name": "Serbian TV+",
@@ -926,9 +948,9 @@
       "releaseDate": "02 Dec 2014"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "previousRank": 42,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "323994185",
       "name": "TextTV",
@@ -948,9 +970,9 @@
       "releaseDate": "07 Aug 2009"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
-      "rankChange": 1,
+      "rank": 44,
+      "previousRank": 43,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "336902466",
       "name": "German TV",
@@ -970,31 +992,9 @@
       "releaseDate": "03 Nov 2009"
     },
     {
-      "rank": 44,
-      "previousRank": 45,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6757721236",
-      "name": "YourPods: Podcast Player",
-      "developer": "A Secret Company, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/a-secret-company-llc/id1736269369?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/10/d0/d810d061-2c21-42ec-7d82-d4d45fdd8f50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/yourpods-podcast-player/id6757721236?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "16 Jan 2026"
-    },
-    {
       "rank": 45,
-      "previousRank": 43,
-      "rankChange": -2,
+      "previousRank": 45,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "590254755",
       "name": "Contacts Cleaner Pro !",
@@ -1059,8 +1059,30 @@
     },
     {
       "rank": 48,
+      "previousRank": 44,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6757721236",
+      "name": "YourPods: Podcast Player",
+      "developer": "A Secret Company, LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/a-secret-company-llc/id1736269369?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/10/d0/d810d061-2c21-42ec-7d82-d4d45fdd8f50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/yourpods-podcast-player/id6757721236?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "16 Jan 2026"
+    },
+    {
+      "rank": 49,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "425116234",
       "name": "Schweizer Zeitungen +",
@@ -1080,9 +1102,9 @@
       "releaseDate": "17 Mar 2011"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1531645542",
       "name": "claw: Unofficial Lobsters App",
@@ -1102,9 +1124,9 @@
       "releaseDate": "16 Sep 2020"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1527233179",
       "name": "WatchFeed - RSS for Feedly",
@@ -1124,9 +1146,9 @@
       "releaseDate": "25 Sep 2020"
     },
     {
-      "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "rank": 52,
+      "previousRank": 51,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1117146910",
       "name": "Speak News - RSS news reader",
@@ -1144,28 +1166,6 @@
         "name": "News"
       },
       "releaseDate": "09 Sep 2016"
-    },
-    {
-      "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6752223666",
-      "name": "Flux : Smart RSS reader",
-      "developer": "Adrien DONOT",
-      "developerUrl": "https://apps.apple.com/au/developer/adrien-donot/id494531402?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8f/2c/948f2cda-84c1-0767-fc99-5905990d1af1/FluxGlass-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/flux-smart-rss-reader/id6752223666?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "15 Mar 2026"
     },
     {
       "rank": 53,
@@ -1279,8 +1279,30 @@
     },
     {
       "rank": 58,
+      "previousRank": 52,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "6752223666",
+      "name": "Flux : Smart RSS reader",
+      "developer": "Adrien DONOT",
+      "developerUrl": "https://apps.apple.com/au/developer/adrien-donot/id494531402?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8f/2c/948f2cda-84c1-0767-fc99-5905990d1af1/FluxGlass-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/flux-smart-rss-reader/id6752223666?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "15 Mar 2026"
+    },
+    {
+      "rank": 59,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "688481023",
       "name": "FredScanner Pro",
@@ -1300,9 +1322,9 @@
       "releaseDate": "19 Aug 2013"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6590631281",
       "name": "Jubilee25",
@@ -1322,9 +1344,9 @@
       "releaseDate": "24 Dec 2024"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1585543362",
       "name": "Feedibus — RSS Feed Reader",
@@ -1344,9 +1366,9 @@
       "releaseDate": "07 Oct 2021"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1367115343",
       "name": "南方Plus（探索版）-广东头条新闻资讯阅读平台",
@@ -1366,9 +1388,9 @@
       "releaseDate": "06 Nov 2018"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6738314614",
       "name": "The Brief: News Articles",
@@ -1388,9 +1410,9 @@
       "releaseDate": "20 Dec 2024"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1597838632",
       "name": "TinyFeeds",
@@ -1410,9 +1432,9 @@
       "releaseDate": "08 Dec 2021"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "948897052",
       "name": "Romanian TV Schedule",
@@ -1432,9 +1454,9 @@
       "releaseDate": "06 Jan 2015"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "471239806",
       "name": "ApergiaGR Plus",
@@ -1454,9 +1476,9 @@
       "releaseDate": "12 Oct 2011"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6742195107",
       "name": "Crustacean for Lobsters",
@@ -1476,15 +1498,15 @@
       "releaseDate": "20 Feb 2025"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6497563903",
       "name": "TV Show Tracker - TV Club",
       "developer": "RanduSoft SRL",
       "developerUrl": "https://apps.apple.com/au/developer/randusoft-srl/id1132039950?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b8/2c/9ab82c4a-3dcd-c8bb-c001-c023bc2d6237/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/56/32/8256329d-7c2f-7c98-9fb4-2a8fcf6bd338/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/au/app/tv-show-tracker-tv-club/id6497563903?uo=2",
       "price": {
         "amount": 4.99,
@@ -1498,9 +1520,9 @@
       "releaseDate": "22 Apr 2024"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6453764375",
       "name": "NQSubBlock - Block Sub Banner",
@@ -1520,9 +1542,9 @@
       "releaseDate": "06 Oct 2023"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1551833363",
       "name": "Σαν σήμερα!",
@@ -1542,9 +1564,9 @@
       "releaseDate": "13 Feb 2021"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1543252628",
       "name": "Rwanda TV",
@@ -1564,9 +1586,9 @@
       "releaseDate": "06 Dec 2020"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "936262497",
       "name": "Hungarian TV+",
@@ -1586,9 +1608,9 @@
       "releaseDate": "13 Nov 2014"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "723706796",
       "name": "TextTV II",
@@ -1608,9 +1630,9 @@
       "releaseDate": "23 Oct 2013"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6757376668",
       "name": "Bulletin",
@@ -1630,9 +1652,9 @@
       "releaseDate": "16 Mar 2026"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "previousRank": 74,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1528917651",
       "name": "Den for RSS",
@@ -1652,9 +1674,9 @@
       "releaseDate": "03 Sep 2020"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "previousRank": 75,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1255399496",
       "name": "华人头条(专业版)-海外华人新闻资讯生活平台",
@@ -1674,9 +1696,9 @@
       "releaseDate": "13 Oct 2017"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "previousRank": 76,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1081117281",
       "name": "Keyboard Translator Pro",
@@ -1696,9 +1718,9 @@
       "releaseDate": "10 Feb 2016"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1072795232",
       "name": "Color Keys Keyboard Pro",
@@ -1718,9 +1740,9 @@
       "releaseDate": "13 Jan 2016"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "965210551",
       "name": "PDF Converter !",
@@ -1740,9 +1762,9 @@
       "releaseDate": "09 Mar 2015"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "946229250",
       "name": "Slovak TV+",
@@ -1762,9 +1784,9 @@
       "releaseDate": "09 Dec 2014"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6761442829",
       "name": "Corvus RSS Reader for Safari",
@@ -1784,9 +1806,9 @@
       "releaseDate": "09 Apr 2026"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6760038059",
       "name": "Minimal RSS Reader",
@@ -1806,9 +1828,9 @@
       "releaseDate": "06 Mar 2026"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "previousRank": 82,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6756016387",
       "name": "Project Deep Trace",
@@ -1828,9 +1850,9 @@
       "releaseDate": "22 Dec 2025"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "previousRank": 83,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6755734272",
       "name": "RSS Reader for Safari",
@@ -1850,9 +1872,9 @@
       "releaseDate": "26 Nov 2025"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "previousRank": 84,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6748837894",
       "name": "RSS Reader Feeds",
@@ -1872,9 +1894,9 @@
       "releaseDate": "22 Jul 2025"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6475071209",
       "name": "All Radio Pro - Radio App",
@@ -1894,9 +1916,9 @@
       "releaseDate": "30 Dec 2023"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "previousRank": 86,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1668579869",
       "name": "Feedster: RSS Reader",
@@ -1916,9 +1938,9 @@
       "releaseDate": "15 Oct 2023"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1516174326",
       "name": "RSSolved",
@@ -1938,9 +1960,9 @@
       "releaseDate": "06 Jun 2020"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1480957425",
       "name": "Breaking news Premium",
