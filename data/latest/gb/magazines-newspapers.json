@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-24",
-  "collectedAt": "2026-10-24T05:33:43.460Z",
-  "sourceUpdatedAt": "2026-10-23T22:33:43-07:00",
+  "snapshotDate": "2026-10-25",
+  "collectedAt": "2026-10-25T05:49:59.326Z",
+  "sourceUpdatedAt": "2026-10-24T22:49:59-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/gb/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,40 +17,18 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 30,
-  "actualCount": 30,
+  "expectedCount": 31,
+  "actualCount": 31,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-10-23",
+  "previousSnapshotDate": "2026-10-24",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "428498721",
-      "name": "B&W Photography Magazine",
-      "developer": "Guild of Master Craftsman Publications Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/guild-of-master-craftsman-publications-ltd/id1545187960?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/14/3c/11/143c11c4-5fc6-6d48-23fd-0a5252c86399/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/b-w-photography-magazine/id428498721?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "29 March 2011"
-    },
-    {
-      "rank": 2,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "428912452",
       "name": "Outdoor Photography Magazine",
@@ -66,6 +44,28 @@
       "primaryCategory": {
         "id": "6003",
         "name": "Travel"
+      },
+      "releaseDate": "29 March 2011"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "428498721",
+      "name": "B&W Photography Magazine",
+      "developer": "Guild of Master Craftsman Publications Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/guild-of-master-craftsman-publications-ltd/id1545187960?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/14/3c/11/143c11c4-5fc6-6d48-23fd-0a5252c86399/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/b-w-photography-magazine/id428498721?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
       },
       "releaseDate": "29 March 2011"
     },
@@ -225,8 +225,8 @@
     },
     {
       "rank": 10,
-      "previousRank": 11,
-      "rankChange": 1,
+      "previousRank": 10,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "530088968",
       "name": "Prehistoric Times Magazine",
@@ -247,8 +247,8 @@
     },
     {
       "rank": 11,
-      "previousRank": 10,
-      "rankChange": -1,
+      "previousRank": 11,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6761313552",
       "name": "Kitpick",
@@ -511,8 +511,30 @@
     },
     {
       "rank": 23,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6773385526",
+      "name": "Hourly Newsy",
+      "developer": "Mike Lapchick",
+      "developerUrl": "https://apps.apple.com/gb/developer/mike-lapchick/id6773385528?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/1d/b4/d91db458-9134-2b22-4e06-60393104a9be/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/hourly-newsy/id6773385526?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "22 July 2026"
+    },
+    {
+      "rank": 24,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6771714850",
       "name": "Bookshelf wise",
@@ -532,9 +554,9 @@
       "releaseDate": "18 June 2026"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6756426038",
       "name": "7 Wochen Ohne 2026",
@@ -554,9 +576,9 @@
       "releaseDate": "05 January 2026"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6747954692",
       "name": "Tiny Comic Book Reader",
@@ -576,9 +598,9 @@
       "releaseDate": "24 July 2025"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737449815",
       "name": "Gerarduskalender 2025",
@@ -598,9 +620,9 @@
       "releaseDate": "30 October 2024"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1607080654",
       "name": "Khabri Bai - My News Buddy",
@@ -620,9 +642,9 @@
       "releaseDate": "26 January 2022"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "994303684",
       "name": "Historic Racing",
@@ -642,9 +664,9 @@
       "releaseDate": "08 June 2015"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "previousRank": 29,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "971959854",
       "name": "One Small World",
@@ -664,9 +686,9 @@
       "releaseDate": "04 March 2015"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "previousRank": 30,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "512733218",
       "name": "Race Tech",

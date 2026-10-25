@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-24",
-  "collectedAt": "2026-10-24T05:34:55.252Z",
-  "sourceUpdatedAt": "2026-10-23T22:34:54-07:00",
+  "snapshotDate": "2026-10-25",
+  "collectedAt": "2026-10-25T05:51:10.801Z",
+  "sourceUpdatedAt": "2026-10-24T22:51:10-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/es/rss/toppaidapplications/limit=100/genre=6009/json",
   "chartType": "paid",
@@ -17,16 +17,16 @@
     "name": "新闻"
   },
   "requestedLimit": 100,
-  "expectedCount": 64,
-  "actualCount": 64,
+  "expectedCount": 65,
+  "actualCount": 65,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-23",
+  "previousSnapshotDate": "2026-10-24",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1474335294",
       "name": "GoodLinks",
@@ -47,8 +47,30 @@
     },
     {
       "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
+      "previousRank": 5,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "317642402",
+      "name": "Teletexto",
+      "developer": "oxorr",
+      "developerUrl": "https://apps.apple.com/es/developer/oxorr/id295470793?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/2c/0d/b4/2c0db4bd-4e59-7d52-b25a-8bfe13c0aece/pr_source.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/teletexto/id317642402?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "Noticias"
+      },
+      "releaseDate": "04/06/2009"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1529445840",
       "name": "Reeder Classic",
@@ -68,8 +90,30 @@
       "releaseDate": "16/10/2020"
     },
     {
-      "rank": 3,
-      "previousRank": 1,
+      "rank": 4,
+      "previousRank": 8,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "1531976425",
+      "name": "lire: RSS Reader",
+      "developer": "Kunal Sood",
+      "developerUrl": "https://apps.apple.com/es/developer/kunal-sood/id542137548?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8b/55/968b555b-1f83-22f9-b943-3361562a9a64/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/lire-rss-reader/id1531976425?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "Noticias"
+      },
+      "releaseDate": "16/09/2020"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1032668306",
@@ -90,9 +134,9 @@
       "releaseDate": "02/09/2016"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
-      "rankChange": -1,
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "393858566",
       "name": "Downcast",
@@ -112,31 +156,9 @@
       "releaseDate": "01/10/2010"
     },
     {
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "317642402",
-      "name": "Teletexto",
-      "developer": "oxorr",
-      "developerUrl": "https://apps.apple.com/es/developer/oxorr/id295470793?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/2c/0d/b4/2c0db4bd-4e59-7d52-b25a-8bfe13c0aece/pr_source.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/teletexto/id317642402?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "Noticias"
-      },
-      "releaseDate": "04/06/2009"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "previousRank": 6,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1326693810",
       "name": "Outcast para Watch",
@@ -156,9 +178,9 @@
       "releaseDate": "23/01/2018"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "414419105",
       "name": "iCatcher! Podcast App",
@@ -176,28 +198,6 @@
         "name": "Noticias"
       },
       "releaseDate": "14/03/2011"
-    },
-    {
-      "rank": 8,
-      "previousRank": 8,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1531976425",
-      "name": "lire: RSS Reader",
-      "developer": "Kunal Sood",
-      "developerUrl": "https://apps.apple.com/es/developer/kunal-sood/id542137548?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8b/55/968b555b-1f83-22f9-b943-3361562a9a64/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/lire-rss-reader/id1531976425?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "Noticias"
-      },
-      "releaseDate": "16/09/2020"
     },
     {
       "rank": 9,
@@ -868,7 +868,7 @@
       "name": "VIC Fires",
       "developer": "P4G Pty Ltd",
       "developerUrl": "https://apps.apple.com/es/developer/p4g-pty-ltd/id296948831?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/2b/59a62b63-181d-23c2-e8e9-3f6c7362e992/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d9/58/51d958a8-cc32-0267-a593-de2098d63fca/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/es/app/vic-fires/id348142406?uo=2",
       "price": {
         "amount": 0.99,
@@ -1213,8 +1213,30 @@
     },
     {
       "rank": 55,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6796877599",
+      "name": "Wallflower - Boring Reader",
+      "developer": "And a Dinosaur",
+      "developerUrl": "https://apps.apple.com/es/developer/and-a-dinosaur/id475577301?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/9a/a5/c89aa504-c534-0716-b3cf-a4d50017211e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/wallflower-boring-reader/id6796877599?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "Noticias"
+      },
+      "releaseDate": "18/08/2026"
+    },
+    {
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1072769428",
       "name": "Teclado de fuente genial",
@@ -1234,9 +1256,9 @@
       "releaseDate": "15/01/2016"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1039945866",
       "name": "Electoral Map Maker 2024",
@@ -1256,9 +1278,9 @@
       "releaseDate": "29/01/2016"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "936262497",
       "name": "Hungarian TV+",
@@ -1278,9 +1300,9 @@
       "releaseDate": "13/11/2014"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "904059445",
       "name": "Headlines RSS",
@@ -1300,9 +1322,9 @@
       "releaseDate": "13/08/2014"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6736364779",
       "name": "Loop - Reproductor de podcasts",
@@ -1322,9 +1344,9 @@
       "releaseDate": "19/02/2025"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6590631281",
       "name": "Jubilee25",
@@ -1344,9 +1366,9 @@
       "releaseDate": "24/12/2024"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1487449663",
       "name": "NewsFlash RSS",
@@ -1366,9 +1388,9 @@
       "releaseDate": "14/12/2019"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1255399496",
       "name": "华人头条(专业版)-海外华人新闻资讯生活平台",
@@ -1388,9 +1410,9 @@
       "releaseDate": "13/10/2017"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "471239806",
       "name": "ApergiaGR Plus",
@@ -1410,9 +1432,9 @@
       "releaseDate": "12/10/2011"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "403879490",
       "name": "Sylfeed",

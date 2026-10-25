@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-24",
-  "collectedAt": "2026-10-24T05:33:50.711Z",
-  "sourceUpdatedAt": "2026-10-23T22:33:50-07:00",
+  "snapshotDate": "2026-10-25",
+  "collectedAt": "2026-10-25T05:50:06.896Z",
+  "sourceUpdatedAt": "2026-10-24T22:50:06-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/fr/rss/toppaidapplications/limit=100/genre=6013/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "健康健美"
   },
   "requestedLimit": 100,
-  "expectedCount": 95,
-  "actualCount": 95,
+  "expectedCount": 96,
+  "actualCount": 96,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-23",
+  "previousSnapshotDate": "2026-10-24",
   "apps": [
     {
       "rank": 1,
@@ -47,30 +47,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 5,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1062745479",
-      "name": "HeartWatch: Moniteur Cardiaque",
-      "developer": "Tantsissa",
-      "developerUrl": "https://apps.apple.com/fr/developer/tantsissa/id861650887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "7 07 2015"
-    },
-    {
-      "rank": 3,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1202650514",
       "name": "HealthFit",
@@ -90,9 +68,31 @@
       "releaseDate": "25 25 2017"
     },
     {
+      "rank": 3,
+      "previousRank": 16,
+      "rankChange": 13,
+      "isNew": false,
+      "appleId": "963034692",
+      "name": "Streaks",
+      "developer": "Crunchy Bagel",
+      "developerUrl": "https://apps.apple.com/fr/developer/crunchy-bagel/id1084571682?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/78/80c57847-4c05-f8b4-1a8b-3e42423e4392/orange_normal-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/streaks/id963034692?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "31 31 2015"
+    },
+    {
       "rank": 4,
-      "previousRank": 2,
-      "rankChange": -2,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1164801111",
       "name": "AutoSleep - Tracker de sommeil",
@@ -113,30 +113,52 @@
     },
     {
       "rank": 5,
-      "previousRank": 7,
-      "rankChange": 2,
+      "previousRank": 2,
+      "rankChange": -3,
       "isNew": false,
-      "appleId": "363978811",
-      "name": "Seconds Pro Interval Timer",
-      "developer": "Runloop Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/runloop-ltd/id325563420?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e5/25/04e525d1-7515-17e7-12e8-c2f49cfd9b72/pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/seconds-pro-interval-timer/id363978811?uo=2",
+      "appleId": "1062745479",
+      "name": "HeartWatch: Moniteur Cardiaque",
+      "developer": "Tantsissa",
+      "developerUrl": "https://apps.apple.com/fr/developer/tantsissa/id861650887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479?uo=2",
       "price": {
-        "amount": 8.99,
+        "amount": 9.99,
         "currency": "EUR",
-        "formatted": "8,99 €"
+        "formatted": "9,99 €"
       },
       "primaryCategory": {
         "id": "6013",
         "name": "Forme et santé"
       },
-      "releaseDate": "13 13 2010"
+      "releaseDate": "7 07 2015"
     },
     {
       "rank": 6,
-      "previousRank": 10,
-      "rankChange": 4,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6822681002",
+      "name": "Your Stressy",
+      "developer": "Ervo Labs",
+      "developerUrl": "https://apps.apple.com/fr/developer/ervo-labs/id1327933479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/7c/f7/297cf7be-edf1-23ba-f523-eeb27e8f0ca6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/your-stressy/id6822681002?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "20 20 2026"
+    },
+    {
+      "rank": 7,
+      "previousRank": 6,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6781699989",
       "name": "SportVitals: Daily Readiness",
@@ -156,251 +178,9 @@
       "releaseDate": "26 26 2026"
     },
     {
-      "rank": 7,
-      "previousRank": 31,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "1422489202",
-      "name": "ProBikeGarage: Bicycle tracker",
-      "developer": "Jaime Gil de Sagredo Luna",
-      "developerUrl": "https://apps.apple.com/fr/developer/jaime-gil-de-sagredo-luna/id1422489201?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ea/f3/34eaf34e-9cdd-26e3-e32b-c557e6e0aa87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/probikegarage-bicycle-tracker/id1422489202?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "29 29 2019"
-    },
-    {
       "rank": 8,
-      "previousRank": 43,
-      "rankChange": 35,
-      "isNew": false,
-      "appleId": "326082487",
-      "name": "Additifs alimentaires",
-      "developer": "TappyTaps s.r.o.",
-      "developerUrl": "https://apps.apple.com/fr/developer/tappytaps-s-r-o/id326082490?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/68/46/7f684661-47a6-436a-3c07-26b98d981916/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/additifs-alimentaires/id326082487?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "13 13 2009"
-    },
-    {
-      "rank": 9,
-      "previousRank": 46,
-      "rankChange": 37,
-      "isNew": false,
-      "appleId": "862773459",
-      "name": "Noisli",
-      "developer": "Noisli Labs UG (haftungsbeschraenkt)",
-      "developerUrl": "https://apps.apple.com/fr/developer/noisli-labs-ug-haftungsbeschraenkt/id862773462?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/cb/2c/5e/cb2c5e44-c524-7917-7930-92056afdb21f/mzl.hkswwzmb.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/noisli/id862773459?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "8 08 2014"
-    },
-    {
-      "rank": 10,
-      "previousRank": 87,
-      "rankChange": 77,
-      "isNew": false,
-      "appleId": "960716999",
-      "name": "Noizio — focus, relax, sleep",
-      "developer": "Kyrylo Kovalin",
-      "developerUrl": "https://apps.apple.com/fr/developer/kyrylo-kovalin/id928871588?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/cf/8c/23cf8cf2-a78b-a670-0c84-060ad19ac034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/noizio-focus-relax-sleep/id960716999?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "30 30 2015"
-    },
-    {
-      "rank": 11,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "292809726",
-      "name": "iWoman: Règles & Cycle",
-      "developer": "Stefan Eipeltauer",
-      "developerUrl": "https://apps.apple.com/fr/developer/stefan-eipeltauer/id652483077?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/82/66/f18266ff-75c3-4f46-b555-92a973d1ec53/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/iwoman-r%C3%A8gles-cycle/id292809726?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "9 09 2008"
-    },
-    {
-      "rank": 12,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6757824447",
-      "name": "wPad - Suivez vos Marches",
-      "developer": "Ahmet Sina Ustem",
-      "developerUrl": "https://apps.apple.com/fr/developer/ahmet-sina-ustem/id1860702098?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ad/df/17addf22-6a52-51b1-2d10-75c65fb3531b/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/wpad-suivez-vos-marches/id6757824447?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "6 06 2026"
-    },
-    {
-      "rank": 13,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6757488839",
-      "name": "Correlate - Health Insights",
-      "developer": "INJAY",
-      "developerUrl": "https://apps.apple.com/fr/developer/injay/id529429990?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/88/ef/0d88ef48-76a9-d49d-9e1e-588ec6c7e2c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/correlate-health-insights/id6757488839?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "13 13 2026"
-    },
-    {
-      "rank": 14,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6572327221",
-      "name": "Tilted Prism",
-      "developer": "Hugo Branco",
-      "developerUrl": "https://apps.apple.com/fr/developer/hugo-branco/id1669100326?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d0/e3/c8d0e393-f5d6-8662-2426-99984949f515/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/tilted-prism/id6572327221?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "27 27 2024"
-    },
-    {
-      "rank": 15,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6468985169",
-      "name": "Parcode",
-      "developer": "Whisk Mobile Development Pty Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/whisk-mobile-development-pty-ltd/id415115816?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/3a/a4/453aa438-0090-1838-8b51-ba7b1df46929/AppIcon-1x_U007ewatch-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/parcode/id6468985169?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "17 17 2023"
-    },
-    {
-      "rank": 16,
-      "previousRank": 4,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "963034692",
-      "name": "Streaks",
-      "developer": "Crunchy Bagel",
-      "developerUrl": "https://apps.apple.com/fr/developer/crunchy-bagel/id1084571682?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/78/80c57847-4c05-f8b4-1a8b-3e42423e4392/orange_normal-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/streaks/id963034692?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "31 31 2015"
-    },
-    {
-      "rank": 17,
-      "previousRank": 6,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "1536343162",
-      "name": "Arrêter l'alcool -EasyQuit Pro",
-      "developer": "Mario Herzberg",
-      "developerUrl": "https://apps.apple.com/fr/developer/mario-herzberg/id1460863486?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ef/a4/b5efa4e7-8d5a-333e-89c3-fc69fdd5c785/AppIcon-Pro-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit-pro/id1536343162?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "23 23 2020"
-    },
-    {
-      "rank": 18,
-      "previousRank": 8,
-      "rankChange": -10,
+      "previousRank": 18,
+      "rankChange": 10,
       "isNew": false,
       "appleId": "686923970",
       "name": "HRV4Training",
@@ -420,9 +200,471 @@
       "releaseDate": "14 14 2013"
     },
     {
+      "rank": 9,
+      "previousRank": 29,
+      "rankChange": 20,
+      "isNew": false,
+      "appleId": "1391084560",
+      "name": "Modern Essentials Plus",
+      "developer": "AromaTools",
+      "developerUrl": "https://apps.apple.com/fr/developer/aromatools/id533956713?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e6/c1/80e6c1ea-636a-9310-ba34-9100ac69528b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/modern-essentials-plus/id1391084560?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "31 31 2018"
+    },
+    {
+      "rank": 10,
+      "previousRank": 34,
+      "rankChange": 24,
+      "isNew": false,
+      "appleId": "1006992769",
+      "name": "Rire plus, Exercices de rire",
+      "developer": "The School of Laughter Yoga",
+      "developerUrl": "https://apps.apple.com/fr/developer/the-school-of-laughter-yoga/id1006992768?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/00/fe/6f00fe80-e9fd-54a0-43db-ad8ebfda8e7c/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/rire-plus-exercices-de-rire/id1006992769?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "11 11 2015"
+    },
+    {
+      "rank": 11,
+      "previousRank": 51,
+      "rankChange": 40,
+      "isNew": false,
+      "appleId": "459097411",
+      "name": "Stark Suspension",
+      "developer": "Postra AB",
+      "developerUrl": "https://apps.apple.com/fr/developer/postra-ab/id1807937957?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/b8/fa/29b8fa01-3413-f643-a099-4c868d45ab8e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/stark-suspension/id459097411?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "19 19 2011"
+    },
+    {
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1561052311",
+      "name": "Dunstan Baby",
+      "developer": "Dunstan Baby Language",
+      "developerUrl": "https://apps.apple.com/fr/developer/dunstan-baby-language/id1436688891?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/3c/04/023c0407-80e8-474e-4abd-f88284c98f82/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/dunstan-baby/id1561052311?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "23 23 2021"
+    },
+    {
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1440259704",
+      "name": "Airway Gym",
+      "developer": "Apnea Bye, S.L.",
+      "developerUrl": "https://apps.apple.com/fr/developer/apnea-bye-s-l/id1440259703?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/cf/5e/24cf5e4f-a1c2-4da0-74d4-0afb8668b861/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/airway-gym/id1440259704?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "28 28 2018"
+    },
+    {
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6475313748",
+      "name": "GPX Splice",
+      "developer": "Peter Elmers",
+      "developerUrl": "https://apps.apple.com/fr/developer/peter-elmers/id1723882854?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/7f/16/4a7f164c-078d-454a-93e3-9e8cbe49094a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/gpx-splice/id6475313748?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "19 19 2024"
+    },
+    {
+      "rank": 15,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1476816654",
+      "name": "Min baby – det første år",
+      "developer": "Komiteen for Sundhedsoplysning",
+      "developerUrl": "https://apps.apple.com/fr/developer/komiteen-for-sundhedsoplysning/id533098686?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/0f/c3/f80fc32b-99ab-3c2a-7b69-6d170291bc44/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/min-baby-det-f%C3%B8rste-%C3%A5r/id1476816654?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "20 20 2020"
+    },
+    {
+      "rank": 16,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6818599474",
+      "name": "BenchRep GymTracker",
+      "developer": "Anass El youbi",
+      "developerUrl": "https://apps.apple.com/fr/developer/anass-el-youbi/id1845462595?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/87/bb/c987bb0d-9a24-cdf7-0375-606028cd2c88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/benchrep-gymtracker/id6818599474?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "24 24 2026"
+    },
+    {
+      "rank": 17,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6812412956",
+      "name": "Suivi Lentilles : LENSLOG",
+      "developer": "Aneesh Pradeep",
+      "developerUrl": "https://apps.apple.com/fr/developer/aneesh-pradeep/id1836157821?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a0/e4/61a0e4a6-728f-b378-8cf7-2d61b4f5994a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/suivi-lentilles-lenslog/id6812412956?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "4 04 2026"
+    },
+    {
+      "rank": 18,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6769501341",
+      "name": "HealthLog - Companion App",
+      "developer": "Marc Bombeck",
+      "developerUrl": "https://apps.apple.com/fr/developer/marc-bombeck/id1896663867?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/cb/34/32cb3465-f0cb-52de-f4af-c0ef1b5e1643/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/healthlog-companion-app/id6769501341?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "20 20 2026"
+    },
+    {
       "rank": 19,
+      "previousRank": 5,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "363978811",
+      "name": "Seconds Pro Interval Timer",
+      "developer": "Runloop Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/runloop-ltd/id325563420?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e5/25/04e525d1-7515-17e7-12e8-c2f49cfd9b72/pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/seconds-pro-interval-timer/id363978811?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "13 13 2010"
+    },
+    {
+      "rank": 20,
+      "previousRank": 7,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "1422489202",
+      "name": "ProBikeGarage: Bicycle tracker",
+      "developer": "Jaime Gil de Sagredo Luna",
+      "developerUrl": "https://apps.apple.com/fr/developer/jaime-gil-de-sagredo-luna/id1422489201?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ea/f3/34eaf34e-9cdd-26e3-e32b-c557e6e0aa87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/probikegarage-bicycle-tracker/id1422489202?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "29 29 2019"
+    },
+    {
+      "rank": 21,
+      "previousRank": 8,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "326082487",
+      "name": "Additifs alimentaires",
+      "developer": "TappyTaps s.r.o.",
+      "developerUrl": "https://apps.apple.com/fr/developer/tappytaps-s-r-o/id326082490?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/68/46/7f684661-47a6-436a-3c07-26b98d981916/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/additifs-alimentaires/id326082487?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "13 13 2009"
+    },
+    {
+      "rank": 22,
       "previousRank": 9,
-      "rankChange": -10,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "862773459",
+      "name": "Noisli",
+      "developer": "Noisli Labs UG (haftungsbeschraenkt)",
+      "developerUrl": "https://apps.apple.com/fr/developer/noisli-labs-ug-haftungsbeschraenkt/id862773462?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/cb/2c/5e/cb2c5e44-c524-7917-7930-92056afdb21f/mzl.hkswwzmb.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/noisli/id862773459?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "8 08 2014"
+    },
+    {
+      "rank": 23,
+      "previousRank": 10,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "960716999",
+      "name": "Noizio — focus, relax, sleep",
+      "developer": "Kyrylo Kovalin",
+      "developerUrl": "https://apps.apple.com/fr/developer/kyrylo-kovalin/id928871588?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/cf/8c/23cf8cf2-a78b-a670-0c84-060ad19ac034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/noizio-focus-relax-sleep/id960716999?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "30 30 2015"
+    },
+    {
+      "rank": 24,
+      "previousRank": 11,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "292809726",
+      "name": "iWoman: Règles & Cycle",
+      "developer": "Stefan Eipeltauer",
+      "developerUrl": "https://apps.apple.com/fr/developer/stefan-eipeltauer/id652483077?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/82/66/f18266ff-75c3-4f46-b555-92a973d1ec53/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/iwoman-r%C3%A8gles-cycle/id292809726?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "9 09 2008"
+    },
+    {
+      "rank": 25,
+      "previousRank": 12,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6757824447",
+      "name": "wPad - Suivez vos Marches",
+      "developer": "Ahmet Sina Ustem",
+      "developerUrl": "https://apps.apple.com/fr/developer/ahmet-sina-ustem/id1860702098?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/6d/48/2d6d4809-3459-4a29-5c69-8c5a800ebc10/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/wpad-suivez-vos-marches/id6757824447?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "6 06 2026"
+    },
+    {
+      "rank": 26,
+      "previousRank": 13,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6757488839",
+      "name": "Correlate - Health Insights",
+      "developer": "INJAY",
+      "developerUrl": "https://apps.apple.com/fr/developer/injay/id529429990?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/88/ef/0d88ef48-76a9-d49d-9e1e-588ec6c7e2c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/correlate-health-insights/id6757488839?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "13 13 2026"
+    },
+    {
+      "rank": 27,
+      "previousRank": 14,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6572327221",
+      "name": "Tilted Prism",
+      "developer": "Hugo Branco",
+      "developerUrl": "https://apps.apple.com/fr/developer/hugo-branco/id1669100326?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d0/e3/c8d0e393-f5d6-8662-2426-99984949f515/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/tilted-prism/id6572327221?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "27 27 2024"
+    },
+    {
+      "rank": 28,
+      "previousRank": 15,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6468985169",
+      "name": "Parcode",
+      "developer": "Whisk Mobile Development Pty Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/whisk-mobile-development-pty-ltd/id415115816?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/3a/a4/453aa438-0090-1838-8b51-ba7b1df46929/AppIcon-1x_U007ewatch-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/parcode/id6468985169?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "17 17 2023"
+    },
+    {
+      "rank": 29,
+      "previousRank": 17,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "1536343162",
+      "name": "Arrêter l'alcool -EasyQuit Pro",
+      "developer": "Mario Herzberg",
+      "developerUrl": "https://apps.apple.com/fr/developer/mario-herzberg/id1460863486?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ef/a4/b5efa4e7-8d5a-333e-89c3-fc69fdd5c785/AppIcon-Pro-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit-pro/id1536343162?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "23 23 2020"
+    },
+    {
+      "rank": 30,
+      "previousRank": 19,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "735558890",
       "name": "Mon Coach IG Bas",
@@ -442,9 +684,9 @@
       "releaseDate": "14 14 2013"
     },
     {
-      "rank": 20,
-      "previousRank": 11,
-      "rankChange": -9,
+      "rank": 31,
+      "previousRank": 20,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "687568871",
       "name": "Routie ~ GPS fitness tracker",
@@ -464,9 +706,9 @@
       "releaseDate": "23 23 2013"
     },
     {
-      "rank": 21,
-      "previousRank": 12,
-      "rankChange": -9,
+      "rank": 32,
+      "previousRank": 21,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "6746334491",
       "name": "GlucoseWatch",
@@ -486,9 +728,9 @@
       "releaseDate": "27 27 2025"
     },
     {
-      "rank": 22,
-      "previousRank": 13,
-      "rankChange": -9,
+      "rank": 33,
+      "previousRank": 22,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "6757972468",
       "name": "FitToCal - Workout Calendar",
@@ -508,9 +750,9 @@
       "releaseDate": "30 30 2026"
     },
     {
-      "rank": 23,
-      "previousRank": 14,
-      "rankChange": -9,
+      "rank": 34,
+      "previousRank": 23,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "507372241",
       "name": "Ojavi - Ayurveda Companion",
@@ -530,31 +772,9 @@
       "releaseDate": "2 02 2012"
     },
     {
-      "rank": 24,
-      "previousRank": 15,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "6758260279",
-      "name": "SenseSoothe",
-      "developer": "George DeLair",
-      "developerUrl": "https://apps.apple.com/fr/developer/george-delair/id1802917911?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/36/78/a43678d4-a4e6-2712-6895-4d025a705bfd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/sensesoothe/id6758260279?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "27 27 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 16,
-      "rankChange": -9,
+      "rank": 35,
+      "previousRank": 25,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6766522448",
       "name": "RideERG",
@@ -574,30 +794,8 @@
       "releaseDate": "24 24 2026"
     },
     {
-      "rank": 26,
-      "previousRank": 17,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "6758910859",
-      "name": "Stim: ADHD Sensory Calm",
-      "developer": "Elliot Wright",
-      "developerUrl": "https://apps.apple.com/fr/developer/elliot-wright/id1871743509?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/b7/98acb786-51a3-b927-ffae-ff19a5375f7d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/stim-adhd-sensory-calm/id6758910859?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "10 10 2026"
-    },
-    {
-      "rank": 27,
-      "previousRank": 18,
+      "rank": 36,
+      "previousRank": 27,
       "rankChange": -9,
       "isNew": false,
       "appleId": "1044950341",
@@ -618,8 +816,8 @@
       "releaseDate": "26 26 2015"
     },
     {
-      "rank": 28,
-      "previousRank": 19,
+      "rank": 37,
+      "previousRank": 28,
       "rankChange": -9,
       "isNew": false,
       "appleId": "410413185",
@@ -640,251 +838,9 @@
       "releaseDate": "12 12 2011"
     },
     {
-      "rank": 29,
-      "previousRank": 20,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1391084560",
-      "name": "Modern Essentials Plus",
-      "developer": "AromaTools",
-      "developerUrl": "https://apps.apple.com/fr/developer/aromatools/id533956713?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e6/c1/80e6c1ea-636a-9310-ba34-9100ac69528b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/modern-essentials-plus/id1391084560?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "31 31 2018"
-    },
-    {
-      "rank": 30,
-      "previousRank": 21,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1210251567",
-      "name": "SleepTown",
-      "developer": "SEEKRTECH CO., LTD.",
-      "developerUrl": "https://apps.apple.com/fr/developer/seekrtech-co-ltd/id469475888?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/50/34/ce5034be-1495-be81-ba0c-9c80fa8a8710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/sleeptown/id1210251567?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "2 02 2017"
-    },
-    {
-      "rank": 31,
-      "previousRank": 22,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1073907652",
-      "name": "Cardiographe",
-      "developer": "MacroPinch Ltd.",
-      "developerUrl": "https://apps.apple.com/fr/developer/macropinch-ltd/id441079432?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/17/5d/00175dda-b519-3c97-72f0-8dd318377bcf/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/cardiographe/id1073907652?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "23 23 2016"
-    },
-    {
-      "rank": 32,
-      "previousRank": 23,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "379485721",
-      "name": "Blood Type Diet®",
-      "developer": "D'Adamo Personalized Nutrition®",
-      "developerUrl": "https://apps.apple.com/fr/developer/dadamo-personalized-nutrition/id379485724?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c5/c1/08c5c1a6-99a9-561c-ae1f-35196a9c0f5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/blood-type-diet/id379485721?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "6 06 2010"
-    },
-    {
-      "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1590924299",
-      "name": "Float Control: VESC Companion",
-      "developer": "Davorin Mista",
-      "developerUrl": "https://apps.apple.com/fr/developer/davorin-mista/id1590924301?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/3d/a2/953da22a-46e4-9777-2870-11f31be7a8c7/FC-Glass-Icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/float-control-vesc-companion/id1590924299?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "19 19 2021"
-    },
-    {
-      "rank": 34,
-      "previousRank": 24,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1006992769",
-      "name": "Rire plus, Exercices de rire",
-      "developer": "The School of Laughter Yoga",
-      "developerUrl": "https://apps.apple.com/fr/developer/the-school-of-laughter-yoga/id1006992768?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/00/fe/6f00fe80-e9fd-54a0-43db-ad8ebfda8e7c/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/rire-plus-exercices-de-rire/id1006992769?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "11 11 2015"
-    },
-    {
-      "rank": 35,
-      "previousRank": 25,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6778963689",
-      "name": "TriExport - Triathlon Splits",
-      "developer": "Josef Sekava",
-      "developerUrl": "https://apps.apple.com/fr/developer/josef-sekava/id1896259078?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9b/f8/559bf8db-ec8b-a43d-41db-9f46645797af/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/triexport-triathlon-splits/id6778963689?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "16 16 2026"
-    },
-    {
-      "rank": 36,
-      "previousRank": 27,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1408618623",
-      "name": "kipkam - Breathing & Calm",
-      "developer": "EUIHYUNG JUNG",
-      "developerUrl": "https://apps.apple.com/fr/developer/euihyung-jung/id1738352837?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/24/bb/e324bbe8-7918-d17e-d579-ccc1f1320c09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/kipkam-breathing-calm/id1408618623?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "6 06 2018"
-    },
-    {
-      "rank": 37,
-      "previousRank": 28,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1673757578",
-      "name": "SleepingTemp",
-      "developer": "Kevin Reutter",
-      "developerUrl": "https://apps.apple.com/fr/developer/kevin-reutter/id1273424431?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/96/ff/5496ff74-f6d0-de3f-5b3e-1dd345e5474f/SleepingTemp-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/sleepingtemp/id1673757578?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "9 09 2023"
-    },
-    {
       "rank": 38,
-      "previousRank": 26,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "6502886443",
-      "name": "FlexiAlarm: Réveil Apple Watch",
-      "developer": "Nathan Woolmore",
-      "developerUrl": "https://apps.apple.com/fr/developer/nathan-woolmore/id1530667458?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/02/e1/4202e1f6-9183-6f87-c898-2afd98de32d3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/flexialarm-r%C3%A9veil-apple-watch/id6502886443?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "2 02 2024"
-    },
-    {
-      "rank": 39,
-      "previousRank": 29,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1663057269",
-      "name": "Touch For Health - Animated",
-      "developer": "remy cutard",
-      "developerUrl": "https://apps.apple.com/fr/developer/remy-cutard/id330288053?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/36/2e/3e362e5f-631e-400f-4173-737c7f637352/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/touch-for-health-animated/id1663057269?uo=2",
-      "price": {
-        "amount": 34.99,
-        "currency": "EUR",
-        "formatted": "34,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "5 05 2023"
-    },
-    {
-      "rank": 40,
-      "previousRank": 38,
-      "rankChange": -2,
+      "previousRank": 40,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "290231956",
       "name": "iPeriod +",
@@ -904,9 +860,9 @@
       "releaseDate": "12 12 2019"
     },
     {
-      "rank": 41,
-      "previousRank": 39,
-      "rankChange": -2,
+      "rank": 39,
+      "previousRank": 41,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "441079429",
       "name": "Cardiographe Classique",
@@ -926,9 +882,9 @@
       "releaseDate": "3 03 2011"
     },
     {
-      "rank": 42,
-      "previousRank": 40,
-      "rankChange": -2,
+      "rank": 40,
+      "previousRank": 42,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "511734493",
       "name": "Calories minute",
@@ -948,9 +904,9 @@
       "releaseDate": "16 16 2012"
     },
     {
-      "rank": 43,
-      "previousRank": 41,
-      "rankChange": -2,
+      "rank": 41,
+      "previousRank": 43,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "573916046",
       "name": "Fitness Point Pro: Gym, Maison",
@@ -970,9 +926,9 @@
       "releaseDate": "4 04 2012"
     },
     {
-      "rank": 44,
-      "previousRank": 42,
-      "rankChange": -2,
+      "rank": 42,
+      "previousRank": 44,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "331529422",
       "name": "Relax Melodies P: Sleep Sounds",
@@ -992,9 +948,9 @@
       "releaseDate": "23 23 2009"
     },
     {
-      "rank": 45,
-      "previousRank": 44,
-      "rankChange": -1,
+      "rank": 43,
+      "previousRank": 45,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "443646748",
       "name": "Fitness Amis+",
@@ -1014,9 +970,9 @@
       "releaseDate": "15 15 2011"
     },
     {
-      "rank": 46,
-      "previousRank": 45,
-      "rankChange": -1,
+      "rank": 44,
+      "previousRank": 46,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "293760817",
       "name": "Premiers secours",
@@ -1036,9 +992,31 @@
       "releaseDate": "18 18 2008"
     },
     {
-      "rank": 47,
+      "rank": 45,
+      "previousRank": 30,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "1210251567",
+      "name": "SleepTown",
+      "developer": "SEEKRTECH CO., LTD.",
+      "developerUrl": "https://apps.apple.com/fr/developer/seekrtech-co-ltd/id469475888?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/50/34/ce5034be-1495-be81-ba0c-9c80fa8a8710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/sleeptown/id1210251567?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "2 02 2017"
+    },
+    {
+      "rank": 46,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "448200679",
       "name": "Méditation & Musique Relax Pro",
@@ -1058,9 +1036,9 @@
       "releaseDate": "15 15 2011"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "289894882",
       "name": "White Noise",
@@ -1080,9 +1058,9 @@
       "releaseDate": "31 31 2019"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "469067434",
       "name": "Entraînements Quotidiens",
@@ -1102,9 +1080,9 @@
       "releaseDate": "31 31 2011"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "349630670",
       "name": "Maybe Baby™ Fertility Tracker",
@@ -1124,31 +1102,9 @@
       "releaseDate": "18 18 2010"
     },
     {
-      "rank": 51,
-      "previousRank": 51,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "459097411",
-      "name": "Stark Suspension",
-      "developer": "Postra AB",
-      "developerUrl": "https://apps.apple.com/fr/developer/postra-ab/id1807937957?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/b8/fa/29b8fa01-3413-f643-a099-4c868d45ab8e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/stark-suspension/id459097411?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "19 19 2011"
-    },
-    {
-      "rank": 52,
+      "rank": 50,
       "previousRank": 52,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "395816966",
       "name": "Exercices Quotidien Abdo",
@@ -1168,9 +1124,9 @@
       "releaseDate": "7 07 2010"
     },
     {
-      "rank": 53,
+      "rank": 51,
       "previousRank": 53,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "429135422",
       "name": "WomanLog Pro Calendrier",
@@ -1190,9 +1146,9 @@
       "releaseDate": "7 07 2011"
     },
     {
-      "rank": 54,
+      "rank": 52,
       "previousRank": 54,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "395697237",
       "name": "Vital-EQ Respiroguide Pro",
@@ -1212,9 +1168,9 @@
       "releaseDate": "6 06 2010"
     },
     {
-      "rank": 55,
+      "rank": 53,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "347400507",
       "name": "Pocket Yoga",
@@ -1234,9 +1190,9 @@
       "releaseDate": "20 20 2010"
     },
     {
-      "rank": 56,
+      "rank": 54,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "476660677",
       "name": "iMusculation F.V.E",
@@ -1256,9 +1212,9 @@
       "releaseDate": "4 04 2011"
     },
     {
-      "rank": 57,
+      "rank": 55,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "978601825",
       "name": "Centrifugo, Recettes pour Jus de Fruits et Légumes",
@@ -1278,9 +1234,9 @@
       "releaseDate": "1 01 2015"
     },
     {
-      "rank": 58,
+      "rank": 56,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "347858530",
       "name": "Map My Tracks: pro",
@@ -1300,9 +1256,9 @@
       "releaseDate": "26 26 2010"
     },
     {
-      "rank": 59,
+      "rank": 57,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "352247139",
       "name": "Calorie Counter PRO MyNetDiary",
@@ -1322,9 +1278,9 @@
       "releaseDate": "2 02 2010"
     },
     {
-      "rank": 60,
+      "rank": 58,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "846205070",
       "name": "Sons Sommeil HQ",
@@ -1344,9 +1300,9 @@
       "releaseDate": "10 10 2014"
     },
     {
-      "rank": 61,
+      "rank": 59,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "418288707",
       "name": "LADYTIMER ovulation et règles",
@@ -1366,9 +1322,9 @@
       "releaseDate": "10 10 2011"
     },
     {
-      "rank": 62,
+      "rank": 60,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "410965399",
       "name": "iSmoothRun",
@@ -1388,9 +1344,9 @@
       "releaseDate": "18 18 2011"
     },
     {
-      "rank": 63,
+      "rank": 61,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "307219387",
       "name": "BrainWave : Série Binaurale 40",
@@ -1410,9 +1366,9 @@
       "releaseDate": "26 26 2009"
     },
     {
-      "rank": 64,
-      "previousRank": 30,
-      "rankChange": -34,
+      "rank": 62,
+      "previousRank": 64,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1411465636",
       "name": "Workout Export",
@@ -1432,9 +1388,9 @@
       "releaseDate": "9 09 2018"
     },
     {
-      "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "rank": 63,
+      "previousRank": 65,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1467268582",
       "name": "Velites WOD Interval Timer",
@@ -1454,9 +1410,9 @@
       "releaseDate": "20 20 2019"
     },
     {
-      "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "rank": 64,
+      "previousRank": 66,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "670012039",
       "name": "Entraînement Fractionné",
@@ -1476,9 +1432,9 @@
       "releaseDate": "18 18 2013"
     },
     {
-      "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "rank": 65,
+      "previousRank": 67,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "687421118",
       "name": "Buddhify: Guided Meditation",
@@ -1498,9 +1454,9 @@
       "releaseDate": "1 01 2014"
     },
     {
-      "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
+      "rank": 66,
+      "previousRank": 68,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "483994942",
       "name": "QuitNow PRO",
@@ -1520,9 +1476,9 @@
       "releaseDate": "10 10 2011"
     },
     {
-      "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "rank": 67,
+      "previousRank": 69,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "287941226",
       "name": "True Weight",
@@ -1542,9 +1498,9 @@
       "releaseDate": "12 12 2019"
     },
     {
-      "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
+      "rank": 68,
+      "previousRank": 70,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "582719476",
       "name": "Instant Fitness: Workout Trainer",
@@ -1564,9 +1520,31 @@
       "releaseDate": "13 13 2012"
     },
     {
-      "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "rank": 69,
+      "previousRank": 31,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "1073907652",
+      "name": "Cardiographe",
+      "developer": "MacroPinch Ltd.",
+      "developerUrl": "https://apps.apple.com/fr/developer/macropinch-ltd/id441079432?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/17/5d/00175dda-b519-3c97-72f0-8dd318377bcf/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/cardiographe/id1073907652?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "23 23 2016"
+    },
+    {
+      "rank": 70,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "448474423",
       "name": "Couch to 5K® - Run training",
@@ -1586,9 +1564,9 @@
       "releaseDate": "10 10 2011"
     },
     {
-      "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "rank": 71,
+      "previousRank": 72,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "434217327",
       "name": "GPS Сompteur VTT & Vélo PRO",
@@ -1608,9 +1586,9 @@
       "releaseDate": "13 13 2011"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "rank": 72,
+      "previousRank": 73,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "502778111",
       "name": "CaloryGuard Pro",
@@ -1630,9 +1608,9 @@
       "releaseDate": "24 24 2012"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "rank": 73,
+      "previousRank": 74,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1179236591",
       "name": "Sommeil Tracker",
@@ -1652,9 +1630,9 @@
       "releaseDate": "30 30 2016"
     },
     {
-      "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "rank": 74,
+      "previousRank": 75,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "398550057",
       "name": "Exercices Quotidien Fessiers",
@@ -1674,9 +1652,9 @@
       "releaseDate": "4 04 2010"
     },
     {
-      "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "rank": 75,
+      "previousRank": 76,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "448292306",
       "name": "Mon coach minceur",
@@ -1696,9 +1674,9 @@
       "releaseDate": "14 14 2011"
     },
     {
-      "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "rank": 76,
+      "previousRank": 77,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "769155678",
       "name": "CARROT Fit",
@@ -1718,9 +1696,9 @@
       "releaseDate": "30 30 2014"
     },
     {
-      "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "rank": 77,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "566752651",
       "name": "Rainy Mood",
@@ -1740,9 +1718,9 @@
       "releaseDate": "8 08 2012"
     },
     {
-      "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "rank": 78,
+      "previousRank": 79,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "493912733",
       "name": "Adrian James: 6 Pack Abs",
@@ -1762,9 +1740,9 @@
       "releaseDate": "16 16 2012"
     },
     {
-      "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "rank": 79,
+      "previousRank": 80,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1048636063",
       "name": "Gym Guide Pro workouts",
@@ -1784,9 +1762,9 @@
       "releaseDate": "4 04 2015"
     },
     {
-      "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "rank": 80,
+      "previousRank": 81,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "356844545",
       "name": "Horoscope HD Pro",
@@ -1806,9 +1784,9 @@
       "releaseDate": "20 20 2010"
     },
     {
-      "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "rank": 81,
+      "previousRank": 82,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "395652793",
       "name": "Interval Timer Pro",
@@ -1828,9 +1806,9 @@
       "releaseDate": "7 07 2010"
     },
     {
-      "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "rank": 82,
+      "previousRank": 83,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1176374647",
       "name": "HealthFace",
@@ -1850,9 +1828,9 @@
       "releaseDate": "19 19 2016"
     },
     {
-      "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "rank": 83,
+      "previousRank": 84,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "914413310",
       "name": "FitPort",
@@ -1872,9 +1850,9 @@
       "releaseDate": "25 25 2014"
     },
     {
-      "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "rank": 84,
+      "previousRank": 85,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "306954437",
       "name": "BloodPressure+Pulse Grapher",
@@ -1894,9 +1872,9 @@
       "releaseDate": "5 05 2009"
     },
     {
-      "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "rank": 85,
+      "previousRank": 86,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "882840649",
       "name": "Sérénité: Minuteur Méditation",
@@ -1916,9 +1894,9 @@
       "releaseDate": "19 19 2014"
     },
     {
-      "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "rank": 86,
+      "previousRank": 87,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1347597121",
       "name": "Box Breathe",
@@ -1938,9 +1916,9 @@
       "releaseDate": "16 16 2018"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "766098740",
       "name": "PushFit Pro",
@@ -1958,6 +1936,28 @@
         "name": "Forme et santé"
       },
       "releaseDate": "20 20 2014"
+    },
+    {
+      "rank": 88,
+      "previousRank": 39,
+      "rankChange": -49,
+      "isNew": false,
+      "appleId": "1663057269",
+      "name": "Touch For Health - Animated",
+      "developer": "remy cutard",
+      "developerUrl": "https://apps.apple.com/fr/developer/remy-cutard/id330288053?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/36/2e/3e362e5f-631e-400f-4173-737c7f637352/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/touch-for-health-animated/id1663057269?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "5 05 2023"
     },
     {
       "rank": 89,
@@ -2093,8 +2093,30 @@
     },
     {
       "rank": 95,
+      "previousRank": 32,
+      "rankChange": -63,
+      "isNew": false,
+      "appleId": "379485721",
+      "name": "Blood Type Diet®",
+      "developer": "D'Adamo Personalized Nutrition®",
+      "developerUrl": "https://apps.apple.com/fr/developer/dadamo-personalized-nutrition/id379485724?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c5/c1/08c5c1a6-99a9-561c-ae1f-35196a9c0f5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/blood-type-diet/id379485721?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "6 06 2010"
+    },
+    {
+      "rank": 96,
       "previousRank": 95,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1109404544",
       "name": "wHealth Dashboard",
