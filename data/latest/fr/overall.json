@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-28",
-  "collectedAt": "2026-10-28T06:43:59.755Z",
-  "sourceUpdatedAt": "2026-10-27T23:43:59-07:00",
+  "snapshotDate": "2026-10-29",
+  "collectedAt": "2026-10-29T06:51:03.823Z",
+  "sourceUpdatedAt": "2026-10-28T23:51:03-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/fr/rss/toppaidapplications/limit=100/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "付费总榜"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-27",
+  "previousSnapshotDate": "2026-10-28",
   "apps": [
     {
       "rank": 1,
@@ -69,30 +69,8 @@
     },
     {
       "rank": 3,
-      "previousRank": 3,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1312266285",
-      "name": "Devineuf: Jeu de Soirée Trivia",
-      "developer": "K8 APPTON G.P.",
-      "developerUrl": "https://apps.apple.com/fr/developer/k8-appton-g-p/id1896297580?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/a5/44/c1a54482-7fed-994f-b916-fbb48305f9d8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/devineuf-jeu-de-soir%C3%A9e-trivia/id1312266285?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "20 20 2018"
-    },
-    {
-      "rank": 4,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "625334537",
       "name": "Geometry Dash",
@@ -112,9 +90,53 @@
       "releaseDate": "13 13 2013"
     },
     {
+      "rank": 4,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6803329435",
+      "name": "Chromagraph Camera",
+      "developer": "Chromatic Applications LLC",
+      "developerUrl": "https://apps.apple.com/fr/developer/chromatic-applications-llc/id1599969700?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/1a/34/9d1a3404-c26d-6a84-bcee-41e567a7b9fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/chromagraph-camera/id6803329435?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14,99 €"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo et vidéo"
+      },
+      "releaseDate": "20 20 2026"
+    },
+    {
       "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1312266285",
+      "name": "Devineuf: Jeu de Soirée Trivia",
+      "developer": "K8 APPTON G.P.",
+      "developerUrl": "https://apps.apple.com/fr/developer/k8-appton-g-p/id1896297580?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/a5/44/c1a54482-7fed-994f-b916-fbb48305f9d8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/devineuf-jeu-de-soir%C3%A9e-trivia/id1312266285?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "20 20 2018"
+    },
+    {
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "373493387",
       "name": "AnkiMobile Flashcards",
@@ -134,31 +156,9 @@
       "releaseDate": "26 26 2010"
     },
     {
-      "rank": 6,
-      "previousRank": 7,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6502453075",
-      "name": "Balatro",
-      "developer": "Playstack Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/playstack-ltd/id1133080356?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/c3/2e13c321-e1b0-e958-3def-f5c3d38be1c8/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/balatro/id6502453075?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "26 26 2024"
-    },
-    {
       "rank": 7,
-      "previousRank": 6,
-      "rankChange": -1,
+      "previousRank": 7,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1477966166",
       "name": "MONOPOLY",
@@ -179,96 +179,8 @@
     },
     {
       "rank": 8,
-      "previousRank": 8,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6813841355",
-      "name": "Toastie: grilled cheese game",
-      "developer": "Tomasz Szykulski",
-      "developerUrl": "https://apps.apple.com/fr/developer/tomasz-szykulski/id6792512347?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ed/0e/85ed0eff-ae59-80bd-50e6-0646c6b66f0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/toastie-grilled-cheese-game/id6813841355?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "9 09 2026"
-    },
-    {
-      "rank": 9,
-      "previousRank": 10,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6816896250",
-      "name": "Tiny Computers",
-      "developer": "Fountain Interactive Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/fountain-interactive-ltd/id1449755670?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/eb/8832eb1c-2a6e-e82a-3300-075a0d56e5f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/tiny-computers/id6816896250?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Divertissement"
-      },
-      "releaseDate": "23 23 2026"
-    },
-    {
-      "rank": 10,
-      "previousRank": 9,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "575154654",
-      "name": "Pou",
-      "developer": "Zakeh Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/zakeh-limited/id575154657?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/60/90736025-7f90-7736-49d3-d63527ccc4a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/pou/id575154654?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "26 26 2012"
-    },
-    {
-      "rank": 11,
-      "previousRank": 11,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "932747118",
-      "name": "Shadowrocket",
-      "developer": "Shadow Launch Technology Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/shadow-launch-technology-limited/id687237009?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/2d/64242de2-a763-914f-c686-8777445b83a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/shadowrocket/id932747118?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Utilitaires"
-      },
-      "releaseDate": "13 13 2015"
-    },
-    {
-      "rank": 12,
-      "previousRank": 18,
-      "rankChange": 6,
+      "previousRank": 12,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "891194610",
       "name": "Earn to Die 2",
@@ -288,9 +200,53 @@
       "releaseDate": "20 20 2014"
     },
     {
-      "rank": 13,
-      "previousRank": 17,
-      "rankChange": 4,
+      "rank": 9,
+      "previousRank": 6,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6502453075",
+      "name": "Balatro",
+      "developer": "Playstack Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/playstack-ltd/id1133080356?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/c3/2e13c321-e1b0-e958-3def-f5c3d38be1c8/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/balatro/id6502453075?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "26 26 2024"
+    },
+    {
+      "rank": 10,
+      "previousRank": 22,
+      "rankChange": 12,
+      "isNew": false,
+      "appleId": "498732510",
+      "name": "Blitzer.de PRO",
+      "developer": "Eifrig Media",
+      "developerUrl": "https://apps.apple.com/fr/developer/eifrig-media/id393860583?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3a/21/573a21a9-c49c-9511-f709-4e0d6b5f3072/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/blitzer-de-pro/id498732510?uo=2",
+      "price": {
+        "amount": 0.49,
+        "currency": "EUR",
+        "formatted": "0,49 €"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navigation"
+      },
+      "releaseDate": "26 26 2023"
+    },
+    {
+      "rank": 11,
+      "previousRank": 13,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1406710800",
       "name": "Stardew Valley",
@@ -310,31 +266,9 @@
       "releaseDate": "24 24 2018"
     },
     {
-      "rank": 14,
-      "previousRank": 13,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "357421934",
-      "name": "PeakFinder",
-      "developer": "PeakFinder GmbH",
-      "developerUrl": "https://apps.apple.com/fr/developer/peakfinder-gmbh/id357421937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/peakfinder/id357421934?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Voyages"
-      },
-      "releaseDate": "12 12 2010"
-    },
-    {
-      "rank": 15,
-      "previousRank": 19,
-      "rankChange": 4,
+      "rank": 12,
+      "previousRank": 15,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "916366645",
       "name": "Procreate Pocket",
@@ -354,9 +288,75 @@
       "releaseDate": "17 17 2014"
     },
     {
+      "rank": 13,
+      "previousRank": 10,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "575154654",
+      "name": "Pou",
+      "developer": "Zakeh Limited",
+      "developerUrl": "https://apps.apple.com/fr/developer/zakeh-limited/id575154657?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/60/90736025-7f90-7736-49d3-d63527ccc4a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/pou/id575154654?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "26 26 2012"
+    },
+    {
+      "rank": 14,
+      "previousRank": 8,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "6813841355",
+      "name": "Toastie: grilled cheese game",
+      "developer": "Tomasz Szykulski",
+      "developerUrl": "https://apps.apple.com/fr/developer/tomasz-szykulski/id6792512347?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ed/0e/85ed0eff-ae59-80bd-50e6-0646c6b66f0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/toastie-grilled-cheese-game/id6813841355?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "9 09 2026"
+    },
+    {
+      "rank": 15,
+      "previousRank": 24,
+      "rankChange": 9,
+      "isNew": false,
+      "appleId": "6778099993",
+      "name": "Manager for Scooters",
+      "developer": "Radoslaw Marciniak",
+      "developerUrl": "https://apps.apple.com/fr/developer/radoslaw-marciniak/id6778099995?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/c2/2a5ec264-4bb3-9438-9765-d5316676cb88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/manager-for-scooters/id6778099993?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Voyages"
+      },
+      "releaseDate": "9 09 2026"
+    },
+    {
       "rank": 16,
-      "previousRank": 12,
-      "rankChange": -4,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1461751938",
       "name": "Purple Place - Classic Games",
@@ -377,74 +377,8 @@
     },
     {
       "rank": 17,
-      "previousRank": 15,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6771652722",
-      "name": "ONE PIECE: Grand Gourmet",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "developerUrl": "https://apps.apple.com/fr/developer/bandai-namco-entertainment-inc/id352305770?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/56/0b/27560b1b-8305-f9cd-9c06-6c0b09c8e5c7/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/one-piece-grand-gourmet/id6771652722?uo=2",
-      "price": {
-        "amount": 15.99,
-        "currency": "EUR",
-        "formatted": "15,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "22 22 2026"
-    },
-    {
-      "rank": 18,
-      "previousRank": 25,
-      "rankChange": 7,
-      "isNew": false,
-      "appleId": "1241909999",
-      "name": "WorkOutDoors",
-      "developer": "CCS Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/ccs-ltd/id569489568?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/workoutdoors/id1241909999?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "13 13 2017"
-    },
-    {
-      "rank": 19,
-      "previousRank": 30,
-      "rankChange": 11,
-      "isNew": false,
-      "appleId": "1474716211",
-      "name": "60 Seconds! Reatomized",
-      "developer": "Robot Gentleman sp. z o.o.",
-      "developerUrl": "https://apps.apple.com/fr/developer/robot-gentleman-sp-z-o-o/id1072395466?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/ff/04/47ff0468-ecd4-9b2e-2faa-c63c1bef4215/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/60-seconds-reatomized/id1474716211?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "25 25 2021"
-    },
-    {
-      "rank": 20,
-      "previousRank": 32,
-      "rankChange": 12,
+      "previousRank": 20,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1093131935",
       "name": "Incredibox",
@@ -464,9 +398,75 @@
       "releaseDate": "27 27 2016"
     },
     {
+      "rank": 18,
+      "previousRank": 14,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "357421934",
+      "name": "PeakFinder",
+      "developer": "PeakFinder GmbH",
+      "developerUrl": "https://apps.apple.com/fr/developer/peakfinder-gmbh/id357421937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/peakfinder/id357421934?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Voyages"
+      },
+      "releaseDate": "12 12 2010"
+    },
+    {
+      "rank": 19,
+      "previousRank": 11,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "932747118",
+      "name": "Shadowrocket",
+      "developer": "Shadow Launch Technology Limited",
+      "developerUrl": "https://apps.apple.com/fr/developer/shadow-launch-technology-limited/id687237009?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/02/4f4c0272-2fe6-777f-be0e-f4fe43c30ce4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/shadowrocket/id932747118?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Utilitaires"
+      },
+      "releaseDate": "13 13 2015"
+    },
+    {
+      "rank": 20,
+      "previousRank": 17,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6771652722",
+      "name": "ONE PIECE: Grand Gourmet",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "developerUrl": "https://apps.apple.com/fr/developer/bandai-namco-entertainment-inc/id352305770?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/56/0b/27560b1b-8305-f9cd-9c06-6c0b09c8e5c7/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/one-piece-grand-gourmet/id6771652722?uo=2",
+      "price": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "formatted": "15,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "22 22 2026"
+    },
+    {
       "rank": 21,
-      "previousRank": 16,
-      "rankChange": -5,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6759664029",
       "name": "Kingdom Rush 6: Genesis TD",
@@ -487,30 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 14,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "498732510",
-      "name": "Blitzer.de PRO",
-      "developer": "Eifrig Media",
-      "developerUrl": "https://apps.apple.com/fr/developer/eifrig-media/id393860583?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3a/21/573a21a9-c49c-9511-f709-4e0d6b5f3072/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/blitzer-de-pro/id498732510?uo=2",
-      "price": {
-        "amount": 0.49,
-        "currency": "EUR",
-        "formatted": "0,49 €"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "26 26 2023"
-    },
-    {
-      "rank": 23,
-      "previousRank": 22,
-      "rankChange": -1,
+      "previousRank": 23,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -530,185 +508,31 @@
       "releaseDate": "14 14 2026"
     },
     {
+      "rank": 23,
+      "previousRank": 9,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "6816896250",
+      "name": "Tiny Computers",
+      "developer": "Fountain Interactive Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/fountain-interactive-ltd/id1449755670?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/eb/8832eb1c-2a6e-e82a-3300-075a0d56e5f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/tiny-computers/id6816896250?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Divertissement"
+      },
+      "releaseDate": "23 23 2026"
+    },
+    {
       "rank": 24,
-      "previousRank": 23,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6778099993",
-      "name": "Manager for Scooters",
-      "developer": "Radoslaw Marciniak",
-      "developerUrl": "https://apps.apple.com/fr/developer/radoslaw-marciniak/id6778099995?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/c2/2a5ec264-4bb3-9438-9765-d5316676cb88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/manager-for-scooters/id6778099993?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Voyages"
-      },
-      "releaseDate": "9 09 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 20,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "586149216",
-      "name": "Monash FODMAP Diet",
-      "developer": "Monash University",
-      "developerUrl": "https://apps.apple.com/fr/developer/monash-university/id427380448?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/monash-fodmap-diet/id586149216?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "EUR",
-        "formatted": "8,99 €"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Médecine"
-      },
-      "releaseDate": "17 17 2012"
-    },
-    {
-      "rank": 26,
-      "previousRank": 26,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6748056918",
-      "name": "Farming Simulator 26 Mobile",
-      "developer": "GIANTS Software GmbH",
-      "developerUrl": "https://apps.apple.com/fr/developer/giants-software-gmbh/id502494443?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/06/37/63063703-9526-3108-4f84-f1e704bd783c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/farming-simulator-26-mobile/id6748056918?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "19 19 2026"
-    },
-    {
-      "rank": 27,
-      "previousRank": 21,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "837860959",
-      "name": "Mini Métro",
-      "developer": "Dinosaur Polo Club",
-      "developerUrl": "https://apps.apple.com/fr/developer/dinosaur-polo-club/id1119391227?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/51/c8/f851c84d-1e54-e03e-5eb3-d9f187a5d284/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/mini-m%C3%A9tro/id837860959?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "25 25 2015"
-    },
-    {
-      "rank": 28,
-      "previousRank": 36,
+      "previousRank": 32,
       "rankChange": 8,
-      "isNew": false,
-      "appleId": "578665578",
-      "name": "Threema. Messagerie sécurisée",
-      "developer": "Threema GmbH",
-      "developerUrl": "https://apps.apple.com/fr/developer/threema-gmbh/id535112011?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/44/40/8d444022-7333-6930-0576-919c6497c4b4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/threema-messagerie-s%C3%A9curis%C3%A9e/id578665578?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6005",
-        "name": "Réseaux sociaux"
-      },
-      "releaseDate": "29 29 2013"
-    },
-    {
-      "rank": 29,
-      "previousRank": 37,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "1089856777",
-      "name": "Fiches IDE",
-      "developer": "Julie Violet",
-      "developerUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6017",
-        "name": "Éducation"
-      },
-      "releaseDate": "9 09 2016"
-    },
-    {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "435871950",
-      "name": "HappyCow - Vegan Food Near You",
-      "developer": "HappyCow",
-      "developerUrl": "https://apps.apple.com/fr/developer/happycow/id879706735?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/2d/41/b92d4155-cfda-c2fe-6f60-ce3a7feaa725/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/happycow-vegan-food-near-you/id435871950?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Voyages"
-      },
-      "releaseDate": "11 11 2011"
-    },
-    {
-      "rank": 31,
-      "previousRank": 44,
-      "rankChange": 13,
-      "isNew": false,
-      "appleId": "6547834967",
-      "name": "Animal Crossing: Pocket Camp C",
-      "developer": "Nintendo Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/fr/developer/nintendo-co-ltd/id1062496488?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "EUR",
-        "formatted": "19,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "2 02 2024"
-    },
-    {
-      "rank": 32,
-      "previousRank": 50,
-      "rankChange": 18,
       "isNew": false,
       "appleId": "6760764479",
       "name": "Alpin Quest PRO – Outdoor GPS",
@@ -728,229 +552,31 @@
       "releaseDate": "23 23 2026"
     },
     {
-      "rank": 33,
-      "previousRank": 33,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1117998129",
-      "name": "Atlas d'anatomie humaine 2027",
-      "developer": "Visible Body Apps",
-      "developerUrl": "https://apps.apple.com/fr/developer/visible-body-apps/id1828268894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/atlas-danatomie-humaine-2027/id1117998129?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Médecine"
-      },
-      "releaseDate": "27 27 2016"
-    },
-    {
-      "rank": 34,
-      "previousRank": 40,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "6748751735",
-      "name": "Servant of the Lake",
-      "developer": "Rusty Lake",
-      "developerUrl": "https://apps.apple.com/fr/developer/rusty-lake/id979777164?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d2/d4/80d2d4b4-80b2-3117-ca0b-0317d5593a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/servant-of-the-lake/id6748751735?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "13 13 2026"
-    },
-    {
-      "rank": 35,
-      "previousRank": 24,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6822194774",
-      "name": "TypeDraw",
-      "developer": "Trautmann & Dorre GbR Shaped Agency",
-      "developerUrl": "https://apps.apple.com/fr/developer/trautmann-dorre-gbr-shaped-agency/id1784286059?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/14/15/1f1415ca-f8f8-4027-0889-83762989a123/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/typedraw/id6822194774?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivité"
-      },
-      "releaseDate": "20 20 2026"
-    },
-    {
-      "rank": 36,
-      "previousRank": 29,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "860809977",
-      "name": "Fongo World Edition",
-      "developer": "Fongo Inc.",
-      "developerUrl": "https://apps.apple.com/fr/developer/fongo-inc/id473770455?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ef/8f/63ef8f2e-5278-dee5-f527-8475c56e4c32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/fongo-world-edition/id860809977?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6005",
-        "name": "Réseaux sociaux"
-      },
-      "releaseDate": "26 26 2014"
-    },
-    {
-      "rank": 37,
-      "previousRank": 31,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "935216956",
-      "name": "Papers, Please",
-      "developer": "3909",
-      "developerUrl": "https://apps.apple.com/fr/developer/3909/id541419307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/3f/c1/973fc1ac-d8d0-028d-055d-db313fe3bd86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/papers-please/id935216956?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "12 12 2014"
-    },
-    {
-      "rank": 38,
-      "previousRank": 86,
-      "rankChange": 48,
-      "isNew": false,
-      "appleId": "1444761746",
-      "name": "RFS - Real Flight Simulator",
-      "developer": "RORTOS SRL",
-      "developerUrl": "https://apps.apple.com/fr/developer/rortos-srl/id454802333?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/21/81/40218145-70be-fc13-854c-408c034b63dd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/rfs-real-flight-simulator/id1444761746?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "23 23 2019"
-    },
-    {
-      "rank": 39,
-      "previousRank": 49,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "505365608",
-      "name": "WikiCamps Australia",
-      "developer": "WikiCamps pty ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/wikicamps-pty-ltd/id469872262?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/wikicamps-australia/id505365608?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Voyages"
-      },
-      "releaseDate": "1 01 2012"
-    },
-    {
-      "rank": 40,
-      "previousRank": 35,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6800616114",
-      "name": "play_music_theory",
-      "developer": "TALA RAE SCHLOSSBERG",
-      "developerUrl": "https://apps.apple.com/fr/developer/tala-rae-schlossberg/id6800616116?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/55/ad/6255ad6e-c89e-5d4b-8587-ca2193f2280e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/play-music-theory/id6800616114?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musique"
-      },
-      "releaseDate": "21 21 2026"
-    },
-    {
-      "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "549105915",
-      "name": "True Skate",
-      "developer": "True Axis",
-      "developerUrl": "https://apps.apple.com/fr/developer/true-axis/id337866373?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/0d/86/8b0d862e-0d84-ecb1-e784-d002e5054099/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/true-skate/id549105915?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "18 18 2012"
-    },
-    {
-      "rank": 42,
-      "previousRank": 62,
-      "rankChange": 20,
-      "isNew": false,
-      "appleId": "6463616555",
-      "name": "Les Aventuriers du Rail®",
-      "developer": "Marmalade Game Studio",
-      "developerUrl": "https://apps.apple.com/fr/developer/marmalade-game-studio/id988365603?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/d2/c6abd2e6-df22-25eb-3e37-e35e3f60ee2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/les-aventuriers-du-rail/id6463616555?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "12 12 2023"
-    },
-    {
-      "rank": 43,
+      "rank": 25,
       "previousRank": 27,
-      "rankChange": -16,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "837860959",
+      "name": "Mini Métro",
+      "developer": "Dinosaur Polo Club",
+      "developerUrl": "https://apps.apple.com/fr/developer/dinosaur-polo-club/id1119391227?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/51/c8/f851c84d-1e54-e03e-5eb3-d9f187a5d284/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/mini-m%C3%A9tro/id837860959?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "25 25 2015"
+    },
+    {
+      "rank": 26,
+      "previousRank": 43,
+      "rankChange": 17,
       "isNew": false,
       "appleId": "1631859420",
       "name": "After Inc.",
@@ -970,955 +596,9 @@
       "releaseDate": "26 26 2024"
     },
     {
-      "rank": 44,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6792509703",
-      "name": "Le Barbu - U Barbutu",
-      "developer": "anthony Mari",
-      "developerUrl": "https://apps.apple.com/fr/developer/anthony-mari/id6792509705?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/4e/ea/234eea9d-649e-c3a5-26c4-0c5b35736fba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/le-barbu-u-barbutu/id6792509703?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "18 18 2026"
-    },
-    {
-      "rank": 45,
-      "previousRank": 51,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "598581396",
-      "name": "Kingdom Rush Frontiers TD",
-      "developer": "Ironhide S.A.",
-      "developerUrl": "https://apps.apple.com/fr/developer/ironhide-s-a/id558612918?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/38/e8/9138e824-612f-bc7f-0ab7-08721351c929/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/kingdom-rush-frontiers-td/id598581396?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "6 06 2013"
-    },
-    {
-      "rank": 46,
-      "previousRank": 28,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "1505636751",
-      "name": "TeleGuard",
-      "developer": "Swisscows AG",
-      "developerUrl": "https://apps.apple.com/fr/developer/swisscows-ag/id1013972705?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/teleguard/id1505636751?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6005",
-        "name": "Réseaux sociaux"
-      },
-      "releaseDate": "19 19 2021"
-    },
-    {
-      "rank": 47,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6755858938",
-      "name": "SUMEE!",
-      "developer": "Getzemani Cruz Garcia",
-      "developerUrl": "https://apps.apple.com/fr/developer/getzemani-cruz-garcia/id1852966137?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/68/02/476802b3-e362-ad31-a110-6193dd59e944/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/sumee/id6755858938?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "17 17 2026"
-    },
-    {
-      "rank": 48,
-      "previousRank": 57,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "6755046527",
-      "name": "Dome Keeper",
-      "developer": "Raw Fury",
-      "developerUrl": "https://apps.apple.com/fr/developer/raw-fury/id1118513353?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2f/29/c12f294b-8aff-aa36-2d9c-54e554995a32/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/dome-keeper/id6755046527?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "11 11 2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 39,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6749456796",
-      "name": "Vampire Crawlers",
-      "developer": "Poncle",
-      "developerUrl": "https://apps.apple.com/fr/developer/poncle/id1655125278?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ca/59/8aca5941-6fc6-20bd-3a01-ec3a9734bcbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/vampire-crawlers/id6749456796?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "12 12 2026"
-    },
-    {
-      "rank": 50,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "841875549",
-      "name": "القاعدة النورانية",
-      "developer": "Furqan Group for Education& IT",
-      "developerUrl": "https://apps.apple.com/fr/developer/furqan-group-for-education-it/id841875552?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/62/e2/b6/62e2b6e3-6b83-444a-f6e4-96ce40774bbe/mzl.tahkhsdk.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/id841875549?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livres"
-      },
-      "releaseDate": "29 29 2014"
-    },
-    {
-      "rank": 51,
-      "previousRank": 43,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "1361525484",
-      "name": "Layton : l'étrange village HD",
-      "developer": "Level-5 Inc.",
-      "developerUrl": "https://apps.apple.com/fr/developer/level-5-inc/id555947952?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/e3/62/85e362dc-1b0d-63b6-7e2a-05f702b5273e/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/layton-l%C3%A9trange-village-hd/id1361525484?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "25 25 2018"
-    },
-    {
-      "rank": 52,
-      "previousRank": 84,
-      "rankChange": 32,
-      "isNew": false,
-      "appleId": "667362389",
-      "name": "The Room Two",
-      "developer": "Fireproof Studios Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/fireproof-studios-limited/id552039499?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/19/dd/2a19dd0f-f01d-262d-d82c-c1cf38084c3f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/the-room-two/id667362389?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "12 12 2013"
-    },
-    {
-      "rank": 53,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "384759615",
-      "name": "Smur Bmpm",
-      "developer": "MERMED BMPM",
-      "developerUrl": "https://apps.apple.com/fr/developer/mermed-bmpm/id384759618?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/32/14/c8321425-d573-7ae1-468d-b7e475786c03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/smur-bmpm/id384759615?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "EUR",
-        "formatted": "12,99 €"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Médecine"
-      },
-      "releaseDate": "3 03 2010"
-    },
-    {
-      "rank": 54,
-      "previousRank": 64,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "1633243177",
-      "name": "Ableton Note",
-      "developer": "Ableton AG",
-      "developerUrl": "https://apps.apple.com/fr/developer/ableton-ag/id1228664884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/ac/382cac74-ec5a-46bc-aa40-560caa33fdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/ableton-note/id1633243177?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musique"
-      },
-      "releaseDate": "18 18 2022"
-    },
-    {
-      "rank": 55,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1573482724",
-      "name": "Coffee Inc 2",
-      "developer": "Side Labs LLC",
-      "developerUrl": "https://apps.apple.com/fr/developer/side-labs-llc/id1455696606?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c0/d6/3ac0d67e-8dac-7a8e-257b-cfb2f722e4ad/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/coffee-inc-2/id1573482724?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "29 29 2021"
-    },
-    {
-      "rank": 56,
-      "previousRank": 69,
-      "rankChange": 13,
-      "isNew": false,
-      "appleId": "1182456409",
-      "name": "Alto's Odyssey",
-      "developer": "Snowman",
-      "developerUrl": "https://apps.apple.com/fr/developer/snowman/id524873456?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/5d/27/925d27f5-8818-c45f-20ab-f22945792e73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/altos-odyssey/id1182456409?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "21 21 2018"
-    },
-    {
-      "rank": 57,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1504952058",
-      "name": "Papa's Sushiria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/fr/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/eb/01/faeb0149-1797-7be7-21be-579ba1dcf779/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/papas-sushiria-to-go/id1504952058?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "21 21 2020"
-    },
-    {
-      "rank": 58,
-      "previousRank": 66,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "6714479204",
-      "name": "Lowriders Comeback: Boulevard",
-      "developer": "Oleh Chernykh",
-      "developerUrl": "https://apps.apple.com/fr/developer/oleh-chernykh/id1770296714?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a4/d6/d6a4d65c-2fb0-245b-61f2-0a791d6788fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/lowriders-comeback-boulevard/id6714479204?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "3 03 2026"
-    },
-    {
-      "rank": 59,
-      "previousRank": 71,
-      "rankChange": 12,
-      "isNew": false,
-      "appleId": "432850619",
-      "name": "FL Studio Mobile",
-      "developer": "Image Line Software",
-      "developerUrl": "https://apps.apple.com/fr/developer/image-line-software/id432850147?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/96/78/dd967877-bce7-f816-74ed-8f7349343b15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/fl-studio-mobile/id432850619?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musique"
-      },
-      "releaseDate": "21 21 2011"
-    },
-    {
-      "rank": 60,
-      "previousRank": 99,
-      "rankChange": 39,
-      "isNew": false,
-      "appleId": "1108479411",
-      "name": "Driving Zone 2 - Jeux Voiture",
-      "developer": "Alexander Sivatsky",
-      "developerUrl": "https://apps.apple.com/fr/developer/alexander-sivatsky/id1058355647?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/90/3c/37/903c3772-72a1-49d4-42ee-419f27f9375c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/driving-zone-2-jeux-voiture/id1108479411?uo=2",
-      "price": {
-        "amount": 0.49,
-        "currency": "EUR",
-        "formatted": "0,49 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "15 15 2017"
-    },
-    {
-      "rank": 61,
-      "previousRank": 58,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "904237743",
-      "name": "Things 3",
-      "developer": "Cultured Code GmbH & Co. KG",
-      "developerUrl": "https://apps.apple.com/fr/developer/cultured-code-gmbh-co-kg/id284971784?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/24/46/91244651-a9f2-8417-51d4-8e9c5de63f77/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/things-3/id904237743?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivité"
-      },
-      "releaseDate": "18 18 2017"
-    },
-    {
-      "rank": 62,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "728293409",
-      "name": "Monument Valley",
-      "developer": "ustwo games",
-      "developerUrl": "https://apps.apple.com/fr/developer/ustwo-games/id297468910?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/monument-valley/id728293409?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "3 03 2014"
-    },
-    {
-      "rank": 63,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1497165353",
-      "name": "Dictionnaire Larousse français",
-      "developer": "Editions Larousse",
-      "developerUrl": "https://apps.apple.com/fr/developer/editions-larousse/id326290567?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/17/9a8c17d0-a150-d414-5261-738c48f38c9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/dictionnaire-larousse-fran%C3%A7ais/id1497165353?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6006",
-        "name": "Références"
-      },
-      "releaseDate": "2 02 2020"
-    },
-    {
-      "rank": 64,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6473001577",
-      "name": "Aerofly FS Global",
-      "developer": "IPACS",
-      "developerUrl": "https://apps.apple.com/fr/developer/ipacs/id496301722?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/b2/be/04b2beef-f9c4-a38b-ea7c-4e7052bf54c7/AppIconiOS-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/aerofly-fs-global/id6473001577?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "11 11 2023"
-    },
-    {
-      "rank": 65,
-      "previousRank": 59,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "941143328",
-      "name": "Five Nights at Freddy's 2",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/fr/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/30/b1/7430b134-0ebe-53ef-88b9-53cfc8d3acce/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/five-nights-at-freddys-2/id941143328?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "19 19 2014"
-    },
-    {
-      "rank": 66,
-      "previousRank": 38,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "6448352407",
-      "name": "Unboxing the Cryptic Killer",
-      "developer": "Eleven Products Sp. z o.o.",
-      "developerUrl": "https://apps.apple.com/fr/developer/eleven-products-sp-z-o-o/id1040907730?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/09/9a/33099a64-2396-9c64-d690-078a48574958/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/unboxing-the-cryptic-killer/id6448352407?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "2 02 2023"
-    },
-    {
-      "rank": 67,
-      "previousRank": 48,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "1055650930",
-      "name": "Codenames",
-      "developer": "CGE Digital s.r.o.",
-      "developerUrl": "https://apps.apple.com/fr/developer/cge-digital-s-r-o/id1706267473?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/cb/8b/60cb8b21-70e2-1e84-f983-0751cf00340f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/codenames/id1055650930?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "11 11 2024"
-    },
-    {
-      "rank": 68,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "975683986",
-      "name": "Door Kickers",
-      "developer": "KILLHOUSE GAMES SRL",
-      "developerUrl": "https://apps.apple.com/fr/developer/killhouse-games-srl/id975683985?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/37/e7/d237e73d-27a3-3cdb-8645-1b8ec778c9d6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/door-kickers/id975683986?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "24 24 2015"
-    },
-    {
-      "rank": 69,
-      "previousRank": 72,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "623592465",
-      "name": "Heads Up!",
-      "developer": "Warner Bros.",
-      "developerUrl": "https://apps.apple.com/fr/developer/warner-bros/id298372283?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/36/16/5736162d-2147-61a8-2eba-419c19bb2067/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/heads-up/id623592465?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "6 06 2013"
-    },
-    {
-      "rank": 70,
-      "previousRank": 73,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "682530944",
-      "name": "Qui Veut Gagner Des Millions",
-      "developer": "Sony Pictures Television UK Rights Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/sony-pictures-television-uk-rights-limited/id342504479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/78/bf/9e/78bf9ed0-5125-6552-9cbf-2db86ab73936/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/qui-veut-gagner-des-millions/id682530944?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "19 19 2013"
-    },
-    {
-      "rank": 71,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6744654563",
-      "name": "TierMaker.com",
-      "developer": "Tastier Adventures",
-      "developerUrl": "https://apps.apple.com/fr/developer/tastier-adventures/id1808719426?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/3b/f9/f33bf995-ca37-9fd7-b117-32a866e2138d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/tiermaker-com/id6744654563?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Divertissement"
-      },
-      "releaseDate": "3 03 2026"
-    },
-    {
-      "rank": 72,
-      "previousRank": 77,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "540925500",
-      "name": "Need for Speed™ Most Wanted",
-      "developer": "Electronic Arts",
-      "developerUrl": "https://apps.apple.com/fr/developer/electronic-arts/id284800461?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/8d/15/aa8d150d-a690-0544-ee7c-34f4ffbb192e/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/need-for-speed-most-wanted/id540925500?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "30 30 2012"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "824305459",
-      "name": "Papa's Freezeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/fr/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/papas-freezeria-to-go/id824305459?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "26 26 2014"
-    },
-    {
-      "rank": 74,
-      "previousRank": 85,
-      "rankChange": 11,
-      "isNew": false,
-      "appleId": "1062745479",
-      "name": "HeartWatch: Moniteur Cardiaque",
-      "developer": "Tantsissa",
-      "developerUrl": "https://apps.apple.com/fr/developer/tantsissa/id861650887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Forme et santé"
-      },
-      "releaseDate": "7 07 2015"
-    },
-    {
-      "rank": 75,
+      "rank": 27,
       "previousRank": 87,
-      "rankChange": 12,
-      "isNew": false,
-      "appleId": "1439187947",
-      "name": "Rebel Inc.",
-      "developer": "Ndemic Creations",
-      "developerUrl": "https://apps.apple.com/fr/developer/ndemic-creations/id525818842?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d6/9c/bed69cd0-23ed-b1ef-4988-4a637d29be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/rebel-inc/id1439187947?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "4 04 2018"
-    },
-    {
-      "rank": 76,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "378503081",
-      "name": "Groundwire: VoIP SIP Softphone",
-      "developer": "Acrobits",
-      "developerUrl": "https://apps.apple.com/fr/developer/acrobits/id314192802?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/41/1b/32411bad-2388-8880-4110-4cbb2d817f9d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/groundwire-voip-sip-softphone/id378503081?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivité"
-      },
-      "releaseDate": "17 17 2010"
-    },
-    {
-      "rank": 77,
-      "previousRank": 52,
-      "rankChange": -25,
-      "isNew": false,
-      "appleId": "1252260233",
-      "name": "The House of Tesla",
-      "developer": "Blue Brain Games",
-      "developerUrl": "https://apps.apple.com/fr/developer/blue-brain-games/id1062515790?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/16/4a/4d164a11-13a5-2397-ae4c-c93852f4cff0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/the-house-of-tesla/id1252260233?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "20 20 2026"
-    },
-    {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6744361551",
-      "name": "Total War™: NAPOLEON",
-      "developer": "Feral Interactive Ltd",
-      "developerUrl": "https://apps.apple.com/fr/developer/feral-interactive-ltd/id402470125?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/55/f5/de55f594-6782-7946-f9ad-07f7d40f8d29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/total-war-napoleon/id6744361551?uo=2",
-      "price": {
-        "amount": 11.99,
-        "currency": "EUR",
-        "formatted": "11,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "2 02 2025"
-    },
-    {
-      "rank": 79,
-      "previousRank": 88,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "6739130049",
-      "name": "Planet of Lana",
-      "developer": "Playdigious",
-      "developerUrl": "https://apps.apple.com/fr/developer/playdigious/id1041387229?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/0d/7d/b40d7df2-e37d-b72f-664a-8bb965375c40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/planet-of-lana/id6739130049?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "9 09 2025"
-    },
-    {
-      "rank": 80,
-      "previousRank": 34,
-      "rankChange": -46,
-      "isNew": false,
-      "appleId": "912536422",
-      "name": "Five Nights at Freddy's",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/fr/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/77/03/9b77034f-5ade-ddf5-9c2d-48fd8a546c62/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/five-nights-at-freddys/id912536422?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "11 11 2014"
-    },
-    {
-      "rank": 81,
-      "previousRank": 54,
-      "rankChange": -27,
-      "isNew": false,
-      "appleId": "6474207287",
-      "name": "Wagotabi : Cours de japonais",
-      "developer": "WAGOTABI LIMITED",
-      "developerUrl": "https://apps.apple.com/fr/developer/wagotabi-limited/id1608057177?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/70/76/ac70760a-039c-aff9-458a-11b3462dc94d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/wagotabi-cours-de-japonais/id6474207287?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6017",
-        "name": "Éducation"
-      },
-      "releaseDate": "2 02 2024"
-    },
-    {
-      "rank": 82,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6741892043",
-      "name": "Road to Empress",
-      "developer": "Sixjoy Hong Kong Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/sixjoy-hong-kong-limited/id445577384?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/87/c9/9387c921-7562-0707-a908-04a939fcedc8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/road-to-empress/id6741892043?uo=2",
-      "price": {
-        "amount": 0.9,
-        "currency": "EUR",
-        "formatted": "0,90 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "9 09 2025"
-    },
-    {
-      "rank": 83,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1313164055",
-      "name": "EE35 Film Camera",
-      "developer": "EIGHTIVE DESIGN, Inc.",
-      "developerUrl": "https://apps.apple.com/fr/developer/eightive-design-inc/id392627285?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/54/96/da549603-1862-fe5c-8bff-9969f9ff1bde/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/ee35-film-camera/id1313164055?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo et vidéo"
-      },
-      "releaseDate": "15 15 2017"
-    },
-    {
-      "rank": 84,
-      "previousRank": 60,
-      "rankChange": -24,
-      "isNew": false,
-      "appleId": "1533709428",
-      "name": "Pocket City 2",
-      "developer": "Codebrew Games Inc.",
-      "developerUrl": "https://apps.apple.com/fr/developer/codebrew-games-inc/id1330451887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e5/76/02e5769f-12b8-b1fc-f2a9-8c75d81e1bd3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/pocket-city-2/id1533709428?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "7 07 2023"
-    },
-    {
-      "rank": 85,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6747814605",
-      "name": "Is This Seat Taken?",
-      "developer": "Poti Poti Studio",
-      "developerUrl": "https://apps.apple.com/fr/developer/poti-poti-studio/id1822981949?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/24/d5/1624d5e2-611f-9cee-cb5e-e596962c809f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/is-this-seat-taken/id6747814605?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "7 07 2025"
-    },
-    {
-      "rank": 86,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "432791399",
-      "name": "Cloud Baby Monitor",
-      "developer": "VIGI Limited",
-      "developerUrl": "https://apps.apple.com/fr/developer/vigi-limited/id313755232?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/35/b7/8e35b735-8926-623c-2fb7-6382f8bd2e07/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/cloud-baby-monitor/id432791399?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6012",
-        "name": "Style de vie"
-      },
-      "releaseDate": "27 27 2011"
-    },
-    {
-      "rank": 87,
-      "previousRank": 41,
-      "rankChange": -46,
+      "rankChange": 60,
       "isNew": false,
       "appleId": "1164801111",
       "name": "AutoSleep - Tracker de sommeil",
@@ -1938,16 +618,434 @@
       "releaseDate": "19 19 2016"
     },
     {
-      "rank": 88,
+      "rank": 28,
+      "previousRank": 26,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6748056918",
+      "name": "Farming Simulator 26 Mobile",
+      "developer": "GIANTS Software GmbH",
+      "developerUrl": "https://apps.apple.com/fr/developer/giants-software-gmbh/id502494443?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/06/37/63063703-9526-3108-4f84-f1e704bd783c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/farming-simulator-26-mobile/id6748056918?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "19 19 2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": 71,
+      "rankChange": 42,
+      "isNew": false,
+      "appleId": "6744654563",
+      "name": "TierMaker.com",
+      "developer": "Tastier Adventures",
+      "developerUrl": "https://apps.apple.com/fr/developer/tastier-adventures/id1808719426?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/3b/f9/f33bf995-ca37-9fd7-b117-32a866e2138d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/tiermaker-com/id6744654563?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Divertissement"
+      },
+      "releaseDate": "3 03 2026"
+    },
+    {
+      "rank": 30,
+      "previousRank": 19,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "1474716211",
+      "name": "60 Seconds! Reatomized",
+      "developer": "Robot Gentleman sp. z o.o.",
+      "developerUrl": "https://apps.apple.com/fr/developer/robot-gentleman-sp-z-o-o/id1072395466?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/ff/04/47ff0468-ecd4-9b2e-2faa-c63c1bef4215/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/60-seconds-reatomized/id1474716211?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "25 25 2021"
+    },
+    {
+      "rank": 31,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6450724928",
-      "name": "La Chance du Locataire",
-      "developer": "TrampolineTales",
-      "developerUrl": "https://apps.apple.com/fr/developer/trampolinetales/id1694625776?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/91/00/8b910000-5772-1bfb-b6ed-381aa02ab87f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/la-chance-du-locataire/id6450724928?uo=2",
+      "appleId": "763692274",
+      "name": "Grand Theft Auto: San Andreas",
+      "developer": "Rockstar Games",
+      "developerUrl": "https://apps.apple.com/fr/developer/rockstar-games/id330049731?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/02/f2/c002f295-cf73-0278-8e73-d8d1f9e7a9af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/grand-theft-auto-san-andreas/id763692274?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2013"
+    },
+    {
+      "rank": 32,
+      "previousRank": 29,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1089856777",
+      "name": "Fiches IDE",
+      "developer": "Julie Violet",
+      "developerUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6017",
+        "name": "Éducation"
+      },
+      "releaseDate": "9 09 2016"
+    },
+    {
+      "rank": 33,
+      "previousRank": 25,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "586149216",
+      "name": "Monash FODMAP Diet",
+      "developer": "Monash University",
+      "developerUrl": "https://apps.apple.com/fr/developer/monash-university/id427380448?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/monash-fodmap-diet/id586149216?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Médecine"
+      },
+      "releaseDate": "17 17 2012"
+    },
+    {
+      "rank": 34,
+      "previousRank": 51,
+      "rankChange": 17,
+      "isNew": false,
+      "appleId": "1361525484",
+      "name": "Layton : l'étrange village HD",
+      "developer": "Level-5 Inc.",
+      "developerUrl": "https://apps.apple.com/fr/developer/level-5-inc/id555947952?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/e3/62/85e362dc-1b0d-63b6-7e2a-05f702b5273e/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/layton-l%C3%A9trange-village-hd/id1361525484?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "25 25 2018"
+    },
+    {
+      "rank": 35,
+      "previousRank": 18,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1241909999",
+      "name": "WorkOutDoors",
+      "developer": "CCS Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/ccs-ltd/id569489568?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/workoutdoors/id1241909999?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "13 13 2017"
+    },
+    {
+      "rank": 36,
+      "previousRank": 31,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6547834967",
+      "name": "Animal Crossing: Pocket Camp C",
+      "developer": "Nintendo Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/fr/developer/nintendo-co-ltd/id1062496488?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "2 02 2024"
+    },
+    {
+      "rank": 37,
+      "previousRank": 35,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6822194774",
+      "name": "TypeDraw",
+      "developer": "Trautmann & Dorre GbR Shaped Agency",
+      "developerUrl": "https://apps.apple.com/fr/developer/trautmann-dorre-gbr-shaped-agency/id1784286059?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/14/15/1f1415ca-f8f8-4027-0889-83762989a123/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/typedraw/id6822194774?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivité"
+      },
+      "releaseDate": "20 20 2026"
+    },
+    {
+      "rank": 38,
+      "previousRank": 28,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "578665578",
+      "name": "Threema. Messagerie sécurisée",
+      "developer": "Threema GmbH",
+      "developerUrl": "https://apps.apple.com/fr/developer/threema-gmbh/id535112011?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/44/40/8d444022-7333-6930-0576-919c6497c4b4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/threema-messagerie-s%C3%A9curis%C3%A9e/id578665578?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6005",
+        "name": "Réseaux sociaux"
+      },
+      "releaseDate": "29 29 2013"
+    },
+    {
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6754094013",
+      "name": "Zombie Assault: Resurgence",
+      "developer": "Ninja Kiwi",
+      "developerUrl": "https://apps.apple.com/fr/developer/ninja-kiwi/id386241773?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e9/f1/dce9f175-a3ed-b153-f92a-8c276ea0b275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/zombie-assault-resurgence/id6754094013?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "28 28 2026"
+    },
+    {
+      "rank": 40,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1491530147",
+      "name": "Slay the Spire",
+      "developer": "Balor Games",
+      "developerUrl": "https://apps.apple.com/fr/developer/balor-games/id1896756778?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/slay-the-spire/id1491530147?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "13 13 2020"
+    },
+    {
+      "rank": 41,
+      "previousRank": 60,
+      "rankChange": 19,
+      "isNew": false,
+      "appleId": "1108479411",
+      "name": "Driving Zone 2 - Jeux Voiture",
+      "developer": "Alexander Sivatsky",
+      "developerUrl": "https://apps.apple.com/fr/developer/alexander-sivatsky/id1058355647?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/90/3c/37/903c3772-72a1-49d4-42ee-419f27f9375c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/driving-zone-2-jeux-voiture/id1108479411?uo=2",
+      "price": {
+        "amount": 0.49,
+        "currency": "EUR",
+        "formatted": "0,49 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "15 15 2017"
+    },
+    {
+      "rank": 42,
+      "previousRank": 75,
+      "rankChange": 33,
+      "isNew": false,
+      "appleId": "1439187947",
+      "name": "Rebel Inc.",
+      "developer": "Ndemic Creations",
+      "developerUrl": "https://apps.apple.com/fr/developer/ndemic-creations/id525818842?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d6/9c/bed69cd0-23ed-b1ef-4988-4a637d29be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/rebel-inc/id1439187947?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "4 04 2018"
+    },
+    {
+      "rank": 43,
+      "previousRank": 47,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6755858938",
+      "name": "SUMEE!",
+      "developer": "Getzemani Cruz Garcia",
+      "developerUrl": "https://apps.apple.com/fr/developer/getzemani-cruz-garcia/id1852966137?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/69/57/566957dc-2a30-9c56-6e1f-ebc947edc8d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/sumee/id6755858938?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "17 17 2026"
+    },
+    {
+      "rank": 44,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6502953520",
+      "name": "Control Ultimate Edition",
+      "developer": "Remedy Entertainment PLC",
+      "developerUrl": "https://apps.apple.com/fr/developer/remedy-entertainment-plc/id422020156?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a0/6e/1da06e14-c461-a191-9ef3-ce82fd5ec0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/control-ultimate-edition/id6502953520?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "26 26 2025"
+    },
+    {
+      "rank": 45,
+      "previousRank": 55,
+      "rankChange": 10,
+      "isNew": false,
+      "appleId": "1573482724",
+      "name": "Coffee Inc 2",
+      "developer": "Side Labs LLC",
+      "developerUrl": "https://apps.apple.com/fr/developer/side-labs-llc/id1455696606?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c0/d6/3ac0d67e-8dac-7a8e-257b-cfb2f722e4ad/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/coffee-inc-2/id1573482724?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "29 29 2021"
+    },
+    {
+      "rank": 46,
+      "previousRank": 36,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "860809977",
+      "name": "Fongo World Edition",
+      "developer": "Fongo Inc.",
+      "developerUrl": "https://apps.apple.com/fr/developer/fongo-inc/id473770455?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ef/8f/63ef8f2e-5278-dee5-f527-8475c56e4c32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/fongo-world-edition/id860809977?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6005",
+        "name": "Réseaux sociaux"
+      },
+      "releaseDate": "26 26 2014"
+    },
+    {
+      "rank": 47,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "640364616",
+      "name": "Terraria",
+      "developer": "505 Games (US), Inc.",
+      "developerUrl": "https://apps.apple.com/fr/developer/505-games-us-inc/id392990484?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/eb/57/02eb5740-ae95-86fd-0000-f0a64ab1a392/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/terraria/id640364616?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -1957,34 +1055,12 @@
         "id": "6014",
         "name": "Jeux"
       },
-      "releaseDate": "20 20 2023"
+      "releaseDate": "28 28 2013"
     },
     {
-      "rank": 89,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1435456830",
-      "name": "Castlevania: SotN",
-      "developer": "KONAMI",
-      "developerUrl": "https://apps.apple.com/fr/developer/konami/id299580230?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/castlevania-sotn/id1435456830?uo=2",
-      "price": {
-        "amount": 3.49,
-        "currency": "EUR",
-        "formatted": "3,49 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "3 03 2020"
-    },
-    {
-      "rank": 90,
-      "previousRank": 45,
-      "rankChange": -45,
+      "rank": 48,
+      "previousRank": 90,
+      "rankChange": 42,
       "isNew": false,
       "appleId": "6754894237",
       "name": "CloverPit",
@@ -2004,9 +1080,669 @@
       "releaseDate": "17 17 2025"
     },
     {
-      "rank": 91,
-      "previousRank": 47,
-      "rankChange": -44,
+      "rank": 49,
+      "previousRank": 42,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6463616555",
+      "name": "Les Aventuriers du Rail®",
+      "developer": "Marmalade Game Studio",
+      "developerUrl": "https://apps.apple.com/fr/developer/marmalade-game-studio/id988365603?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/d2/c6abd2e6-df22-25eb-3e37-e35e3f60ee2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/les-aventuriers-du-rail/id6463616555?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2023"
+    },
+    {
+      "rank": 50,
+      "previousRank": 30,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "435871950",
+      "name": "HappyCow - Vegan Food Near You",
+      "developer": "HappyCow",
+      "developerUrl": "https://apps.apple.com/fr/developer/happycow/id879706735?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/2d/41/b92d4155-cfda-c2fe-6f60-ce3a7feaa725/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/happycow-vegan-food-near-you/id435871950?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Voyages"
+      },
+      "releaseDate": "11 11 2011"
+    },
+    {
+      "rank": 51,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6480453979",
+      "name": "Saints Row: The Third",
+      "developer": "Feral Interactive Ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/feral-interactive-ltd/id402470125?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cf/96/c0cf96f0-71f8-074a-9664-5c55f5eb8e7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/saints-row-the-third/id6480453979?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "29 29 2026"
+    },
+    {
+      "rank": 52,
+      "previousRank": 53,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "384759615",
+      "name": "Smur Bmpm",
+      "developer": "MERMED BMPM",
+      "developerUrl": "https://apps.apple.com/fr/developer/mermed-bmpm/id384759618?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/32/14/c8321425-d573-7ae1-468d-b7e475786c03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/smur-bmpm/id384759615?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12,99 €"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Médecine"
+      },
+      "releaseDate": "3 03 2010"
+    },
+    {
+      "rank": 53,
+      "previousRank": 58,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "6714479204",
+      "name": "Lowriders Comeback: Boulevard",
+      "developer": "Oleh Chernykh",
+      "developerUrl": "https://apps.apple.com/fr/developer/oleh-chernykh/id1770296714?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a4/d6/d6a4d65c-2fb0-245b-61f2-0a791d6788fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/lowriders-comeback-boulevard/id6714479204?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "3 03 2026"
+    },
+    {
+      "rank": 54,
+      "previousRank": 37,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "935216956",
+      "name": "Papers, Please",
+      "developer": "3909",
+      "developerUrl": "https://apps.apple.com/fr/developer/3909/id541419307?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/3f/c1/973fc1ac-d8d0-028d-055d-db313fe3bd86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/papers-please/id935216956?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2014"
+    },
+    {
+      "rank": 55,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1114127463",
+      "name": "Reigns",
+      "developer": "Devolver",
+      "developerUrl": "https://apps.apple.com/fr/developer/devolver/id457410262?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ce/3e/61ce3eba-30af-77ef-1673-1207292c94c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/reigns/id1114127463?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2016"
+    },
+    {
+      "rank": 56,
+      "previousRank": 39,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "505365608",
+      "name": "WikiCamps Australia",
+      "developer": "WikiCamps pty ltd",
+      "developerUrl": "https://apps.apple.com/fr/developer/wikicamps-pty-ltd/id469872262?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/b9/ea95b950-3b15-e305-6ff6-3fed0088024e/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/wikicamps-australia/id505365608?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Voyages"
+      },
+      "releaseDate": "1 01 2012"
+    },
+    {
+      "rank": 57,
+      "previousRank": 64,
+      "rankChange": 7,
+      "isNew": false,
+      "appleId": "6473001577",
+      "name": "Aerofly FS Global",
+      "developer": "IPACS",
+      "developerUrl": "https://apps.apple.com/fr/developer/ipacs/id496301722?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/b2/be/04b2beef-f9c4-a38b-ea7c-4e7052bf54c7/AppIconiOS-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/aerofly-fs-global/id6473001577?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "11 11 2023"
+    },
+    {
+      "rank": 58,
+      "previousRank": 41,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "549105915",
+      "name": "True Skate",
+      "developer": "True Axis",
+      "developerUrl": "https://apps.apple.com/fr/developer/true-axis/id337866373?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/0d/86/8b0d862e-0d84-ecb1-e784-d002e5054099/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/true-skate/id549105915?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "18 18 2012"
+    },
+    {
+      "rank": 59,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1149769928",
+      "name": "iCompta 6",
+      "developer": "LyricApps",
+      "developerUrl": "https://apps.apple.com/fr/developer/lyricapps/id294191198?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/91/11/1091118b-d1ee-59fe-3127-5af93c98cf39/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/icompta-6/id1149769928?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finance"
+      },
+      "releaseDate": "17 17 2017"
+    },
+    {
+      "rank": 60,
+      "previousRank": 46,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "1505636751",
+      "name": "TeleGuard",
+      "developer": "Swisscows AG",
+      "developerUrl": "https://apps.apple.com/fr/developer/swisscows-ag/id1013972705?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/teleguard/id1505636751?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6005",
+        "name": "Réseaux sociaux"
+      },
+      "releaseDate": "19 19 2021"
+    },
+    {
+      "rank": 61,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1591627945",
+      "name": "Papa's Cluckeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/fr/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/f5/47/c4f54756-5a28-168e-caea-1b6d346e7198/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/papas-cluckeria-to-go/id1591627945?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "21 21 2022"
+    },
+    {
+      "rank": 62,
+      "previousRank": 33,
+      "rankChange": -29,
+      "isNew": false,
+      "appleId": "1117998129",
+      "name": "Atlas d'anatomie humaine 2027",
+      "developer": "Visible Body Apps",
+      "developerUrl": "https://apps.apple.com/fr/developer/visible-body-apps/id1828268894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/atlas-danatomie-humaine-2027/id1117998129?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Médecine"
+      },
+      "releaseDate": "27 27 2016"
+    },
+    {
+      "rank": 63,
+      "previousRank": 100,
+      "rankChange": 37,
+      "isNew": false,
+      "appleId": "1385258906",
+      "name": "Mindustry",
+      "developer": "Anton Kramskoi",
+      "developerUrl": "https://apps.apple.com/fr/developer/anton-kramskoi/id1385258905?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/cb/63/71cb6379-df2b-04ee-0b48-35240e5bd8a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/mindustry/id1385258906?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "8 08 2018"
+    },
+    {
+      "rank": 64,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1118115766",
+      "name": "Bloons TD 6",
+      "developer": "Ninja Kiwi",
+      "developerUrl": "https://apps.apple.com/fr/developer/ninja-kiwi/id386241773?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ea/72/ecea728c-c718-b232-3078-98cbfd464349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/bloons-td-6/id1118115766?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "14 14 2018"
+    },
+    {
+      "rank": 65,
+      "previousRank": 34,
+      "rankChange": -31,
+      "isNew": false,
+      "appleId": "6748751735",
+      "name": "Servant of the Lake",
+      "developer": "Rusty Lake",
+      "developerUrl": "https://apps.apple.com/fr/developer/rusty-lake/id979777164?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d2/d4/80d2d4b4-80b2-3117-ca0b-0317d5593a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/servant-of-the-lake/id6748751735?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "13 13 2026"
+    },
+    {
+      "rank": 66,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1357651989",
+      "name": "Tick Tock: A Tale for Two",
+      "developer": "Other Tales Interactive ApS",
+      "developerUrl": "https://apps.apple.com/fr/developer/other-tales-interactive-aps/id1329403842?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/1f/e8/e01fe8a8-e807-214c-15a2-5137922d93d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/tick-tock-a-tale-for-two/id1357651989?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "8 08 2019"
+    },
+    {
+      "rank": 67,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "904737816",
+      "name": "Kingdom Rush Origins TD",
+      "developer": "Ironhide S.A.",
+      "developerUrl": "https://apps.apple.com/fr/developer/ironhide-s-a/id558612918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/ca/a0/32caa08b-9a28-5001-adc9-c6378fcb40a7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/kingdom-rush-origins-td/id904737816?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "20 20 2014"
+    },
+    {
+      "rank": 68,
+      "previousRank": 59,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "432850619",
+      "name": "FL Studio Mobile",
+      "developer": "Image Line Software",
+      "developerUrl": "https://apps.apple.com/fr/developer/image-line-software/id432850147?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/96/78/dd967877-bce7-f816-74ed-8f7349343b15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/fl-studio-mobile/id432850619?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musique"
+      },
+      "releaseDate": "21 21 2011"
+    },
+    {
+      "rank": 69,
+      "previousRank": 38,
+      "rankChange": -31,
+      "isNew": false,
+      "appleId": "1444761746",
+      "name": "RFS - Real Flight Simulator",
+      "developer": "RORTOS SRL",
+      "developerUrl": "https://apps.apple.com/fr/developer/rortos-srl/id454802333?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b4/c4/e6b4c40d-928b-239d-45c8-5589f403631a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/rfs-real-flight-simulator/id1444761746?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "23 23 2019"
+    },
+    {
+      "rank": 70,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1392608717",
+      "name": "Papa's Scooperia To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/fr/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/e0/6f/ede06fd5-fd4e-963a-d639-92ca492fb096/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/papas-scooperia-to-go/id1392608717?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "2 02 2018"
+    },
+    {
+      "rank": 71,
+      "previousRank": 62,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "728293409",
+      "name": "Monument Valley",
+      "developer": "ustwo games",
+      "developerUrl": "https://apps.apple.com/fr/developer/ustwo-games/id297468910?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/monument-valley/id728293409?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "3 03 2014"
+    },
+    {
+      "rank": 72,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1642601792",
+      "name": "The Past Within",
+      "developer": "Rusty Lake",
+      "developerUrl": "https://apps.apple.com/fr/developer/rusty-lake/id979777164?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/2c/df/bb2cdff2-5289-a7b8-da79-4b7323917d16/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/the-past-within/id1642601792?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "2 02 2022"
+    },
+    {
+      "rank": 73,
+      "previousRank": 40,
+      "rankChange": -33,
+      "isNew": false,
+      "appleId": "6800616114",
+      "name": "play_music_theory",
+      "developer": "TALA RAE SCHLOSSBERG",
+      "developerUrl": "https://apps.apple.com/fr/developer/tala-rae-schlossberg/id6800616116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/55/ad/6255ad6e-c89e-5d4b-8587-ca2193f2280e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/play-music-theory/id6800616114?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musique"
+      },
+      "releaseDate": "21 21 2026"
+    },
+    {
+      "rank": 74,
+      "previousRank": 69,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "623592465",
+      "name": "Heads Up!",
+      "developer": "Warner Bros.",
+      "developerUrl": "https://apps.apple.com/fr/developer/warner-bros/id298372283?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/36/16/5736162d-2147-61a8-2eba-419c19bb2067/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/heads-up/id623592465?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "6 06 2013"
+    },
+    {
+      "rank": 75,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "904278510",
+      "name": "Hitman Sniper",
+      "developer": "Deca Live Operations GmbH",
+      "developerUrl": "https://apps.apple.com/fr/developer/deca-live-operations-gmbh/id1464120176?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/48/96/104896cb-77fb-9dfe-1840-0efebc0e4c66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/hitman-sniper/id904278510?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "3 03 2015"
+    },
+    {
+      "rank": 76,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757846100",
+      "name": "This Aint Even Poker, Ya Joker",
+      "developer": "Doghowl Games Ltd.",
+      "developerUrl": "https://apps.apple.com/fr/developer/doghowl-games-ltd/id1805603341?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/bd/e8/ffbde8d7-46bf-9301-1afd-39b241076416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/this-aint-even-poker-ya-joker/id6757846100?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "18 18 2026"
+    },
+    {
+      "rank": 77,
+      "previousRank": 52,
+      "rankChange": -25,
+      "isNew": false,
+      "appleId": "667362389",
+      "name": "The Room Two",
+      "developer": "Fireproof Studios Limited",
+      "developerUrl": "https://apps.apple.com/fr/developer/fireproof-studios-limited/id552039499?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/19/dd/2a19dd0f-f01d-262d-d82c-c1cf38084c3f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/the-room-two/id667362389?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2013"
+    },
+    {
+      "rank": 78,
+      "previousRank": 80,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "912536422",
+      "name": "Five Nights at Freddy's",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/fr/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/77/03/9b77034f-5ade-ddf5-9c2d-48fd8a546c62/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/five-nights-at-freddys/id912536422?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "11 11 2014"
+    },
+    {
+      "rank": 79,
+      "previousRank": 91,
+      "rankChange": 12,
       "isNew": false,
       "appleId": "298206806",
       "name": "iReal Pro",
@@ -2026,54 +1762,10 @@
       "releaseDate": "2 02 2008"
     },
     {
-      "rank": 92,
-      "previousRank": 46,
-      "rankChange": -46,
+      "rank": 80,
+      "previousRank": 94,
+      "rankChange": 14,
       "isNew": false,
-      "appleId": "1018216485",
-      "name": "Dictionnaire Le Robert Mobile",
-      "developer": "Diagonal SAS",
-      "developerUrl": "https://apps.apple.com/fr/developer/diagonal-sas/id1756738778?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/81/76/a98176ef-8ab9-4e16-582e-b6e8b45dd64a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/dictionnaire-le-robert-mobile/id1018216485?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6006",
-        "name": "Références"
-      },
-      "releaseDate": "31 31 2015"
-    },
-    {
-      "rank": 93,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "554937499",
-      "name": "Earn to Die",
-      "developer": "Not Doppler",
-      "developerUrl": "https://apps.apple.com/fr/developer/not-doppler/id554937502?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0f/b3/b0/0fb3b02a-8b71-2854-e478-04b9c5ec66ff/mzl.sdmrqvyg.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/earn-to-die/id554937499?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Jeux"
-      },
-      "releaseDate": "20 20 2012"
-    },
-    {
-      "rank": 94,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "1262474519",
       "name": "Monoposto",
       "developer": "Marco Pesce",
@@ -2092,53 +1784,9 @@
       "releaseDate": "1 01 2017"
     },
     {
-      "rank": 95,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1581140954",
-      "name": "Noir - Dark Mode for Safari",
-      "developer": "Jeffrey Kuiken",
-      "developerUrl": "https://apps.apple.com/fr/developer/jeffrey-kuiken/id1163503860?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/0a/87/2a0a873b-125e-8b93-82da-3a2af8792f86/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/noir-dark-mode-for-safari/id1581140954?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Utilitaires"
-      },
-      "releaseDate": "20 20 2021"
-    },
-    {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "294194645",
-      "name": "Dictionnaire de français TLFi",
-      "developer": "Typi Dev",
-      "developerUrl": "https://apps.apple.com/fr/developer/typi-dev/id1459082186?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/9e/fc/cc9efc8c-e377-e62f-97fe-74c270c993bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/dictionnaire-de-fran%C3%A7ais-tlfi/id294194645?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6006",
-        "name": "Références"
-      },
-      "releaseDate": "3 03 2008"
-    },
-    {
-      "rank": 97,
-      "previousRank": 94,
-      "rankChange": -3,
+      "rank": 81,
+      "previousRank": 97,
+      "rankChange": 16,
       "isNew": false,
       "appleId": "6748243845",
       "name": "Cozmo Robot",
@@ -2158,60 +1806,346 @@
       "releaseDate": "17 17 2025"
     },
     {
-      "rank": 98,
+      "rank": 82,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6746390893",
-      "name": "Red Dead Redemption",
-      "developer": "Rockstar Games",
-      "developerUrl": "https://apps.apple.com/fr/developer/rockstar-games/id330049731?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8a/32/6f8a3229-8cba-326d-624a-55e900774f64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/red-dead-redemption/id6746390893?uo=2",
+      "appleId": "1596736236",
+      "name": "Rovio Classics: Angry Birds",
+      "developer": "Rovio Entertainment Oyj",
+      "developerUrl": "https://apps.apple.com/fr/developer/rovio-entertainment-oyj/id298910979?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/86/b7/4c86b75c-b454-06fd-c854-1517ddfac1c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/rovio-classics-angry-birds/id1596736236?uo=2",
       "price": {
-        "amount": 39.99,
+        "amount": 4.99,
         "currency": "EUR",
-        "formatted": "39,99 €"
+        "formatted": "4,99 €"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Jeux"
       },
-      "releaseDate": "2 02 2025"
+      "releaseDate": "31 31 2022"
     },
     {
-      "rank": 99,
-      "previousRank": 98,
-      "rankChange": -1,
+      "rank": 83,
+      "previousRank": 54,
+      "rankChange": -29,
       "isNew": false,
-      "appleId": "6796775271",
-      "name": "Stay On Target 1138",
-      "developer": "Harin Wickremasinghe",
-      "developerUrl": "https://apps.apple.com/fr/developer/harin-wickremasinghe/id1896277890?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/95/e5/1e95e5f9-800e-d3fc-0705-536949d53927/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/stay-on-target-1138/id6796775271?uo=2",
+      "appleId": "1633243177",
+      "name": "Ableton Note",
+      "developer": "Ableton AG",
+      "developerUrl": "https://apps.apple.com/fr/developer/ableton-ag/id1228664884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/ac/382cac74-ec5a-46bc-aa40-560caa33fdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/ableton-note/id1633243177?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 7.99,
         "currency": "EUR",
-        "formatted": "3,99 €"
+        "formatted": "7,99 €"
       },
       "primaryCategory": {
-        "id": "6002",
-        "name": "Utilitaires"
+        "id": "6011",
+        "name": "Musique"
       },
-      "releaseDate": "14 14 2026"
+      "releaseDate": "18 18 2022"
     },
     {
-      "rank": 100,
+      "rank": 84,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1385258906",
-      "name": "Mindustry",
-      "developer": "Anton Kramskoi",
-      "developerUrl": "https://apps.apple.com/fr/developer/anton-kramskoi/id1385258905?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/cb/63/71cb6379-df2b-04ee-0b48-35240e5bd8a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/fr/app/mindustry/id1385258906?uo=2",
+      "appleId": "1202650514",
+      "name": "HealthFit",
+      "developer": "Stephane Lizeray",
+      "developerUrl": "https://apps.apple.com/fr/developer/stephane-lizeray/id617677771?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/d6/5d/d8d65d01-443b-073d-7d44-b9c5c9d2c781/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/healthfit/id1202650514?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "25 25 2017"
+    },
+    {
+      "rank": 85,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "963034692",
+      "name": "Streaks",
+      "developer": "Crunchy Bagel",
+      "developerUrl": "https://apps.apple.com/fr/developer/crunchy-bagel/id1084571682?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/78/80c57847-4c05-f8b4-1a8b-3e42423e4392/orange_normal-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/streaks/id963034692?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "31 31 2015"
+    },
+    {
+      "rank": 86,
+      "previousRank": 61,
+      "rankChange": -25,
+      "isNew": false,
+      "appleId": "904237743",
+      "name": "Things 3",
+      "developer": "Cultured Code GmbH & Co. KG",
+      "developerUrl": "https://apps.apple.com/fr/developer/cultured-code-gmbh-co-kg/id284971784?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/24/46/91244651-a9f2-8417-51d4-8e9c5de63f77/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/things-3/id904237743?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivité"
+      },
+      "releaseDate": "18 18 2017"
+    },
+    {
+      "rank": 87,
+      "previousRank": 65,
+      "rankChange": -22,
+      "isNew": false,
+      "appleId": "941143328",
+      "name": "Five Nights at Freddy's 2",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/fr/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/30/b1/7430b134-0ebe-53ef-88b9-53cfc8d3acce/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/five-nights-at-freddys-2/id941143328?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "19 19 2014"
+    },
+    {
+      "rank": 88,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "477094081",
+      "name": "MapOut",
+      "developer": "Valnova",
+      "developerUrl": "https://apps.apple.com/fr/developer/valnova/id312297700?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/mapout/id477094081?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navigation"
+      },
+      "releaseDate": "19 19 2012"
+    },
+    {
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "400666114",
+      "name": "Guitar Pro",
+      "developer": "Arobas Music",
+      "developerUrl": "https://apps.apple.com/fr/developer/arobas-music/id400666117?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e2/70/e5e27069-dba9-a440-c279-85af5c9cd27b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/guitar-pro/id400666114?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musique"
+      },
+      "releaseDate": "15 15 2011"
+    },
+    {
+      "rank": 90,
+      "previousRank": 67,
+      "rankChange": -23,
+      "isNew": false,
+      "appleId": "1055650930",
+      "name": "Codenames",
+      "developer": "CGE Digital s.r.o.",
+      "developerUrl": "https://apps.apple.com/fr/developer/cge-digital-s-r-o/id1706267473?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/cb/8b/60cb8b21-70e2-1e84-f983-0751cf00340f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/codenames/id1055650930?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "11 11 2024"
+    },
+    {
+      "rank": 91,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "686923970",
+      "name": "HRV4Training",
+      "developer": "A.S.M.A. B.V.",
+      "developerUrl": "https://apps.apple.com/fr/developer/a-s-m-a-b-v/id1066843463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/86/97/f28697b6-4a3d-6b90-1440-11ea42064793/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/hrv4training/id686923970?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "14 14 2013"
+    },
+    {
+      "rank": 92,
+      "previousRank": 73,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "824305459",
+      "name": "Papa's Freezeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/fr/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/papas-freezeria-to-go/id824305459?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "26 26 2014"
+    },
+    {
+      "rank": 93,
+      "previousRank": 74,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "1062745479",
+      "name": "HeartWatch: Moniteur Cardiaque",
+      "developer": "Tantsissa",
+      "developerUrl": "https://apps.apple.com/fr/developer/tantsissa/id861650887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Forme et santé"
+      },
+      "releaseDate": "7 07 2015"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "335063509",
+      "name": "Paris ci la sortie du Métro",
+      "developer": "P. UNG",
+      "developerUrl": "https://apps.apple.com/fr/developer/p-ung/id335063512?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2c/c7/d42cc701-4c04-cb41-8f21-11568dd0eaf5/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/paris-ci-la-sortie-du-m%C3%A9tro/id335063509?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Voyages"
+      },
+      "releaseDate": "25 25 2009"
+    },
+    {
+      "rank": 95,
+      "previousRank": 77,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "1252260233",
+      "name": "The House of Tesla",
+      "developer": "Blue Brain Games",
+      "developerUrl": "https://apps.apple.com/fr/developer/blue-brain-games/id1062515790?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/16/4a/4d164a11-13a5-2397-ae4c-c93852f4cff0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/the-house-of-tesla/id1252260233?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "20 20 2026"
+    },
+    {
+      "rank": 96,
+      "previousRank": 81,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "6474207287",
+      "name": "Wagotabi : Cours de japonais",
+      "developer": "WAGOTABI LIMITED",
+      "developerUrl": "https://apps.apple.com/fr/developer/wagotabi-limited/id1608057177?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/70/76/ac70760a-039c-aff9-458a-11b3462dc94d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/wagotabi-cours-de-japonais/id6474207287?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6017",
+        "name": "Éducation"
+      },
+      "releaseDate": "2 02 2024"
+    },
+    {
+      "rank": 97,
+      "previousRank": 45,
+      "rankChange": -52,
+      "isNew": false,
+      "appleId": "598581396",
+      "name": "Kingdom Rush Frontiers TD",
+      "developer": "Ironhide S.A.",
+      "developerUrl": "https://apps.apple.com/fr/developer/ironhide-s-a/id558612918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/38/e8/9138e824-612f-bc7f-0ab7-08721351c929/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/kingdom-rush-frontiers-td/id598581396?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "EUR",
@@ -2221,7 +2155,51 @@
         "id": "6014",
         "name": "Jeux"
       },
-      "releaseDate": "8 08 2018"
+      "releaseDate": "6 06 2013"
+    },
+    {
+      "rank": 98,
+      "previousRank": 48,
+      "rankChange": -50,
+      "isNew": false,
+      "appleId": "6755046527",
+      "name": "Dome Keeper",
+      "developer": "Raw Fury",
+      "developerUrl": "https://apps.apple.com/fr/developer/raw-fury/id1118513353?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2f/29/c12f294b-8aff-aa36-2d9c-54e554995a32/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/dome-keeper/id6755046527?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "11 11 2026"
+    },
+    {
+      "rank": 99,
+      "previousRank": 49,
+      "rankChange": -50,
+      "isNew": false,
+      "appleId": "6749456796",
+      "name": "Vampire Crawlers",
+      "developer": "Poncle",
+      "developerUrl": "https://apps.apple.com/fr/developer/poncle/id1655125278?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/79/1a/29791abd-05a1-7ee8-4afe-03a8f69e6963/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/fr/app/vampire-crawlers/id6749456796?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Jeux"
+      },
+      "releaseDate": "12 12 2026"
     }
   ]
 }

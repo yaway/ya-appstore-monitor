@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-28",
-  "collectedAt": "2026-10-28T06:43:40.861Z",
-  "sourceUpdatedAt": "2026-10-27T23:43:40-07:00",
+  "snapshotDate": "2026-10-29",
+  "collectedAt": "2026-10-29T06:50:47.821Z",
+  "sourceUpdatedAt": "2026-10-28T23:50:47-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6003/json",
   "chartType": "paid",
@@ -17,38 +17,16 @@
     "name": "旅游"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-27",
+  "previousSnapshotDate": "2026-10-28",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "357421934",
-      "name": "PeakFinder",
-      "developer": "PeakFinder GmbH",
-      "developerUrl": "https://apps.apple.com/us/developer/peakfinder-gmbh/id357421937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 12, 2010"
-    },
-    {
-      "rank": 2,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "317809458",
       "name": "LiveATC Air Radio",
@@ -66,6 +44,28 @@
         "name": "Travel"
       },
       "releaseDate": "June 9, 2009"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "357421934",
+      "name": "PeakFinder",
+      "developer": "PeakFinder GmbH",
+      "developerUrl": "https://apps.apple.com/us/developer/peakfinder-gmbh/id357421937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 12, 2010"
     },
     {
       "rank": 3,
@@ -138,50 +138,6 @@
       "previousRank": 8,
       "rankChange": 2,
       "isNew": false,
-      "appleId": "347393479",
-      "name": "Roadside America",
-      "developer": "This Exit LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/this-exit-llc/id329905849?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ab/43/09ab43e4-5aff-2b50-2295-fcb356e4184d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/roadside-america/id347393479?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 30, 2009"
-    },
-    {
-      "rank": 7,
-      "previousRank": 11,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "1581798136",
-      "name": "Official Freedom Trail® App",
-      "developer": "The Freedom Trail Foundation",
-      "developerUrl": "https://apps.apple.com/us/developer/the-freedom-trail-foundation/id669307699?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/63/75/d66375bd-97db-ac30-bb1f-c361382d76c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/official-freedom-trail-app/id1581798136?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 21, 2022"
-    },
-    {
-      "rank": 8,
-      "previousRank": 6,
-      "rankChange": -2,
-      "isNew": false,
       "appleId": "6443795837",
       "name": "Global Entry Appointment",
       "developer": "Apps4World",
@@ -200,97 +156,31 @@
       "releaseDate": "October 13, 2022"
     },
     {
-      "rank": 9,
-      "previousRank": 9,
-      "rankChange": 0,
+      "rank": 7,
+      "previousRank": 6,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "578451869",
-      "name": "Road to Hana Maui GyPSy Guide",
-      "developer": "GyPSy Guide LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-llc/id1756806851?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7f/cc/cd7fcc9a-fc32-b796-565e-4256ac332085/AppIconStandalone-0-0-1x_U007epad-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/road-to-hana-maui-gypsy-guide/id578451869?uo=2",
+      "appleId": "347393479",
+      "name": "Roadside America",
+      "developer": "This Exit LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/this-exit-llc/id329905849?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ab/43/09ab43e4-5aff-2b50-2295-fcb356e4184d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/roadside-america/id347393479?uo=2",
       "price": {
-        "amount": 14.99,
+        "amount": 3.99,
         "currency": "USD",
-        "formatted": "$14.99"
+        "formatted": "$3.99"
       },
       "primaryCategory": {
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "November 19, 2012"
+      "releaseDate": "December 30, 2009"
     },
     {
-      "rank": 10,
-      "previousRank": 7,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1510654035",
-      "name": "Bonaventure Cemetery Tours",
-      "developer": "Bonaventure Historical Society",
-      "developerUrl": "https://apps.apple.com/us/developer/bonaventure-historical-society/id1510654034?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/e7/db/d8e7db74-eb8e-a03f-e879-d775bc80f9f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bonaventure-cemetery-tours/id1510654035?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 6, 2020"
-    },
-    {
-      "rank": 11,
-      "previousRank": 15,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "654806302",
-      "name": "USFS & BLM Campgrounds",
-      "developer": "Kyle Modesitt",
-      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/4a/0b/424a0bfa-35c8-aa85-6905-a67e65ea7753/USFSBLMAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/usfs-blm-campgrounds/id654806302?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "June 3, 2013"
-    },
-    {
-      "rank": 12,
-      "previousRank": 18,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "1257573007",
-      "name": "RV Dump Stations",
-      "developer": "Kyle Modesitt",
-      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/9b/03/c99b0377-f97b-678a-2cff-dae758dcf3be/RVDumpsAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rv-dump-stations/id1257573007?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 10, 2017"
-    },
-    {
-      "rank": 13,
-      "previousRank": 10,
-      "rankChange": -3,
+      "rank": 8,
+      "previousRank": 13,
+      "rankChange": 5,
       "isNew": false,
       "appleId": "505367096",
       "name": "Fog of World",
@@ -310,317 +200,31 @@
       "releaseDate": "September 18, 2012"
     },
     {
-      "rank": 14,
-      "previousRank": 26,
-      "rankChange": 12,
+      "rank": 9,
+      "previousRank": 7,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "983056779",
-      "name": "Wise Pilgrim Camino Portugués",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a8/c7/35a8c707-d55e-bf98-666b-11f173c014ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-portugu%C3%A9s/id983056779?uo=2",
+      "appleId": "1581798136",
+      "name": "Official Freedom Trail® App",
+      "developer": "The Freedom Trail Foundation",
+      "developerUrl": "https://apps.apple.com/us/developer/the-freedom-trail-foundation/id669307699?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/63/75/d66375bd-97db-ac30-bb1f-c361382d76c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/official-freedom-trail-app/id1581798136?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 9.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$9.99"
       },
       "primaryCategory": {
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "March 24, 2016"
+      "releaseDate": "July 21, 2022"
     },
     {
-      "rank": 15,
-      "previousRank": 14,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "882607297",
-      "name": "Texas Historical Marker Guide",
-      "developer": "Gregory Moore",
-      "developerUrl": "https://apps.apple.com/us/developer/gregory-moore/id882607300?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/1a/1c/ff1a1c75-ed46-e08d-0fd5-3cf4972a19c0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/texas-historical-marker-guide/id882607297?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "January 25, 2015"
-    },
-    {
-      "rank": 16,
-      "previousRank": 22,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "1198499960",
-      "name": "GPS Status & Toolbox",
-      "developer": "MobiWIA Kft.",
-      "developerUrl": "https://apps.apple.com/us/developer/mobiwia-kft/id1198499959?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/fe/1e/1ffe1e63-0436-ed2e-8885-93d99dc0f5f4/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/gps-status-toolbox/id1198499960?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 17, 2017"
-    },
-    {
-      "rank": 17,
-      "previousRank": 25,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "582527125",
-      "name": "WikiCamps New Zealand",
-      "developer": "WikiCamps pty ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/wikicamps-pty-ltd/id469872262?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/65/e1/1165e14b-fe5f-652d-8f30-07b4a38dd757/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wikicamps-new-zealand/id582527125?uo=2",
-      "price": {
-        "amount": 4.29,
-        "currency": "USD",
-        "formatted": "$4.29"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 17, 2012"
-    },
-    {
-      "rank": 18,
-      "previousRank": 12,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "505365608",
-      "name": "WikiCamps Australia",
-      "developer": "WikiCamps pty ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/wikicamps-pty-ltd/id469872262?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wikicamps-australia/id505365608?uo=2",
-      "price": {
-        "amount": 6.59,
-        "currency": "USD",
-        "formatted": "$6.59"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 1, 2012"
-    },
-    {
-      "rank": 19,
-      "previousRank": 23,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "1375794329",
-      "name": "PassWarrior",
-      "developer": "Doug Fales",
-      "developerUrl": "https://apps.apple.com/us/developer/doug-fales/id1375794328?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/40/bd/ca40bdbd-c75e-1d17-baaf-f975979721bf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/passwarrior/id1375794329?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "October 11, 2018"
-    },
-    {
-      "rank": 20,
-      "previousRank": 34,
-      "rankChange": 14,
-      "isNew": false,
-      "appleId": "535960556",
-      "name": "Wise Pilgrim Camino Francés",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/b2/59/d8b259f6-87cf-255b-ae09-fc2528127263/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-franc%C3%A9s/id535960556?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "June 20, 2012"
-    },
-    {
-      "rank": 21,
-      "previousRank": 30,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "6760080335",
-      "name": "NeighborTrain",
-      "developer": "LEE ANN ROWE",
-      "developerUrl": "https://apps.apple.com/us/developer/lee-ann-rowe/id1882534077?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ea/ce/7beacebc-11fb-3cb8-0893-5d094fde0966/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/neighbortrain/id6760080335?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 17, 2026"
-    },
-    {
-      "rank": 22,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6814062758",
-      "name": "Pick, Pack, Go: ADHD Packing",
-      "developer": "Phillip Forgo-Hess",
-      "developerUrl": "https://apps.apple.com/us/developer/phillip-forgo-hess/id1896572546?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9b/e6/509be68d-11ed-835a-be5a-0d9a3e139e55/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pick-pack-go-adhd-packing/id6814062758?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 22, 2026"
-    },
-    {
-      "rank": 23,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6785299378",
-      "name": "Frankfurt FRA Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ee/96/8aee9680-a4f7-c471-c8fb-8692b983d278/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/frankfurt-fra-airport/id6785299378?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 1, 2026"
-    },
-    {
-      "rank": 24,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6776410193",
-      "name": "Quirky US Explorer",
-      "developer": "Ducky Planet LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/ducky-planet-llc/id442169107?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/86/50/008650b6-e404-6f50-a277-ce6aad804e10/USExplorer-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/quirky-us-explorer/id6776410193?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 8, 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 77,
-      "rankChange": 52,
-      "isNew": false,
-      "appleId": "723185418",
-      "name": "US Public Lands",
-      "developer": "Two Steps Beyond",
-      "developerUrl": "https://apps.apple.com/us/developer/two-steps-beyond/id371852083?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/07/7b/69077b34-056e-c8bc-b278-4e87d8491a36/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/us-public-lands/id723185418?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 11, 2014"
-    },
-    {
-      "rank": 26,
-      "previousRank": 17,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "576934996",
-      "name": "Palm Springs Modernism Tour",
-      "developer": "Desert Publications, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/desert-publications-inc/id483165085?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/e8/f7/b0e8f71c-713a-6488-2a6c-d07c495eca39/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/palm-springs-modernism-tour/id576934996?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "November 16, 2012"
-    },
-    {
-      "rank": 27,
-      "previousRank": 87,
-      "rankChange": 60,
-      "isNew": false,
-      "appleId": "1027756860",
-      "name": "Venice Panorama - ENG",
-      "developer": "D'Uva Workshop s.r.l.",
-      "developerUrl": "https://apps.apple.com/us/developer/duva-workshop-s-r-l/id360150209?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/5d/35/da/5d35da5d-33b6-6ecc-ed8b-fc5667839dde/mzm.vpzusddr.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/venice-panorama-eng/id1027756860?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "August 13, 2015"
-    },
-    {
-      "rank": 28,
-      "previousRank": 13,
-      "rankChange": -15,
+      "rank": 10,
+      "previousRank": 28,
+      "rankChange": 18,
       "isNew": false,
       "appleId": "561352659",
       "name": "Boondocking",
@@ -640,9 +244,251 @@
       "releaseDate": "September 18, 2012"
     },
     {
-      "rank": 29,
-      "previousRank": 28,
-      "rankChange": -1,
+      "rank": 11,
+      "previousRank": 21,
+      "rankChange": 10,
+      "isNew": false,
+      "appleId": "6760080335",
+      "name": "NeighborTrain",
+      "developer": "LEE ANN ROWE",
+      "developerUrl": "https://apps.apple.com/us/developer/lee-ann-rowe/id1882534077?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ea/ce/7beacebc-11fb-3cb8-0893-5d094fde0966/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/neighbortrain/id6760080335?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 17, 2026"
+    },
+    {
+      "rank": 12,
+      "previousRank": 10,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1510654035",
+      "name": "Bonaventure Cemetery Tours",
+      "developer": "Bonaventure Historical Society",
+      "developerUrl": "https://apps.apple.com/us/developer/bonaventure-historical-society/id1510654034?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/e7/db/d8e7db74-eb8e-a03f-e879-d775bc80f9f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bonaventure-cemetery-tours/id1510654035?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 6, 2020"
+    },
+    {
+      "rank": 13,
+      "previousRank": 54,
+      "rankChange": 41,
+      "isNew": false,
+      "appleId": "1178703539",
+      "name": "OpenADSB",
+      "developer": "Steve Kuo",
+      "developerUrl": "https://apps.apple.com/us/developer/steve-kuo/id1178703538?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/0d/e3/b50de39e-0579-5cfd-9a0b-c9369405d4db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/openadsb/id1178703539?uo=2",
+      "price": {
+        "amount": 10.99,
+        "currency": "USD",
+        "formatted": "$10.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "January 19, 2018"
+    },
+    {
+      "rank": 14,
+      "previousRank": 17,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "582527125",
+      "name": "WikiCamps New Zealand",
+      "developer": "WikiCamps pty ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/wikicamps-pty-ltd/id469872262?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/0c/1e/160c1e20-b148-8b46-bc77-85aef688ebd1/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wikicamps-new-zealand/id582527125?uo=2",
+      "price": {
+        "amount": 4.29,
+        "currency": "USD",
+        "formatted": "$4.29"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "December 17, 2012"
+    },
+    {
+      "rank": 15,
+      "previousRank": 25,
+      "rankChange": 10,
+      "isNew": false,
+      "appleId": "723185418",
+      "name": "US Public Lands",
+      "developer": "Two Steps Beyond",
+      "developerUrl": "https://apps.apple.com/us/developer/two-steps-beyond/id371852083?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/07/7b/69077b34-056e-c8bc-b278-4e87d8491a36/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/us-public-lands/id723185418?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "April 11, 2014"
+    },
+    {
+      "rank": 16,
+      "previousRank": 9,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "578451869",
+      "name": "Road to Hana Maui GyPSy Guide",
+      "developer": "GyPSy Guide LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-llc/id1756806851?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7f/cc/cd7fcc9a-fc32-b796-565e-4256ac332085/AppIconStandalone-0-0-1x_U007epad-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/road-to-hana-maui-gypsy-guide/id578451869?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "USD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "November 19, 2012"
+    },
+    {
+      "rank": 17,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6796545985",
+      "name": "Flight Lyfe",
+      "developer": "Flight Lyfe",
+      "developerUrl": "https://apps.apple.com/us/developer/flight-lyfe/id6796545987?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/b9/13/68b9137b-5c56-8496-638c-c006ff24a563/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/flight-lyfe/id6796545985?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "October 26, 2026"
+    },
+    {
+      "rank": 18,
+      "previousRank": 14,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "983056779",
+      "name": "Wise Pilgrim Camino Portugués",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/de/26/c0de2612-d87b-8b3a-79ef-e3f2faa9765a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-portugu%C3%A9s/id983056779?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 24, 2016"
+    },
+    {
+      "rank": 19,
+      "previousRank": 38,
+      "rankChange": 19,
+      "isNew": false,
+      "appleId": "6747320104",
+      "name": "Roadside 66",
+      "developer": "This Exit LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/this-exit-llc/id329905849?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/1f/39/c91f3915-4824-5df7-0b8e-033904b553ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/roadside-66/id6747320104?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "USD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 5, 2026"
+    },
+    {
+      "rank": 20,
+      "previousRank": 18,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "505365608",
+      "name": "WikiCamps Australia",
+      "developer": "WikiCamps pty ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/wikicamps-pty-ltd/id469872262?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/b9/ea95b950-3b15-e305-6ff6-3fed0088024e/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wikicamps-australia/id505365608?uo=2",
+      "price": {
+        "amount": 6.59,
+        "currency": "USD",
+        "formatted": "$6.59"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 1, 2012"
+    },
+    {
+      "rank": 21,
+      "previousRank": 12,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "1257573007",
+      "name": "RV Dump Stations",
+      "developer": "Kyle Modesitt",
+      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/9b/03/c99b0377-f97b-678a-2cff-dae758dcf3be/RVDumpsAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rv-dump-stations/id1257573007?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "July 10, 2017"
+    },
+    {
+      "rank": 22,
+      "previousRank": 29,
+      "rankChange": 7,
       "isNew": false,
       "appleId": "1473850205",
       "name": "Gettysburg Audio Tour",
@@ -662,9 +508,163 @@
       "releaseDate": "July 27, 2019"
     },
     {
+      "rank": 23,
+      "previousRank": 34,
+      "rankChange": 11,
+      "isNew": false,
+      "appleId": "646231308",
+      "name": "Prairie State Hike App",
+      "developer": "Prairie State Conservation Coalition",
+      "developerUrl": "https://apps.apple.com/us/developer/prairie-state-conservation-coalition/id646231891?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/d9/db/91d9db2a-c1f5-a754-ecfd-dc96d93c4036/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/prairie-state-hike-app/id646231308?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 18, 2013"
+    },
+    {
+      "rank": 24,
+      "previousRank": 16,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "1198499960",
+      "name": "GPS Status & Toolbox",
+      "developer": "MobiWIA Kft.",
+      "developerUrl": "https://apps.apple.com/us/developer/mobiwia-kft/id1198499959?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1f/fe/1e/1ffe1e63-0436-ed2e-8885-93d99dc0f5f4/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/gps-status-toolbox/id1198499960?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "February 17, 2017"
+    },
+    {
+      "rank": 25,
+      "previousRank": 65,
+      "rankChange": 40,
+      "isNew": false,
+      "appleId": "1221399711",
+      "name": "Chillon",
+      "developer": "Texetera",
+      "developerUrl": "https://apps.apple.com/us/developer/texetera/id317337550?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/19/59/4619597f-4f50-4306-f930-ad7e20e17ae2/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/chillon/id1221399711?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "July 11, 2017"
+    },
+    {
+      "rank": 26,
+      "previousRank": 19,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "1375794329",
+      "name": "PassWarrior",
+      "developer": "Doug Fales",
+      "developerUrl": "https://apps.apple.com/us/developer/doug-fales/id1375794328?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/40/bd/ca40bdbd-c75e-1d17-baaf-f975979721bf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/passwarrior/id1375794329?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "October 11, 2018"
+    },
+    {
+      "rank": 27,
+      "previousRank": 20,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "535960556",
+      "name": "Wise Pilgrim Camino Francés",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/43/5d484357-9583-7bb9-d165-ac917ea67725/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-franc%C3%A9s/id535960556?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "June 20, 2012"
+    },
+    {
+      "rank": 28,
+      "previousRank": 11,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "654806302",
+      "name": "USFS & BLM Campgrounds",
+      "developer": "Kyle Modesitt",
+      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/4a/0b/424a0bfa-35c8-aa85-6905-a67e65ea7753/USFSBLMAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/usfs-blm-campgrounds/id654806302?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "June 3, 2013"
+    },
+    {
+      "rank": 29,
+      "previousRank": 15,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "882607297",
+      "name": "Texas Historical Marker Guide",
+      "developer": "Gregory Moore",
+      "developerUrl": "https://apps.apple.com/us/developer/gregory-moore/id882607300?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/1a/1c/ff1a1c75-ed46-e08d-0fd5-3cf4972a19c0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/texas-historical-marker-guide/id882607297?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "January 25, 2015"
+    },
+    {
       "rank": 30,
-      "previousRank": 45,
-      "rankChange": 15,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1045268097",
       "name": "Inquire — Wikipedia Around You",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 50,
-      "rankChange": 19,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "982839825",
       "name": "Big Island Hawaii Gypsy Guide",
@@ -707,8 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 52,
-      "rankChange": 20,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "465180749",
       "name": "Convert Any Unit",
@@ -729,52 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "967104806",
-      "name": "Post Msn Calc",
-      "developer": "John Robbins",
-      "developerUrl": "https://apps.apple.com/us/developer/john-robbins/id831427516?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/69/86/c1/6986c190-bfe6-8c1e-56db-11031607c3aa/mzl.jelyitaa.jpg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/post-msn-calc/id967104806?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 25, 2015"
-    },
-    {
-      "rank": 34,
-      "previousRank": 24,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "646231308",
-      "name": "Prairie State Hike App",
-      "developer": "Prairie State Conservation Coalition",
-      "developerUrl": "https://apps.apple.com/us/developer/prairie-state-conservation-coalition/id646231891?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/d9/db/91d9db2a-c1f5-a754-ecfd-dc96d93c4036/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/prairie-state-hike-app/id646231308?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 18, 2013"
-    },
-    {
-      "rank": 35,
-      "previousRank": 27,
-      "rankChange": -8,
+      "previousRank": 35,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1612050746",
       "name": "Florida State Parks - Guide",
@@ -794,9 +750,9 @@
       "releaseDate": "March 14, 2022"
     },
     {
-      "rank": 36,
-      "previousRank": 29,
-      "rankChange": -7,
+      "rank": 34,
+      "previousRank": 36,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "768160271",
       "name": "航旅纵横PRO-民航官方直销平台",
@@ -816,9 +772,9 @@
       "releaseDate": "December 18, 2013"
     },
     {
-      "rank": 37,
-      "previousRank": 31,
-      "rankChange": -6,
+      "rank": 35,
+      "previousRank": 37,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6753910113",
       "name": "Peloponnese Guide",
@@ -838,53 +794,9 @@
       "releaseDate": "October 23, 2025"
     },
     {
-      "rank": 38,
-      "previousRank": 32,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6747320104",
-      "name": "Roadside 66",
-      "developer": "This Exit LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/this-exit-llc/id329905849?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/1f/39/c91f3915-4824-5df7-0b8e-033904b553ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/roadside-66/id6747320104?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 5, 2026"
-    },
-    {
-      "rank": 39,
-      "previousRank": 16,
-      "rankChange": -23,
-      "isNew": false,
-      "appleId": "556384965",
-      "name": "Wise Pilgrim Finisterre",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c0/0a/8cc00aeb-b68e-d3aa-b1d1-4d8528a3693d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-finisterre/id556384965?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 5, 2012"
-    },
-    {
-      "rank": 40,
+      "rank": 36,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "294730339",
       "name": "TripView",
@@ -904,9 +816,9 @@
       "releaseDate": "March 26, 2009"
     },
     {
-      "rank": 41,
+      "rank": 37,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "6776644237",
       "name": "Bradley BDL Airport",
@@ -926,31 +838,9 @@
       "releaseDate": "June 4, 2026"
     },
     {
-      "rank": 42,
-      "previousRank": 42,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "727297302",
-      "name": "Flight Board Pro Plane Tracker",
-      "developer": "Flight Tracker Apps Studio",
-      "developerUrl": "https://apps.apple.com/us/developer/flight-tracker-apps-studio/id1375444248?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b4/aa/4ab4aa44-6a11-3115-cf99-c669a9a34ff5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/flight-board-pro-plane-tracker/id727297302?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "November 11, 2013"
-    },
-    {
-      "rank": 43,
+      "rank": 38,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": 5,
       "isNew": false,
       "appleId": "287217531",
       "name": "FAAwait",
@@ -970,53 +860,9 @@
       "releaseDate": "February 1, 2019"
     },
     {
-      "rank": 44,
-      "previousRank": 47,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1153967813",
-      "name": "California State Roads",
-      "developer": "Coderun Technologies Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/70/71/8a70715a-27d1-d80a-6b4f-d0a8e5853aad/CARoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/california-state-roads/id1153967813?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 20, 2016"
-    },
-    {
-      "rank": 45,
-      "previousRank": 60,
-      "rankChange": 15,
-      "isNew": false,
-      "appleId": "1462821505",
-      "name": "Zion Bryce Canyon GyPSy Guide",
-      "developer": "Gypsy Guide GPS LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-gps-llc/id1802851366?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/41/e8/7841e834-9ab5-b37c-2b96-843cd29adacb/AppIconStandalone-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/zion-bryce-canyon-gypsy-guide/id1462821505?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "USD",
-        "formatted": "$17.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 10, 2019"
-    },
-    {
-      "rank": 46,
-      "previousRank": 62,
-      "rankChange": 16,
+      "rank": 39,
+      "previousRank": 46,
+      "rankChange": 7,
       "isNew": false,
       "appleId": "995895082",
       "name": "Tide Table Chart",
@@ -1036,53 +882,9 @@
       "releaseDate": "May 29, 2015"
     },
     {
-      "rank": 47,
-      "previousRank": 64,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "6695728532",
-      "name": "North Sulawesi Fish ID",
-      "developer": "John P. Hoover",
-      "developerUrl": "https://apps.apple.com/us/developer/john-p-hoover/id520389659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/5f/cf/505fcf8b-5677-cc55-94fb-8e0b2a440320/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/north-sulawesi-fish-id/id6695728532?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 11, 2025"
-    },
-    {
-      "rank": 48,
-      "previousRank": 74,
-      "rankChange": 26,
-      "isNew": false,
-      "appleId": "6759218918",
-      "name": "TripFit",
-      "developer": "Taein Kim",
-      "developerUrl": "https://apps.apple.com/us/developer/taein-kim/id1256839730?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/77/c6/8577c615-4ad4-5fb8-7683-312435c137e4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tripfit/id6759218918?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 23, 2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 80,
-      "rankChange": 31,
+      "rank": 40,
+      "previousRank": 49,
+      "rankChange": 9,
       "isNew": false,
       "appleId": "352818407",
       "name": "Walmart Overnight Parking",
@@ -1102,9 +904,9 @@
       "releaseDate": "January 29, 2010"
     },
     {
-      "rank": 50,
-      "previousRank": 83,
-      "rankChange": 33,
+      "rank": 41,
+      "previousRank": 50,
+      "rankChange": 9,
       "isNew": false,
       "appleId": "312266675",
       "name": "Packing Pro",
@@ -1124,9 +926,9 @@
       "releaseDate": "April 16, 2009"
     },
     {
-      "rank": 51,
-      "previousRank": 85,
-      "rankChange": 34,
+      "rank": 42,
+      "previousRank": 51,
+      "rankChange": 9,
       "isNew": false,
       "appleId": "953333522",
       "name": "PackPoint Premium Packing List",
@@ -1146,340 +948,10 @@
       "releaseDate": "January 6, 2015"
     },
     {
-      "rank": 52,
-      "previousRank": 86,
-      "rankChange": 34,
+      "rank": 43,
+      "previousRank": 67,
+      "rankChange": 24,
       "isNew": false,
-      "appleId": "977385841",
-      "name": "Wise Pilgrim Camino Inglés",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/12/36/c8123682-21ed-cc38-1142-27f44508a265/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-ingl%C3%A9s/id977385841?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 10, 2015"
-    },
-    {
-      "rank": 53,
-      "previousRank": 93,
-      "rankChange": 40,
-      "isNew": false,
-      "appleId": "6758859145",
-      "name": "Chouette Tour - Dijon",
-      "developer": "Benoit Baraille",
-      "developerUrl": "https://apps.apple.com/us/developer/benoit-baraille/id1704017436?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/dd/9e/75dd9e19-fc3b-5994-1cff-ab146b86abaa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/chouette-tour-dijon/id6758859145?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 25, 2026"
-    },
-    {
-      "rank": 54,
-      "previousRank": 19,
-      "rankChange": -35,
-      "isNew": false,
-      "appleId": "1178703539",
-      "name": "OpenADSB",
-      "developer": "Steve Kuo",
-      "developerUrl": "https://apps.apple.com/us/developer/steve-kuo/id1178703538?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/0d/e3/b50de39e-0579-5cfd-9a0b-c9369405d4db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/openadsb/id1178703539?uo=2",
-      "price": {
-        "amount": 10.99,
-        "currency": "USD",
-        "formatted": "$10.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "January 19, 2018"
-    },
-    {
-      "rank": 55,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6747994904",
-      "name": "Texas Dives",
-      "developer": "Texas Dives LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/texas-dives-llc/id1823771827?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/45/18/f745186a-129d-ace4-65f2-d865ad80ea0b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/texas-dives/id6747994904?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "August 2, 2025"
-    },
-    {
-      "rank": 56,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6467651337",
-      "name": "Parco Archeologico di Ercolano",
-      "developer": "D'Uva Workshop s.r.l.",
-      "developerUrl": "https://apps.apple.com/us/developer/duva-workshop-s-r-l/id360150209?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 29, 2023"
-    },
-    {
-      "rank": 57,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6755662656",
-      "name": "Grand Egyptian Museum (GEM)",
-      "developer": "Trishti Systems Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/trishti-systems-ltd/id551275215?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/7f/78/677f7863-a3ce-e693-c7d6-9d39e6aeb2fb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/grand-egyptian-museum-gem/id6755662656?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 22, 2025"
-    },
-    {
-      "rank": 58,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1212012250",
-      "name": "Illinois State Roads",
-      "developer": "Coderun Technologies Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/27/dc/2527dc46-8757-7d2b-0121-bf236ceadbf1/ILRoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/illinois-state-roads/id1212012250?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "November 23, 2019"
-    },
-    {
-      "rank": 59,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1609706755",
-      "name": "Tahiti Fish ID",
-      "developer": "John P. Hoover",
-      "developerUrl": "https://apps.apple.com/us/developer/john-p-hoover/id520389659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/29/f8/2929f877-211b-6ae7-0f0e-35e0624530c1/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tahiti-fish-id/id1609706755?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "USD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 28, 2022"
-    },
-    {
-      "rank": 60,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1229284126",
-      "name": "Scuba Fish Hawaii",
-      "developer": "John P. Hoover",
-      "developerUrl": "https://apps.apple.com/us/developer/john-p-hoover/id520389659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/64/70/9664706c-fabd-16e2-513b-80619c55ff08/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/scuba-fish-hawaii/id1229284126?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 28, 2017"
-    },
-    {
-      "rank": 61,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6759952045",
-      "name": "Orlando MCO Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/49/34/4b49345d-63db-d7e2-2885-ddf9edecf801/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/orlando-mco-airport/id6759952045?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 3, 2026"
-    },
-    {
-      "rank": 62,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "430243601",
-      "name": "Boarding Pass - Flight Checkin",
-      "developer": "Till Henrik Jonathan Hillebrand",
-      "developerUrl": "https://apps.apple.com/us/developer/till-henrik-jonathan-hillebrand/id337991066?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/ff/64/09ff6469-7b67-cb3e-734f-77f1d49eebb0/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/boarding-pass-flight-checkin/id430243601?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 8, 2011"
-    },
-    {
-      "rank": 63,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "431850995",
-      "name": "WDW Vacation Countdown",
-      "developer": "Ricky Mills",
-      "developerUrl": "https://apps.apple.com/us/developer/ricky-mills/id342112077?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/44/81/49/4481492b-52f4-b8c2-c4c9-a4294d50d8d9/AppIcon-1x_U007emarketing-85-220-0-9.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wdw-vacation-countdown/id431850995?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 19, 2011"
-    },
-    {
-      "rank": 64,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "637834813",
-      "name": "Offbeat Attractions",
-      "developer": "Kyle Modesitt",
-      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c7/8b/fbc78bcd-e823-1a04-d8c1-7a416f60dac0/OffBeatAppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/offbeat-attractions/id637834813?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 22, 2013"
-    },
-    {
-      "rank": 65,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1221399711",
-      "name": "Chillon",
-      "developer": "Texetera",
-      "developerUrl": "https://apps.apple.com/us/developer/texetera/id317337550?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/19/59/4619597f-4f50-4306-f930-ad7e20e17ae2/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/chillon/id1221399711?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 11, 2017"
-    },
-    {
-      "rank": 66,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "285345478",
-      "name": "Pocket Luach Deluxe",
-      "developer": "Haim Tebeka",
-      "developerUrl": "https://apps.apple.com/us/developer/haim-tebeka/id285016307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4b/73/e74b73d3-a7e9-58ca-cf52-81278539c441/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pocket-luach-deluxe/id285345478?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 12, 2019"
-    },
-    {
-      "rank": 67,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "6768074552",
       "name": "Cades Cove Explorer",
       "developer": "CHARLES GREGORY GILLUM",
@@ -1498,76 +970,10 @@
       "releaseDate": "May 12, 2026"
     },
     {
-      "rank": 68,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1230104936",
-      "name": "Edinburgh's Best: Travel Guide",
-      "developer": "Agorite",
-      "developerUrl": "https://apps.apple.com/us/developer/agorite/id905197684?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/75/35/4a75350a-6adf-0905-09d2-86541d7eef4f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/edinburghs-best-travel-guide/id1230104936?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 3, 2017"
-    },
-    {
-      "rank": 69,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1204629764",
-      "name": "Lincoln Highway",
-      "developer": "iStuff",
-      "developerUrl": "https://apps.apple.com/us/developer/istuff/id369606386?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/a1/e2/c8a1e2b2-fd7a-8dd1-897c-a300839e3c7a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/lincoln-highway/id1204629764?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "February 12, 2017"
-    },
-    {
-      "rank": 70,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1396059921",
-      "name": "Planet Pompeii Audioguide PRO",
-      "developer": "Kreisa Innovation srl",
-      "developerUrl": "https://apps.apple.com/us/developer/kreisa-innovation-srl/id1436013744?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e0/5d/d8e05d33-994f-d4d3-3cf6-7ba6d584c7c0/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/planet-pompeii-audioguide-pro/id1396059921?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "August 1, 2018"
-    },
-    {
-      "rank": 71,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 44,
+      "previousRank": 71,
+      "rankChange": 27,
+      "isNew": false,
       "appleId": "6806103602",
       "name": "Dump Station Finder",
       "developer": "Campendium, Inc.",
@@ -1586,185 +992,9 @@
       "releaseDate": "September 25, 2026"
     },
     {
-      "rank": 72,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6670753980",
-      "name": "Oklahoma-State Parks & Trails",
-      "developer": "Areti Manikanta",
-      "developerUrl": "https://apps.apple.com/us/developer/areti-manikanta/id1821839116?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cb/e5/d9cbe5e4-189e-e462-f979-65b783c41118/Galapagos-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/oklahoma-state-parks-trails/id6670753980?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 10, 2024"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6761033270",
-      "name": "LighthouseMap",
-      "developer": "Arctic Surf Designs",
-      "developerUrl": "https://apps.apple.com/us/developer/arctic-surf-designs/id441016698?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0d/c3/ca0dc3e1-b67e-4bfa-e14f-1cd0378157aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/lighthousemap/id6761033270?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "March 24, 2026"
-    },
-    {
-      "rank": 74,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6744895228",
-      "name": "Learn Chinese Traditional Pre",
-      "developer": "Duc Tang Van",
-      "developerUrl": "https://apps.apple.com/us/developer/duc-tang-van/id1332958107?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/cf/e4/4bcfe49d-b389-1013-3ebd-acd254abd6d4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/learn-chinese-traditional-pre/id6744895228?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 22, 2025"
-    },
-    {
-      "rank": 75,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6761496169",
-      "name": "Washington IAD Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/db/c0/77dbc05e-dab1-37f6-12d9-2ca90a02dad9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/washington-iad-airport/id6761496169?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 2, 2026"
-    },
-    {
-      "rank": 76,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6799962025",
-      "name": "Offline Azores Map and Guide",
-      "developer": "HENRIQUE CARVALHO SOUSA",
-      "developerUrl": "https://apps.apple.com/us/developer/henrique-carvalho-sousa/id1784359940?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/d3/86/e8d3867e-4dfe-bf5f-885a-992216c7393c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/offline-azores-map-and-guide/id6799962025?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "August 17, 2026"
-    },
-    {
-      "rank": 77,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1632759288",
-      "name": "Tempermental",
-      "developer": "Jonathan Judelson",
-      "developerUrl": "https://apps.apple.com/us/developer/jonathan-judelson/id813495416?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/5e/01/d75e01a0-1763-dc7d-1e55-5b02638b8502/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tempermental/id1632759288?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 3, 2022"
-    },
-    {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6747346734",
-      "name": "South Carolina-Campgrounds",
-      "developer": "Guttula Sathish",
-      "developerUrl": "https://apps.apple.com/us/developer/guttula-sathish/id1818455431?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/44/4c/92444cb0-26fa-67b4-ab74-9fbd4ef5983e/Bali-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/south-carolina-campgrounds/id6747346734?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "June 20, 2025"
-    },
-    {
-      "rank": 79,
-      "previousRank": 20,
-      "rankChange": -59,
-      "isNew": false,
-      "appleId": "6787748183",
-      "name": "Gainesville GNV Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/63/f0/0663f039-9a2a-e8e7-d11e-0fc4dcdb1955/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/gainesville-gnv-airport/id6787748183?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "July 6, 2026"
-    },
-    {
-      "rank": 80,
-      "previousRank": 21,
-      "rankChange": -59,
+      "rank": 45,
+      "previousRank": 80,
+      "rankChange": 35,
       "isNew": false,
       "appleId": "6815432619",
       "name": "UPackIt: Pack for the Weather",
@@ -1784,9 +1014,9 @@
       "releaseDate": "October 22, 2026"
     },
     {
-      "rank": 81,
-      "previousRank": 33,
-      "rankChange": -48,
+      "rank": 46,
+      "previousRank": 81,
+      "rankChange": 35,
       "isNew": false,
       "appleId": "578453078",
       "name": "Maui GyPSy Guide Driving Tour",
@@ -1806,141 +1036,9 @@
       "releaseDate": "November 19, 2012"
     },
     {
-      "rank": 82,
-      "previousRank": 35,
-      "rankChange": -47,
-      "isNew": false,
-      "appleId": "586015472",
-      "name": "Oahu GyPSy Guide Driving Tour",
-      "developer": "GyPSy Guide LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-llc/id1756806851?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/ca/9cb7ca8a-525f-d606-5159-a51f9ddb3ba7/AppIconStandalone-0-0-1x_U007epad-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/oahu-gypsy-guide-driving-tour/id586015472?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 12, 2012"
-    },
-    {
-      "rank": 83,
-      "previousRank": 36,
-      "rankChange": -47,
-      "isNew": false,
-      "appleId": "427430871",
-      "name": "NW Ferry",
-      "developer": "Durbinware",
-      "developerUrl": "https://apps.apple.com/us/developer/durbinware/id371905346?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/90/70/0b9070ae-7f56-7b55-29a1-d131f626cd63/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/nw-ferry/id427430871?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "April 18, 2011"
-    },
-    {
-      "rank": 84,
-      "previousRank": 38,
-      "rankChange": -46,
-      "isNew": false,
-      "appleId": "457444495",
-      "name": "Denver E-470 Toll Road 2017",
-      "developer": "Whizkeys by SmartRF Solutions LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/whizkeys-by-smartrf-solutions-llc/id447999226?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/60/b3/d1/60b3d111-ccda-a811-5c20-7e14a280c1fe/mzl.kvwisoet.jpg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/denver-e-470-toll-road-2017/id457444495?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "August 24, 2011"
-    },
-    {
-      "rank": 85,
-      "previousRank": 39,
-      "rankChange": -46,
-      "isNew": false,
-      "appleId": "1594129099",
-      "name": "PassWarrior - Idaho",
-      "developer": "Doug Fales",
-      "developerUrl": "https://apps.apple.com/us/developer/doug-fales/id1375794328?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/1c/63/3a1c63eb-d616-e049-7a4f-742386915323/AppIcon-Idaho-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/passwarrior-idaho/id1594129099?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 23, 2021"
-    },
-    {
-      "rank": 86,
-      "previousRank": 44,
-      "rankChange": -42,
-      "isNew": false,
-      "appleId": "1605679407",
-      "name": "Global Interview",
-      "developer": "Brian McBurney",
-      "developerUrl": "https://apps.apple.com/us/developer/brian-mcburney/id688652938?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/90/c1/bc90c158-87f1-e9d5-a851-166d32fb341e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/global-interview/id1605679407?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "January 18, 2022"
-    },
-    {
-      "rank": 87,
-      "previousRank": 46,
-      "rankChange": -41,
-      "isNew": false,
-      "appleId": "6670527319",
-      "name": "State Parks & NPS-Pennsylvania",
-      "developer": "Areti Manikanta",
-      "developerUrl": "https://apps.apple.com/us/developer/areti-manikanta/id1821839116?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/9d/93619de5-bf80-6c00-eea9-991466902c3a/Seychelles-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/state-parks-nps-pennsylvania/id6670527319?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "September 5, 2024"
-    },
-    {
-      "rank": 88,
-      "previousRank": 49,
-      "rankChange": -39,
+      "rank": 47,
+      "previousRank": 88,
+      "rankChange": 41,
       "isNew": false,
       "appleId": "323470584",
       "name": "Translate Voice - Language Translator & Dictionary",
@@ -1960,9 +1058,9 @@
       "releaseDate": "August 26, 2009"
     },
     {
-      "rank": 89,
-      "previousRank": 48,
-      "rankChange": -41,
+      "rank": 48,
+      "previousRank": 89,
+      "rankChange": 41,
       "isNew": false,
       "appleId": "6762631402",
       "name": "RailsMaps",
@@ -1982,53 +1080,9 @@
       "releaseDate": "June 15, 2026"
     },
     {
-      "rank": 90,
-      "previousRank": 51,
-      "rankChange": -39,
-      "isNew": false,
-      "appleId": "1232067790",
-      "name": "Kauai GyPSy Guide Driving Tour",
-      "developer": "GyPSy Guide LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-llc/id1756806851?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/67/b7/c167b704-5499-dc01-ed9b-3095c2f4ac47/AppIconStandalone-0-0-1x_U007epad-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/kauai-gypsy-guide-driving-tour/id1232067790?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 10, 2017"
-    },
-    {
-      "rank": 91,
-      "previousRank": 53,
-      "rankChange": -38,
-      "isNew": false,
-      "appleId": "6781949135",
-      "name": "T.F. Green PVD Airport",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/b0/0f/a3b00f7f-c965-d14b-511c-ca98bd3e2351/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/t-f-green-pvd-airport/id6781949135?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "June 22, 2026"
-    },
-    {
-      "rank": 92,
-      "previousRank": 54,
-      "rankChange": -38,
+      "rank": 49,
+      "previousRank": 92,
+      "rankChange": 43,
       "isNew": false,
       "appleId": "6795296025",
       "name": "Pit Stop: Road Trip Exit Guide",
@@ -2048,16 +1102,16 @@
       "releaseDate": "August 1, 2026"
     },
     {
-      "rank": 93,
-      "previousRank": 57,
-      "rankChange": -36,
-      "isNew": false,
-      "appleId": "375670004",
-      "name": "RV Dumps",
-      "developer": "Allstays LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/allstays-llc/id349052634?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/67/48/a16748ee-cdce-5310-828d-db44a6cfc4f8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rv-dumps/id375670004?uo=2",
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1580896621",
+      "name": "BigfootMap",
+      "developer": "Think Outside, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/think-outside-llc/id1580896623?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0e/b7/000eb7db-7444-7c20-4555-ff91495678a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bigfootmap/id1580896621?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -2067,107 +1121,19 @@
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "June 11, 2010"
+      "releaseDate": "August 15, 2021"
     },
     {
-      "rank": 94,
-      "previousRank": 56,
-      "rankChange": -38,
-      "isNew": false,
-      "appleId": "583654750",
-      "name": "Hot & Thermal Springs",
-      "developer": "Kyle Modesitt",
-      "developerUrl": "https://apps.apple.com/us/developer/kyle-modesitt/id1801852904?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/e5/23/a1e523a5-5eb3-3a87-7150-e86f1aea321d/HotSpringsAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/hot-thermal-springs/id583654750?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "December 10, 2012"
-    },
-    {
-      "rank": 95,
-      "previousRank": 55,
-      "rankChange": -40,
-      "isNew": false,
-      "appleId": "1465311162",
-      "name": "Great Smoky Mountains GyPSy",
-      "developer": "Gypsy Guide GPS LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-gps-llc/id1802851366?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e3/46/45e346cb-f360-f817-05cf-435b3a0a19d9/AppIconStandalone-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/great-smoky-mountains-gypsy/id1465311162?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "June 25, 2019"
-    },
-    {
-      "rank": 96,
-      "previousRank": 58,
-      "rankChange": -38,
-      "isNew": false,
-      "appleId": "522503264",
-      "name": "Trip Countdown for Disneyland",
-      "developer": "Ricky Mills",
-      "developerUrl": "https://apps.apple.com/us/developer/ricky-mills/id342112077?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5b/4a/5a/5b4a5a9d-55b2-d6ae-1fe3-e3ed860e5306/AppIcon-1x_U007emarketing-85-220-0-8.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/trip-countdown-for-disneyland/id522503264?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "May 2, 2012"
-    },
-    {
-      "rank": 97,
-      "previousRank": 37,
-      "rankChange": -60,
-      "isNew": false,
-      "appleId": "6813092274",
-      "name": "Watchmen: what's watching you?",
-      "developer": "Fearless design, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/fearless-design-llc/id321056993?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/0c/3f/1d0c3f0a-466c-8ee5-1ae6-9c2a7781823c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/watchmen-whats-watching-you/id6813092274?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "October 6, 2026"
-    },
-    {
-      "rank": 98,
-      "previousRank": 61,
-      "rankChange": -37,
-      "isNew": false,
-      "appleId": "1332610740",
-      "name": "North Carolina Roads Traffic",
+      "rank": 51,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1202562910",
+      "name": "Oregon Roads Traffic",
       "developer": "Coderun Technologies Ltd",
       "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/38/7d/f8387dd5-caa6-4c67-5c2f-b982e19acb5d/NCRoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/north-carolina-roads-traffic/id1332610740?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/0e/30/960e304f-2b5c-46be-c6fe-ffd3ba4fcbc3/ORRoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/oregon-roads-traffic/id1202562910?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -2177,41 +1143,41 @@
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "January 8, 2018"
+      "releaseDate": "February 7, 2017"
     },
     {
-      "rank": 99,
-      "previousRank": 63,
-      "rankChange": -36,
-      "isNew": false,
-      "appleId": "336168290",
-      "name": "London Tube Map and Guide",
-      "developer": "Brainflash",
-      "developerUrl": "https://apps.apple.com/us/developer/brainflash/id336168293?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/96/15/33/96153304-a2d6-c559-15d3-49a84145d942/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/london-tube-map-and-guide/id336168290?uo=2",
+      "rank": 52,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "297404959",
+      "name": "Metro Paris Subway",
+      "developer": "Alexandre Morcos",
+      "developerUrl": "https://apps.apple.com/us/developer/alexandre-morcos/id1453181584?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/01/74/3d0174f2-7545-f8fc-b5be-b4b9b0e0c7dd/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/metro-paris-subway/id297404959?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$1.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "December 14, 2009"
+      "releaseDate": "November 22, 2008"
     },
     {
-      "rank": 100,
-      "previousRank": 59,
-      "rankChange": -41,
-      "isNew": false,
-      "appleId": "1447235630",
-      "name": "New Orleans French Quarter",
-      "developer": "Miziker Entertainment Group Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/miziker-entertainment-group-ltd/id1361684341?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/df/d6/e4dfd6d7-5df5-84ff-b1d3-df21e8a12bc7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/new-orleans-french-quarter/id1447235630?uo=2",
+      "rank": 53,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "398391903",
+      "name": "Truck Stops & Travel Plazas",
+      "developer": "Allstays LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/allstays-llc/id349052634?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/d9/79/5fd979a4-f677-9b49-c4c2-669a43e1d2df/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/truck-stops-travel-plazas/id398391903?uo=2",
       "price": {
         "amount": 9.99,
         "currency": "USD",
@@ -2221,7 +1187,1019 @@
         "id": "6003",
         "name": "Travel"
       },
-      "releaseDate": "December 27, 2018"
+      "releaseDate": "October 21, 2010"
+    },
+    {
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1083959439",
+      "name": "Suffolk County Transit",
+      "developer": "PD House Inc",
+      "developerUrl": "https://apps.apple.com/us/developer/pd-house-inc/id1220178386?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/97/97/d1/9797d137-7d00-b2c6-6dd5-3116c9ffe3c7/AppIcon-1x_U007emarketing-0-85-220-0-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/suffolk-county-transit/id1083959439?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "February 17, 2016"
+    },
+    {
+      "rank": 55,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6744974630",
+      "name": "Washington - Parks & Trails",
+      "developer": "Jyothi Sathishbabu",
+      "developerUrl": "https://apps.apple.com/us/developer/jyothi-sathishbabu/id1808451284?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/86/47/c486479b-dee7-25e7-6928-178cc3db766e/Penang-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/washington-parks-trails/id6744974630?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 6, 2025"
+    },
+    {
+      "rank": 56,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6761301125",
+      "name": "Passeporté",
+      "developer": "Pavel Kanzelsberger",
+      "developerUrl": "https://apps.apple.com/us/developer/pavel-kanzelsberger/id399288546?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/99/c1/cf99c119-a7ba-97f3-664e-8ca488d7d5f8/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/passeport%C3%A9/id6761301125?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "April 3, 2026"
+    },
+    {
+      "rank": 57,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "453179003",
+      "name": "CHP Incidents",
+      "developer": "Sam Stigler",
+      "developerUrl": "https://apps.apple.com/us/developer/sam-stigler/id453179006?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/73/81/ba7381b6-2274-2fd5-31b8-360151fb40f9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/chp-incidents/id453179003?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 3, 2011"
+    },
+    {
+      "rank": 58,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "684535110",
+      "name": "Route 66: Points of Interest",
+      "developer": "iStuff",
+      "developerUrl": "https://apps.apple.com/us/developer/istuff/id369606386?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/1e/b2/b31eb258-212a-eddd-a95b-71b361662186/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/route-66-points-of-interest/id684535110?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 14, 2013"
+    },
+    {
+      "rank": 59,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1124086736",
+      "name": "Galena Tours",
+      "developer": "Paula Schonhoff",
+      "developerUrl": "https://apps.apple.com/us/developer/paula-schonhoff/id1258179726?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/cd/03/1ecd0393-23dc-a244-415e-14723f589f93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/galena-tours/id1124086736?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "July 3, 2016"
+    },
+    {
+      "rank": 60,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1636309367",
+      "name": "Maui Offline Island Guide",
+      "developer": "I Heart Travel Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/i-heart-travel-inc/id1167662885?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/67/2d/1b672d0b-19e0-c2b5-44eb-0798e1b34b28/AppIconMaui-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/maui-offline-island-guide/id1636309367?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "USD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 8, 2022"
+    },
+    {
+      "rank": 61,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1523748405",
+      "name": "Where Was I?",
+      "developer": "Paul Wilkinson",
+      "developerUrl": "https://apps.apple.com/us/developer/paul-wilkinson/id299856796?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/be/80/c1be80d7-7b28-61fa-f621-fa635fef7328/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/where-was-i/id1523748405?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "July 20, 2020"
+    },
+    {
+      "rank": 62,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1457698433",
+      "name": "Washington DC – Driving Tour",
+      "developer": "Miziker Entertainment Group Ltd.",
+      "developerUrl": "https://apps.apple.com/us/developer/miziker-entertainment-group-ltd/id1361684341?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/43/07/6b430730-50ed-970c-85c1-ae11ea99e6c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/washington-dc-driving-tour/id1457698433?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 10, 2019"
+    },
+    {
+      "rank": 63,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "683353582",
+      "name": "Hong Kong Taxi Cards",
+      "developer": "TechmaxApp",
+      "developerUrl": "https://apps.apple.com/us/developer/techmaxapp/id617391262?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/18/7c/b8187c6b-b104-9833-daaf-773476fcddbb/AppIcon-2-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/hong-kong-taxi-cards/id683353582?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 8, 2013"
+    },
+    {
+      "rank": 64,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1336660864",
+      "name": "Maryland Roads Traffic",
+      "developer": "Coderun Technologies Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/8d/02/888d02b9-36be-c187-59ca-c90ff76ce950/MDRoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/maryland-roads-traffic/id1336660864?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "January 19, 2018"
+    },
+    {
+      "rank": 65,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1266131734",
+      "name": "Yellowstone Geysers - Upper",
+      "developer": "Tour Solutions",
+      "developerUrl": "https://apps.apple.com/us/developer/tour-solutions/id1062683661?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/04/db/5e04dbc1-feab-c16e-9e33-668b617c49c1/AppIcon-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/yellowstone-geysers-upper/id1266131734?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 1, 2017"
+    },
+    {
+      "rank": 66,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1075622390",
+      "name": "TV Maps",
+      "developer": "Arno Appenzeller",
+      "developerUrl": "https://apps.apple.com/us/developer/arno-appenzeller/id515339331?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/29/2a/e3292a9b-296f-e22a-6568-b2000ba40812/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tv-maps/id1075622390?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 30, 2016"
+    },
+    {
+      "rank": 67,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1577991861",
+      "name": "Audioguía Alhambra",
+      "developer": "Lara Carranza",
+      "developerUrl": "https://apps.apple.com/us/developer/lara-carranza/id1577991863?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ec/89/68/ec896861-60d0-239c-9a20-9a309244ed15/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/audiogu%C3%ADa-alhambra/id1577991861?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 4, 2021"
+    },
+    {
+      "rank": 68,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6670789579",
+      "name": "Alabama-State Parks & Trails",
+      "developer": "Areti Manikanta",
+      "developerUrl": "https://apps.apple.com/us/developer/areti-manikanta/id1821839116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/ce/88/dcce8862-980b-c38c-0e50-443295c6db3e/Seychelles-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/alabama-state-parks-trails/id6670789579?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 11, 2024"
+    },
+    {
+      "rank": 69,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1492916292",
+      "name": "SakuraDate",
+      "developer": "Hsin Jung Huang",
+      "developerUrl": "https://apps.apple.com/us/developer/hsin-jung-huang/id1450106360?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ee/4a/a7/ee4aa71d-65d1-4bf4-dd8b-e1e19cd7272f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sakuradate/id1492916292?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "January 12, 2020"
+    },
+    {
+      "rank": 70,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1519408022",
+      "name": "Prague -City of Hundred Spires",
+      "developer": "Miziker Entertainment Group Ltd.",
+      "developerUrl": "https://apps.apple.com/us/developer/miziker-entertainment-group-ltd/id1361684341?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/63/e8/bd/63e8bde4-9b29-ecea-eacb-a4f4aef8d2be/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/prague-city-of-hundred-spires/id1519408022?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "June 30, 2020"
+    },
+    {
+      "rank": 71,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1474385633",
+      "name": "Marrakesh's Best Travel Guide",
+      "developer": "Agorite",
+      "developerUrl": "https://apps.apple.com/us/developer/agorite/id905197684?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/0b/0b/dc0b0b37-d676-423b-585a-95a0573eeaa2/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/marrakeshs-best-travel-guide/id1474385633?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 7, 2019"
+    },
+    {
+      "rank": 72,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6755954290",
+      "name": "IFE Bridge",
+      "developer": "Alastair Bor",
+      "developerUrl": "https://apps.apple.com/us/developer/alastair-bor/id1824969204?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/16/14/9b1614ad-819f-5af2-3292-e89ad7f9ec9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ife-bridge/id6755954290?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "December 22, 2025"
+    },
+    {
+      "rank": 73,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6753967275",
+      "name": "Sakura Spots Japan",
+      "developer": "Marcel Petersen",
+      "developerUrl": "https://apps.apple.com/us/developer/marcel-petersen/id1829216633?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/88/f7/d988f7ea-bb29-607c-056b-62f6bd8fbc8f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sakura-spots-japan/id6753967275?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "October 14, 2025"
+    },
+    {
+      "rank": 74,
+      "previousRank": 23,
+      "rankChange": -51,
+      "isNew": false,
+      "appleId": "6785299378",
+      "name": "Frankfurt FRA Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ee/96/8aee9680-a4f7-c471-c8fb-8692b983d278/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/frankfurt-fra-airport/id6785299378?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "July 1, 2026"
+    },
+    {
+      "rank": 75,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6761376014",
+      "name": "Sarasota SRQ Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/e3/16/87e3162e-7291-629d-412e-8705dc351d78/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sarasota-srq-airport/id6761376014?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 30, 2026"
+    },
+    {
+      "rank": 76,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6755135321",
+      "name": "Christmas in NYC",
+      "developer": "Shifting Blue, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/shifting-blue-llc/id291807162?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ac/ea/fdacea96-7884-6b94-3e79-c94b7b2fc86e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/christmas-in-nyc/id6755135321?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "November 12, 2025"
+    },
+    {
+      "rank": 77,
+      "previousRank": 22,
+      "rankChange": -55,
+      "isNew": false,
+      "appleId": "6814062758",
+      "name": "Pick, Pack, Go: ADHD Packing",
+      "developer": "Phillip Forgo-Hess",
+      "developerUrl": "https://apps.apple.com/us/developer/phillip-forgo-hess/id1896572546?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9b/e6/509be68d-11ed-835a-be5a-0d9a3e139e55/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pick-pack-go-adhd-packing/id6814062758?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 22, 2026"
+    },
+    {
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6761484421",
+      "name": "Roanoke ROA Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/18/41/9c18410c-3004-08df-a990-e807f7166433/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/roanoke-roa-airport/id6761484421?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "April 2, 2026"
+    },
+    {
+      "rank": 79,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6802554308",
+      "name": "Antarctic Expedition Toolkit",
+      "developer": "Werner Kruse",
+      "developerUrl": "https://apps.apple.com/us/developer/werner-kruse/id6802554310?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d7/ac/53d7aced-df45-bbb1-52da-cddb900f894f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/antarctic-expedition-toolkit/id6802554308?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "USD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 21, 2026"
+    },
+    {
+      "rank": 80,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6737229047",
+      "name": "Fushimi Inari Navigation",
+      "developer": "takeshi nakamura",
+      "developerUrl": "https://apps.apple.com/us/developer/takeshi-nakamura/id833521715?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/70/48/59704824-27d2-1b62-72f2-93f8f7ea581d/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/fushimi-inari-navigation/id6737229047?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "October 23, 2024"
+    },
+    {
+      "rank": 81,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6762063276",
+      "name": "Sanford SFM Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/us/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/1a/ec/c61aec6f-bf22-f9ee-daf4-2352fcc6bd9a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sanford-sfm-airport/id6762063276?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "April 12, 2026"
+    },
+    {
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6817337283",
+      "name": "World Below",
+      "developer": "Ramin Partovi",
+      "developerUrl": "https://apps.apple.com/us/developer/ramin-partovi/id6817337285?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/c1/47/62c14712-fe18-e269-1f76-53fe84a7cb3d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/world-below/id6817337283?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "October 14, 2026"
+    },
+    {
+      "rank": 83,
+      "previousRank": 24,
+      "rankChange": -59,
+      "isNew": false,
+      "appleId": "6776410193",
+      "name": "Quirky US Explorer",
+      "developer": "Ducky Planet LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/ducky-planet-llc/id442169107?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/86/50/008650b6-e404-6f50-a277-ce6aad804e10/USExplorer-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/quirky-us-explorer/id6776410193?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 8, 2026"
+    },
+    {
+      "rank": 84,
+      "previousRank": 26,
+      "rankChange": -58,
+      "isNew": false,
+      "appleId": "576934996",
+      "name": "Palm Springs Modernism Tour",
+      "developer": "Desert Publications, Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/desert-publications-inc/id483165085?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/e8/f7/b0e8f71c-713a-6488-2a6c-d07c495eca39/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/palm-springs-modernism-tour/id576934996?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "November 16, 2012"
+    },
+    {
+      "rank": 85,
+      "previousRank": 27,
+      "rankChange": -58,
+      "isNew": false,
+      "appleId": "1027756860",
+      "name": "Venice Panorama - ENG",
+      "developer": "D'Uva Workshop s.r.l.",
+      "developerUrl": "https://apps.apple.com/us/developer/duva-workshop-s-r-l/id360150209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/5d/35/da/5d35da5d-33b6-6ecc-ed8b-fc5667839dde/mzm.vpzusddr.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/venice-panorama-eng/id1027756860?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 13, 2015"
+    },
+    {
+      "rank": 86,
+      "previousRank": 33,
+      "rankChange": -53,
+      "isNew": false,
+      "appleId": "967104806",
+      "name": "Post Msn Calc",
+      "developer": "John Robbins",
+      "developerUrl": "https://apps.apple.com/us/developer/john-robbins/id831427516?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/69/86/c1/6986c190-bfe6-8c1e-56db-11031607c3aa/mzl.jelyitaa.jpg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/post-msn-calc/id967104806?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "February 25, 2015"
+    },
+    {
+      "rank": 87,
+      "previousRank": 39,
+      "rankChange": -48,
+      "isNew": false,
+      "appleId": "556384965",
+      "name": "Wise Pilgrim Finisterre",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/7a/76/eb7a760f-c78f-0004-dd1f-9d232a857cf6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-finisterre/id556384965?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 5, 2012"
+    },
+    {
+      "rank": 88,
+      "previousRank": 42,
+      "rankChange": -46,
+      "isNew": false,
+      "appleId": "727297302",
+      "name": "Flight Board Pro Plane Tracker",
+      "developer": "Flight Tracker Apps Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/flight-tracker-apps-studio/id1375444248?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b4/aa/4ab4aa44-6a11-3115-cf99-c669a9a34ff5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/flight-board-pro-plane-tracker/id727297302?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "November 11, 2013"
+    },
+    {
+      "rank": 89,
+      "previousRank": 44,
+      "rankChange": -45,
+      "isNew": false,
+      "appleId": "1153967813",
+      "name": "California State Roads",
+      "developer": "Coderun Technologies Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/70/71/8a70715a-27d1-d80a-6b4f-d0a8e5853aad/CARoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/california-state-roads/id1153967813?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 20, 2016"
+    },
+    {
+      "rank": 90,
+      "previousRank": 45,
+      "rankChange": -45,
+      "isNew": false,
+      "appleId": "1462821505",
+      "name": "Zion Bryce Canyon GyPSy Guide",
+      "developer": "Gypsy Guide GPS LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/gypsy-guide-gps-llc/id1802851366?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/41/e8/7841e834-9ab5-b37c-2b96-843cd29adacb/AppIconStandalone-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/zion-bryce-canyon-gypsy-guide/id1462821505?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "USD",
+        "formatted": "$17.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 10, 2019"
+    },
+    {
+      "rank": 91,
+      "previousRank": 47,
+      "rankChange": -44,
+      "isNew": false,
+      "appleId": "6695728532",
+      "name": "North Sulawesi Fish ID",
+      "developer": "John P. Hoover",
+      "developerUrl": "https://apps.apple.com/us/developer/john-p-hoover/id520389659?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/5f/cf/505fcf8b-5677-cc55-94fb-8e0b2a440320/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/north-sulawesi-fish-id/id6695728532?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "USD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "March 11, 2025"
+    },
+    {
+      "rank": 92,
+      "previousRank": 48,
+      "rankChange": -44,
+      "isNew": false,
+      "appleId": "6759218918",
+      "name": "TripFit",
+      "developer": "Taein Kim",
+      "developerUrl": "https://apps.apple.com/us/developer/taein-kim/id1256839730?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/77/c6/8577c615-4ad4-5fb8-7683-312435c137e4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tripfit/id6759218918?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "February 23, 2026"
+    },
+    {
+      "rank": 93,
+      "previousRank": 52,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "977385841",
+      "name": "Wise Pilgrim Camino Inglés",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/a0/f4/16a0f4e4-6b1f-a2c4-9043-9954f868e5ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wise-pilgrim-camino-ingl%C3%A9s/id977385841?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "April 10, 2015"
+    },
+    {
+      "rank": 94,
+      "previousRank": 53,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "6758859145",
+      "name": "Chouette Tour - Dijon",
+      "developer": "Benoit Baraille",
+      "developerUrl": "https://apps.apple.com/us/developer/benoit-baraille/id1704017436?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/dd/9e/75dd9e19-fc3b-5994-1cff-ab146b86abaa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/chouette-tour-dijon/id6758859145?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "February 25, 2026"
+    },
+    {
+      "rank": 95,
+      "previousRank": 55,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "6747994904",
+      "name": "Texas Dives",
+      "developer": "Texas Dives LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/texas-dives-llc/id1823771827?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/45/18/f745186a-129d-ace4-65f2-d865ad80ea0b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/texas-dives/id6747994904?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "August 2, 2025"
+    },
+    {
+      "rank": 96,
+      "previousRank": 56,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "6467651337",
+      "name": "Parco Archeologico di Ercolano",
+      "developer": "D'Uva Workshop s.r.l.",
+      "developerUrl": "https://apps.apple.com/us/developer/duva-workshop-s-r-l/id360150209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "September 29, 2023"
+    },
+    {
+      "rank": 97,
+      "previousRank": 58,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "1212012250",
+      "name": "Illinois State Roads",
+      "developer": "Coderun Technologies Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/coderun-technologies-ltd/id396216597?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/27/dc/2527dc46-8757-7d2b-0121-bf236ceadbf1/ILRoadsIcons-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/illinois-state-roads/id1212012250?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "November 23, 2019"
+    },
+    {
+      "rank": 98,
+      "previousRank": 57,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "6755662656",
+      "name": "Grand Egyptian Museum (GEM)",
+      "developer": "Trishti Systems Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/trishti-systems-ltd/id551275215?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/7f/78/677f7863-a3ce-e693-c7d6-9d39e6aeb2fb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/grand-egyptian-museum-gem/id6755662656?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "December 22, 2025"
+    },
+    {
+      "rank": 99,
+      "previousRank": 59,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "1609706755",
+      "name": "Tahiti Fish ID",
+      "developer": "John P. Hoover",
+      "developerUrl": "https://apps.apple.com/us/developer/john-p-hoover/id520389659?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/29/f8/2929f877-211b-6ae7-0f0e-35e0624530c1/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tahiti-fish-id/id1609706755?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "USD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "May 28, 2022"
     }
   ]
 }

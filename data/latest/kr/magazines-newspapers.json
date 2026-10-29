@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-28",
-  "collectedAt": "2026-10-28T06:44:14.794Z",
-  "sourceUpdatedAt": "2026-10-27T23:44:14-07:00",
+  "snapshotDate": "2026-10-29",
+  "collectedAt": "2026-10-29T06:51:16.600Z",
+  "sourceUpdatedAt": "2026-10-28T23:51:16-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/kr/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,18 +17,40 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 16,
-  "actualCount": 16,
+  "expectedCount": 15,
+  "actualCount": 15,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-10-27",
+  "previousSnapshotDate": "2026-10-28",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 2,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "6740914910",
+      "name": "Explorineer | 하루10분 글로벌IT트렌드읽기",
+      "developer": "SeungHyeon Lee",
+      "developerUrl": "https://apps.apple.com/kr/developer/seunghyeon-lee/id1581552085?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/aa/15/09aa155b-7959-2bef-c40f-54b301530e53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/explorineer-%ED%95%98%EB%A3%A810%EB%B6%84-%EA%B8%80%EB%A1%9C%EB%B2%8Cit%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%9D%BD%EA%B8%B0/id6740914910?uo=2",
+      "price": {
+        "amount": 6600,
+        "currency": "KRW",
+        "formatted": "￦6,600"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "뉴스"
+      },
+      "releaseDate": "2025.01.26"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6444249757",
       "name": "PocketNews - 워치로 보는 뉴스, 기사",
@@ -46,28 +68,6 @@
         "name": "뉴스"
       },
       "releaseDate": "2022.11.15"
-    },
-    {
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6740914910",
-      "name": "Explorineer | 하루10분 글로벌IT트렌드읽기",
-      "developer": "SeungHyeon Lee",
-      "developerUrl": "https://apps.apple.com/kr/developer/seunghyeon-lee/id1581552085?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/e4/5c/3ce45c58-062b-a4ee-9daa-0d5e080aa84c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/explorineer-%ED%95%98%EB%A3%A810%EB%B6%84-%EA%B8%80%EB%A1%9C%EB%B2%8Cit%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%9D%BD%EA%B8%B0/id6740914910?uo=2",
-      "price": {
-        "amount": 6600,
-        "currency": "KRW",
-        "formatted": "￦6,600"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "뉴스"
-      },
-      "releaseDate": "2025.01.26"
     },
     {
       "rank": 3,
@@ -115,8 +115,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 6,
-      "rankChange": 1,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "428912452",
       "name": "Outdoor Photography Magazine",
@@ -137,7 +137,29 @@
     },
     {
       "rank": 6,
-      "previousRank": 5,
+      "previousRank": 7,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "429886769",
+      "name": "Woodworking Crafts Magazine",
+      "developer": "Guild of Master Craftsman Publications Ltd",
+      "developerUrl": "https://apps.apple.com/kr/developer/guild-of-master-craftsman-publications-ltd/id1545187960?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/cd/8a/20cd8a07-3bc3-df04-9c09-615fef6fe202/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/woodworking-crafts-magazine/id429886769?uo=2",
+      "price": {
+        "amount": 3300,
+        "currency": "KRW",
+        "formatted": "￦3,300"
+      },
+      "primaryCategory": {
+        "id": "6006",
+        "name": "참고"
+      },
+      "releaseDate": "2011.04.07"
+    },
+    {
+      "rank": 7,
+      "previousRank": 6,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6752511428",
@@ -156,28 +178,6 @@
         "name": "뉴스"
       },
       "releaseDate": "2025.09.16"
-    },
-    {
-      "rank": 7,
-      "previousRank": 7,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "429886769",
-      "name": "Woodworking Crafts Magazine",
-      "developer": "Guild of Master Craftsman Publications Ltd",
-      "developerUrl": "https://apps.apple.com/kr/developer/guild-of-master-craftsman-publications-ltd/id1545187960?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/cd/8a/20cd8a07-3bc3-df04-9c09-615fef6fe202/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/woodworking-crafts-magazine/id429886769?uo=2",
-      "price": {
-        "amount": 3300,
-        "currency": "KRW",
-        "formatted": "￦3,300"
-      },
-      "primaryCategory": {
-        "id": "6006",
-        "name": "참고"
-      },
-      "releaseDate": "2011.04.07"
     },
     {
       "rank": 8,
@@ -313,30 +313,8 @@
     },
     {
       "rank": 14,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6758548229",
-      "name": "다크모드 | 웹",
-      "developer": "Paran",
-      "developerUrl": "https://apps.apple.com/kr/developer/paran/id1698510581?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/9c/9e/789c9e77-be52-5704-a7ea-22731ade8ae3/DarkMode-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EC%9B%B9/id6758548229?uo=2",
-      "price": {
-        "amount": 1100,
-        "currency": "KRW",
-        "formatted": "￦1,100"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "유틸리티"
-      },
-      "releaseDate": "2026.02.03"
-    },
-    {
-      "rank": 15,
-      "previousRank": 14,
-      "rankChange": -1,
+      "previousRank": 15,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6737512463",
       "name": "怦然心动的瞬间-轻科幻真人互动恋爱影游",
@@ -356,9 +334,9 @@
       "releaseDate": "2025.02.09"
     },
     {
-      "rank": 16,
-      "previousRank": 15,
-      "rankChange": -1,
+      "rank": 15,
+      "previousRank": 16,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "512733218",
       "name": "Race Tech",
