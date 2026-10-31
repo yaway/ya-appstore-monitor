@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-30",
-  "collectedAt": "2026-10-30T06:54:50.825Z",
-  "sourceUpdatedAt": "2026-10-29T23:54:24-07:00",
+  "snapshotDate": "2026-10-31",
+  "collectedAt": "2026-10-31T06:48:19.440Z",
+  "sourceUpdatedAt": "2026-10-30T23:48:18-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6014/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "游戏"
   },
   "requestedLimit": 100,
-  "expectedCount": 98,
-  "actualCount": 98,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-29",
+  "previousSnapshotDate": "2026-10-30",
   "apps": [
     {
       "rank": 1,
@@ -47,30 +47,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 2,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "625334537",
-      "name": "Geometry Dash",
-      "developer": "RobTop Games AB",
-      "developerUrl": "https://apps.apple.com/us/developer/robtop-games-ab/id414027834?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/54/50/c25450dd-65ad-c273-fec0-1ef0469968cb/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "August 13, 2013"
-    },
-    {
-      "rank": 3,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "623592465",
       "name": "Heads Up!",
@@ -88,6 +66,28 @@
         "name": "Games"
       },
       "releaseDate": "May 2, 2013"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "625334537",
+      "name": "Geometry Dash",
+      "developer": "RobTop Games AB",
+      "developerUrl": "https://apps.apple.com/us/developer/robtop-games-ab/id414027834?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/54/50/c25450dd-65ad-c273-fec0-1ef0469968cb/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "August 13, 2013"
     },
     {
       "rank": 4,
@@ -113,8 +113,30 @@
     },
     {
       "rank": 5,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6783953753",
+      "name": "Batomon Showdown",
+      "developer": "EKA Games",
+      "developerUrl": "https://apps.apple.com/us/developer/eka-games/id6826221277?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/9d/93/579d9334-2942-a03d-3092-d044d5925c49/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/batomon-showdown/id6783953753?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 30, 2026"
+    },
+    {
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1118115766",
       "name": "Bloons TD 6",
@@ -132,28 +154,6 @@
         "name": "Games"
       },
       "releaseDate": "June 14, 2018"
-    },
-    {
-      "rank": 6,
-      "previousRank": 8,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "6502453075",
-      "name": "Balatro",
-      "developer": "Playstack Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/playstack-ltd/id1133080356?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/c3/2e13c321-e1b0-e958-3def-f5c3d38be1c8/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "September 26, 2024"
     },
     {
       "rank": 7,
@@ -182,11 +182,33 @@
       "previousRank": 6,
       "rankChange": -2,
       "isNew": false,
+      "appleId": "6502453075",
+      "name": "Balatro",
+      "developer": "Playstack Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/playstack-ltd/id1133080356?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/c3/2e13c321-e1b0-e958-3def-f5c3d38be1c8/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "September 26, 2024"
+    },
+    {
+      "rank": 9,
+      "previousRank": 8,
+      "rankChange": -1,
+      "isNew": false,
       "appleId": "6813841355",
       "name": "Toastie: grilled cheese game",
       "developer": "Tomasz Szykulski",
       "developerUrl": "https://apps.apple.com/us/developer/tomasz-szykulski/id6792512347?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ed/0e/85ed0eff-ae59-80bd-50e6-0646c6b66f0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/9a/04/ca9a0493-7a05-1802-de07-aae9dcc3f045/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/us/app/toastie-grilled-cheese-game/id6813841355?uo=2",
       "price": {
         "amount": 2.99,
@@ -200,119 +222,9 @@
       "releaseDate": "October 9, 2026"
     },
     {
-      "rank": 9,
-      "previousRank": 9,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6754094013",
-      "name": "Zombie Assault: Resurgence",
-      "developer": "Ninja Kiwi",
-      "developerUrl": "https://apps.apple.com/us/developer/ninja-kiwi/id386241773?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e9/f1/dce9f175-a3ed-b153-f92a-8c276ea0b275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/zombie-assault-resurgence/id6754094013?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 28, 2026"
-    },
-    {
       "rank": 10,
-      "previousRank": 10,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1477966166",
-      "name": "MONOPOLY: The Board Game",
-      "developer": "Marmalade Game Studio",
-      "developerUrl": "https://apps.apple.com/us/developer/marmalade-game-studio/id988365603?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/23/4b/bf234bef-ca37-d05c-3ad2-63b8be86e4d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 4, 2019"
-    },
-    {
-      "rank": 11,
-      "previousRank": 11,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6771652722",
-      "name": "ONE PIECE: Grand Gourmet",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/bandai-namco-entertainment-inc/id352305770?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/2c/8d/762c8da0-50ec-2671-ee9d-e76404de4135/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/one-piece-grand-gourmet/id6771652722?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "USD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 22, 2026"
-    },
-    {
-      "rank": 12,
-      "previousRank": 18,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "6755858938",
-      "name": "SUMEE!",
-      "developer": "Getzemani Cruz Garcia",
-      "developerUrl": "https://apps.apple.com/us/developer/getzemani-cruz-garcia/id1852966137?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/a6/97/3ca697f9-da22-4bb7-00a3-cad6389af5e5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sumee/id6755858938?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "June 17, 2026"
-    },
-    {
-      "rank": 13,
-      "previousRank": 13,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "824305459",
-      "name": "Papa's Freezeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "February 26, 2014"
-    },
-    {
-      "rank": 14,
-      "previousRank": 12,
-      "rankChange": -2,
+      "previousRank": 14,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "912536422",
       "name": "Five Nights at Freddy's",
@@ -332,9 +244,97 @@
       "releaseDate": "September 11, 2014"
     },
     {
-      "rank": 15,
-      "previousRank": 14,
+      "rank": 11,
+      "previousRank": 9,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6754094013",
+      "name": "Zombie Assault: Resurgence",
+      "developer": "Ninja Kiwi",
+      "developerUrl": "https://apps.apple.com/us/developer/ninja-kiwi/id386241773?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e9/f1/dce9f175-a3ed-b153-f92a-8c276ea0b275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/zombie-assault-resurgence/id6754094013?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 28, 2026"
+    },
+    {
+      "rank": 12,
+      "previousRank": 10,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1477966166",
+      "name": "MONOPOLY: The Board Game",
+      "developer": "Marmalade Game Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/marmalade-game-studio/id988365603?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/23/4b/bf234bef-ca37-d05c-3ad2-63b8be86e4d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 4, 2019"
+    },
+    {
+      "rank": 13,
+      "previousRank": 12,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "6755858938",
+      "name": "SUMEE!",
+      "developer": "Getzemani Cruz Garcia",
+      "developerUrl": "https://apps.apple.com/us/developer/getzemani-cruz-garcia/id1852966137?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/d1/35/9bd135e6-d643-69b2-5a2f-424486420aa4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sumee/id6755858938?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "June 17, 2026"
+    },
+    {
+      "rank": 14,
+      "previousRank": 11,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6771652722",
+      "name": "ONE PIECE: Grand Gourmet",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/bandai-namco-entertainment-inc/id352305770?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/2c/8d/762c8da0-50ec-2671-ee9d-e76404de4135/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/one-piece-grand-gourmet/id6771652722?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "USD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 22, 2026"
+    },
+    {
+      "rank": 15,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "763692274",
       "name": "Grand Theft Auto: San Andreas",
@@ -355,8 +355,30 @@
     },
     {
       "rank": 16,
+      "previousRank": 13,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "824305459",
+      "name": "Papa's Freezeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "February 26, 2014"
+    },
+    {
+      "rank": 17,
       "previousRank": 16,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "640364616",
       "name": "Terraria",
@@ -376,8 +398,30 @@
       "releaseDate": "August 28, 2013"
     },
     {
-      "rank": 17,
-      "previousRank": 15,
+      "rank": 18,
+      "previousRank": 22,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "941143328",
+      "name": "Five Nights at Freddy's 2",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/30/b1/7430b134-0ebe-53ef-88b9-53cfc8d3acce/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-2/id941143328?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "November 19, 2014"
+    },
+    {
+      "rank": 19,
+      "previousRank": 17,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1491530147",
@@ -398,64 +442,20 @@
       "releaseDate": "June 13, 2020"
     },
     {
-      "rank": 18,
-      "previousRank": 21,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "6759664029",
-      "name": "Kingdom Rush 6: Genesis TD",
-      "developer": "Ironhide S.A.",
-      "developerUrl": "https://apps.apple.com/us/developer/ironhide-s-a/id558612918?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/18/6d/59186d28-d6db-b2af-16a9-dc17da6e7f17/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/kingdom-rush-6-genesis-td/id6759664029?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "USD",
-        "formatted": "$6.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "September 24, 2026"
-    },
-    {
-      "rank": 19,
-      "previousRank": 23,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "891194610",
-      "name": "Earn to Die 2",
-      "developer": "Not Doppler",
-      "developerUrl": "https://apps.apple.com/us/developer/not-doppler/id554937502?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/earn-to-die-2/id891194610?uo=2",
-      "price": {
-        "amount": 0.29,
-        "currency": "USD",
-        "formatted": "$0.29"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 20, 2014"
-    },
-    {
       "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6480453979",
-      "name": "Saints Row: The Third",
-      "developer": "Feral Interactive Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/feral-interactive-ltd/id402470125?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cf/96/c0cf96f0-71f8-074a-9664-5c55f5eb8e7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/saints-row-the-third/id6480453979?uo=2",
+      "previousRank": 59,
+      "rankChange": 39,
+      "isNew": false,
+      "appleId": "6787114414",
+      "name": "Titanium Court",
+      "developer": "Fellow Traveller",
+      "developerUrl": "https://apps.apple.com/us/developer/fellow-traveller/id883528601?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/63/1f/0c631fa9-3a38-35d3-7438-323e1e0774d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/titanium-court/id6787114414?uo=2",
       "price": {
-        "amount": 19.99,
+        "amount": 5.99,
         "currency": "USD",
-        "formatted": "$19.99"
+        "formatted": "$5.99"
       },
       "primaryCategory": {
         "id": "6014",
@@ -465,7 +465,51 @@
     },
     {
       "rank": 21,
-      "previousRank": 19,
+      "previousRank": 39,
+      "rankChange": 18,
+      "isNew": false,
+      "appleId": "6753077755",
+      "name": "How Many Dudes?",
+      "developer": "Butterscotch Shenanigans, Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/butterscotch-shenanigans-inc/id555152469?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/e0/c1/ede0c1fd-5022-3e62-8241-291115970495/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/how-many-dudes/id6753077755?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "July 30, 2026"
+    },
+    {
+      "rank": 22,
+      "previousRank": 23,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "575154654",
+      "name": "Pou",
+      "developer": "Zakeh Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/zakeh-limited/id575154657?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/60/90736025-7f90-7736-49d3-d63527ccc4a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "November 26, 2012"
+    },
+    {
+      "rank": 23,
+      "previousRank": 21,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1596736236",
@@ -486,97 +530,9 @@
       "releaseDate": "March 31, 2022"
     },
     {
-      "rank": 22,
-      "previousRank": 20,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "941143328",
-      "name": "Five Nights at Freddy's 2",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/30/b1/7430b134-0ebe-53ef-88b9-53cfc8d3acce/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-2/id941143328?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 19, 2014"
-    },
-    {
-      "rank": 23,
-      "previousRank": 17,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "575154654",
-      "name": "Pou",
-      "developer": "Zakeh Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/zakeh-limited/id575154657?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/60/90736025-7f90-7736-49d3-d63527ccc4a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 26, 2012"
-    },
-    {
       "rank": 24,
       "previousRank": 26,
       "rankChange": 2,
-      "isNew": false,
-      "appleId": "6748056918",
-      "name": "Farming Simulator 26 Mobile",
-      "developer": "GIANTS Software GmbH",
-      "developerUrl": "https://apps.apple.com/us/developer/giants-software-gmbh/id502494443?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/06/37/63063703-9526-3108-4f84-f1e704bd783c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/farming-simulator-26-mobile/id6748056918?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "May 19, 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 22,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1093131935",
-      "name": "Incredibox",
-      "developer": "So Far So Good",
-      "developerUrl": "https://apps.apple.com/us/developer/so-far-so-good/id1072153202?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2b/6c/d02b6c61-94fe-4863-56ae-a2a522061147/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 27, 2016"
-    },
-    {
-      "rank": 26,
-      "previousRank": 25,
-      "rankChange": -1,
       "isNew": false,
       "appleId": "1023146677",
       "name": "Five Nights at Freddy's 4",
@@ -596,9 +552,141 @@
       "releaseDate": "August 3, 2015"
     },
     {
+      "rank": 25,
+      "previousRank": 18,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6759664029",
+      "name": "Kingdom Rush 6: Genesis TD",
+      "developer": "Ironhide S.A.",
+      "developerUrl": "https://apps.apple.com/us/developer/ironhide-s-a/id558612918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/18/6d/59186d28-d6db-b2af-16a9-dc17da6e7f17/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/kingdom-rush-6-genesis-td/id6759664029?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "USD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "September 24, 2026"
+    },
+    {
+      "rank": 26,
+      "previousRank": 25,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1093131935",
+      "name": "Incredibox",
+      "developer": "So Far So Good",
+      "developerUrl": "https://apps.apple.com/us/developer/so-far-so-good/id1072153202?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2b/6c/d02b6c61-94fe-4863-56ae-a2a522061147/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "March 27, 2016"
+    },
+    {
       "rank": 27,
+      "previousRank": 29,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "449735650",
+      "name": "Where's My Water?",
+      "developer": "Disney",
+      "developerUrl": "https://apps.apple.com/us/developer/disney/id284888248?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/61/31/3b61311b-af40-6af9-83c6-c8eb7ca4ad93/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "September 21, 2011"
+    },
+    {
+      "rank": 28,
+      "previousRank": 20,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "6480453979",
+      "name": "Saints Row: The Third",
+      "developer": "Feral Interactive Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/feral-interactive-ltd/id402470125?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cf/96/c0cf96f0-71f8-074a-9664-5c55f5eb8e7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/saints-row-the-third/id6480453979?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 29, 2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": 24,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6748056918",
+      "name": "Farming Simulator 26 Mobile",
+      "developer": "GIANTS Software GmbH",
+      "developerUrl": "https://apps.apple.com/us/developer/giants-software-gmbh/id502494443?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/06/37/63063703-9526-3108-4f84-f1e704bd783c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/farming-simulator-26-mobile/id6748056918?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "USD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "May 19, 2026"
+    },
+    {
+      "rank": 30,
+      "previousRank": 19,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "891194610",
+      "name": "Earn to Die 2",
+      "developer": "Not Doppler",
+      "developerUrl": "https://apps.apple.com/us/developer/not-doppler/id554937502?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/earn-to-die-2/id891194610?uo=2",
+      "price": {
+        "amount": 0.29,
+        "currency": "USD",
+        "formatted": "$0.29"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "November 20, 2014"
+    },
+    {
+      "rank": 31,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "6754894237",
       "name": "CloverPit",
@@ -618,8 +706,8 @@
       "releaseDate": "December 17, 2025"
     },
     {
-      "rank": 28,
-      "previousRank": 24,
+      "rank": 32,
+      "previousRank": 28,
       "rankChange": -4,
       "isNew": false,
       "appleId": "563718995",
@@ -640,31 +728,9 @@
       "releaseDate": "November 15, 2012"
     },
     {
-      "rank": 29,
-      "previousRank": 46,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "449735650",
-      "name": "Where's My Water?",
-      "developer": "Disney",
-      "developerUrl": "https://apps.apple.com/us/developer/disney/id284888248?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/61/31/3b61311b-af40-6af9-83c6-c8eb7ca4ad93/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "September 21, 2011"
-    },
-    {
-      "rank": 30,
-      "previousRank": 28,
-      "rankChange": -2,
+      "rank": 33,
+      "previousRank": 30,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1631859420",
       "name": "After Inc.",
@@ -684,9 +750,53 @@
       "releaseDate": "November 26, 2024"
     },
     {
-      "rank": 31,
-      "previousRank": 34,
-      "rankChange": 3,
+      "rank": 34,
+      "previousRank": 38,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6762803589",
+      "name": "Slots & Daggers",
+      "developer": "Future Friends Games",
+      "developerUrl": "https://apps.apple.com/us/developer/future-friends-games/id1850799748?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/slots-daggers/id6762803589?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "August 17, 2026"
+    },
+    {
+      "rank": 35,
+      "previousRank": 41,
+      "rankChange": 6,
+      "isNew": false,
+      "appleId": "973482987",
+      "name": "Five Nights at Freddy's 3",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c1/68/67c16812-d955-5bc5-789d-a52eb8d38940/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-3/id973482987?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "March 11, 2015"
+    },
+    {
+      "rank": 36,
+      "previousRank": 31,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "6714479204",
       "name": "Lowriders Comeback: Boulevard",
@@ -706,30 +816,8 @@
       "releaseDate": "December 6, 2024"
     },
     {
-      "rank": 32,
-      "previousRank": 32,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6749456796",
-      "name": "Vampire Crawlers",
-      "developer": "Poncle",
-      "developerUrl": "https://apps.apple.com/us/developer/poncle/id1655125278?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/6e/45/066e45b9-9c49-561d-7cdf-cc818d030730/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/vampire-crawlers/id6749456796?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 12, 2026"
-    },
-    {
-      "rank": 33,
-      "previousRank": 29,
+      "rank": 37,
+      "previousRank": 33,
       "rankChange": -4,
       "isNew": false,
       "appleId": "1479608271",
@@ -750,9 +838,75 @@
       "releaseDate": "December 18, 2019"
     },
     {
-      "rank": 34,
-      "previousRank": 30,
-      "rankChange": -4,
+      "rank": 38,
+      "previousRank": 43,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "1189781891",
+      "name": "Five Nights at Freddy's: SL",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ae/4c/b5ae4c56-804f-1953-6fd5-eeabec3f759c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "January 3, 2017"
+    },
+    {
+      "rank": 39,
+      "previousRank": 32,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6749456796",
+      "name": "Vampire Crawlers",
+      "developer": "Poncle",
+      "developerUrl": "https://apps.apple.com/us/developer/poncle/id1655125278?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/6e/45/066e45b9-9c49-561d-7cdf-cc818d030730/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/vampire-crawlers/id6749456796?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 12, 2026"
+    },
+    {
+      "rank": 40,
+      "previousRank": 47,
+      "rankChange": 7,
+      "isNew": false,
+      "appleId": "600626116",
+      "name": "Papa's Burgeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/74/6f/8c/746f8c3d-f8d0-ce82-ba77-47bac118aa39/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-burgeria-to-go/id600626116?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "February 21, 2013"
+    },
+    {
+      "rank": 41,
+      "previousRank": 34,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "454086751",
       "name": "Flick Home Run !",
@@ -772,163 +926,9 @@
       "releaseDate": "October 14, 2011"
     },
     {
-      "rank": 35,
-      "previousRank": 41,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "1592505377",
-      "name": "Wreckfest",
-      "developer": "THQ Nordic Mobile GmbH",
-      "developerUrl": "https://apps.apple.com/us/developer/thq-nordic-mobile-gmbh/id316574911?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/a8/8d/29a88da2-3219-a601-8c84-9c172f1159b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wreckfest/id1592505377?uo=2",
-      "price": {
-        "amount": 10.99,
-        "currency": "USD",
-        "formatted": "$10.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 14, 2022"
-    },
-    {
-      "rank": 36,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6504841512",
-      "name": "Halls of Torment: Premium",
-      "developer": "Erabit Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/erabit-studios/id1611119800?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/e0/5a/6fe05a09-dd4a-c04d-f1d7-6fa278111f59/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/halls-of-torment-premium/id6504841512?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 10, 2024"
-    },
-    {
-      "rank": 37,
-      "previousRank": 48,
-      "rankChange": 11,
-      "isNew": false,
-      "appleId": "925494667",
-      "name": "Papa's Pizzeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/d3/eb/7bd3ebd3-8c21-1e3a-88d1-15508dccb767/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-pizzeria-to-go/id925494667?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 13, 2014"
-    },
-    {
-      "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6762803589",
-      "name": "Slots & Daggers",
-      "developer": "Future Friends Games",
-      "developerUrl": "https://apps.apple.com/us/developer/future-friends-games/id1850799748?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/slots-daggers/id6762803589?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "August 17, 2026"
-    },
-    {
-      "rank": 39,
-      "previousRank": 42,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "6753077755",
-      "name": "How Many Dudes?",
-      "developer": "Butterscotch Shenanigans, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/butterscotch-shenanigans-inc/id555152469?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/e0/c1/ede0c1fd-5022-3e62-8241-291115970495/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/how-many-dudes/id6753077755?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "July 30, 2026"
-    },
-    {
-      "rank": 40,
-      "previousRank": 36,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6502953520",
-      "name": "Control Ultimate Edition",
-      "developer": "Remedy Entertainment PLC",
-      "developerUrl": "https://apps.apple.com/us/developer/remedy-entertainment-plc/id422020156?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a0/6e/1da06e14-c461-a191-9ef3-ce82fd5ec0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/control-ultimate-edition/id6502953520?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 26, 2025"
-    },
-    {
-      "rank": 41,
-      "previousRank": 35,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "973482987",
-      "name": "Five Nights at Freddy's 3",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c1/68/67c16812-d955-5bc5-789d-a52eb8d38940/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-3/id973482987?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 11, 2015"
-    },
-    {
       "rank": 42,
-      "previousRank": 45,
-      "rankChange": 3,
+      "previousRank": 42,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6758328352",
       "name": "Scritchy Scratchy",
@@ -949,162 +949,8 @@
     },
     {
       "rank": 43,
-      "previousRank": 31,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "1189781891",
-      "name": "Five Nights at Freddy's: SL",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ae/4c/b5ae4c56-804f-1953-6fd5-eeabec3f759c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "January 3, 2017"
-    },
-    {
-      "rank": 44,
-      "previousRank": 44,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "549105915",
-      "name": "True Skate",
-      "developer": "True Axis",
-      "developerUrl": "https://apps.apple.com/us/developer/true-axis/id337866373?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/0d/86/8b0d862e-0d84-ecb1-e784-d002e5054099/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/true-skate/id549105915?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 18, 2012"
-    },
-    {
-      "rank": 45,
-      "previousRank": 37,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "935216956",
-      "name": "Papers, Please",
-      "developer": "3909",
-      "developerUrl": "https://apps.apple.com/us/developer/3909/id541419307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/3f/c1/973fc1ac-d8d0-028d-055d-db313fe3bd86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papers-please/id935216956?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 12, 2014"
-    },
-    {
-      "rank": 46,
-      "previousRank": 33,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "1504952058",
-      "name": "Papa's Sushiria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/eb/01/faeb0149-1797-7be7-21be-579ba1dcf779/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-sushiria-to-go/id1504952058?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "April 21, 2020"
-    },
-    {
-      "rank": 47,
-      "previousRank": 57,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "600626116",
-      "name": "Papa's Burgeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/74/6f/8c/746f8c3d-f8d0-ce82-ba77-47bac118aa39/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-burgeria-to-go/id600626116?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "February 21, 2013"
-    },
-    {
-      "rank": 48,
-      "previousRank": 38,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1451873044",
-      "name": "Papa's Wingeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/a4/86/a3a4865b-461b-6137-ad34-079921f0cee7/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "February 23, 2019"
-    },
-    {
-      "rank": 49,
-      "previousRank": 47,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6762813110",
-      "name": "Sifu",
-      "developer": "Kepler Interactive",
-      "developerUrl": "https://apps.apple.com/us/developer/kepler-interactive/id1895023869?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/3a/be/503abe1c-f51e-41cf-b7a9-8c04786d6916/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sifu/id6762813110?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 12, 2026"
-    },
-    {
-      "rank": 50,
-      "previousRank": 63,
-      "rankChange": 13,
+      "previousRank": 50,
+      "rankChange": 7,
       "isNew": false,
       "appleId": "554937499",
       "name": "Earn to Die",
@@ -1124,9 +970,53 @@
       "releaseDate": "September 20, 2012"
     },
     {
-      "rank": 51,
-      "previousRank": 60,
-      "rankChange": 9,
+      "rank": 44,
+      "previousRank": 70,
+      "rankChange": 26,
+      "isNew": false,
+      "appleId": "1499849161",
+      "name": "Ultimate Custom Night",
+      "developer": "CLICKTEAM LLC USA",
+      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/38/10/f63810f5-343a-8da2-3e16-fafaab7a071a/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ultimate-custom-night/id1499849161?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "April 28, 2020"
+    },
+    {
+      "rank": 45,
+      "previousRank": 44,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "549105915",
+      "name": "True Skate",
+      "developer": "True Axis",
+      "developerUrl": "https://apps.apple.com/us/developer/true-axis/id337866373?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/0d/86/8b0d862e-0d84-ecb1-e784-d002e5054099/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/true-skate/id549105915?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 18, 2012"
+    },
+    {
+      "rank": 46,
+      "previousRank": 51,
+      "rankChange": 5,
       "isNew": false,
       "appleId": "837860959",
       "name": "Mini Metro",
@@ -1146,16 +1036,16 @@
       "releaseDate": "December 25, 2015"
     },
     {
-      "rank": 52,
-      "previousRank": 65,
-      "rankChange": 13,
-      "isNew": false,
-      "appleId": "6738784092",
-      "name": "A Little to the Left: Drawers",
-      "developer": "Secret Mode",
-      "developerUrl": "https://apps.apple.com/us/developer/secret-mode/id1613352148?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/15/1f/ca151fa8-6f3c-0191-7f7d-88be9097fc21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2",
+      "rank": 47,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6819187251",
+      "name": "SALT PILGRIM",
+      "developer": "YUNWOO NAM",
+      "developerUrl": "https://apps.apple.com/us/developer/yunwoo-nam/id1400903851?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/7c/0b/3e7c0b5d-7842-b96d-c45a-51d86b69773d/iOS_AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/salt-pilgrim/id6819187251?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -1165,78 +1055,144 @@
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "March 6, 2025"
+      "releaseDate": "October 12, 2026"
+    },
+    {
+      "rank": 48,
+      "previousRank": 62,
+      "rankChange": 14,
+      "isNew": false,
+      "appleId": "1642601792",
+      "name": "The Past Within",
+      "developer": "Rusty Lake",
+      "developerUrl": "https://apps.apple.com/us/developer/rusty-lake/id979777164?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/2c/df/bb2cdff2-5289-a7b8-da79-4b7323917d16/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/the-past-within/id1642601792?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "November 2, 2022"
+    },
+    {
+      "rank": 49,
+      "previousRank": 45,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "935216956",
+      "name": "Papers, Please",
+      "developer": "3909",
+      "developerUrl": "https://apps.apple.com/us/developer/3909/id541419307?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/3f/c1/973fc1ac-d8d0-028d-055d-db313fe3bd86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papers-please/id935216956?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 12, 2014"
+    },
+    {
+      "rank": 50,
+      "previousRank": 68,
+      "rankChange": 18,
+      "isNew": false,
+      "appleId": "578448682",
+      "name": "Grand Theft Auto: Vice City",
+      "developer": "Rockstar Games",
+      "developerUrl": "https://apps.apple.com/us/developer/rockstar-games/id330049731?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/grand-theft-auto-vice-city/id578448682?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 6, 2012"
+    },
+    {
+      "rank": 51,
+      "previousRank": 48,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1451873044",
+      "name": "Papa's Wingeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/a4/86/a3a4865b-461b-6137-ad34-079921f0cee7/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "February 23, 2019"
+    },
+    {
+      "rank": 52,
+      "previousRank": 40,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6502953520",
+      "name": "Control Ultimate Edition",
+      "developer": "Remedy Entertainment PLC",
+      "developerUrl": "https://apps.apple.com/us/developer/remedy-entertainment-plc/id422020156?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a0/6e/1da06e14-c461-a191-9ef3-ce82fd5ec0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/control-ultimate-edition/id6502953520?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "March 26, 2025"
     },
     {
       "rank": 53,
-      "previousRank": 43,
-      "rankChange": -10,
+      "previousRank": 67,
+      "rankChange": 14,
       "isNew": false,
-      "appleId": "6755046527",
-      "name": "Dome Keeper",
-      "developer": "Raw Fury",
-      "developerUrl": "https://apps.apple.com/us/developer/raw-fury/id1118513353?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2f/29/c12f294b-8aff-aa36-2d9c-54e554995a32/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/dome-keeper/id6755046527?uo=2",
+      "appleId": "1435456830",
+      "name": "Castlevania: SotN",
+      "developer": "KONAMI",
+      "developerUrl": "https://apps.apple.com/us/developer/konami/id299580230?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/castlevania-sotn/id1435456830?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$9.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "October 11, 2026"
+      "releaseDate": "March 3, 2020"
     },
     {
       "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6739130049",
-      "name": "Planet of Lana",
-      "developer": "Playdigious",
-      "developerUrl": "https://apps.apple.com/us/developer/playdigious/id1041387229?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/0d/7d/b40d7df2-e37d-b72f-664a-8bb965375c40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/planet-of-lana/id6739130049?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "USD",
-        "formatted": "$8.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 9, 2025"
-    },
-    {
-      "rank": 55,
-      "previousRank": 59,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "6547834967",
-      "name": "Animal Crossing: Pocket Camp C",
-      "developer": "Nintendo Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/nintendo-co-ltd/id1062496488?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 2, 2024"
-    },
-    {
-      "rank": 56,
-      "previousRank": 51,
-      "rankChange": -5,
+      "previousRank": 56,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1512751689",
       "name": "The Game of Life 2",
@@ -1256,31 +1212,53 @@
       "releaseDate": "July 15, 2020"
     },
     {
-      "rank": 57,
-      "previousRank": 68,
-      "rankChange": 11,
+      "rank": 55,
+      "previousRank": 37,
+      "rankChange": -18,
       "isNew": false,
-      "appleId": "728293409",
-      "name": "Monument Valley",
-      "developer": "ustwo games",
-      "developerUrl": "https://apps.apple.com/us/developer/ustwo-games/id297468910?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/monument-valley/id728293409?uo=2",
+      "appleId": "925494667",
+      "name": "Papa's Pizzeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/d3/eb/7bd3ebd3-8c21-1e3a-88d1-15508dccb767/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-pizzeria-to-go/id925494667?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 0.99,
         "currency": "USD",
-        "formatted": "$3.99"
+        "formatted": "$0.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "April 3, 2014"
+      "releaseDate": "November 13, 2014"
     },
     {
-      "rank": 58,
-      "previousRank": 40,
-      "rankChange": -18,
+      "rank": 56,
+      "previousRank": 46,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "1504952058",
+      "name": "Papa's Sushiria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/eb/01/faeb0149-1797-7be7-21be-579ba1dcf779/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-sushiria-to-go/id1504952058?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "April 21, 2020"
+    },
+    {
+      "rank": 57,
+      "previousRank": 58,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1392608717",
       "name": "Papa's Scooperia To Go!",
@@ -1300,31 +1278,53 @@
       "releaseDate": "August 2, 2018"
     },
     {
-      "rank": 59,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6787114414",
-      "name": "Titanium Court",
-      "developer": "Fellow Traveller",
-      "developerUrl": "https://apps.apple.com/us/developer/fellow-traveller/id883528601?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/63/1f/0c631fa9-3a38-35d3-7438-323e1e0774d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/titanium-court/id6787114414?uo=2",
+      "rank": 58,
+      "previousRank": 64,
+      "rankChange": 6,
+      "isNew": false,
+      "appleId": "1551207253",
+      "name": "Papa's Mocharia To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/f8/a9/48f8a98b-33d4-6e2f-39e8-0a80de180631/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-mocharia-to-go/id1551207253?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 1.99,
         "currency": "USD",
-        "formatted": "$5.99"
+        "formatted": "$1.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "October 29, 2026"
+      "releaseDate": "March 1, 2021"
+    },
+    {
+      "rank": 59,
+      "previousRank": 55,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6547834967",
+      "name": "Animal Crossing: Pocket Camp C",
+      "developer": "Nintendo Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/us/developer/nintendo-co-ltd/id1062496488?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 2, 2024"
     },
     {
       "rank": 60,
-      "previousRank": 61,
-      "rankChange": 1,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "388857410",
       "name": "Blackjack & Card Counting Pro",
@@ -1345,228 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 56,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6477835115",
-      "name": "Papa's Paleteria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d2/1f/35d21fd6-16b8-0ce5-e084-6176c24d3c62/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-paleteria-to-go/id6477835115?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 6, 2024"
-    },
-    {
-      "rank": 62,
-      "previousRank": 53,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1642601792",
-      "name": "The Past Within",
-      "developer": "Rusty Lake",
-      "developerUrl": "https://apps.apple.com/us/developer/rusty-lake/id979777164?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/2c/df/bb2cdff2-5289-a7b8-da79-4b7323917d16/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/the-past-within/id1642601792?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "November 2, 2022"
-    },
-    {
-      "rank": 63,
-      "previousRank": 54,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1474716211",
-      "name": "60 Seconds! Reatomized",
-      "developer": "Robot Gentleman sp. z o.o.",
-      "developerUrl": "https://apps.apple.com/us/developer/robot-gentleman-sp-z-o-o/id1072395466?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/ff/04/47ff0468-ecd4-9b2e-2faa-c63c1bef4215/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/60-seconds-reatomized/id1474716211?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "May 25, 2021"
-    },
-    {
-      "rank": 64,
-      "previousRank": 50,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "1551207253",
-      "name": "Papa's Mocharia To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/f8/a9/48f8a98b-33d4-6e2f-39e8-0a80de180631/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-mocharia-to-go/id1551207253?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 1, 2021"
-    },
-    {
-      "rank": 65,
-      "previousRank": 84,
-      "rankChange": 19,
-      "isNew": false,
-      "appleId": "1563121109",
-      "name": "Shattered Pixel Dungeon",
-      "developer": "Evan Debenham",
-      "developerUrl": "https://apps.apple.com/us/developer/evan-debenham/id1562920988?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/5c/84/5a5c84a2-8128-0455-43d8-b4508d49e92d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "August 17, 2021"
-    },
-    {
-      "rank": 66,
-      "previousRank": 78,
-      "rankChange": 12,
-      "isNew": false,
-      "appleId": "1591627945",
-      "name": "Papa's Cluckeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/f5/47/c4f54756-5a28-168e-caea-1b6d346e7198/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-cluckeria-to-go/id1591627945?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "February 21, 2022"
-    },
-    {
-      "rank": 67,
-      "previousRank": 75,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "1435456830",
-      "name": "Castlevania: SotN",
-      "developer": "KONAMI",
-      "developerUrl": "https://apps.apple.com/us/developer/konami/id299580230?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/castlevania-sotn/id1435456830?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "March 3, 2020"
-    },
-    {
-      "rank": 68,
-      "previousRank": 74,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "578448682",
-      "name": "Grand Theft Auto: Vice City",
-      "developer": "Rockstar Games",
-      "developerUrl": "https://apps.apple.com/us/developer/rockstar-games/id330049731?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/grand-theft-auto-vice-city/id578448682?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 6, 2012"
-    },
-    {
-      "rank": 69,
-      "previousRank": 73,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "6463616555",
-      "name": "Ticket to Ride®",
-      "developer": "Marmalade Game Studio",
-      "developerUrl": "https://apps.apple.com/us/developer/marmalade-game-studio/id988365603?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/d2/c6abd2e6-df22-25eb-3e37-e35e3f60ee2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "December 12, 2023"
-    },
-    {
-      "rank": 70,
-      "previousRank": 49,
-      "rankChange": -21,
-      "isNew": false,
-      "appleId": "1499849161",
-      "name": "Ultimate Custom Night",
-      "developer": "CLICKTEAM LLC USA",
-      "developerUrl": "https://apps.apple.com/us/developer/clickteam-llc-usa/id1438432084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/38/10/f63810f5-343a-8da2-3e16-fafaab7a071a/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ultimate-custom-night/id1499849161?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "April 28, 2020"
-    },
-    {
-      "rank": 71,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 10,
       "isNew": false,
       "appleId": "6817092898",
       "name": "Orisuji",
@@ -1586,97 +1366,9 @@
       "releaseDate": "October 23, 2026"
     },
     {
-      "rank": 72,
-      "previousRank": 62,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1029932207",
-      "name": "Papa's Cupcakeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/cb/8e/a8cb8e88-9ab8-d8da-f81a-fa92323a9f37/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "September 14, 2015"
-    },
-    {
-      "rank": 73,
-      "previousRank": 69,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1477229754",
-      "name": "Papa's Cheeseria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/66/03/8d660358-ede2-e838-9110-3b5f227dd76c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-cheeseria-to-go/id1477229754?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 24, 2019"
-    },
-    {
-      "rank": 74,
-      "previousRank": 96,
-      "rankChange": 22,
-      "isNew": false,
-      "appleId": "6748751735",
-      "name": "Servant of the Lake",
-      "developer": "Rusty Lake",
-      "developerUrl": "https://apps.apple.com/us/developer/rusty-lake/id979777164?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d2/d4/80d2d4b4-80b2-3117-ca0b-0317d5593a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/servant-of-the-lake/id6748751735?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "August 13, 2026"
-    },
-    {
-      "rank": 75,
-      "previousRank": 99,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "1069549814",
-      "name": "The Binding of Isaac: Rebirth",
-      "developer": "Nicalis, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/nicalis-inc/id356341688?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "USD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "January 9, 2017"
-    },
-    {
-      "rank": 76,
-      "previousRank": 52,
-      "rankChange": -24,
+      "rank": 62,
+      "previousRank": 76,
+      "rankChange": 14,
       "isNew": false,
       "appleId": "1455781522",
       "name": "FNaF 6: Pizzeria Simulator",
@@ -1696,119 +1388,53 @@
       "releaseDate": "August 21, 2019"
     },
     {
-      "rank": 77,
-      "previousRank": 80,
-      "rankChange": 3,
+      "rank": 63,
+      "previousRank": 57,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "1444761746",
-      "name": "RFS - Real Flight Simulator",
-      "developer": "RORTOS SRL",
-      "developerUrl": "https://apps.apple.com/us/developer/rortos-srl/id454802333?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b4/c4/e6b4c40d-928b-239d-45c8-5589f403631a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rfs-real-flight-simulator/id1444761746?uo=2",
+      "appleId": "728293409",
+      "name": "Monument Valley",
+      "developer": "ustwo games",
+      "developerUrl": "https://apps.apple.com/us/developer/ustwo-games/id297468910?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/monument-valley/id728293409?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 3.99,
         "currency": "USD",
-        "formatted": "$0.99"
+        "formatted": "$3.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "July 23, 2019"
+      "releaseDate": "April 3, 2014"
     },
     {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1385258906",
-      "name": "Mindustry",
-      "developer": "Anton Kramskoi",
-      "developerUrl": "https://apps.apple.com/us/developer/anton-kramskoi/id1385258905?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/cb/63/71cb6379-df2b-04ee-0b48-35240e5bd8a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/mindustry/id1385258906?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "June 8, 2018"
-    },
-    {
-      "rank": 79,
-      "previousRank": 85,
-      "rankChange": 6,
+      "rank": 64,
+      "previousRank": 49,
+      "rankChange": -15,
       "isNew": false,
-      "appleId": "562989701",
-      "name": "Vector Classic",
-      "developer": "Nekki Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/nekki-limited/id1101320102?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a4/39/36a4392c-ea03-2032-a41b-d086f7ac00d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/vector-classic/id562989701?uo=2",
+      "appleId": "6762813110",
+      "name": "Sifu",
+      "developer": "Kepler Interactive",
+      "developerUrl": "https://apps.apple.com/us/developer/kepler-interactive/id1895023869?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/3a/be/503abe1c-f51e-41cf-b7a9-8c04786d6916/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sifu/id6762813110?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 7.99,
         "currency": "USD",
-        "formatted": "$0.99"
+        "formatted": "$7.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "October 20, 2012"
+      "releaseDate": "October 12, 2026"
     },
     {
-      "rank": 80,
-      "previousRank": 58,
-      "rankChange": -22,
-      "isNew": false,
-      "appleId": "6474194438",
-      "name": "Don't Starve Together",
-      "developer": "Playdigious",
-      "developerUrl": "https://apps.apple.com/us/developer/playdigious/id1041387229?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/e1/00/18e10079-9c48-aefb-6f9b-ccffdded2e6a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/dont-starve-together/id6474194438?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "July 21, 2026"
-    },
-    {
-      "rank": 81,
-      "previousRank": 79,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6743115658",
-      "name": "TABS Pocket Edition",
-      "developer": "Landfall Games",
-      "developerUrl": "https://apps.apple.com/us/developer/landfall-games/id1801453249?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/7f/75/dc7f75c6-81f2-e048-d0a2-675fd8e4c875/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tabs-pocket-edition/id6743115658?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "August 7, 2025"
-    },
-    {
-      "rank": 82,
-      "previousRank": 64,
-      "rankChange": -18,
+      "rank": 65,
+      "previousRank": 82,
+      "rankChange": 17,
       "isNew": false,
       "appleId": "6764310415",
       "name": "Wobbly Life",
@@ -1828,9 +1454,31 @@
       "releaseDate": "August 20, 2026"
     },
     {
-      "rank": 83,
-      "previousRank": 67,
-      "rankChange": -16,
+      "rank": 66,
+      "previousRank": 77,
+      "rankChange": 11,
+      "isNew": false,
+      "appleId": "1444761746",
+      "name": "RFS - Real Flight Simulator",
+      "developer": "RORTOS SRL",
+      "developerUrl": "https://apps.apple.com/us/developer/rortos-srl/id454802333?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b4/c4/e6b4c40d-928b-239d-45c8-5589f403631a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rfs-real-flight-simulator/id1444761746?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "July 23, 2019"
+    },
+    {
+      "rank": 67,
+      "previousRank": 83,
+      "rankChange": 16,
       "isNew": false,
       "appleId": "1252260233",
       "name": "The House of Tesla",
@@ -1850,38 +1498,38 @@
       "releaseDate": "October 20, 2026"
     },
     {
-      "rank": 84,
-      "previousRank": 66,
-      "rankChange": -18,
+      "rank": 68,
+      "previousRank": 69,
+      "rankChange": 1,
       "isNew": false,
-      "appleId": "1438245901",
-      "name": "Papa's Pancakeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/cf/ae/d8cfaec7-0fe8-dc80-8d1e-367a1a3fd6f5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-pancakeria-to-go/id1438245901?uo=2",
+      "appleId": "6463616555",
+      "name": "Ticket to Ride®",
+      "developer": "Marmalade Game Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/marmalade-game-studio/id988365603?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/d2/c6abd2e6-df22-25eb-3e37-e35e3f60ee2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 4.99,
         "currency": "USD",
-        "formatted": "$1.99"
+        "formatted": "$4.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "October 29, 2018"
+      "releaseDate": "December 12, 2023"
     },
     {
-      "rank": 85,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6478639011",
-      "name": "Subnautica",
-      "developer": "Unknown Worlds",
-      "developerUrl": "https://apps.apple.com/us/developer/unknown-worlds/id1733568374?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ab/e6/eaabe64f-3cd9-77b9-e0df-d6ed040ab5e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/subnautica/id6478639011?uo=2",
+      "rank": 69,
+      "previousRank": 54,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "6739130049",
+      "name": "Planet of Lana",
+      "developer": "Playdigious",
+      "developerUrl": "https://apps.apple.com/us/developer/playdigious/id1041387229?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/0d/7d/b40d7df2-e37d-b72f-664a-8bb965375c40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/planet-of-lana/id6739130049?uo=2",
       "price": {
         "amount": 8.99,
         "currency": "USD",
@@ -1891,100 +1539,100 @@
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "July 8, 2025"
+      "releaseDate": "December 9, 2025"
     },
     {
-      "rank": 86,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6795586467",
-      "name": "Dice A Million",
-      "developer": "countlessnights",
-      "developerUrl": "https://apps.apple.com/us/developer/countlessnights/id6795586589?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/27/06/b8270639-360a-02eb-07a2-605e43edc8ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/dice-a-million/id6795586467?uo=2",
+      "rank": 70,
+      "previousRank": 53,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "6755046527",
+      "name": "Dome Keeper",
+      "developer": "Raw Fury",
+      "developerUrl": "https://apps.apple.com/us/developer/raw-fury/id1118513353?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2f/29/c12f294b-8aff-aa36-2d9c-54e554995a32/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dome-keeper/id6755046527?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 9.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$9.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "September 15, 2026"
+      "releaseDate": "October 11, 2026"
     },
     {
-      "rank": 87,
+      "rank": 71,
+      "previousRank": 80,
+      "rankChange": 9,
+      "isNew": false,
+      "appleId": "6474194438",
+      "name": "Don't Starve Together",
+      "developer": "Playdigious",
+      "developerUrl": "https://apps.apple.com/us/developer/playdigious/id1041387229?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/e1/00/18e10079-9c48-aefb-6f9b-ccffdded2e6a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dont-starve-together/id6474194438?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "July 21, 2026"
+    },
+    {
+      "rank": 72,
+      "previousRank": 61,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6477835115",
+      "name": "Papa's Paleteria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d2/1f/35d21fd6-16b8-0ce5-e084-6176c24d3c62/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-paleteria-to-go/id6477835115?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "March 6, 2024"
+    },
+    {
+      "rank": 73,
       "previousRank": 72,
-      "rankChange": -15,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "1182456409",
-      "name": "Alto's Odyssey",
-      "developer": "Snowman",
-      "developerUrl": "https://apps.apple.com/us/developer/snowman/id524873456?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/5d/27/925d27f5-8818-c45f-20ab-f22945792e73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/altos-odyssey/id1182456409?uo=2",
+      "appleId": "1029932207",
+      "name": "Papa's Cupcakeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/cb/8e/a8cb8e88-9ab8-d8da-f81a-fa92323a9f37/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 1.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$1.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "February 21, 2018"
+      "releaseDate": "September 14, 2015"
     },
     {
-      "rank": 88,
-      "previousRank": 86,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "540925164",
-      "name": "Need for Speed™ Most Wanted",
-      "developer": "Electronic Arts",
-      "developerUrl": "https://apps.apple.com/us/developer/electronic-arts/id284800461?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3d/ae/a8/3daea893-ff62-aaca-f529-5901a39b13fa/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/need-for-speed-most-wanted/id540925164?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "October 30, 2012"
-    },
-    {
-      "rank": 89,
-      "previousRank": 82,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "1533709428",
-      "name": "Pocket City 2",
-      "developer": "Codebrew Games Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/codebrew-games-inc/id1330451887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e5/76/02e5769f-12b8-b1fc-f2a9-8c75d81e1bd3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pocket-city-2/id1533709428?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "April 7, 2023"
-    },
-    {
-      "rank": 90,
-      "previousRank": 95,
-      "rankChange": 5,
+      "rank": 74,
+      "previousRank": 90,
+      "rankChange": 16,
       "isNew": false,
       "appleId": "6740349587",
       "name": "Backyard Baseball '01",
@@ -2004,38 +1652,82 @@
       "releaseDate": "July 8, 2025"
     },
     {
-      "rank": 91,
-      "previousRank": 81,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1162580001",
-      "name": "Game Dev Tycoon",
-      "developer": "Greenheart Games Pty. Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/greenheart-games-pty-ltd/id877999140?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/c8/c183c83a-c72e-d73f-8ff5-a0f76e7c21f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/game-dev-tycoon/id1162580001?uo=2",
+      "rank": 75,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6747752407",
+      "name": "Gambonanza",
+      "developer": "Stray Fawn Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/stray-fawn-studio/id1539018462?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/2b/14/b92b147e-0aa5-cf58-8bd1-946774d623e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/gambonanza/id6747752407?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 5.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$5.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "November 28, 2017"
+      "releaseDate": "May 1, 2026"
     },
     {
-      "rank": 92,
-      "previousRank": 92,
-      "rankChange": 0,
+      "rank": 76,
+      "previousRank": 63,
+      "rankChange": -13,
       "isNew": false,
-      "appleId": "1439187947",
-      "name": "Rebel Inc.",
-      "developer": "Ndemic Creations",
-      "developerUrl": "https://apps.apple.com/us/developer/ndemic-creations/id525818842?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d6/9c/bed69cd0-23ed-b1ef-4988-4a637d29be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rebel-inc/id1439187947?uo=2",
+      "appleId": "1474716211",
+      "name": "60 Seconds! Reatomized",
+      "developer": "Robot Gentleman sp. z o.o.",
+      "developerUrl": "https://apps.apple.com/us/developer/robot-gentleman-sp-z-o-o/id1072395466?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/ff/04/47ff0468-ecd4-9b2e-2faa-c63c1bef4215/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/60-seconds-reatomized/id1474716211?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "May 25, 2021"
+    },
+    {
+      "rank": 77,
+      "previousRank": 75,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1069549814",
+      "name": "The Binding of Isaac: Rebirth",
+      "developer": "Nicalis, Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/nicalis-inc/id356341688?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/1c/95/a71c95f3-76f7-aed9-e873-29eff9ec7fbc/AppIcon-iOS-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "USD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "January 9, 2017"
+    },
+    {
+      "rank": 78,
+      "previousRank": 73,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "1477229754",
+      "name": "Papa's Cheeseria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/66/03/8d660358-ede2-e838-9110-3b5f227dd76c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-cheeseria-to-go/id1477229754?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -2045,13 +1737,167 @@
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "December 4, 2018"
+      "releaseDate": "October 24, 2019"
     },
     {
-      "rank": 93,
+      "rank": 79,
+      "previousRank": 85,
+      "rankChange": 6,
+      "isNew": false,
+      "appleId": "6478639011",
+      "name": "Subnautica",
+      "developer": "Unknown Worlds",
+      "developerUrl": "https://apps.apple.com/us/developer/unknown-worlds/id1733568374?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ab/e6/eaabe64f-3cd9-77b9-e0df-d6ed040ab5e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/subnautica/id6478639011?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "USD",
+        "formatted": "$8.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "July 8, 2025"
+    },
+    {
+      "rank": 80,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
+      "appleId": "1117405948",
+      "name": "The Game of Life",
+      "developer": "Marmalade Game Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/marmalade-game-studio/id988365603?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/26/77/a9267700-c72f-df17-27f0-96987956068d/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/the-game-of-life/id1117405948?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "July 14, 2016"
+    },
+    {
+      "rank": 81,
+      "previousRank": 74,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "6748751735",
+      "name": "Servant of the Lake",
+      "developer": "Rusty Lake",
+      "developerUrl": "https://apps.apple.com/us/developer/rusty-lake/id979777164?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d2/d4/80d2d4b4-80b2-3117-ca0b-0317d5593a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/servant-of-the-lake/id6748751735?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "August 13, 2026"
+    },
+    {
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1113736426",
+      "name": "RollerCoaster Tycoon® Classic",
+      "developer": "Atari",
+      "developerUrl": "https://apps.apple.com/us/developer/atari/id291286181?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e8/ee/05e8ee01-7cba-8247-6cab-06ee9e55c2bc/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rollercoaster-tycoon-classic/id1113736426?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 20, 2016"
+    },
+    {
+      "rank": 83,
+      "previousRank": 66,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1591627945",
+      "name": "Papa's Cluckeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/f5/47/c4f54756-5a28-168e-caea-1b6d346e7198/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-cluckeria-to-go/id1591627945?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "February 21, 2022"
+    },
+    {
+      "rank": 84,
+      "previousRank": 36,
+      "rankChange": -48,
+      "isNew": false,
+      "appleId": "6504841512",
+      "name": "Halls of Torment: Premium",
+      "developer": "Erabit Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/erabit-studios/id1611119800?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/e0/5a/6fe05a09-dd4a-c04d-f1d7-6fa278111f59/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/halls-of-torment-premium/id6504841512?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 10, 2024"
+    },
+    {
+      "rank": 85,
+      "previousRank": 84,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1438245901",
+      "name": "Papa's Pancakeria To Go!",
+      "developer": "Flipline Studios",
+      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/cf/ae/d8cfaec7-0fe8-dc80-8d1e-367a1a3fd6f5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/papas-pancakeria-to-go/id1438245901?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 29, 2018"
+    },
+    {
+      "rank": 86,
+      "previousRank": 93,
+      "rankChange": 7,
+      "isNew": false,
       "appleId": "1012298403",
       "name": "Don't Starve: Pocket Edition",
       "developer": "Klei",
@@ -2070,32 +1916,10 @@
       "releaseDate": "July 9, 2015"
     },
     {
-      "rank": 94,
-      "previousRank": 88,
-      "rankChange": -6,
+      "rank": 87,
+      "previousRank": 95,
+      "rankChange": 8,
       "isNew": false,
-      "appleId": "1518055618",
-      "name": "Papa's Pastaria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/cc/23/7acc2376-f918-8072-22f2-592dbad2a13c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-pastaria-to-go/id1518055618?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6014",
-        "name": "Games"
-      },
-      "releaseDate": "July 6, 2020"
-    },
-    {
-      "rank": 95,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "904278510",
       "name": "Hitman Sniper",
       "developer": "Deca Live Operations GmbH",
@@ -2114,38 +1938,60 @@
       "releaseDate": "June 3, 2015"
     },
     {
-      "rank": 96,
-      "previousRank": 97,
-      "rankChange": 1,
+      "rank": 88,
+      "previousRank": 79,
+      "rankChange": -9,
       "isNew": false,
-      "appleId": "6762134065",
-      "name": "Slots & Diapers",
-      "developer": "Parodie Games",
-      "developerUrl": "https://apps.apple.com/us/developer/parodie-games/id1893070079?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/1c/82/181c8246-46e5-ea60-9f9b-68f761db259f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/slots-diapers/id6762134065?uo=2",
+      "appleId": "562989701",
+      "name": "Vector Classic",
+      "developer": "Nekki Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/nekki-limited/id1101320102?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a4/39/36a4392c-ea03-2032-a41b-d086f7ac00d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/vector-classic/id562989701?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 0.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$0.99"
       },
       "primaryCategory": {
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "October 1, 2026"
+      "releaseDate": "October 20, 2012"
     },
     {
-      "rank": 97,
-      "previousRank": 90,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "6792484651",
-      "name": "ArcFlush: Roguelike Solitaire",
-      "developer": "欣宇 王",
-      "developerUrl": "https://apps.apple.com/us/developer/%E6%AC%A3%E5%AE%87-%E7%8E%8B/id1800740030?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/f2/b7/8ff2b7cf-b141-c3a4-9e72-d7e3f465a62c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/arcflush-roguelike-solitaire/id6792484651?uo=2",
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "598581396",
+      "name": "Kingdom Rush Frontiers TD",
+      "developer": "Ironhide S.A.",
+      "developerUrl": "https://apps.apple.com/us/developer/ironhide-s-a/id558612918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/38/e8/9138e824-612f-bc7f-0ab7-08721351c929/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "June 6, 2013"
+    },
+    {
+      "rank": 90,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "417817520",
+      "name": "Tiny Wings",
+      "developer": "Andreas Illiger",
+      "developerUrl": "https://apps.apple.com/us/developer/andreas-illiger/id417817523?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1b/5d/a71b5d5b-a5f2-a17c-9bc9-22d529b5de98/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tiny-wings/id417817520?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -2155,19 +2001,129 @@
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "September 25, 2026"
+      "releaseDate": "February 18, 2011"
     },
     {
-      "rank": 98,
-      "previousRank": 83,
-      "rankChange": -15,
+      "rank": 91,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1286676015",
+      "name": "The Room: Old Sins",
+      "developer": "Fireproof Studios Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/fireproof-studios-limited/id552039499?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/79/e5/77/79e5775a-8baa-543b-d2d6-9aeea7a223e5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/the-room-old-sins/id1286676015?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "January 25, 2018"
+    },
+    {
+      "rank": 92,
+      "previousRank": 88,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "1292787392",
-      "name": "Papa's Hot Doggeria To Go!",
-      "developer": "Flipline Studios",
-      "developerUrl": "https://apps.apple.com/us/developer/flipline-studios/id514634238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/d7/9f/4fd79f82-0bd6-3c35-8927-db46033bd420/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/papas-hot-doggeria-to-go/id1292787392?uo=2",
+      "appleId": "540925164",
+      "name": "Need for Speed™ Most Wanted",
+      "developer": "Electronic Arts",
+      "developerUrl": "https://apps.apple.com/us/developer/electronic-arts/id284800461?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3d/ae/a8/3daea893-ff62-aaca-f529-5901a39b13fa/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/need-for-speed-most-wanted/id540925164?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "October 30, 2012"
+    },
+    {
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1610947489",
+      "name": "Poppy Playtime Chapter 1",
+      "developer": "Mob Entertainment, Inc",
+      "developerUrl": "https://apps.apple.com/us/developer/mob-entertainment-inc/id1608636552?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/poppy-playtime-chapter-1/id1610947489?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "March 8, 2022"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "512142109",
+      "name": "Max Payne Mobile",
+      "developer": "Rockstar Games",
+      "developerUrl": "https://apps.apple.com/us/developer/rockstar-games/id330049731?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/32/5b/d5/325bd58b-0f0a-611c-d88e-275ca001d1ae/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/max-payne-mobile/id512142109?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "April 12, 2012"
+    },
+    {
+      "rank": 95,
+      "previousRank": 81,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "6743115658",
+      "name": "TABS Pocket Edition",
+      "developer": "Landfall Games",
+      "developerUrl": "https://apps.apple.com/us/developer/landfall-games/id1801453249?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/7f/75/dc7f75c6-81f2-e048-d0a2-675fd8e4c875/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tabs-pocket-edition/id6743115658?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "August 7, 2025"
+    },
+    {
+      "rank": 96,
+      "previousRank": 78,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "1385258906",
+      "name": "Mindustry",
+      "developer": "Anton Kramskoi",
+      "developerUrl": "https://apps.apple.com/us/developer/anton-kramskoi/id1385258905?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/cb/63/71cb6379-df2b-04ee-0b48-35240e5bd8a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/mindustry/id1385258906?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -2177,7 +2133,73 @@
         "id": "6014",
         "name": "Games"
       },
-      "releaseDate": "November 19, 2017"
+      "releaseDate": "June 8, 2018"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1609683141",
+      "name": "Dirt Trackin 3",
+      "developer": "BENNETT RACING SIMULATIONS, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/bennett-racing-simulations-llc/id940202797?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1b/a0/ad1ba098-00e5-f86c-c6a6-413b705fe1b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dirt-trackin-3/id1609683141?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "May 15, 2025"
+    },
+    {
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1437669537",
+      "name": "Bendy and the Ink Machine",
+      "developer": "Joey Drew Studios Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/joey-drew-studios-inc/id1276738965?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/19/97/e31997d2-a073-bbc8-179f-c7ef2019a322/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bendy-and-the-ink-machine/id1437669537?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "December 21, 2018"
+    },
+    {
+      "rank": 99,
+      "previousRank": 86,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "6795586467",
+      "name": "Dice A Million",
+      "developer": "countlessnights",
+      "developerUrl": "https://apps.apple.com/us/developer/countlessnights/id6795586589?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/27/06/b8270639-360a-02eb-07a2-605e43edc8ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dice-a-million/id6795586467?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6014",
+        "name": "Games"
+      },
+      "releaseDate": "September 15, 2026"
     }
   ]
 }
