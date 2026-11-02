@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-01",
-  "collectedAt": "2026-11-01T07:14:50.613Z",
-  "sourceUpdatedAt": "2026-11-01T00:14:50-07:00",
+  "snapshotDate": "2026-11-02",
+  "collectedAt": "2026-11-02T07:30:07.187Z",
+  "sourceUpdatedAt": "2026-11-01T23:30:06-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/kr/rss/toppaidapplications/limit=100/genre=6026/json",
   "chartType": "paid",
@@ -21,12 +21,12 @@
   "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-31",
+  "previousSnapshotDate": "2026-11-01",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 5,
-      "rankChange": 4,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6758669847",
       "name": "Echo - SSH + Mosh Client",
@@ -47,9 +47,9 @@
     },
     {
       "rank": 2,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 2,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "6807917079",
       "name": "Herdy - Your herdr companion",
       "developer": "WEM Creative Studio, S.A. de C.V.",
@@ -69,8 +69,8 @@
     },
     {
       "rank": 3,
-      "previousRank": 1,
-      "rankChange": -2,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6759809062",
       "name": "CodeMan - VSCode",
@@ -91,8 +91,8 @@
     },
     {
       "rank": 4,
-      "previousRank": 2,
-      "rankChange": -2,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1512938504",
       "name": "Code App",
@@ -113,7 +113,51 @@
     },
     {
       "rank": 5,
-      "previousRank": 3,
+      "previousRank": 6,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1203594958",
+      "name": "Inspect Browser",
+      "developer": "Parallax Dynamics Inc.",
+      "developerUrl": "https://apps.apple.com/kr/developer/parallax-dynamics-inc/id1183528224?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ff/32/3cff3245-5631-6e55-5080-16a97ece4f85/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/inspect-browser/id1203594958?uo=2",
+      "price": {
+        "amount": 11000,
+        "currency": "KRW",
+        "formatted": "￦11,000"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2017.06.06"
+    },
+    {
+      "rank": 6,
+      "previousRank": 7,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1567601472",
+      "name": "ESP32 BLE Terminal",
+      "developer": "Gopi Gadhiya",
+      "developerUrl": "https://apps.apple.com/kr/developer/gopi-gadhiya/id1387816354?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/esp32-ble-terminal/id1567601472?uo=2",
+      "price": {
+        "amount": 1100,
+        "currency": "KRW",
+        "formatted": "￦1,100"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2021.06.01"
+    },
+    {
+      "rank": 7,
+      "previousRank": 5,
       "rankChange": -2,
       "isNew": false,
       "appleId": "908937788",
@@ -134,53 +178,9 @@
       "releaseDate": "2015.06.12"
     },
     {
-      "rank": 6,
-      "previousRank": 4,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1203594958",
-      "name": "Inspect Browser",
-      "developer": "Parallax Dynamics Inc.",
-      "developerUrl": "https://apps.apple.com/kr/developer/parallax-dynamics-inc/id1183528224?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ff/32/3cff3245-5631-6e55-5080-16a97ece4f85/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/inspect-browser/id1203594958?uo=2",
-      "price": {
-        "amount": 11000,
-        "currency": "KRW",
-        "formatted": "￦11,000"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2017.06.06"
-    },
-    {
-      "rank": 7,
-      "previousRank": 6,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1567601472",
-      "name": "ESP32 BLE Terminal",
-      "developer": "Gopi Gadhiya",
-      "developerUrl": "https://apps.apple.com/kr/developer/gopi-gadhiya/id1387816354?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/esp32-ble-terminal/id1567601472?uo=2",
-      "price": {
-        "amount": 1100,
-        "currency": "KRW",
-        "formatted": "￦1,100"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2021.06.01"
-    },
-    {
       "rank": 8,
-      "previousRank": 7,
-      "rankChange": -1,
+      "previousRank": 8,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "386737169",
       "name": "LadderTouch",
@@ -201,7 +201,29 @@
     },
     {
       "rank": 9,
-      "previousRank": 8,
+      "previousRank": 70,
+      "rankChange": 61,
+      "isNew": false,
+      "appleId": "6762464046",
+      "name": "Muxy",
+      "developer": "Saeed Vaziry",
+      "developerUrl": "https://apps.apple.com/kr/developer/saeed-vaziry/id1873447179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/13/a2/f813a288-3e12-ee6b-e69d-1e37d7dd58f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/muxy/id6762464046?uo=2",
+      "price": {
+        "amount": 4400,
+        "currency": "KRW",
+        "formatted": "￦4,400"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2026.05.15"
+    },
+    {
+      "rank": 10,
+      "previousRank": 9,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6743685377",
@@ -222,9 +244,9 @@
       "releaseDate": "2025.03.24"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1095213378",
       "name": "Continuous .NET C# and F# IDE",
@@ -244,9 +266,9 @@
       "releaseDate": "2016.07.06"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "previousRank": 11,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1314212521",
       "name": "PPHub For GitHub - Developer",
@@ -266,9 +288,9 @@
       "releaseDate": "2017.11.20"
     },
     {
-      "rank": 12,
-      "previousRank": 9,
-      "rankChange": -3,
+      "rank": 13,
+      "previousRank": 12,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1260223542",
       "name": "SSH Tunnel: VPN & SOCKS5 프록시",
@@ -288,8 +310,8 @@
       "releaseDate": "2017.07.24"
     },
     {
-      "rank": 13,
-      "previousRank": 12,
+      "rank": 14,
+      "previousRank": 13,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1315744137",
@@ -310,8 +332,8 @@
       "releaseDate": "2018.01.23"
     },
     {
-      "rank": 14,
-      "previousRank": 13,
+      "rank": 15,
+      "previousRank": 14,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1061486140",
@@ -332,9 +354,9 @@
       "releaseDate": "2015.12.19"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "previousRank": 15,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "921385542",
       "name": "Source 3",
@@ -354,9 +376,9 @@
       "releaseDate": "2014.10.08"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "previousRank": 16,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "475312085",
       "name": "SQLed - SQL Database Manager",
@@ -376,9 +398,9 @@
       "releaseDate": "2011.11.15"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "previousRank": 17,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1470146079",
       "name": "Smart NFC",
@@ -396,28 +418,6 @@
         "name": "개발자 도구"
       },
       "releaseDate": "2019.09.19"
-    },
-    {
-      "rank": 18,
-      "previousRank": 14,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6444493151",
-      "name": "VSCoW - Code Wrapper",
-      "developer": "Christoph Gogolin",
-      "developerUrl": "https://apps.apple.com/kr/developer/christoph-gogolin/id511901280?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/03/9f/15039ffa-5155-d5ef-97f4-915b096eb28b/AppIconVSDev-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/vscow-code-wrapper/id6444493151?uo=2",
-      "price": {
-        "amount": 4400,
-        "currency": "KRW",
-        "formatted": "￦4,400"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2022.12.12"
     },
     {
       "rank": 19,
@@ -443,7 +443,51 @@
     },
     {
       "rank": 20,
-      "previousRank": 18,
+      "previousRank": 21,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1534470128",
+      "name": "Node-PAD",
+      "developer": "Michael Angelo Ruta",
+      "developerUrl": "https://apps.apple.com/kr/developer/michael-angelo-ruta/id468628157?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/4f/a0/424fa082-6eae-f93e-9d04-f3734b9e4702/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/node-pad/id1534470128?uo=2",
+      "price": {
+        "amount": 3300,
+        "currency": "KRW",
+        "formatted": "￦3,300"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2020.10.14"
+    },
+    {
+      "rank": 21,
+      "previousRank": 22,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1237825358",
+      "name": "MongoLime - manage databases",
+      "developer": "Mobibean, LLC",
+      "developerUrl": "https://apps.apple.com/kr/developer/mobibean-llc/id1142567045?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d5/b6/63d5b681-450c-be56-5a4c-252f1fad33b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/mongolime-manage-databases/id1237825358?uo=2",
+      "price": {
+        "amount": 17000,
+        "currency": "KRW",
+        "formatted": "￦17,000"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2017.08.17"
+    },
+    {
+      "rank": 22,
+      "previousRank": 20,
       "rankChange": -2,
       "isNew": false,
       "appleId": "6758960270",
@@ -464,53 +508,9 @@
       "releaseDate": "2026.02.13"
     },
     {
-      "rank": 21,
-      "previousRank": 20,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1534470128",
-      "name": "Node-PAD",
-      "developer": "Michael Angelo Ruta",
-      "developerUrl": "https://apps.apple.com/kr/developer/michael-angelo-ruta/id468628157?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/4f/a0/424fa082-6eae-f93e-9d04-f3734b9e4702/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/node-pad/id1534470128?uo=2",
-      "price": {
-        "amount": 3300,
-        "currency": "KRW",
-        "formatted": "￦3,300"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2020.10.14"
-    },
-    {
-      "rank": 22,
-      "previousRank": 21,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1237825358",
-      "name": "MongoLime - manage databases",
-      "developer": "Mobibean, LLC",
-      "developerUrl": "https://apps.apple.com/kr/developer/mobibean-llc/id1142567045?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d5/b6/63d5b681-450c-be56-5a4c-252f1fad33b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/mongolime-manage-databases/id1237825358?uo=2",
-      "price": {
-        "amount": 17000,
-        "currency": "KRW",
-        "formatted": "￦17,000"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2017.08.17"
-    },
-    {
       "rank": 23,
-      "previousRank": 22,
-      "rankChange": -1,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6443893597",
       "name": "Simple Server: HTTP Server",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 23,
-      "rankChange": -1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1463315864",
       "name": "iHTTP Tracker -Network monitor",
@@ -553,8 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 24,
-      "rankChange": -1,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1054670022",
       "name": "Adaptivity (A)",
@@ -575,7 +575,29 @@
     },
     {
       "rank": 26,
-      "previousRank": 25,
+      "previousRank": 18,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "6444493151",
+      "name": "VSCoW - Code Wrapper",
+      "developer": "Christoph Gogolin",
+      "developerUrl": "https://apps.apple.com/kr/developer/christoph-gogolin/id511901280?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/03/9f/15039ffa-5155-d5ef-97f4-915b096eb28b/AppIconVSDev-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/vscow-code-wrapper/id6444493151?uo=2",
+      "price": {
+        "amount": 4400,
+        "currency": "KRW",
+        "formatted": "￦4,400"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2022.12.12"
+    },
+    {
+      "rank": 27,
+      "previousRank": 26,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6448196217",
@@ -596,8 +618,8 @@
       "releaseDate": "2023.04.27"
     },
     {
-      "rank": 27,
-      "previousRank": 26,
+      "rank": 28,
+      "previousRank": 27,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6461118802",
@@ -618,8 +640,8 @@
       "releaseDate": "2023.08.15"
     },
     {
-      "rank": 28,
-      "previousRank": 27,
+      "rank": 29,
+      "previousRank": 28,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1558236648",
@@ -640,8 +662,8 @@
       "releaseDate": "2021.03.20"
     },
     {
-      "rank": 29,
-      "previousRank": 28,
+      "rank": 30,
+      "previousRank": 29,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1532669250",
@@ -662,8 +684,8 @@
       "releaseDate": "2021.06.02"
     },
     {
-      "rank": 30,
-      "previousRank": 29,
+      "rank": 31,
+      "previousRank": 30,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1515506950",
@@ -684,8 +706,8 @@
       "releaseDate": "2020.06.09"
     },
     {
-      "rank": 31,
-      "previousRank": 30,
+      "rank": 32,
+      "previousRank": 31,
       "rankChange": -1,
       "isNew": false,
       "appleId": "932296259",
@@ -706,8 +728,8 @@
       "releaseDate": "2014.11.12"
     },
     {
-      "rank": 32,
-      "previousRank": 31,
+      "rank": 33,
+      "previousRank": 32,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6760799367",
@@ -728,8 +750,8 @@
       "releaseDate": "2026.03.23"
     },
     {
-      "rank": 33,
-      "previousRank": 32,
+      "rank": 34,
+      "previousRank": 33,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1526052028",
@@ -750,8 +772,8 @@
       "releaseDate": "2020.12.02"
     },
     {
-      "rank": 34,
-      "previousRank": 33,
+      "rank": 35,
+      "previousRank": 34,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1252988123",
@@ -772,8 +794,8 @@
       "releaseDate": "2017.07.26"
     },
     {
-      "rank": 35,
-      "previousRank": 34,
+      "rank": 36,
+      "previousRank": 35,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6759057599",
@@ -794,8 +816,8 @@
       "releaseDate": "2026.02.26"
     },
     {
-      "rank": 36,
-      "previousRank": 35,
+      "rank": 37,
+      "previousRank": 36,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1661026537",
@@ -816,8 +838,8 @@
       "releaseDate": "2022.12.24"
     },
     {
-      "rank": 37,
-      "previousRank": 36,
+      "rank": 38,
+      "previousRank": 37,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1563852783",
@@ -838,8 +860,8 @@
       "releaseDate": "2021.05.11"
     },
     {
-      "rank": 38,
-      "previousRank": 37,
+      "rank": 39,
+      "previousRank": 38,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1481149807",
@@ -860,8 +882,8 @@
       "releaseDate": "2019.12.15"
     },
     {
-      "rank": 39,
-      "previousRank": 38,
+      "rank": 40,
+      "previousRank": 39,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1469009452",
@@ -882,8 +904,8 @@
       "releaseDate": "2019.09.03"
     },
     {
-      "rank": 40,
-      "previousRank": 39,
+      "rank": 41,
+      "previousRank": 40,
       "rankChange": -1,
       "isNew": false,
       "appleId": "593757593",
@@ -904,8 +926,8 @@
       "releaseDate": "2013.02.12"
     },
     {
-      "rank": 41,
-      "previousRank": 40,
+      "rank": 42,
+      "previousRank": 41,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6757679404",
@@ -926,8 +948,8 @@
       "releaseDate": "2026.01.22"
     },
     {
-      "rank": 42,
-      "previousRank": 41,
+      "rank": 43,
+      "previousRank": 42,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1586466815",
@@ -948,8 +970,8 @@
       "releaseDate": "2021.09.19"
     },
     {
-      "rank": 43,
-      "previousRank": 42,
+      "rank": 44,
+      "previousRank": 43,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1572726721",
@@ -970,8 +992,8 @@
       "releaseDate": "2021.06.21"
     },
     {
-      "rank": 44,
-      "previousRank": 43,
+      "rank": 45,
+      "previousRank": 44,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1525322870",
@@ -992,8 +1014,8 @@
       "releaseDate": "2020.09.16"
     },
     {
-      "rank": 45,
-      "previousRank": 44,
+      "rank": 46,
+      "previousRank": 45,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1461666739",
@@ -1014,8 +1036,8 @@
       "releaseDate": "2019.05.03"
     },
     {
-      "rank": 46,
-      "previousRank": 45,
+      "rank": 47,
+      "previousRank": 46,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1245341806",
@@ -1036,8 +1058,8 @@
       "releaseDate": "2017.11.07"
     },
     {
-      "rank": 47,
-      "previousRank": 46,
+      "rank": 48,
+      "previousRank": 47,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6746725511",
@@ -1058,8 +1080,8 @@
       "releaseDate": "2025.06.03"
     },
     {
-      "rank": 48,
-      "previousRank": 47,
+      "rank": 49,
+      "previousRank": 48,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1581312955",
@@ -1080,8 +1102,8 @@
       "releaseDate": "2021.08.15"
     },
     {
-      "rank": 49,
-      "previousRank": 48,
+      "rank": 50,
+      "previousRank": 49,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1576100771",
@@ -1102,8 +1124,8 @@
       "releaseDate": "2021.12.22"
     },
     {
-      "rank": 50,
-      "previousRank": 49,
+      "rank": 51,
+      "previousRank": 50,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1517211662",
@@ -1124,8 +1146,8 @@
       "releaseDate": "2020.06.07"
     },
     {
-      "rank": 51,
-      "previousRank": 50,
+      "rank": 52,
+      "previousRank": 51,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1511763524",
@@ -1146,8 +1168,8 @@
       "releaseDate": "2020.05.06"
     },
     {
-      "rank": 52,
-      "previousRank": 51,
+      "rank": 53,
+      "previousRank": 52,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1439354562",
@@ -1168,9 +1190,9 @@
       "releaseDate": "2018.10.23"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "previousRank": 53,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1611554653",
       "name": "Logger for Shortcuts",
@@ -1190,9 +1212,9 @@
       "releaseDate": "2022.03.10"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "previousRank": 54,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1582439659",
       "name": "Harbour - Docker Manager",
@@ -1212,9 +1234,9 @@
       "releaseDate": "2024.04.06"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1517487743",
       "name": "DNS Client: Lookup & Query",
@@ -1234,9 +1256,9 @@
       "releaseDate": "2020.07.29"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1474606532",
       "name": "Haptics - Test Haptic Feedback",
@@ -1256,9 +1278,9 @@
       "releaseDate": "2019.09.19"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1296588408",
       "name": "AirTerminal - BLE Terminal",
@@ -1278,31 +1300,9 @@
       "releaseDate": "2017.11.29"
     },
     {
-      "rank": 58,
-      "previousRank": 52,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6766115872",
-      "name": "My Styles: Custom Website Look",
-      "developer": "Moustafa Elsayed",
-      "developerUrl": "https://apps.apple.com/kr/developer/moustafa-elsayed/id1840980592?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/47/29/0b472942-72cd-e145-921f-3b7ca06ad178/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/my-styles-custom-website-look/id6766115872?uo=2",
-      "price": {
-        "amount": 6600,
-        "currency": "KRW",
-        "formatted": "￦6,600"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2026.05.07"
-    },
-    {
       "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6799927158",
       "name": "iperf3 - Network Tools",
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 59,
-      "rankChange": -1,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6787457752",
       "name": "MuxPad",
@@ -1345,14 +1345,14 @@
     },
     {
       "rank": 61,
-      "previousRank": 60,
-      "rankChange": -1,
+      "previousRank": 61,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6759213045",
       "name": "SSH Term X",
       "developer": "Haga Kunihiko",
       "developerUrl": "https://apps.apple.com/kr/developer/haga-kunihiko/id1553088822?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/85/c0/bb85c0d0-e268-4fe9-0fe0-39ea87164b9c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/b3/89/b5b38986-03d5-8ca0-10c7-747233701910/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/kr/app/ssh-term-x/id6759213045?uo=2",
       "price": {
         "amount": 7700,
@@ -1367,8 +1367,8 @@
     },
     {
       "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6757485881",
       "name": "Assembly Lab: 8086 NASM IDE",
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 62,
-      "rankChange": -1,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1643868615",
       "name": "TFLite LiteRT TensorFlow 벤치마크",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1580309766",
       "name": "SQL Recipes Pro",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1573516638",
       "name": "JavaScript Recipes Pro",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1564422794",
       "name": "MQTT Spy",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1468880337",
       "name": "Hexer — Hex File Viewer",
@@ -1499,8 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
+      "previousRank": 68,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1425213172",
       "name": "View Source Premier",
@@ -1521,8 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1356241530",
       "name": "a11yTools - Web Accessibility",
@@ -1543,30 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6762464046",
-      "name": "Muxy",
-      "developer": "Saeed Vaziry",
-      "developerUrl": "https://apps.apple.com/kr/developer/saeed-vaziry/id1873447179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/13/a2/f813a288-3e12-ee6b-e69d-1e37d7dd58f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/muxy/id6762464046?uo=2",
-      "price": {
-        "amount": 4400,
-        "currency": "KRW",
-        "formatted": "￦4,400"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "개발자 도구"
-      },
-      "releaseDate": "2026.05.15"
-    },
-    {
-      "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6759902048",
       "name": "TextNova",
@@ -1586,9 +1564,9 @@
       "releaseDate": "2026.03.24"
     },
     {
-      "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "rank": 71,
+      "previousRank": 72,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6744863722",
       "name": "neightn remote",
@@ -1608,9 +1586,9 @@
       "releaseDate": "2025.04.22"
     },
     {
-      "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "rank": 72,
+      "previousRank": 73,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6483004403",
       "name": "iControl OSC & NDI",
@@ -1630,9 +1608,9 @@
       "releaseDate": "2024.04.08"
     },
     {
-      "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "rank": 73,
+      "previousRank": 74,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1506388148",
       "name": "Neural Object Detector",
@@ -1652,9 +1630,9 @@
       "releaseDate": "2020.04.14"
     },
     {
-      "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "rank": 74,
+      "previousRank": 75,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1503486606",
       "name": "C Code Develop",
@@ -1674,9 +1652,9 @@
       "releaseDate": "2021.01.06"
     },
     {
-      "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "rank": 75,
+      "previousRank": 76,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1490043916",
       "name": "Http Traffic pro - sniffer",
@@ -1696,9 +1674,9 @@
       "releaseDate": "2019.12.03"
     },
     {
-      "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "rank": 76,
+      "previousRank": 77,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1191488320",
       "name": "PasteMe - Pastebin Client",
@@ -1718,9 +1696,9 @@
       "releaseDate": "2017.01.12"
     },
     {
-      "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "rank": 77,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6770717276",
       "name": "Edit HTTP Headers for Safari",
@@ -1740,9 +1718,9 @@
       "releaseDate": "2026.05.21"
     },
     {
-      "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "rank": 78,
+      "previousRank": 79,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6759411482",
       "name": "Website to Markdown for Safari",
@@ -1762,9 +1740,9 @@
       "releaseDate": "2026.02.23"
     },
     {
-      "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "rank": 79,
+      "previousRank": 80,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6758965221",
       "name": "VibeShell",
@@ -1784,9 +1762,9 @@
       "releaseDate": "2026.03.07"
     },
     {
-      "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "rank": 80,
+      "previousRank": 81,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6757315226",
       "name": "MDC - Markdown Copier",
@@ -1806,9 +1784,9 @@
       "releaseDate": "2026.01.08"
     },
     {
-      "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "rank": 81,
+      "previousRank": 82,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6754510277",
       "name": "GrafanaUI",
@@ -1828,9 +1806,9 @@
       "releaseDate": "2025.11.07"
     },
     {
-      "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "rank": 82,
+      "previousRank": 83,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6737245127",
       "name": "SourceView Pro - Web Inspector",
@@ -1850,9 +1828,9 @@
       "releaseDate": "2024.10.24"
     },
     {
-      "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "rank": 83,
+      "previousRank": 84,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6578456621",
       "name": "Markdown Editor for Safari",
@@ -1872,9 +1850,9 @@
       "releaseDate": "2024.07.27"
     },
     {
-      "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "rank": 84,
+      "previousRank": 85,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6474973643",
       "name": "Rust IDE - Minimal Code",
@@ -1894,9 +1872,9 @@
       "releaseDate": "2023.12.30"
     },
     {
-      "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "rank": 85,
+      "previousRank": 86,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6469319815",
       "name": "CSS Inspector for Safari",
@@ -1916,9 +1894,9 @@
       "releaseDate": "2023.10.16"
     },
     {
-      "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "rank": 86,
+      "previousRank": 87,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1574609188",
       "name": "Golang Recipes Pro",
@@ -1938,9 +1916,9 @@
       "releaseDate": "2021.07.01"
     },
     {
-      "rank": 88,
-      "previousRank": 87,
-      "rankChange": -1,
+      "rank": 87,
+      "previousRank": 88,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1534485108",
       "name": "Nan - Packet Capture",
@@ -1960,9 +1938,9 @@
       "releaseDate": "2020.11.06"
     },
     {
-      "rank": 89,
-      "previousRank": 88,
-      "rankChange": -1,
+      "rank": 88,
+      "previousRank": 89,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "585637688",
       "name": "python3$",
@@ -1982,9 +1960,9 @@
       "releaseDate": "2014.10.07"
     },
     {
-      "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "rank": 89,
+      "previousRank": 90,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "511639148",
       "name": "Source Code Reader",
@@ -2004,9 +1982,9 @@
       "releaseDate": "2012.03.25"
     },
     {
-      "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "rank": 90,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6805392341",
       "name": "SSHHEE",
@@ -2026,9 +2004,9 @@
       "releaseDate": "2026.08.31"
     },
     {
-      "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "rank": 91,
+      "previousRank": 92,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6760124487",
       "name": "8086 어셈블리어 컴파일러 및 에뮬레이터",
@@ -2048,9 +2026,9 @@
       "releaseDate": "2026.03.05"
     },
     {
-      "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "rank": 92,
+      "previousRank": 93,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6749019257",
       "name": "ViewChanger – PC사이트 모바일 보기",
@@ -2070,9 +2048,9 @@
       "releaseDate": "2025.07.25"
     },
     {
-      "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "rank": 93,
+      "previousRank": 94,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6742906138",
       "name": "Simple cURL",
@@ -2092,9 +2070,9 @@
       "releaseDate": "2025.03.08"
     },
     {
-      "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "rank": 94,
+      "previousRank": 95,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6553999598",
       "name": "iDepth NDI",
@@ -2114,9 +2092,9 @@
       "releaseDate": "2024.07.20"
     },
     {
-      "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
+      "rank": 95,
+      "previousRank": 96,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6478643561",
       "name": "WebTraffic - Inspect network",
@@ -2136,9 +2114,9 @@
       "releaseDate": "2024.02.29"
     },
     {
-      "rank": 97,
-      "previousRank": 96,
-      "rankChange": -1,
+      "rank": 96,
+      "previousRank": 97,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6450674361",
       "name": "Nmap Handbook",
@@ -2158,9 +2136,9 @@
       "releaseDate": "2023.06.28"
     },
     {
-      "rank": 98,
-      "previousRank": 97,
-      "rankChange": -1,
+      "rank": 97,
+      "previousRank": 98,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6450014845",
       "name": "ARM Assembly",
@@ -2180,9 +2158,9 @@
       "releaseDate": "2023.07.02"
     },
     {
-      "rank": 99,
-      "previousRank": 98,
-      "rankChange": -1,
+      "rank": 98,
+      "previousRank": 99,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6446419487",
       "name": "Tanuki for GitLab",
@@ -2202,9 +2180,9 @@
       "releaseDate": "2023.03.22"
     },
     {
-      "rank": 100,
-      "previousRank": 99,
-      "rankChange": -1,
+      "rank": 99,
+      "previousRank": 100,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6443696943",
       "name": "Mockup Screenshot",
@@ -2222,6 +2200,28 @@
         "name": "개발자 도구"
       },
       "releaseDate": "2022.10.14"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1662404144",
+      "name": "Wuma - Uptime Kuma Manager",
+      "developer": "Gianpiero Radano",
+      "developerUrl": "https://apps.apple.com/kr/developer/gianpiero-radano/id1059168092?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/81/37/618137fb-ed26-e2d4-df80-702c72cabb47/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/wuma-uptime-kuma-manager/id1662404144?uo=2",
+      "price": {
+        "amount": 7700,
+        "currency": "KRW",
+        "formatted": "￦7,700"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "개발자 도구"
+      },
+      "releaseDate": "2023.01.04"
     }
   ]
 }

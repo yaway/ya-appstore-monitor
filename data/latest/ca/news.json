@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-01",
-  "collectedAt": "2026-11-01T07:14:40.198Z",
-  "sourceUpdatedAt": "2026-11-01T00:14:39-07:00",
+  "snapshotDate": "2026-11-02",
+  "collectedAt": "2026-11-02T07:29:55.574Z",
+  "sourceUpdatedAt": "2026-11-01T23:29:55-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/ca/rss/toppaidapplications/limit=100/genre=6009/json",
   "chartType": "paid",
@@ -21,12 +21,12 @@
   "actualCount": 96,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-31",
+  "previousSnapshotDate": "2026-11-01",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 9,
-      "rankChange": 8,
+      "previousRank": 1,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1529445840",
       "name": "Reeder Classic",
@@ -47,30 +47,30 @@
     },
     {
       "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
+      "previousRank": 6,
+      "rankChange": 4,
       "isNew": false,
-      "appleId": "6796877599",
-      "name": "Wallflower - Boring Reader",
-      "developer": "And a Dinosaur",
-      "developerUrl": "https://apps.apple.com/ca/developer/and-a-dinosaur/id475577301?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/9a/a5/c89aa504-c534-0716-b3cf-a4d50017211e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/wallflower-boring-reader/id6796877599?uo=2",
+      "appleId": "1474335294",
+      "name": "GoodLinks: Read Later",
+      "developer": "Ngoc Luu",
+      "developerUrl": "https://apps.apple.com/ca/developer/ngoc-luu/id476810735?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ef/a8/26efa829-8302-eff8-25a5-c877794235aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/goodlinks-read-later/id1474335294?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 12.99,
         "currency": "CAD",
-        "formatted": "$3.99"
+        "formatted": "$12.99"
       },
       "primaryCategory": {
         "id": "6009",
         "name": "News"
       },
-      "releaseDate": "August 18, 2026"
+      "releaseDate": "June 10, 2020"
     },
     {
       "rank": 3,
-      "previousRank": 6,
-      "rankChange": 3,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "393858566",
       "name": "Downcast",
@@ -91,8 +91,52 @@
     },
     {
       "rank": 4,
-      "previousRank": 1,
+      "previousRank": 9,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "1326693810",
+      "name": "Outcast for Watch",
+      "developer": "Crunchy Bagel",
+      "developerUrl": "https://apps.apple.com/ca/developer/crunchy-bagel/id1084571682?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/aa/81/18aa8127-c86f-e52a-bdb4-b18b6bdfc70a/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/outcast-for-watch/id1326693810?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "January 23, 2018"
+    },
+    {
+      "rank": 5,
+      "previousRank": 2,
       "rankChange": -3,
+      "isNew": false,
+      "appleId": "6796877599",
+      "name": "Wallflower - Boring Reader",
+      "developer": "And a Dinosaur",
+      "developerUrl": "https://apps.apple.com/ca/developer/and-a-dinosaur/id475577301?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/9a/a5/c89aa504-c534-0716-b3cf-a4d50017211e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/wallflower-boring-reader/id6796877599?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "CAD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "August 18, 2026"
+    },
+    {
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6759520295",
       "name": "Election Explorer: 2026 Map",
@@ -110,50 +154,6 @@
         "name": "News"
       },
       "releaseDate": "February 24, 2026"
-    },
-    {
-      "rank": 5,
-      "previousRank": 2,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "711503013",
-      "name": "Simple RSS Push+ · Feed Reader",
-      "developer": "Alexandre Fabri",
-      "developerUrl": "https://apps.apple.com/ca/developer/alexandre-fabri/id1870502938?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c9/54/99c954e6-a444-b050-c5d1-ac2e0c7d45c0/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/simple-rss-push-feed-reader/id711503013?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "CAD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "October 07, 2013"
-    },
-    {
-      "rank": 6,
-      "previousRank": 3,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1474335294",
-      "name": "GoodLinks: Read Later",
-      "developer": "Ngoc Luu",
-      "developerUrl": "https://apps.apple.com/ca/developer/ngoc-luu/id476810735?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ef/a8/26efa829-8302-eff8-25a5-c877794235aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/goodlinks-read-later/id1474335294?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "CAD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "June 10, 2020"
     },
     {
       "rank": 7,
@@ -204,28 +204,6 @@
       "previousRank": 10,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "1326693810",
-      "name": "Outcast for Watch",
-      "developer": "Crunchy Bagel",
-      "developerUrl": "https://apps.apple.com/ca/developer/crunchy-bagel/id1084571682?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/aa/81/18aa8127-c86f-e52a-bdb4-b18b6bdfc70a/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/outcast-for-watch/id1326693810?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "CAD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "January 23, 2018"
-    },
-    {
-      "rank": 10,
-      "previousRank": 11,
-      "rankChange": 1,
-      "isNew": false,
       "appleId": "313147645",
       "name": "World Newspapers - 200 countries",
       "developer": "BoCoSoft,Inc.",
@@ -244,8 +222,8 @@
       "releaseDate": "May 07, 2009"
     },
     {
-      "rank": 11,
-      "previousRank": 12,
+      "rank": 10,
+      "previousRank": 11,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1032668306",
@@ -266,8 +244,8 @@
       "releaseDate": "September 02, 2016"
     },
     {
-      "rank": 12,
-      "previousRank": 13,
+      "rank": 11,
+      "previousRank": 12,
       "rankChange": 1,
       "isNew": false,
       "appleId": "292410356",
@@ -288,8 +266,8 @@
       "releaseDate": "October 07, 2008"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
+      "rank": 12,
+      "previousRank": 13,
       "rankChange": 1,
       "isNew": false,
       "appleId": "919056339",
@@ -310,8 +288,8 @@
       "releaseDate": "September 25, 2014"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
+      "rank": 13,
+      "previousRank": 14,
       "rankChange": 1,
       "isNew": false,
       "appleId": "724226640",
@@ -332,8 +310,8 @@
       "releaseDate": "October 22, 2013"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
+      "rank": 14,
+      "previousRank": 15,
       "rankChange": 1,
       "isNew": false,
       "appleId": "903637019",
@@ -354,15 +332,15 @@
       "releaseDate": "August 01, 2014"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
+      "rank": 15,
+      "previousRank": 16,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1531976425",
       "name": "lire: RSS Reader",
       "developer": "Kunal Sood",
       "developerUrl": "https://apps.apple.com/ca/developer/kunal-sood/id542137548?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8b/55/968b555b-1f83-22f9-b943-3361562a9a64/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/ca/app/lire-rss-reader/id1531976425?uo=2",
       "price": {
         "amount": 12.99,
@@ -376,8 +354,8 @@
       "releaseDate": "September 16, 2020"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
+      "rank": 16,
+      "previousRank": 17,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6758530974",
@@ -398,8 +376,8 @@
       "releaseDate": "February 17, 2026"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
+      "rank": 17,
+      "previousRank": 18,
       "rankChange": 1,
       "isNew": false,
       "appleId": "448638079",
@@ -420,8 +398,8 @@
       "releaseDate": "July 14, 2011"
     },
     {
-      "rank": 19,
-      "previousRank": 20,
+      "rank": 18,
+      "previousRank": 19,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1441890371",
@@ -442,9 +420,31 @@
       "releaseDate": "September 30, 2019"
     },
     {
+      "rank": 19,
+      "previousRank": 5,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "711503013",
+      "name": "Simple RSS Push+ · Feed Reader",
+      "developer": "Alexandre Fabri",
+      "developerUrl": "https://apps.apple.com/ca/developer/alexandre-fabri/id1870502938?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c9/54/99c954e6-a444-b050-c5d1-ac2e0c7d45c0/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/simple-rss-push-feed-reader/id711503013?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "CAD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "October 07, 2013"
+    },
+    {
       "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "339408916",
       "name": "Hacker News",
@@ -465,8 +465,8 @@
     },
     {
       "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "350111353",
       "name": "NSW Fires",
@@ -487,8 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "698220406",
       "name": "Pincase - A Pinboard.in client, that is simple, elegant and powerful, perfect for managing your daily discoveries.",
@@ -509,8 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 24,
-      "rankChange": 1,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1135890904",
       "name": "网易新闻（专业版）",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1152396902",
       "name": "凤凰新闻(专业版)-头条新闻阅读平台",
@@ -553,8 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "723422355",
       "name": "Network - Podcast App",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "348142406",
       "name": "VIC Fires",
@@ -597,8 +597,8 @@
     },
     {
       "rank": 27,
-      "previousRank": 28,
-      "rankChange": 1,
+      "previousRank": 27,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1039945866",
       "name": "Electoral Map Maker 2024",
@@ -619,8 +619,8 @@
     },
     {
       "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "previousRank": 28,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1279768116",
       "name": "Legi (RSS Feed Reader)",
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 31,
-      "rankChange": 2,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "897185985",
       "name": "Mocast",
@@ -663,29 +663,7 @@
     },
     {
       "rank": 30,
-      "previousRank": 30,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "998629863",
-      "name": "SkipCast: Podcast Player",
-      "developer": "Matthew Grdinic",
-      "developerUrl": "https://apps.apple.com/ca/developer/matthew-grdinic/id998629862?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/50/01/c25001d5-5a4d-08a1-d052-da9d38f4bb0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/skipcast-podcast-player/id998629863?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "CAD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "June 23, 2015"
-    },
-    {
-      "rank": 31,
-      "previousRank": 32,
+      "previousRank": 31,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1084209377",
@@ -706,30 +684,30 @@
       "releaseDate": "February 29, 2016"
     },
     {
-      "rank": 32,
-      "previousRank": 5,
-      "rankChange": -27,
+      "rank": 31,
+      "previousRank": 30,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "6812519450",
-      "name": "Newsworthy: Calm News",
-      "developer": "James THOMPSON",
-      "developerUrl": "https://apps.apple.com/ca/developer/james-thompson/id6812519452?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/93/ba/ee93ba02-26d5-16b8-ac38-6608bf643cdc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/newsworthy-calm-news/id6812519450?uo=2",
+      "appleId": "998629863",
+      "name": "SkipCast: Podcast Player",
+      "developer": "Matthew Grdinic",
+      "developerUrl": "https://apps.apple.com/ca/developer/matthew-grdinic/id998629862?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/50/01/c25001d5-5a4d-08a1-d052-da9d38f4bb0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/skipcast-podcast-player/id998629863?uo=2",
       "price": {
-        "amount": 1,
+        "amount": 2.99,
         "currency": "CAD",
-        "formatted": "$1.00"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6009",
         "name": "News"
       },
-      "releaseDate": "October 21, 2026"
+      "releaseDate": "June 23, 2015"
     },
     {
-      "rank": 33,
-      "previousRank": 34,
+      "rank": 32,
+      "previousRank": 33,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1527233179",
@@ -750,8 +728,8 @@
       "releaseDate": "September 25, 2020"
     },
     {
-      "rank": 34,
-      "previousRank": 35,
+      "rank": 33,
+      "previousRank": 34,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1450659317",
@@ -772,8 +750,8 @@
       "releaseDate": "January 31, 2019"
     },
     {
-      "rank": 35,
-      "previousRank": 36,
+      "rank": 34,
+      "previousRank": 35,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1190935479",
@@ -794,8 +772,8 @@
       "releaseDate": "July 22, 2018"
     },
     {
-      "rank": 36,
-      "previousRank": 37,
+      "rank": 35,
+      "previousRank": 36,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1015225810",
@@ -816,9 +794,31 @@
       "releaseDate": "May 02, 2018"
     },
     {
+      "rank": 36,
+      "previousRank": 38,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "1503490043",
+      "name": "Police Scanner on Watch",
+      "developer": "Guru Network Limited Inc.",
+      "developerUrl": "https://apps.apple.com/ca/developer/guru-network-limited-inc/id1502676204?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/6f/6b/666f6bbb-e928-6e7c-72c9-a05d39e8dcea/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/police-scanner-on-watch/id1503490043?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "CAD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "March 30, 2020"
+    },
+    {
       "rank": 37,
-      "previousRank": 33,
-      "rankChange": -4,
+      "previousRank": 37,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "317642402",
       "name": "Teletext - TextTV",
@@ -839,25 +839,25 @@
     },
     {
       "rank": 38,
-      "previousRank": 38,
-      "rankChange": 0,
+      "previousRank": 32,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "1503490043",
-      "name": "Police Scanner on Watch",
-      "developer": "Guru Network Limited Inc.",
-      "developerUrl": "https://apps.apple.com/ca/developer/guru-network-limited-inc/id1502676204?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/6f/6b/666f6bbb-e928-6e7c-72c9-a05d39e8dcea/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/police-scanner-on-watch/id1503490043?uo=2",
+      "appleId": "6812519450",
+      "name": "Newsworthy: Calm News",
+      "developer": "James THOMPSON",
+      "developerUrl": "https://apps.apple.com/ca/developer/james-thompson/id6812519452?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/93/ba/ee93ba02-26d5-16b8-ac38-6608bf643cdc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/newsworthy-calm-news/id6812519450?uo=2",
       "price": {
-        "amount": 6.99,
+        "amount": 1,
         "currency": "CAD",
-        "formatted": "$6.99"
+        "formatted": "$1.00"
       },
       "primaryCategory": {
         "id": "6009",
         "name": "News"
       },
-      "releaseDate": "March 30, 2020"
+      "releaseDate": "October 21, 2026"
     },
     {
       "rank": 39,
@@ -1191,8 +1191,30 @@
     },
     {
       "rank": 54,
+      "previousRank": 93,
+      "rankChange": 39,
+      "isNew": false,
+      "appleId": "6738314614",
+      "name": "The Brief: News Articles",
+      "developer": "Luigi Mazzeo",
+      "developerUrl": "https://apps.apple.com/ca/developer/luigi-mazzeo/id1526107726?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/26/d7/a626d71a-c98e-5b00-f373-08abaf525fca/Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/ca/app/the-brief-news-articles/id6738314614?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "CAD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "News"
+      },
+      "releaseDate": "December 20, 2024"
+    },
+    {
+      "rank": 55,
       "previousRank": 54,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "590254755",
       "name": "Contacts Cleaner Pro !",
@@ -1212,9 +1234,9 @@
       "releaseDate": "January 24, 2013"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "352740821",
       "name": "SA Fires",
@@ -1234,9 +1256,9 @@
       "releaseDate": "February 17, 2010"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "936262497",
       "name": "Hungarian TV+",
@@ -1256,9 +1278,9 @@
       "releaseDate": "November 13, 2014"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6742195107",
       "name": "Crustacean for Lobsters",
@@ -1278,9 +1300,9 @@
       "releaseDate": "February 20, 2025"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "403879490",
       "name": "Sylfeed",
@@ -1300,9 +1322,9 @@
       "releaseDate": "March 22, 2011"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "965210551",
       "name": "PDF Converter !",
@@ -1322,9 +1344,9 @@
       "releaseDate": "March 09, 2015"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "583228610",
       "name": "TAS Fires",
@@ -1344,9 +1366,9 @@
       "releaseDate": "December 12, 2012"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "416339439",
       "name": "Lottery (Thai) - ตรวจหวย",
@@ -1366,9 +1388,9 @@
       "releaseDate": "February 10, 2011"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6757721236",
       "name": "YourPods: Podcast Player",
@@ -1388,9 +1410,9 @@
       "releaseDate": "January 16, 2026"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1528917651",
       "name": "Den for RSS",
@@ -1410,9 +1432,9 @@
       "releaseDate": "September 03, 2020"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "723706796",
       "name": "TextTV II",
@@ -1432,9 +1454,9 @@
       "releaseDate": "October 23, 2013"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6590631281",
       "name": "Jubilee25",
@@ -1454,9 +1476,9 @@
       "releaseDate": "December 24, 2024"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1524713588",
       "name": "Ballotics: Elections, Politics",
@@ -1476,9 +1498,9 @@
       "releaseDate": "October 02, 2020"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6497563903",
       "name": "TV Show Tracker - TV Club",
@@ -1498,9 +1520,9 @@
       "releaseDate": "April 22, 2024"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1038892737",
       "name": "Simple Backup Contacts Pro",
@@ -1520,9 +1542,9 @@
       "releaseDate": "September 20, 2015"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "948897052",
       "name": "Romanian TV Schedule",
@@ -1542,9 +1564,9 @@
       "releaseDate": "January 06, 2015"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1539571750",
       "name": "WAFires",
@@ -1564,9 +1586,9 @@
       "releaseDate": "November 16, 2020"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1487449663",
       "name": "NewsFlash RSS",
@@ -1586,9 +1608,9 @@
       "releaseDate": "December 14, 2019"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1072769428",
       "name": "Cool Font Keyboard",
@@ -1608,9 +1630,9 @@
       "releaseDate": "January 15, 2016"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6736364779",
       "name": "Loop - Podcast Player",
@@ -1630,9 +1652,9 @@
       "releaseDate": "February 19, 2025"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "previousRank": 74,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1255399496",
       "name": "华人头条(专业版)-海外华人新闻资讯生活平台",
@@ -1652,9 +1674,9 @@
       "releaseDate": "October 13, 2017"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "previousRank": 75,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "943358739",
       "name": "Serbian TV+",
@@ -1674,9 +1696,9 @@
       "releaseDate": "December 02, 2014"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "previousRank": 76,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "796812056",
       "name": "NITAS - Doctor Who News Matrix",
@@ -1696,9 +1718,9 @@
       "releaseDate": "January 20, 2014"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1072795232",
       "name": "Color Keys Keyboard Pro",
@@ -1718,9 +1740,9 @@
       "releaseDate": "January 13, 2016"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6748837894",
       "name": "RSS Reader Feeds",
@@ -1740,9 +1762,9 @@
       "releaseDate": "July 22, 2025"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6469060028",
       "name": "StarCat - Launch Tracker",
@@ -1762,9 +1784,9 @@
       "releaseDate": "November 27, 2023"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1668579869",
       "name": "Feedster: RSS Reader",
@@ -1784,9 +1806,9 @@
       "releaseDate": "October 15, 2023"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1667142134",
       "name": "Reader mini - 24H News & RSS",
@@ -1806,9 +1828,9 @@
       "releaseDate": "May 10, 2023"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "previousRank": 82,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "946229250",
       "name": "Slovak TV+",
@@ -1828,9 +1850,9 @@
       "releaseDate": "December 09, 2014"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "previousRank": 83,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "501928212",
       "name": "Thailand Lottery ตรวจลอตเตอรี่",
@@ -1850,9 +1872,9 @@
       "releaseDate": "February 21, 2012"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "previousRank": 84,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "471239806",
       "name": "ApergiaGR Plus",
@@ -1872,15 +1894,15 @@
       "releaseDate": "October 12, 2011"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6792160690",
       "name": "FeedLizard",
       "developer": "BRIAN THOMAS FAGIOLI",
       "developerUrl": "https://apps.apple.com/ca/developer/brian-thomas-fagioli/id6792160692?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/bf/99/b4bf99c3-c399-ae48-e20b-7f2004512944/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/63/20/f1632091-b5e4-1947-7163-90d3b8ab795c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/ca/app/feedlizard/id6792160690?uo=2",
       "price": {
         "amount": 6.99,
@@ -1894,9 +1916,9 @@
       "releaseDate": "July 25, 2026"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "previousRank": 86,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6475424238",
       "name": "Actu Afrique Pro",
@@ -1916,9 +1938,9 @@
       "releaseDate": "January 18, 2024"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6453764375",
       "name": "NQSubBlock - Block Sub Banner",
@@ -1938,9 +1960,9 @@
       "releaseDate": "October 06, 2023"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1597838632",
       "name": "TinyFeeds",
@@ -1960,9 +1982,9 @@
       "releaseDate": "December 08, 2021"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "previousRank": 89,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1551833363",
       "name": "Σαν σήμερα!",
@@ -1982,9 +2004,9 @@
       "releaseDate": "February 13, 2021"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "previousRank": 90,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1516174326",
       "name": "RSSolved",
@@ -2004,9 +2026,9 @@
       "releaseDate": "June 06, 2020"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "previousRank": 91,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6773385526",
       "name": "Hourly Newsy",
@@ -2026,9 +2048,9 @@
       "releaseDate": "July 22, 2026"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "previousRank": 92,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6761655787",
       "name": "Baba - All Things Ukraine",
@@ -2046,28 +2068,6 @@
         "name": "News"
       },
       "releaseDate": "April 14, 2026"
-    },
-    {
-      "rank": 93,
-      "previousRank": 93,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6738314614",
-      "name": "The Brief: News Articles",
-      "developer": "Luigi Mazzeo",
-      "developerUrl": "https://apps.apple.com/ca/developer/luigi-mazzeo/id1526107726?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/26/d7/a626d71a-c98e-5b00-f373-08abaf525fca/Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/ca/app/the-brief-news-articles/id6738314614?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "CAD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6009",
-        "name": "News"
-      },
-      "releaseDate": "December 20, 2024"
     },
     {
       "rank": 94,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-01",
-  "collectedAt": "2026-11-01T07:14:25.970Z",
-  "sourceUpdatedAt": "2026-11-01T00:14:25-07:00",
+  "snapshotDate": "2026-11-02",
+  "collectedAt": "2026-11-02T07:29:42.254Z",
+  "sourceUpdatedAt": "2026-11-01T23:29:41-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/gb/rss/toppaidapplications/limit=100/genre=6003/json",
   "chartType": "paid",
@@ -17,60 +17,16 @@
     "name": "旅游"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 100,
+  "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-10-31",
+  "previousSnapshotDate": "2026-11-01",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6778099993",
-      "name": "Manager for Scooters",
-      "developer": "Radoslaw Marciniak",
-      "developerUrl": "https://apps.apple.com/gb/developer/radoslaw-marciniak/id6778099995?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/c2/2a5ec264-4bb3-9438-9765-d5316676cb88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/manager-for-scooters/id6778099993?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "09 June 2026"
-    },
-    {
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "435871950",
-      "name": "HappyCow - Vegan Food Near You",
-      "developer": "HappyCow",
-      "developerUrl": "https://apps.apple.com/gb/developer/happycow/id879706735?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/2d/41/b92d4155-cfda-c2fe-6f60-ce3a7feaa725/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/happycow-vegan-food-near-you/id435871950?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "11 May 2011"
-    },
-    {
-      "rank": 3,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "357421934",
       "name": "PeakFinder",
@@ -90,9 +46,53 @@
       "releaseDate": "12 March 2010"
     },
     {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "6778099993",
+      "name": "Manager for Scooters",
+      "developer": "Radoslaw Marciniak",
+      "developerUrl": "https://apps.apple.com/gb/developer/radoslaw-marciniak/id6778099995?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/c2/2a5ec264-4bb3-9438-9765-d5316676cb88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/manager-for-scooters/id6778099993?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "09 June 2026"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "435871950",
+      "name": "HappyCow - Vegan Food Near You",
+      "developer": "HappyCow",
+      "developerUrl": "https://apps.apple.com/gb/developer/happycow/id879706735?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/d2/004ed25e-ca6b-0bc9-5f95-ddd61a277ffb/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/happycow-vegan-food-near-you/id435871950?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "11 May 2011"
+    },
+    {
       "rank": 4,
-      "previousRank": 5,
-      "rankChange": 1,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "505365608",
       "name": "WikiCamps Australia",
@@ -113,7 +113,29 @@
     },
     {
       "rank": 5,
-      "previousRank": 4,
+      "previousRank": 7,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "317809458",
+      "name": "LiveATC Air Radio",
+      "developer": "Dave Pascoe",
+      "developerUrl": "https://apps.apple.com/gb/developer/dave-pascoe/id317809461?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e8/9e/5fe89eb9-fd91-1dc0-21bb-45e8592bcbf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/liveatc-air-radio/id317809458?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "GBP",
+        "formatted": "£5.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "09 June 2009"
+    },
+    {
+      "rank": 6,
+      "previousRank": 5,
       "rankChange": -1,
       "isNew": false,
       "appleId": "650684932",
@@ -134,163 +156,9 @@
       "releaseDate": "01 June 2013"
     },
     {
-      "rank": 6,
-      "previousRank": 30,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "505367096",
-      "name": "Fog of World",
-      "developer": "Ollix",
-      "developerUrl": "https://apps.apple.com/gb/developer/ollix/id374932200?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/24/c4/8924c49e-2567-d500-013b-93dd4f63a336/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/fog-of-world/id505367096?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "GBP",
-        "formatted": "£22.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "18 September 2012"
-    },
-    {
       "rank": 7,
-      "previousRank": 6,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "317809458",
-      "name": "LiveATC Air Radio",
-      "developer": "Dave Pascoe",
-      "developerUrl": "https://apps.apple.com/gb/developer/dave-pascoe/id317809461?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e8/9e/5fe89eb9-fd91-1dc0-21bb-45e8592bcbf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/liveatc-air-radio/id317809458?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "GBP",
-        "formatted": "£5.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "09 June 2009"
-    },
-    {
-      "rank": 8,
-      "previousRank": 34,
-      "rankChange": 26,
-      "isNew": false,
-      "appleId": "983056779",
-      "name": "Wise Pilgrim Camino Portugués",
-      "developer": "Michael Matynka",
-      "developerUrl": "https://apps.apple.com/gb/developer/michael-matynka/id535960559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/de/26/c0de2612-d87b-8b3a-79ef-e3f2faa9765a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/wise-pilgrim-camino-portugu%C3%A9s/id983056779?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "24 March 2016"
-    },
-    {
-      "rank": 9,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1467351707",
-      "name": "KrugerExplorer",
-      "developer": "Explorer Apps",
-      "developerUrl": "https://apps.apple.com/gb/developer/explorer-apps/id1457890076?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/b2/ce/c6b2ce25-7384-d2f7-b8ee-645d92e841bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/krugerexplorer/id1467351707?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "GBP",
-        "formatted": "£12.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "19 July 2019"
-    },
-    {
-      "rank": 10,
-      "previousRank": 8,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "692081019",
-      "name": "Yorkshire Three Peaks",
-      "developer": "Yorkshire Dales National Park Authority",
-      "developerUrl": "https://apps.apple.com/gb/developer/yorkshire-dales-national-park-authority/id692081022?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/81/1e/88811eec-af4e-34bc-68cf-4f94f458e283/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/yorkshire-three-peaks/id692081019?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "11 September 2013"
-    },
-    {
-      "rank": 11,
-      "previousRank": 9,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1178703539",
-      "name": "OpenADSB",
-      "developer": "Steve Kuo",
-      "developerUrl": "https://apps.apple.com/gb/developer/steve-kuo/id1178703538?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/0d/e3/b50de39e-0579-5cfd-9a0b-c9369405d4db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/openadsb/id1178703539?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "19 January 2018"
-    },
-    {
-      "rank": 12,
-      "previousRank": 11,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6755299208",
-      "name": "Crossing Dropping",
-      "developer": "Mark Peter Lapicki",
-      "developerUrl": "https://apps.apple.com/gb/developer/mark-peter-lapicki/id1853001311?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/d7/32/bed7325e-cdb2-4a03-7e19-e74121c64261/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/crossing-dropping/id6755299208?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "24 January 2026"
-    },
-    {
-      "rank": 13,
-      "previousRank": 14,
-      "rankChange": 1,
+      "previousRank": 13,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "582527125",
       "name": "WikiCamps New Zealand",
@@ -310,9 +178,53 @@
       "releaseDate": "17 December 2012"
     },
     {
-      "rank": 14,
-      "previousRank": 7,
-      "rankChange": -7,
+      "rank": 8,
+      "previousRank": 6,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "505367096",
+      "name": "Fog of World",
+      "developer": "Ollix",
+      "developerUrl": "https://apps.apple.com/gb/developer/ollix/id374932200?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/24/c4/8924c49e-2567-d500-013b-93dd4f63a336/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/fog-of-world/id505367096?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "GBP",
+        "formatted": "£22.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "18 September 2012"
+    },
+    {
+      "rank": 9,
+      "previousRank": 10,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "692081019",
+      "name": "Yorkshire Three Peaks",
+      "developer": "Yorkshire Dales National Park Authority",
+      "developerUrl": "https://apps.apple.com/gb/developer/yorkshire-dales-national-park-authority/id692081022?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/81/1e/88811eec-af4e-34bc-68cf-4f94f458e283/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/yorkshire-three-peaks/id692081019?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "11 September 2013"
+    },
+    {
+      "rank": 10,
+      "previousRank": 14,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "482911568",
       "name": "UK Roads - Traffic & Cameras",
@@ -332,97 +244,9 @@
       "releaseDate": "04 December 2011"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6755781701",
-      "name": "Aurora Tromsø",
-      "developer": "Remi-Andre Romsdal",
-      "developerUrl": "https://apps.apple.com/gb/developer/remi-andre-romsdal/id1856273093?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e1/30/a2e13010-5043-5591-284b-906f580f34d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/aurora-troms%C3%B8/id6755781701?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "08 December 2025"
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "previousRank": 19,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "465180749",
-      "name": "Convert Any Unit",
-      "developer": "Cider Software LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/cider-software-llc/id465180756?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/da/38/deda385f-013f-4488-f8aa-cc3eb200e576/Convert_Any_Unit-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/convert-any-unit/id465180749?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "30 September 2011"
-    },
-    {
-      "rank": 17,
-      "previousRank": 24,
-      "rankChange": 7,
-      "isNew": false,
-      "appleId": "1415550737",
-      "name": "Leap Card",
-      "developer": "Maxim Antonov",
-      "developerUrl": "https://apps.apple.com/gb/developer/maxim-antonov/id846051995?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/1e/cb/d61ecb77-e2d0-85cc-0fbe-0b545f826f51/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/leap-card/id1415550737?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "01 August 2018"
-    },
-    {
-      "rank": 18,
-      "previousRank": 31,
-      "rankChange": 13,
-      "isNew": false,
-      "appleId": "6467651337",
-      "name": "Parco Archeologico di Ercolano",
-      "developer": "D'Uva Workshop s.r.l.",
-      "developerUrl": "https://apps.apple.com/gb/developer/duva-workshop-s-r-l/id360150209?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "29 September 2023"
-    },
-    {
-      "rank": 19,
-      "previousRank": 33,
-      "rankChange": 14,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "294730339",
       "name": "TripView",
@@ -442,9 +266,427 @@
       "releaseDate": "26 March 2009"
     },
     {
+      "rank": 12,
+      "previousRank": 24,
+      "rankChange": 12,
+      "isNew": false,
+      "appleId": "1097761458",
+      "name": "Castel Sant'Angelo - English",
+      "developer": "AudioGuide®",
+      "developerUrl": "https://apps.apple.com/gb/developer/audioguide/id405502582?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/12/92/59129218-c62d-da1c-3e2d-7720cc0d8b0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/castel-santangelo-english/id1097761458?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "04 April 2016"
+    },
+    {
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1558758282",
+      "name": "Trakų istorijos muziejus",
+      "developer": "Trakų istorijos muziejus",
+      "developerUrl": "https://apps.apple.com/gb/developer/trak%C5%B3-istorijos-muziejus/id1558758284?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/88/08/bb8808f8-d2ae-3bb9-0f9c-f746142d5f4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/trak%C5%B3-istorijos-muziejus/id1558758282?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "25 March 2021"
+    },
+    {
+      "rank": 14,
+      "previousRank": 73,
+      "rankChange": 59,
+      "isNew": false,
+      "appleId": "438401655",
+      "name": "Hong Kong Taxi Translator",
+      "developer": "Suter Studios",
+      "developerUrl": "https://apps.apple.com/gb/developer/suter-studios/id1735927553?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/89/15/c489158a-9eaf-a75a-d177-fff480e0c179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/hong-kong-taxi-translator/id438401655?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "23 June 2011"
+    },
+    {
+      "rank": 15,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1045063030",
+      "name": "Coaster-Count",
+      "developer": "Volker Sauer",
+      "developerUrl": "https://apps.apple.com/gb/developer/volker-sauer/id638041324?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9c/54/ea/9c54eadf-9d79-f5d0-c493-5548972706da/iPhone-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/coaster-count/id1045063030?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "GBP",
+        "formatted": "£8.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "23 November 2015"
+    },
+    {
+      "rank": 16,
+      "previousRank": 89,
+      "rankChange": 73,
+      "isNew": false,
+      "appleId": "308579423",
+      "name": "Airport Codes",
+      "developer": "VersaEdge Software, LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/versaedge-software-llc/id301294952?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/0e/4e/ab0e4efc-595c-c6cf-7d3d-d057cd0402c7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/airport-codes/id308579423?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "26 March 2009"
+    },
+    {
+      "rank": 17,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1581798136",
+      "name": "Official Freedom Trail® App",
+      "developer": "The Freedom Trail Foundation",
+      "developerUrl": "https://apps.apple.com/gb/developer/the-freedom-trail-foundation/id669307699?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/63/75/d66375bd-97db-ac30-bb1f-c361382d76c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/official-freedom-trail-app/id1581798136?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "21 July 2022"
+    },
+    {
+      "rank": 18,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6785263959",
+      "name": "East Midlands EMA Airport",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/gb/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/f3/e6/e6f3e6a4-a5be-dc81-85d1-431888eb3536/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/east-midlands-ema-airport/id6785263959?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "01 July 2026"
+    },
+    {
+      "rank": 19,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6448103276",
+      "name": "90 Days in Schengen Calculator",
+      "developer": "Crocodile Sandwich",
+      "developerUrl": "https://apps.apple.com/gb/developer/crocodile-sandwich/id1683496442?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/70/71/797071f6-2300-a32d-3209-888693a49177/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/90-days-in-schengen-calculator/id6448103276?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "17 May 2023"
+    },
+    {
       "rank": 20,
-      "previousRank": 51,
-      "rankChange": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "951462191",
+      "name": "Natural History Museum 4 Ever",
+      "developer": "Trishti Systems Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/trishti-systems-ltd/id551275215?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/79/df/b579df5a-2ba3-73e8-b875-825aa2475cd8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/natural-history-museum-4-ever/id951462191?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "30 December 2014"
+    },
+    {
+      "rank": 21,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1536132049",
+      "name": "myBaggage",
+      "developer": "Samuel Funaro",
+      "developerUrl": "https://apps.apple.com/gb/developer/samuel-funaro/id1066479198?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/93/59/66935911-c3d4-23a2-cc5b-36b77d75a338/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/mybaggage/id1536132049?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "19 October 2020"
+    },
+    {
+      "rank": 22,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1436695391",
+      "name": "Historical War Tracker",
+      "developer": "Stefano van Poelgeest",
+      "developerUrl": "https://apps.apple.com/gb/developer/stefano-van-poelgeest/id1436695030?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/ff/d9/1cffd908-6c72-e249-1f77-323fc01ed620/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/historical-war-tracker/id1436695391?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "GBP",
+        "formatted": "£12.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "01 November 2018"
+    },
+    {
+      "rank": 23,
+      "previousRank": 8,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "983056779",
+      "name": "Wise Pilgrim Camino Portugués",
+      "developer": "Michael Matynka",
+      "developerUrl": "https://apps.apple.com/gb/developer/michael-matynka/id535960559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/de/26/c0de2612-d87b-8b3a-79ef-e3f2faa9765a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/wise-pilgrim-camino-portugu%C3%A9s/id983056779?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "24 March 2016"
+    },
+    {
+      "rank": 24,
+      "previousRank": 9,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "1467351707",
+      "name": "KrugerExplorer",
+      "developer": "Explorer Apps",
+      "developerUrl": "https://apps.apple.com/gb/developer/explorer-apps/id1457890076?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/b2/ce/c6b2ce25-7384-d2f7-b8ee-645d92e841bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/krugerexplorer/id1467351707?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "GBP",
+        "formatted": "£12.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "19 July 2019"
+    },
+    {
+      "rank": 25,
+      "previousRank": 11,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "1178703539",
+      "name": "OpenADSB",
+      "developer": "Steve Kuo",
+      "developerUrl": "https://apps.apple.com/gb/developer/steve-kuo/id1178703538?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/0d/e3/b50de39e-0579-5cfd-9a0b-c9369405d4db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/openadsb/id1178703539?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "19 January 2018"
+    },
+    {
+      "rank": 26,
+      "previousRank": 12,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "6755299208",
+      "name": "Crossing Dropping",
+      "developer": "Mark Peter Lapicki",
+      "developerUrl": "https://apps.apple.com/gb/developer/mark-peter-lapicki/id1853001311?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/d7/32/bed7325e-cdb2-4a03-7e19-e74121c64261/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/crossing-dropping/id6755299208?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "24 January 2026"
+    },
+    {
+      "rank": 27,
+      "previousRank": 15,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6755781701",
+      "name": "Aurora Tromsø",
+      "developer": "Remi-Andre Romsdal",
+      "developerUrl": "https://apps.apple.com/gb/developer/remi-andre-romsdal/id1856273093?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e1/30/a2e13010-5043-5591-284b-906f580f34d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/aurora-troms%C3%B8/id6755781701?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "08 December 2025"
+    },
+    {
+      "rank": 28,
+      "previousRank": 16,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "465180749",
+      "name": "Convert Any Unit",
+      "developer": "Cider Software LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/cider-software-llc/id465180756?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/da/38/deda385f-013f-4488-f8aa-cc3eb200e576/Convert_Any_Unit-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/convert-any-unit/id465180749?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "30 September 2011"
+    },
+    {
+      "rank": 29,
+      "previousRank": 17,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "1415550737",
+      "name": "Leap Card",
+      "developer": "Maxim Antonov",
+      "developerUrl": "https://apps.apple.com/gb/developer/maxim-antonov/id846051995?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/1e/cb/d61ecb77-e2d0-85cc-0fbe-0b545f826f51/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/leap-card/id1415550737?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "01 August 2018"
+    },
+    {
+      "rank": 30,
+      "previousRank": 18,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6467651337",
+      "name": "Parco Archeologico di Ercolano",
+      "developer": "D'Uva Workshop s.r.l.",
+      "developerUrl": "https://apps.apple.com/gb/developer/duva-workshop-s-r-l/id360150209?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/38/4c/54384c0e-10d7-0862-9db5-c4b02dc27508/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/parco-archeologico-di-ercolano/id6467651337?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "29 September 2023"
+    },
+    {
+      "rank": 31,
+      "previousRank": 20,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "6753910113",
       "name": "Peloponnese Guide",
@@ -464,9 +706,9 @@
       "releaseDate": "23 October 2025"
     },
     {
-      "rank": 21,
-      "previousRank": 81,
-      "rankChange": 60,
+      "rank": 32,
+      "previousRank": 21,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "835376317",
       "name": "Motorway Services GB",
@@ -486,9 +728,9 @@
       "releaseDate": "17 March 2014"
     },
     {
-      "rank": 22,
-      "previousRank": 84,
-      "rankChange": 62,
+      "rank": 33,
+      "previousRank": 22,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "385080754",
       "name": "Heritage App",
@@ -508,9 +750,9 @@
       "releaseDate": "16 August 2010"
     },
     {
-      "rank": 23,
-      "previousRank": 95,
-      "rankChange": 72,
+      "rank": 34,
+      "previousRank": 23,
+      "rankChange": -11,
       "isNew": false,
       "appleId": "1512571932",
       "name": "Mount Snowdon Offline Map",
@@ -530,32 +772,10 @@
       "releaseDate": "18 May 2020"
     },
     {
-      "rank": 24,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1097761458",
-      "name": "Castel Sant'Angelo - English",
-      "developer": "AudioGuide®",
-      "developerUrl": "https://apps.apple.com/gb/developer/audioguide/id405502582?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/12/92/59129218-c62d-da1c-3e2d-7720cc0d8b0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/castel-santangelo-english/id1097761458?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "04 April 2016"
-    },
-    {
-      "rank": 25,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 35,
+      "previousRank": 25,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "560779261",
       "name": "Vienna Metro and Subway",
       "developer": "LASZLO FACZAN",
@@ -574,10 +794,10 @@
       "releaseDate": "18 September 2012"
     },
     {
-      "rank": 26,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 36,
+      "previousRank": 26,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "1460677822",
       "name": "London Tour Map of Banksy",
       "developer": "Stephen Kempin",
@@ -596,10 +816,10 @@
       "releaseDate": "28 April 2019"
     },
     {
-      "rank": 27,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 37,
+      "previousRank": 27,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "1056701905",
       "name": "CONVERT - CrewLounge AERO",
       "developer": "AvioVision",
@@ -618,10 +838,10 @@
       "releaseDate": "07 January 2016"
     },
     {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 38,
+      "previousRank": 28,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "1221399711",
       "name": "Chillon",
       "developer": "Texetera",
@@ -640,10 +860,10 @@
       "releaseDate": "11 July 2017"
     },
     {
-      "rank": 29,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 39,
+      "previousRank": 29,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "715265526",
       "name": "Hamburg Airport Info + Radar",
       "developer": "Renji Mathew",
@@ -662,10 +882,10 @@
       "releaseDate": "28 September 2013"
     },
     {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 40,
+      "previousRank": 30,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "1626703406",
       "name": "Air Miles Calculator",
       "developer": "田 陈",
@@ -684,10 +904,10 @@
       "releaseDate": "19 June 2022"
     },
     {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 41,
+      "previousRank": 31,
+      "rankChange": -10,
+      "isNew": false,
       "appleId": "6759961388",
       "name": "Hamad DOH Airport",
       "developer": "Razvan IVAN",
@@ -706,9 +926,9 @@
       "releaseDate": "03 March 2026"
     },
     {
-      "rank": 32,
-      "previousRank": 10,
-      "rankChange": -22,
+      "rank": 42,
+      "previousRank": 32,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "1027756860",
       "name": "Venice Panorama - ENG",
@@ -728,9 +948,9 @@
       "releaseDate": "13 August 2015"
     },
     {
-      "rank": 33,
-      "previousRank": 12,
-      "rankChange": -21,
+      "rank": 43,
+      "previousRank": 33,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "336168290",
       "name": "London Tube Map and Guide",
@@ -750,9 +970,9 @@
       "releaseDate": "08 December 2009"
     },
     {
-      "rank": 34,
-      "previousRank": 13,
-      "rankChange": -21,
+      "rank": 44,
+      "previousRank": 34,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "727297302",
       "name": "Flight Board Pro Plane tracker",
@@ -772,9 +992,9 @@
       "releaseDate": "11 November 2013"
     },
     {
-      "rank": 35,
-      "previousRank": 15,
-      "rankChange": -20,
+      "rank": 45,
+      "previousRank": 35,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6804184566",
       "name": "Nerja Amigos - Whats On",
@@ -794,9 +1014,9 @@
       "releaseDate": "25 August 2026"
     },
     {
-      "rank": 36,
-      "previousRank": 17,
-      "rankChange": -19,
+      "rank": 46,
+      "previousRank": 36,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "1620684778",
       "name": "Schengen Days Calculator",
@@ -816,9 +1036,9 @@
       "releaseDate": "20 May 2022"
     },
     {
-      "rank": 37,
-      "previousRank": 18,
-      "rankChange": -19,
+      "rank": 47,
+      "previousRank": 37,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "544647714",
       "name": "Bus Times - Yorkshire",
@@ -838,9 +1058,9 @@
       "releaseDate": "27 July 2012"
     },
     {
-      "rank": 38,
-      "previousRank": 20,
-      "rankChange": -18,
+      "rank": 48,
+      "previousRank": 38,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "431850995",
       "name": "WDW Vacation Countdown",
@@ -860,9 +1080,9 @@
       "releaseDate": "19 April 2011"
     },
     {
-      "rank": 39,
-      "previousRank": 22,
-      "rankChange": -17,
+      "rank": 49,
+      "previousRank": 39,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "294236771",
       "name": "ICOON picture dictionary",
@@ -882,9 +1102,9 @@
       "releaseDate": "06 December 2008"
     },
     {
-      "rank": 40,
-      "previousRank": 23,
-      "rankChange": -17,
+      "rank": 50,
+      "previousRank": 40,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "1018580461",
       "name": "Wild Swimming France",
@@ -904,9 +1124,9 @@
       "releaseDate": "05 August 2015"
     },
     {
-      "rank": 41,
-      "previousRank": 21,
-      "rankChange": -20,
+      "rank": 51,
+      "previousRank": 41,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6770674879",
       "name": "Tubbie",
@@ -926,9 +1146,9 @@
       "releaseDate": "31 May 2026"
     },
     {
-      "rank": 42,
-      "previousRank": 25,
-      "rankChange": -17,
+      "rank": 52,
+      "previousRank": 42,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6443795837",
       "name": "Global Entry Appointment",
@@ -948,9 +1168,9 @@
       "releaseDate": "13 October 2022"
     },
     {
-      "rank": 43,
-      "previousRank": 26,
-      "rankChange": -17,
+      "rank": 53,
+      "previousRank": 43,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6771843063",
       "name": "NC500",
@@ -970,9 +1190,9 @@
       "releaseDate": "04 August 2026"
     },
     {
-      "rank": 44,
-      "previousRank": 27,
-      "rankChange": -17,
+      "rank": 54,
+      "previousRank": 44,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "6756779440",
       "name": "Currency Converter - Widget",
@@ -992,9 +1212,9 @@
       "releaseDate": "28 December 2025"
     },
     {
-      "rank": 45,
-      "previousRank": 28,
-      "rankChange": -17,
+      "rank": 55,
+      "previousRank": 45,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "1312667553",
       "name": "Commutative Live Trains",
@@ -1014,9 +1234,9 @@
       "releaseDate": "28 December 2018"
     },
     {
-      "rank": 46,
-      "previousRank": 29,
-      "rankChange": -17,
+      "rank": 56,
+      "previousRank": 46,
+      "rankChange": -10,
       "isNew": false,
       "appleId": "535960556",
       "name": "Wise Pilgrim Camino Francés",
@@ -1036,295 +1256,9 @@
       "releaseDate": "20 June 2012"
     },
     {
-      "rank": 47,
-      "previousRank": 32,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "1160608318",
-      "name": "Air Traffic Control - Live ATC",
-      "developer": "Dora.net LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/dora-net-llc/id1050446162?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/01/9d/8c019d45-3013-bfad-a06b-2d87e933979f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/air-traffic-control-live-atc/id1160608318?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "04 October 2016"
-    },
-    {
-      "rank": 48,
-      "previousRank": 36,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "406845187",
-      "name": "Azul - Video Player for iPhone",
-      "developer": "Kathleen Gallagher Mody",
-      "developerUrl": "https://apps.apple.com/gb/developer/kathleen-gallagher-mody/id1114609726?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/65/52/bb6552cb-d68d-81fe-26bb-bcd814d679e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/azul-video-player-for-iphone/id406845187?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "10 December 2010"
-    },
-    {
-      "rank": 49,
-      "previousRank": 35,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "768160271",
-      "name": "航旅纵横PRO-民航官方直销平台",
-      "developer": "China Travelsky Technology Limited",
-      "developerUrl": "https://apps.apple.com/gb/developer/china-travelsky-technology-limited/id443898877?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bc/52/9abc524a-21a0-7cd3-b5ca-ccabda1800e1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AApro-%E6%B0%91%E8%88%AA%E5%AE%98%E6%96%B9%E7%9B%B4%E9%94%80%E5%B9%B3%E5%8F%B0/id768160271?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "18 December 2013"
-    },
-    {
-      "rank": 50,
-      "previousRank": 37,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "322962700",
-      "name": "French Dictionary + ©",
-      "developer": "Ascendo Inc.",
-      "developerUrl": "https://apps.apple.com/gb/developer/ascendo-inc/id320494153?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/10/b7/ee10b7f2-6143-c1f7-52de-5e29c89e7c25/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/french-dictionary/id322962700?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "GBP",
-        "formatted": "£19.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "29 July 2009"
-    },
-    {
-      "rank": 51,
-      "previousRank": 38,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "1562901262",
-      "name": "Schengen Diary",
-      "developer": "Steven Peen",
-      "developerUrl": "https://apps.apple.com/gb/developer/steven-peen/id1562009060?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/74/c9/c4/74c9c4ee-4c3b-6363-55c1-85b7c3276cc5/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/schengen-diary/id1562901262?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "14 April 2021"
-    },
-    {
-      "rank": 52,
-      "previousRank": 39,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "1580896621",
-      "name": "BigfootMap",
-      "developer": "Think Outside, LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/think-outside-llc/id1580896623?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0e/b7/000eb7db-7444-7c20-4555-ff91495678a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/bigfootmap/id1580896621?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "15 August 2021"
-    },
-    {
-      "rank": 53,
-      "previousRank": 40,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "1266858778",
-      "name": "Swords Express",
-      "developer": "William O'Connor",
-      "developerUrl": "https://apps.apple.com/gb/developer/william-oconnor/id878129973?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/c2/ae/d1c2ae11-1da2-f787-4cef-90c7a90abeb2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/swords-express/id1266858778?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "07 November 2017"
-    },
-    {
-      "rank": 54,
-      "previousRank": 41,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "929358604",
-      "name": "Caravan Helper",
-      "developer": "Design Chaos Pty Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/design-chaos-pty-ltd/id927756338?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/17/8e/b0178e26-31d9-c0f8-7e48-6b7a1b08df86/caravanhelper-icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/caravan-helper/id929358604?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "21 October 2014"
-    },
-    {
-      "rank": 55,
-      "previousRank": 42,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "6777950589",
-      "name": "Soton Crossings",
-      "developer": "George Gebbett",
-      "developerUrl": "https://apps.apple.com/gb/developer/george-gebbett/id6776790016?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/22/53/a22253d0-d0d0-9f64-367b-4788ec9e17da/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/soton-crossings/id6777950589?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "11 June 2026"
-    },
-    {
-      "rank": 56,
-      "previousRank": 43,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "6744433225",
-      "name": "Bibbulmun Track Guide",
-      "developer": "Find the Fun Pty Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/find-the-fun-pty-ltd/id1225795177?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7a/8a/5b7a8a47-9d29-253a-8afe-70effabd5f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/bibbulmun-track-guide/id6744433225?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "GBP",
-        "formatted": "£19.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "17 April 2025"
-    },
-    {
       "rank": 57,
-      "previousRank": 44,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "6446431958",
-      "name": "Japan’s Best: Travel Guide",
-      "developer": "Agorite",
-      "developerUrl": "https://apps.apple.com/gb/developer/agorite/id905197684?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b8/d0/07b8d09c-e023-76e8-a433-22f252d49508/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/japans-best-travel-guide/id6446431958?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "23 April 2023"
-    },
-    {
-      "rank": 58,
-      "previousRank": 45,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "6815302007",
-      "name": "Global Travel Buddy",
-      "developer": "Joshua Jeeves",
-      "developerUrl": "https://apps.apple.com/gb/developer/joshua-jeeves/id6815302009?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/ca/c161ca78-1fe7-29b5-cead-8210492c8cf0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/global-travel-buddy/id6815302007?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "22 October 2026"
-    },
-    {
-      "rank": 59,
-      "previousRank": 46,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "6746176540",
-      "name": "Dijon: The Owl's Trail",
-      "developer": "Verlin Henderson",
-      "developerUrl": "https://apps.apple.com/gb/developer/verlin-henderson/id1815640291?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/d9/c5/a0d9c5cd-3074-a9dd-0b10-6443bff58351/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/dijon-the-owls-trail/id6746176540?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "30 May 2025"
-    },
-    {
-      "rank": 60,
-      "previousRank": 62,
-      "rankChange": 2,
+      "previousRank": 60,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "327783342",
       "name": "CityMaps2Go Pro  Offline Maps",
@@ -1344,9 +1278,9 @@
       "releaseDate": "03 September 2009"
     },
     {
-      "rank": 61,
-      "previousRank": 63,
-      "rankChange": 2,
+      "rank": 58,
+      "previousRank": 61,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "310516332",
       "name": "eCurrency - Currency Converter",
@@ -1366,9 +1300,9 @@
       "releaseDate": "08 April 2009"
     },
     {
-      "rank": 62,
-      "previousRank": 64,
-      "rankChange": 2,
+      "rank": 59,
+      "previousRank": 62,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "297404959",
       "name": "Metro Paris Subway",
@@ -1388,9 +1322,9 @@
       "releaseDate": "22 November 2008"
     },
     {
-      "rank": 63,
-      "previousRank": 65,
-      "rankChange": 2,
+      "rank": 60,
+      "previousRank": 63,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "323470584",
       "name": "Translate Voice - Language Translator & Dictionary",
@@ -1410,9 +1344,9 @@
       "releaseDate": "26 August 2009"
     },
     {
-      "rank": 64,
-      "previousRank": 66,
-      "rankChange": 2,
+      "rank": 61,
+      "previousRank": 64,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "669398769",
       "name": "Holiday and Vacation Countdown",
@@ -1432,9 +1366,9 @@
       "releaseDate": "18 July 2013"
     },
     {
-      "rank": 65,
-      "previousRank": 67,
-      "rankChange": 2,
+      "rank": 62,
+      "previousRank": 65,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "299216019",
       "name": "Translator with Voice",
@@ -1454,9 +1388,9 @@
       "releaseDate": "08 December 2008"
     },
     {
-      "rank": 66,
-      "previousRank": 68,
-      "rankChange": 2,
+      "rank": 63,
+      "previousRank": 66,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "517289687",
       "name": "Station Master",
@@ -1476,8 +1410,30 @@
       "releaseDate": "28 July 2012"
     },
     {
-      "rank": 67,
-      "previousRank": 69,
+      "rank": 64,
+      "previousRank": 48,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "406845187",
+      "name": "Azul - Video Player for iPhone",
+      "developer": "Kathleen Gallagher Mody",
+      "developerUrl": "https://apps.apple.com/gb/developer/kathleen-gallagher-mody/id1114609726?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/65/52/bb6552cb-d68d-81fe-26bb-bcd814d679e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/azul-video-player-for-iphone/id406845187?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "10 December 2010"
+    },
+    {
+      "rank": 65,
+      "previousRank": 67,
       "rankChange": 2,
       "isNew": false,
       "appleId": "312266675",
@@ -1498,8 +1454,8 @@
       "releaseDate": "16 April 2009"
     },
     {
-      "rank": 68,
-      "previousRank": 70,
+      "rank": 66,
+      "previousRank": 68,
       "rankChange": 2,
       "isNew": false,
       "appleId": "525956148",
@@ -1520,8 +1476,8 @@
       "releaseDate": "22 May 2012"
     },
     {
-      "rank": 69,
-      "previousRank": 71,
+      "rank": 67,
+      "previousRank": 69,
       "rankChange": 2,
       "isNew": false,
       "appleId": "933997029",
@@ -1542,8 +1498,8 @@
       "releaseDate": "03 April 2015"
     },
     {
-      "rank": 70,
-      "previousRank": 72,
+      "rank": 68,
+      "previousRank": 70,
       "rankChange": 2,
       "isNew": false,
       "appleId": "347902753",
@@ -1564,8 +1520,8 @@
       "releaseDate": "24 December 2009"
     },
     {
-      "rank": 71,
-      "previousRank": 73,
+      "rank": 69,
+      "previousRank": 71,
       "rankChange": 2,
       "isNew": false,
       "appleId": "482609867",
@@ -1586,8 +1542,8 @@
       "releaseDate": "30 November 2011"
     },
     {
-      "rank": 72,
-      "previousRank": 74,
+      "rank": 70,
+      "previousRank": 72,
       "rankChange": 2,
       "isNew": false,
       "appleId": "288679348",
@@ -1608,31 +1564,9 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 73,
-      "previousRank": 75,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "438401655",
-      "name": "Hong Kong Taxi Translator",
-      "developer": "Suter Studios",
-      "developerUrl": "https://apps.apple.com/gb/developer/suter-studios/id1735927553?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/89/15/c489158a-9eaf-a75a-d177-fff480e0c179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/hong-kong-taxi-translator/id438401655?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "23 June 2011"
-    },
-    {
-      "rank": 74,
-      "previousRank": 76,
-      "rankChange": 2,
+      "rank": 71,
+      "previousRank": 74,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "430243601",
       "name": "Boarding Pass - Flight Checkin",
@@ -1652,9 +1586,9 @@
       "releaseDate": "08 April 2011"
     },
     {
-      "rank": 75,
-      "previousRank": 77,
-      "rankChange": 2,
+      "rank": 72,
+      "previousRank": 75,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "302761307",
       "name": "Times Square Live",
@@ -1674,9 +1608,9 @@
       "releaseDate": "16 February 2009"
     },
     {
-      "rank": 76,
-      "previousRank": 78,
-      "rankChange": 2,
+      "rank": 73,
+      "previousRank": 76,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "294710480",
       "name": "Packing (+TO DO!)",
@@ -1696,9 +1630,9 @@
       "releaseDate": "28 October 2008"
     },
     {
-      "rank": 77,
-      "previousRank": 79,
-      "rankChange": 2,
+      "rank": 74,
+      "previousRank": 77,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "506760190",
       "name": "Jakdojade Premium",
@@ -1718,9 +1652,9 @@
       "releaseDate": "22 March 2012"
     },
     {
-      "rank": 78,
-      "previousRank": 80,
-      "rankChange": 2,
+      "rank": 75,
+      "previousRank": 78,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "493557073",
       "name": "Wild Swimming Britain",
@@ -1740,9 +1674,9 @@
       "releaseDate": "21 February 2012"
     },
     {
-      "rank": 79,
-      "previousRank": 83,
-      "rankChange": 4,
+      "rank": 76,
+      "previousRank": 79,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "435741813",
       "name": "Spanish Translator Pro",
@@ -1762,9 +1696,9 @@
       "releaseDate": "10 May 2011"
     },
     {
-      "rank": 80,
-      "previousRank": 85,
-      "rankChange": 5,
+      "rank": 77,
+      "previousRank": 80,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "348131804",
       "name": "gothere.sg",
@@ -1784,9 +1718,9 @@
       "releaseDate": "05 August 2010"
     },
     {
-      "rank": 81,
-      "previousRank": 86,
-      "rankChange": 5,
+      "rank": 78,
+      "previousRank": 81,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1130542083",
       "name": "WiFox",
@@ -1806,9 +1740,9 @@
       "releaseDate": "08 September 2016"
     },
     {
-      "rank": 82,
-      "previousRank": 87,
-      "rankChange": 5,
+      "rank": 79,
+      "previousRank": 82,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "654755755",
       "name": "Pompeii - A day in the past",
@@ -1828,9 +1762,9 @@
       "releaseDate": "03 June 2013"
     },
     {
-      "rank": 83,
-      "previousRank": 88,
-      "rankChange": 5,
+      "rank": 80,
+      "previousRank": 83,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "717269884",
       "name": "Liverpool Airport + Tracker",
@@ -1850,9 +1784,9 @@
       "releaseDate": "02 October 2013"
     },
     {
-      "rank": 84,
-      "previousRank": 89,
-      "rankChange": 5,
+      "rank": 81,
+      "previousRank": 84,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "683353582",
       "name": "Hong Kong Taxi Cards",
@@ -1872,9 +1806,9 @@
       "releaseDate": "08 August 2013"
     },
     {
-      "rank": 85,
-      "previousRank": 90,
-      "rankChange": 5,
+      "rank": 82,
+      "previousRank": 85,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "348737462",
       "name": "Travel List – Trip Packing",
@@ -1894,9 +1828,9 @@
       "releaseDate": "04 January 2010"
     },
     {
-      "rank": 86,
-      "previousRank": 91,
-      "rankChange": 5,
+      "rank": 83,
+      "previousRank": 86,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "318817435",
       "name": "GetPacked: packing list",
@@ -1916,9 +1850,31 @@
       "releaseDate": "25 May 2010"
     },
     {
-      "rank": 87,
-      "previousRank": 92,
-      "rankChange": 5,
+      "rank": 84,
+      "previousRank": 50,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "322962700",
+      "name": "French Dictionary + ©",
+      "developer": "Ascendo Inc.",
+      "developerUrl": "https://apps.apple.com/gb/developer/ascendo-inc/id320494153?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/10/b7/ee10b7f2-6143-c1f7-52de-5e29c89e7c25/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/french-dictionary/id322962700?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "GBP",
+        "formatted": "£19.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "29 July 2009"
+    },
+    {
+      "rank": 85,
+      "previousRank": 87,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "356571048",
       "name": "Travel Interpreter Phrasebook",
@@ -1938,9 +1894,9 @@
       "releaseDate": "22 February 2010"
     },
     {
-      "rank": 88,
-      "previousRank": 49,
-      "rankChange": -39,
+      "rank": 86,
+      "previousRank": 88,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "522503264",
       "name": "Trip Countdown for Disneyland",
@@ -1960,31 +1916,9 @@
       "releaseDate": "02 May 2012"
     },
     {
-      "rank": 89,
-      "previousRank": 93,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "308579423",
-      "name": "Airport Codes",
-      "developer": "VersaEdge Software, LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/versaedge-software-llc/id301294952?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/0e/4e/ab0e4efc-595c-c6cf-7d3d-d057cd0402c7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/airport-codes/id308579423?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6003",
-        "name": "Travel"
-      },
-      "releaseDate": "26 March 2009"
-    },
-    {
-      "rank": 90,
-      "previousRank": 48,
-      "rankChange": -42,
+      "rank": 87,
+      "previousRank": 90,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "886992678",
       "name": "Tube Exits by Station Master",
@@ -2004,8 +1938,8 @@
       "releaseDate": "21 June 2014"
     },
     {
-      "rank": 91,
-      "previousRank": 94,
+      "rank": 88,
+      "previousRank": 91,
       "rankChange": 3,
       "isNew": false,
       "appleId": "376784183",
@@ -2026,9 +1960,9 @@
       "releaseDate": "14 June 2010"
     },
     {
-      "rank": 92,
-      "previousRank": 47,
-      "rankChange": -45,
+      "rank": 89,
+      "previousRank": 92,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1062688481",
       "name": "Tenerife Public Transport",
@@ -2048,8 +1982,8 @@
       "releaseDate": "04 January 2016"
     },
     {
-      "rank": 93,
-      "previousRank": 96,
+      "rank": 90,
+      "previousRank": 93,
       "rankChange": 3,
       "isNew": false,
       "appleId": "323121197",
@@ -2070,9 +2004,31 @@
       "releaseDate": "29 July 2009"
     },
     {
-      "rank": 94,
-      "previousRank": 97,
-      "rankChange": 3,
+      "rank": 91,
+      "previousRank": 49,
+      "rankChange": -42,
+      "isNew": false,
+      "appleId": "768160271",
+      "name": "航旅纵横PRO-民航官方直销平台",
+      "developer": "China Travelsky Technology Limited",
+      "developerUrl": "https://apps.apple.com/gb/developer/china-travelsky-technology-limited/id443898877?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bc/52/9abc524a-21a0-7cd3-b5ca-ccabda1800e1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AApro-%E6%B0%91%E8%88%AA%E5%AE%98%E6%96%B9%E7%9B%B4%E9%94%80%E5%B9%B3%E5%8F%B0/id768160271?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "18 December 2013"
+    },
+    {
+      "rank": 92,
+      "previousRank": 94,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "630776793",
       "name": "Archiescampings",
@@ -2092,9 +2048,9 @@
       "releaseDate": "10 April 2013"
     },
     {
-      "rank": 95,
-      "previousRank": 98,
-      "rankChange": 3,
+      "rank": 93,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "498493962",
       "name": "Offline Translator Pro 8 lang",
@@ -2114,9 +2070,9 @@
       "releaseDate": "05 February 2012"
     },
     {
-      "rank": 96,
-      "previousRank": 99,
-      "rankChange": 3,
+      "rank": 94,
+      "previousRank": 96,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "981485539",
       "name": "Wise Pilgrim Camino del Norte",
@@ -2136,9 +2092,9 @@
       "releaseDate": "10 April 2015"
     },
     {
-      "rank": 97,
-      "previousRank": 100,
-      "rankChange": 3,
+      "rank": 95,
+      "previousRank": 97,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "347794048",
       "name": "London Map & Walks (F)",
@@ -2158,10 +2114,10 @@
       "releaseDate": "04 January 2010"
     },
     {
-      "rank": 98,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 96,
+      "previousRank": 98,
+      "rankChange": 2,
+      "isNew": false,
       "appleId": "605796781",
       "name": "Leeds Airport LBA Info + Radar",
       "developer": "Renji Mathew",
@@ -2180,10 +2136,10 @@
       "releaseDate": "26 February 2013"
     },
     {
-      "rank": 99,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 97,
+      "previousRank": 99,
+      "rankChange": 2,
+      "isNew": false,
       "appleId": "578451869",
       "name": "Road to Hana Maui GyPSy Guide",
       "developer": "GyPSy Guide LLC",
@@ -2200,6 +2156,72 @@
         "name": "Travel"
       },
       "releaseDate": "19 November 2012"
+    },
+    {
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "535467020",
+      "name": "Frankfurt – S Bahn & U Bahn",
+      "developer": "Mallow Technologies Private Limited",
+      "developerUrl": "https://apps.apple.com/gb/developer/mallow-technologies-private-limited/id416807590?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/c8/39/0ec83929-a28b-f7dd-52c1-e3ed459b79ef/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/frankfurt-s-bahn-u-bahn/id535467020?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "22 June 2012"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1045268097",
+      "name": "Inquire — Wikipedia Around You",
+      "developer": "Tamper",
+      "developerUrl": "https://apps.apple.com/gb/developer/tamper/id659672661?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/bd/6c/94bd6cc3-eec5-c0c7-915e-c96aae7313f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/inquire-wikipedia-around-you/id1045268097?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "07 December 2015"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "953333522",
+      "name": "PackPoint Premium Packing List",
+      "developer": "Wawwo",
+      "developerUrl": "https://apps.apple.com/gb/developer/wawwo/id826354505?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/5f/3f/b85f3fea-624d-367b-66a9-8f6b3ffd0206/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/packpoint-premium-packing-list/id953333522?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6003",
+        "name": "Travel"
+      },
+      "releaseDate": "06 January 2015"
     }
   ]
 }
