@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-02",
-  "collectedAt": "2026-11-02T07:30:02.084Z",
-  "sourceUpdatedAt": "2026-11-01T23:30:01-07:00",
+  "snapshotDate": "2026-11-03",
+  "collectedAt": "2026-11-03T07:44:14.530Z",
+  "sourceUpdatedAt": "2026-11-02T23:44:14-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/au/rss/toppaidapplications/limit=100/genre=6020/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "医疗"
   },
   "requestedLimit": 100,
-  "expectedCount": 97,
-  "actualCount": 97,
+  "expectedCount": 96,
+  "actualCount": 96,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-01",
+  "previousSnapshotDate": "2026-11-02",
   "apps": [
     {
       "rank": 1,
@@ -69,8 +69,30 @@
     },
     {
       "rank": 3,
+      "previousRank": 16,
+      "rankChange": 13,
+      "isNew": false,
+      "appleId": "1209290962",
+      "name": "Intern Cheat Sheet",
+      "developer": "Omid Nazifi",
+      "developerUrl": "https://apps.apple.com/au/developer/omid-nazifi/id1208952331?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/6b/d5/606bd594-ec43-8ee5-2368-5f4d3fc0dd9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/intern-cheat-sheet/id1209290962?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "AUD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "16 Mar 2017"
+    },
+    {
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1039219870",
       "name": "Opioid Calculator",
@@ -90,75 +112,9 @@
       "releaseDate": "09 Nov 2015"
     },
     {
-      "rank": 4,
-      "previousRank": 6,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "6746705608",
-      "name": "AutoSnore: Snoring Recorder",
-      "developer": "Tantsissa",
-      "developerUrl": "https://apps.apple.com/au/developer/tantsissa/id861650887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/autosnore-snoring-recorder/id6746705608?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "02 Nov 2025"
-    },
-    {
       "rank": 5,
-      "previousRank": 22,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "1082943360",
-      "name": "Recognise Knee",
-      "developer": "noigroup",
-      "developerUrl": "https://apps.apple.com/au/developer/noigroup/id470824375?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/05/ed/7905ed27-ccbb-8f8b-2abf-194519a4d1b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/recognise-knee/id1082943360?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "23 Feb 2016"
-    },
-    {
-      "rank": 6,
-      "previousRank": 29,
-      "rankChange": 23,
-      "isNew": false,
-      "appleId": "1082939619",
-      "name": "Recognise Foot",
-      "developer": "noigroup",
-      "developerUrl": "https://apps.apple.com/au/developer/noigroup/id470824375?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ef/1d/52ef1d75-aa0d-605c-d785-6c53fc36f2f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/recognise-foot/id1082939619?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "23 Feb 2016"
-    },
-    {
-      "rank": 7,
-      "previousRank": 4,
-      "rankChange": -3,
+      "previousRank": 7,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1447509164",
       "name": "Freya • Surge Timer",
@@ -178,75 +134,75 @@
       "releaseDate": "08 Feb 2019"
     },
     {
-      "rank": 8,
-      "previousRank": 10,
-      "rankChange": 2,
+      "rank": 6,
+      "previousRank": 25,
+      "rankChange": 19,
       "isNew": false,
-      "appleId": "504001448",
-      "name": "Muscles & Kinesiology",
-      "developer": "Visible Body Apps",
-      "developerUrl": "https://apps.apple.com/au/developer/visible-body-apps/id1828268894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/96/e8/ba96e8b7-4592-2dc9-a010-79cf9008e286/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/muscles-kinesiology/id504001448?uo=2",
+      "appleId": "596684220",
+      "name": "Essential Anatomy 5",
+      "developer": "3D4Medical from Elsevier",
+      "developerUrl": "https://apps.apple.com/au/developer/3d4medical-from-elsevier/id315902958?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/46/2c/08462c1c-e385-fe46-b1ab-8a063855f766/AppIconEA-1x_U007emarketing-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/essential-anatomy-5/id596684220?uo=2",
       "price": {
-        "amount": 39.99,
+        "amount": 29.99,
         "currency": "AUD",
-        "formatted": "$39.99"
+        "formatted": "$29.99"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medical"
       },
-      "releaseDate": "28 Feb 2012"
+      "releaseDate": "14 Feb 2013"
+    },
+    {
+      "rank": 7,
+      "previousRank": 4,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6746705608",
+      "name": "AutoSnore: Snoring Recorder",
+      "developer": "Tantsissa",
+      "developerUrl": "https://apps.apple.com/au/developer/tantsissa/id861650887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/autosnore-snoring-recorder/id6746705608?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "02 Nov 2025"
+    },
+    {
+      "rank": 8,
+      "previousRank": 59,
+      "rankChange": 51,
+      "isNew": false,
+      "appleId": "914433692",
+      "name": "Fluency Calculator",
+      "developer": "JOY VENTURES PTY LTD",
+      "developerUrl": "https://apps.apple.com/au/developer/joy-ventures-pty-ltd/id914433695?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/38/dc/b438dc32-673d-56c0-5ce4-8bd9ac1d4822/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/fluency-calculator/id914433692?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "11 Sep 2014"
     },
     {
       "rank": 9,
-      "previousRank": 34,
-      "rankChange": 25,
-      "isNew": false,
-      "appleId": "732245213",
-      "name": "Voice Analyst: Pitch & Volume",
-      "developer": "Speechtools Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/speechtools-ltd/id940679564?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/bd/f1/b2bdf1c8-088c-bb1a-5030-1a7a6dcbbbd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/voice-analyst-pitch-volume/id732245213?uo=2",
-      "price": {
-        "amount": 24.99,
-        "currency": "AUD",
-        "formatted": "$24.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "30 Apr 2014"
-    },
-    {
-      "rank": 10,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1599548877",
-      "name": "Snoopy Dog Heartbeat - CHF App",
-      "developer": "FCP Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/fcp-ltd/id555490896?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/13/3d/80133d80-caf1-5a86-b4a2-eee3dd853e46/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/snoopy-dog-heartbeat-chf-app/id1599548877?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "01 Mar 2022"
-    },
-    {
-      "rank": 11,
-      "previousRank": 16,
-      "rankChange": 5,
+      "previousRank": 11,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1081707515",
       "name": "Recognise Hand",
@@ -266,53 +222,9 @@
       "releaseDate": "10 Feb 2016"
     },
     {
-      "rank": 12,
-      "previousRank": 18,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "1117998129",
-      "name": "Human Anatomy Atlas 2027",
-      "developer": "Visible Body Apps",
-      "developerUrl": "https://apps.apple.com/au/developer/visible-body-apps/id1828268894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/human-anatomy-atlas-2027/id1117998129?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "27 Jul 2016"
-    },
-    {
-      "rank": 13,
-      "previousRank": 21,
-      "rankChange": 8,
-      "isNew": false,
-      "appleId": "929618748",
-      "name": "Squeezy Men",
-      "developer": "Living With Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/living-with-ltd/id1407197501?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/squeezy-men/id929618748?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "18 Nov 2014"
-    },
-    {
-      "rank": 14,
-      "previousRank": 37,
-      "rankChange": 23,
+      "rank": 10,
+      "previousRank": 14,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "920133658",
       "name": "Anatomy & Physiology",
@@ -332,8 +244,228 @@
       "releaseDate": "30 Sep 2014"
     },
     {
+      "rank": 11,
+      "previousRank": 36,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "461149429",
+      "name": "12 Lead ECG Challenge",
+      "developer": "Limmer Creative",
+      "developerUrl": "https://apps.apple.com/au/developer/limmer-creative/id387423724?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/b4/23/78b4238b-ca40-1ae9-3b4d-57cea2534629/AppIcon-lead-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/12-lead-ecg-challenge/id461149429?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "06 Sep 2011"
+    },
+    {
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1432927507",
+      "name": "smartDr",
+      "developer": "smartDr",
+      "developerUrl": "https://apps.apple.com/au/developer/smartdr/id1432927505?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/61/f92761f4-54bd-d43e-cf48-29aecfe11373/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/smartdr/id1432927507?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "29 Oct 2018"
+    },
+    {
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "417954464",
+      "name": "ScolioTrack",
+      "developer": "Kevin Lau",
+      "developerUrl": "https://apps.apple.com/au/developer/kevin-lau/id1327103054?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/0c/5f/ee0c5fc8-8b0b-ed36-ffc3-0bfcdd00e677/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/scoliotrack/id417954464?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "AUD",
+        "formatted": "$22.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "10 Feb 2011"
+    },
+    {
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "541319389",
+      "name": "ECG Challenge",
+      "developer": "Limmer Creative",
+      "developerUrl": "https://apps.apple.com/au/developer/limmer-creative/id387423724?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ef/a5/93efa556-909d-86bd-0ec0-4b4a9dcf7ee0/AppIcon-ecgchallenge-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/ecg-challenge/id541319389?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "24 Jul 2012"
+    },
+    {
       "rank": 15,
-      "previousRank": 9,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757167322",
+      "name": "Emergency Medicine Checklist",
+      "developer": "Medicon Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/medicon-apps/id307829597?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/10/18/4e1018c6-159b-2144-d4fb-92236ad9ed74/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/emergency-medicine-checklist/id6757167322?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "08 Jan 2026"
+    },
+    {
+      "rank": 16,
+      "previousRank": 5,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "1082943360",
+      "name": "Recognise Knee",
+      "developer": "noigroup",
+      "developerUrl": "https://apps.apple.com/au/developer/noigroup/id470824375?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/05/ed/7905ed27-ccbb-8f8b-2abf-194519a4d1b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/recognise-knee/id1082943360?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "23 Feb 2016"
+    },
+    {
+      "rank": 17,
+      "previousRank": 6,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "1082939619",
+      "name": "Recognise Foot",
+      "developer": "noigroup",
+      "developerUrl": "https://apps.apple.com/au/developer/noigroup/id470824375?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ef/1d/52ef1d75-aa0d-605c-d785-6c53fc36f2f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/recognise-foot/id1082939619?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "23 Feb 2016"
+    },
+    {
+      "rank": 18,
+      "previousRank": 42,
+      "rankChange": 24,
+      "isNew": false,
+      "appleId": "1060082362",
+      "name": "OrthoFlow",
+      "developer": "MediFlow Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/mediflow-ltd/id1060082361?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/59/94/42599417-9459-1ea5-0dcd-2b8146560882/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/orthoflow/id1060082362?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "03 Dec 2015"
+    },
+    {
+      "rank": 19,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1225040758",
+      "name": "Radiology Core: Physics Plus",
+      "developer": "Lieu Duong",
+      "developerUrl": "https://apps.apple.com/au/developer/lieu-duong/id1657425589?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/37/e9/9337e9ed-ca8d-2c61-fc21-f279a2de4b4e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/radiology-core-physics-plus/id1225040758?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "11 Apr 2017"
+    },
+    {
+      "rank": 20,
+      "previousRank": 12,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "1117998129",
+      "name": "Human Anatomy Atlas 2027",
+      "developer": "Visible Body Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/visible-body-apps/id1828268894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/human-anatomy-atlas-2027/id1117998129?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "27 Jul 2016"
+    },
+    {
+      "rank": 21,
+      "previousRank": 15,
       "rankChange": -6,
       "isNew": false,
       "appleId": "6816657062",
@@ -354,32 +486,10 @@
       "releaseDate": "09 Oct 2026"
     },
     {
-      "rank": 16,
-      "previousRank": 11,
+      "rank": 22,
+      "previousRank": 17,
       "rankChange": -5,
       "isNew": false,
-      "appleId": "1209290962",
-      "name": "Intern Cheat Sheet",
-      "developer": "Omid Nazifi",
-      "developerUrl": "https://apps.apple.com/au/developer/omid-nazifi/id1208952331?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/6b/d5/606bd594-ec43-8ee5-2368-5f4d3fc0dd9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/intern-cheat-sheet/id1209290962?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "AUD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "16 Mar 2017"
-    },
-    {
-      "rank": 17,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "496001751",
       "name": "OKN Strips",
       "developer": "Thomas Alvarez",
@@ -398,295 +508,31 @@
       "releaseDate": "19 Feb 2012"
     },
     {
-      "rank": 18,
-      "previousRank": 73,
-      "rankChange": 55,
-      "isNew": false,
-      "appleId": "312300162",
-      "name": "Visualize Healing with AJ",
-      "developer": "Universal Relaxation Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/universal-relaxation-ltd/id960035744?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/58/b2/5558b291-b8c6-1d56-34dc-b168493ab8c3/contsched.uoiqkpgt.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/visualize-healing-with-aj/id312300162?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "20 Apr 2009"
-    },
-    {
-      "rank": 19,
-      "previousRank": 94,
-      "rankChange": 75,
-      "isNew": false,
-      "appleId": "845657206",
-      "name": "Baby Tracker Pro - Newborn Log",
-      "developer": "Nighp Software LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/nighp-software-llc/id779656560?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/26/66/61266670-438c-046a-8770-a8f6abb95a2d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/baby-tracker-pro-newborn-log/id845657206?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "02 May 2014"
-    },
-    {
-      "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1549048398",
-      "name": "Anesthesia Considerations",
-      "developer": "AC Anesthesia Considerations Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/ac-anesthesia-considerations-ltd/id1549048400?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/81/6a/90816a72-2500-778a-1329-2ff9b1d1af8a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/anesthesia-considerations/id1549048398?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "16 Jun 2021"
-    },
-    {
-      "rank": 21,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "359990739",
-      "name": "AED Sim",
-      "developer": "Gerry Shaw",
-      "developerUrl": "https://apps.apple.com/au/developer/gerry-shaw/id358894217?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/34/30/bc343049-1924-2b95-4de3-18af4b728cae/AppIcon-0-1x_U007epad-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/aed-sim/id359990739?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "AUD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "08 Mar 2010"
-    },
-    {
-      "rank": 22,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1178017275",
-      "name": "Voice Trainer",
-      "developer": "Universitair Medisch Centrum St Radboud",
-      "developerUrl": "https://apps.apple.com/au/developer/universitair-medisch-centrum-st-radboud/id1178017274?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/95/83/0d95833d-3ede-1599-2993-f144e2689ee0/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/voice-trainer/id1178017275?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "15 Dec 2016"
-    },
-    {
       "rank": 23,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1453334010",
-      "name": "Diabettes & Carbohydrates",
-      "developer": "ALEKSEY RYAGUZOV",
-      "developerUrl": "https://apps.apple.com/au/developer/aleksey-ryaguzov/id557878954?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/0c/cf/970ccfd4-69da-55b8-0e0f-b79c2f8dbe32/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/diabettes-carbohydrates/id1453334010?uo=2",
+      "previousRank": 8,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "504001448",
+      "name": "Muscles & Kinesiology",
+      "developer": "Visible Body Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/visible-body-apps/id1828268894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/96/e8/ba96e8b7-4592-2dc9-a010-79cf9008e286/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/muscles-kinesiology/id504001448?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 39.99,
         "currency": "AUD",
-        "formatted": "$1.99"
+        "formatted": "$39.99"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medical"
       },
-      "releaseDate": "01 Mar 2019"
+      "releaseDate": "28 Feb 2012"
     },
     {
       "rank": 24,
-      "previousRank": 5,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "6754829292",
-      "name": "Lung Cancer Staging v9",
-      "developer": "Remedium LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/remedium-llc/id1556123641?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/84/e8/8c84e8ee-aef6-db2b-5281-0f6ddf1d8946/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/lung-cancer-staging-v9/id6754829292?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "AUD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "05 Nov 2025"
-    },
-    {
-      "rank": 25,
-      "previousRank": 7,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "596684220",
-      "name": "Essential Anatomy 5",
-      "developer": "3D4Medical from Elsevier",
-      "developerUrl": "https://apps.apple.com/au/developer/3d4medical-from-elsevier/id315902958?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/46/2c/08462c1c-e385-fe46-b1ab-8a063855f766/AppIconEA-1x_U007emarketing-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/essential-anatomy-5/id596684220?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "14 Feb 2013"
-    },
-    {
-      "rank": 26,
-      "previousRank": 8,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "1139762358",
-      "name": "Speech Assistant AAC",
-      "developer": "Ton Schalke",
-      "developerUrl": "https://apps.apple.com/au/developer/ton-schalke/id1139762357?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/c6/db/06c6dbfb-6ff0-cf71-b358-b09f26dd3daf/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/speech-assistant-aac/id1139762358?uo=2",
-      "price": {
-        "amount": 32.99,
-        "currency": "AUD",
-        "formatted": "$32.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "03 Sep 2016"
-    },
-    {
-      "rank": 27,
-      "previousRank": 12,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "320686319",
-      "name": "Pocket MBS",
-      "developer": "Vaper Pty Ltd",
-      "developerUrl": "https://apps.apple.com/au/developer/vaper-pty-ltd/id320686322?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a3/be/f7a3bef4-0815-142f-6325-07d7ed9eea62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/pocket-mbs/id320686319?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "04 Jul 2009"
-    },
-    {
-      "rank": 28,
-      "previousRank": 13,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "358073020",
-      "name": "Drip Infusion - IV Rate Calc",
-      "developer": "iLeaf",
-      "developerUrl": "https://apps.apple.com/au/developer/ileaf/id358073023?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/e2/5e/c4e25ee6-8dfe-df4b-1670-8175e7614982/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/drip-infusion-iv-rate-calc/id358073020?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "27 Feb 2010"
-    },
-    {
-      "rank": 29,
-      "previousRank": 14,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "409165149",
-      "name": "Equine AcuPoints",
-      "developer": "Tallgrass Animal Acupressure Resources LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/tallgrass-animal-acupressure-resources-llc/id1574099541?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/75/28/7a752843-c35b-a217-e872-dc932fdde036/mzl.wyrhrczd.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/equine-acupoints/id409165149?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "AUD",
-        "formatted": "$22.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "16 Dec 2010"
-    },
-    {
-      "rank": 30,
-      "previousRank": 15,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "1463210190",
-      "name": "Foundation Doctor Handbook",
-      "developer": "DOCTOR'S HANDBOOKS LTD",
-      "developerUrl": "https://apps.apple.com/au/developer/doctors-handbooks-ltd/id1659498532?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/foundation-doctor-handbook/id1463210190?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "12 Dec 2022"
-    },
-    {
-      "rank": 31,
-      "previousRank": 17,
-      "rankChange": -14,
+      "previousRank": 31,
+      "rankChange": 7,
       "isNew": false,
       "appleId": "363470500",
       "name": "Chemical Maze - Shopping Companion",
@@ -706,31 +552,9 @@
       "releaseDate": "29 Mar 2010"
     },
     {
-      "rank": 32,
-      "previousRank": 19,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "348867501",
-      "name": "Muscle Trigger Points",
-      "developer": "Real Bodywork",
-      "developerUrl": "https://apps.apple.com/au/developer/real-bodywork/id348867504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/2c/50/5b2c507c-0ee4-2cd4-785e-bf59a535f5bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/muscle-trigger-points/id348867501?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "05 Jan 2010"
-    },
-    {
-      "rank": 33,
-      "previousRank": 20,
-      "rankChange": -13,
+      "rank": 25,
+      "previousRank": 33,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "672878122",
       "name": "CoPE Paediatric Emergency",
@@ -750,163 +574,9 @@
       "releaseDate": "19 Jul 2013"
     },
     {
-      "rank": 34,
-      "previousRank": 23,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "430531216",
-      "name": "Yoga Nidra - Deep Relaxation",
-      "developer": "Elizabeth Papadakis",
-      "developerUrl": "https://apps.apple.com/au/developer/elizabeth-papadakis/id832949407?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/06/b7/8b06b7d5-52ac-f1db-7faa-8202a28f1450/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/yoga-nidra-deep-relaxation/id430531216?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "19 Apr 2011"
-    },
-    {
-      "rank": 35,
-      "previousRank": 24,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "542541355",
-      "name": "Horse Anatomy: Equine 3D",
-      "developer": "Real Bodywork",
-      "developerUrl": "https://apps.apple.com/au/developer/real-bodywork/id348867504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/d3/af/03d3afe6-6730-b792-882e-0f45420ff24f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/horse-anatomy-equine-3d/id542541355?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "20 Jul 2012"
-    },
-    {
-      "rank": 36,
-      "previousRank": 25,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "461149429",
-      "name": "12 Lead ECG Challenge",
-      "developer": "Limmer Creative",
-      "developerUrl": "https://apps.apple.com/au/developer/limmer-creative/id387423724?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/b4/23/78b4238b-ca40-1ae9-3b4d-57cea2534629/AppIcon-lead-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/12-lead-ecg-challenge/id461149429?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "06 Sep 2011"
-    },
-    {
-      "rank": 37,
-      "previousRank": 26,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "916587608",
-      "name": "Instant Anatomy Anthology",
-      "developer": "Andrew Whitaker",
-      "developerUrl": "https://apps.apple.com/au/developer/andrew-whitaker/id373474191?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/98/42/369842d8-56ca-5430-b3a8-439cbf75a8ae/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/instant-anatomy-anthology/id916587608?uo=2",
-      "price": {
-        "amount": 59.99,
-        "currency": "AUD",
-        "formatted": "$59.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "25 Sep 2014"
-    },
-    {
-      "rank": 38,
-      "previousRank": 27,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6444126162",
-      "name": "DSM-5-TR® Diagnostic Criteria",
-      "developer": "American Psychiatric Association",
-      "developerUrl": "https://apps.apple.com/au/developer/american-psychiatric-association/id648961338?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/43/02/8c430229-d0ef-28fc-09fb-519185d329cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/dsm-5-tr-diagnostic-criteria/id6444126162?uo=2",
-      "price": {
-        "amount": 119,
-        "currency": "AUD",
-        "formatted": "$119.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "03 May 2023"
-    },
-    {
-      "rank": 39,
-      "previousRank": 28,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6761782126",
-      "name": "Titrate: ADHD Med Tracker",
-      "developer": "Isaac Abraham",
-      "developerUrl": "https://apps.apple.com/au/developer/isaac-abraham/id1867541197?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/14/7f/74147fa1-c084-6091-8d33-6fd5250120eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/titrate-adhd-med-tracker/id6761782126?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "09 Apr 2026"
-    },
-    {
-      "rank": 40,
-      "previousRank": 30,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "438184927",
-      "name": "Dental Prescriber",
-      "developer": "Dental Sciences Australia Pty. Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/dental-sciences-australia-pty-ltd/id438184930?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/9a/37/489a3745-90bf-84ee-d661-a91ba22cb2dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/dental-prescriber/id438184927?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "21 May 2011"
-    },
-    {
-      "rank": 41,
-      "previousRank": 31,
-      "rankChange": -10,
+      "rank": 26,
+      "previousRank": 41,
+      "rankChange": 15,
       "isNew": false,
       "appleId": "365566955",
       "name": "Stop Drinking with AJ",
@@ -926,16 +596,104 @@
       "releaseDate": "02 Apr 2010"
     },
     {
-      "rank": 42,
-      "previousRank": 32,
-      "rankChange": -10,
+      "rank": 27,
+      "previousRank": 9,
+      "rankChange": -18,
       "isNew": false,
-      "appleId": "1060082362",
-      "name": "OrthoFlow",
-      "developer": "MediFlow Ltd.",
-      "developerUrl": "https://apps.apple.com/au/developer/mediflow-ltd/id1060082361?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/59/94/42599417-9459-1ea5-0dcd-2b8146560882/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/orthoflow/id1060082362?uo=2",
+      "appleId": "732245213",
+      "name": "Voice Analyst: Pitch & Volume",
+      "developer": "Speechtools Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/speechtools-ltd/id940679564?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/bd/f1/b2bdf1c8-088c-bb1a-5030-1a7a6dcbbbd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/voice-analyst-pitch-volume/id732245213?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "AUD",
+        "formatted": "$24.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "30 Apr 2014"
+    },
+    {
+      "rank": 28,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "581826761",
+      "name": "Perfect OB Tracker",
+      "developer": "Evan Schoenberg",
+      "developerUrl": "https://apps.apple.com/au/developer/evan-schoenberg/id289039917?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9d/41/3e9d4103-e511-359e-d024-1b9f5e0564fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/perfect-ob-tracker/id581826761?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "30 Nov 2012"
+    },
+    {
+      "rank": 29,
+      "previousRank": 10,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "1599548877",
+      "name": "Snoopy Dog Heartbeat - CHF App",
+      "developer": "FCP Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/fcp-ltd/id555490896?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/13/3d/80133d80-caf1-5a86-b4a2-eee3dd853e46/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/snoopy-dog-heartbeat-chf-app/id1599548877?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "01 Mar 2022"
+    },
+    {
+      "rank": 30,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "949290742",
+      "name": "NIH Score & stroke tools",
+      "developer": "Mikael Cohen",
+      "developerUrl": "https://apps.apple.com/au/developer/mikael-cohen/id949290741?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/ca/9c/73ca9cc1-1936-d2d1-c059-95f8c1262194/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/nih-score-stroke-tools/id949290742?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "08 Jan 2015"
+    },
+    {
+      "rank": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6451044832",
+      "name": "X-Vein",
+      "developer": "YEHONATAN YAACOV MARZIANO",
+      "developerUrl": "https://apps.apple.com/au/developer/yehonatan-yaacov-marziano/id1696282197?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/4e/fd/124efd07-e142-aff9-3052-e49449f73e9f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/x-vein/id6451044832?uo=2",
       "price": {
         "amount": 7.99,
         "currency": "AUD",
@@ -945,19 +703,261 @@
         "id": "6020",
         "name": "Medical"
       },
-      "releaseDate": "03 Dec 2015"
+      "releaseDate": "11 Jul 2023"
+    },
+    {
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1078772848",
+      "name": "Advanced Naming Therapy",
+      "developer": "Tactus Therapy Solutions Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/tactus-therapy-solutions-ltd/id438070002?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/5a/37/ba5a37ac-e106-8cb3-9cd9-7ab1ad07e88f/AppIconADVNT-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/advanced-naming-therapy/id1078772848?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "AUD",
+        "formatted": "$49.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "16 May 2016"
+    },
+    {
+      "rank": 33,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "992597633",
+      "name": "Number Therapy",
+      "developer": "Tactus Therapy Solutions Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/tactus-therapy-solutions-ltd/id438070002?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/f8/4e/65f84eb0-391f-d39c-8c5c-aed187e5d531/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/number-therapy/id992597633?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "AUD",
+        "formatted": "$49.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "27 May 2015"
+    },
+    {
+      "rank": 34,
+      "previousRank": 13,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "929618748",
+      "name": "Squeezy Men",
+      "developer": "Living With Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/living-with-ltd/id1407197501?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/squeezy-men/id929618748?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "18 Nov 2014"
+    },
+    {
+      "rank": 35,
+      "previousRank": 18,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "312300162",
+      "name": "Visualize Healing with AJ",
+      "developer": "Universal Relaxation Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/universal-relaxation-ltd/id960035744?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/58/b2/5558b291-b8c6-1d56-34dc-b168493ab8c3/contsched.uoiqkpgt.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/visualize-healing-with-aj/id312300162?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "20 Apr 2009"
+    },
+    {
+      "rank": 36,
+      "previousRank": 19,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "845657206",
+      "name": "Baby Tracker Pro - Newborn Log",
+      "developer": "Nighp Software LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/nighp-software-llc/id779656560?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/26/66/61266670-438c-046a-8770-a8f6abb95a2d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/baby-tracker-pro-newborn-log/id845657206?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "02 May 2014"
+    },
+    {
+      "rank": 37,
+      "previousRank": 20,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1549048398",
+      "name": "Anesthesia Considerations",
+      "developer": "AC Anesthesia Considerations Ltd",
+      "developerUrl": "https://apps.apple.com/au/developer/ac-anesthesia-considerations-ltd/id1549048400?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/81/6a/90816a72-2500-778a-1329-2ff9b1d1af8a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/anesthesia-considerations/id1549048398?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "16 Jun 2021"
+    },
+    {
+      "rank": 38,
+      "previousRank": 21,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "359990739",
+      "name": "AED Sim",
+      "developer": "Gerry Shaw",
+      "developerUrl": "https://apps.apple.com/au/developer/gerry-shaw/id358894217?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/34/30/bc343049-1924-2b95-4de3-18af4b728cae/AppIcon-0-1x_U007epad-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/aed-sim/id359990739?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "AUD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "08 Mar 2010"
+    },
+    {
+      "rank": 39,
+      "previousRank": 22,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1178017275",
+      "name": "Voice Trainer",
+      "developer": "Universitair Medisch Centrum St Radboud",
+      "developerUrl": "https://apps.apple.com/au/developer/universitair-medisch-centrum-st-radboud/id1178017274?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/95/83/0d95833d-3ede-1599-2993-f144e2689ee0/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/voice-trainer/id1178017275?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "15 Dec 2016"
+    },
+    {
+      "rank": 40,
+      "previousRank": 23,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "1453334010",
+      "name": "Diabettes & Carbohydrates",
+      "developer": "ALEKSEY RYAGUZOV",
+      "developerUrl": "https://apps.apple.com/au/developer/aleksey-ryaguzov/id557878954?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/0c/cf/970ccfd4-69da-55b8-0e0f-b79c2f8dbe32/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/diabettes-carbohydrates/id1453334010?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "01 Mar 2019"
+    },
+    {
+      "rank": 41,
+      "previousRank": 24,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "6754829292",
+      "name": "Lung Cancer Staging v9",
+      "developer": "Remedium LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/remedium-llc/id1556123641?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/84/e8/8c84e8ee-aef6-db2b-5281-0f6ddf1d8946/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/lung-cancer-staging-v9/id6754829292?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "AUD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "05 Nov 2025"
+    },
+    {
+      "rank": 42,
+      "previousRank": 26,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "1139762358",
+      "name": "Speech Assistant AAC",
+      "developer": "Ton Schalke",
+      "developerUrl": "https://apps.apple.com/au/developer/ton-schalke/id1139762357?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/c6/db/06c6dbfb-6ff0-cf71-b358-b09f26dd3daf/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/speech-assistant-aac/id1139762358?uo=2",
+      "price": {
+        "amount": 32.99,
+        "currency": "AUD",
+        "formatted": "$32.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "03 Sep 2016"
     },
     {
       "rank": 43,
-      "previousRank": 33,
-      "rankChange": -10,
+      "previousRank": 27,
+      "rankChange": -16,
       "isNew": false,
-      "appleId": "324506764",
-      "name": "Pocket RVG",
+      "appleId": "320686319",
+      "name": "Pocket MBS",
       "developer": "Vaper Pty Ltd",
       "developerUrl": "https://apps.apple.com/au/developer/vaper-pty-ltd/id320686322?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/72/b5/e772b5f2-5600-45da-fd8a-96009d8dc320/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/pocket-rvg/id324506764?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a3/be/f7a3bef4-0815-142f-6325-07d7ed9eea62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/pocket-mbs/id320686319?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "AUD",
@@ -967,34 +967,100 @@
         "id": "6020",
         "name": "Medical"
       },
-      "releaseDate": "03 Aug 2009"
+      "releaseDate": "04 Jul 2009"
     },
     {
       "rank": 44,
-      "previousRank": 35,
-      "rankChange": -9,
+      "previousRank": 28,
+      "rankChange": -16,
       "isNew": false,
-      "appleId": "1632611066",
-      "name": "Pill Identifier - Pro",
-      "developer": "FRIENDSAPP LISTING",
-      "developerUrl": "https://apps.apple.com/au/developer/friendsapp-listing/id1628261434?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/c9/37/5fc937fb-a625-f1f7-2211-5719207cb623/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/pill-identifier-pro/id1632611066?uo=2",
+      "appleId": "358073020",
+      "name": "Drip Infusion - IV Rate Calc",
+      "developer": "iLeaf",
+      "developerUrl": "https://apps.apple.com/au/developer/ileaf/id358073023?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/e2/5e/c4e25ee6-8dfe-df4b-1670-8175e7614982/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/drip-infusion-iv-rate-calc/id358073020?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 2.99,
         "currency": "AUD",
-        "formatted": "$5.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medical"
       },
-      "releaseDate": "28 Sep 2023"
+      "releaseDate": "27 Feb 2010"
     },
     {
       "rank": 45,
+      "previousRank": 29,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "409165149",
+      "name": "Equine AcuPoints",
+      "developer": "Tallgrass Animal Acupressure Resources LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/tallgrass-animal-acupressure-resources-llc/id1574099541?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/75/28/7a752843-c35b-a217-e872-dc932fdde036/mzl.wyrhrczd.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/equine-acupoints/id409165149?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "AUD",
+        "formatted": "$22.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "16 Dec 2010"
+    },
+    {
+      "rank": 46,
+      "previousRank": 30,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "1463210190",
+      "name": "Foundation Doctor Handbook",
+      "developer": "DOCTOR'S HANDBOOKS LTD",
+      "developerUrl": "https://apps.apple.com/au/developer/doctors-handbooks-ltd/id1659498532?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/foundation-doctor-handbook/id1463210190?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "12 Dec 2022"
+    },
+    {
+      "rank": 47,
+      "previousRank": 32,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "348867501",
+      "name": "Muscle Trigger Points",
+      "developer": "Real Bodywork",
+      "developerUrl": "https://apps.apple.com/au/developer/real-bodywork/id348867504?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/2c/50/5b2c507c-0ee4-2cd4-785e-bf59a535f5bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/muscle-trigger-points/id348867501?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "05 Jan 2010"
+    },
+    {
+      "rank": 48,
       "previousRank": 45,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "301027070",
       "name": "ECG Guide",
@@ -1014,9 +1080,9 @@
       "releaseDate": "31 Dec 2008"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "previousRank": 46,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "337974028",
       "name": "Drugs & Medications",
@@ -1036,9 +1102,9 @@
       "releaseDate": "09 Nov 2009"
     },
     {
-      "rank": 47,
+      "rank": 50,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "364894966",
       "name": "Learn Muscles: Anatomy",
@@ -1058,9 +1124,9 @@
       "releaseDate": "01 Apr 2010"
     },
     {
-      "rank": 48,
+      "rank": 51,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "301069615",
       "name": "Lose Weight with AJ",
@@ -1080,9 +1146,9 @@
       "releaseDate": "03 Jan 2009"
     },
     {
-      "rank": 49,
+      "rank": 52,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "322681972",
       "name": "DrugDoses",
@@ -1102,9 +1168,9 @@
       "releaseDate": "16 Jul 2009"
     },
     {
-      "rank": 50,
+      "rank": 53,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "303609195",
       "name": "Relax with AJ",
@@ -1124,9 +1190,9 @@
       "releaseDate": "09 Feb 2009"
     },
     {
-      "rank": 51,
+      "rank": 54,
       "previousRank": 51,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "301270080",
       "name": "Instant ECG - Mastery of EKG",
@@ -1146,9 +1212,31 @@
       "releaseDate": "06 Jan 2009"
     },
     {
-      "rank": 52,
+      "rank": 55,
+      "previousRank": 34,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "430531216",
+      "name": "Yoga Nidra - Deep Relaxation",
+      "developer": "Elizabeth Papadakis",
+      "developerUrl": "https://apps.apple.com/au/developer/elizabeth-papadakis/id832949407?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/06/b7/8b06b7d5-52ac-f1db-7faa-8202a28f1450/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/yoga-nidra-deep-relaxation/id430531216?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "19 Apr 2011"
+    },
+    {
+      "rank": 56,
       "previousRank": 52,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "327963391",
       "name": "Pedi STAT",
@@ -1168,9 +1256,9 @@
       "releaseDate": "28 Aug 2009"
     },
     {
-      "rank": 53,
+      "rank": 57,
       "previousRank": 53,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "1046480662",
       "name": "Pocket Glasses PRO",
@@ -1190,9 +1278,9 @@
       "releaseDate": "29 Oct 2015"
     },
     {
-      "rank": 54,
+      "rank": 58,
       "previousRank": 54,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "968720377",
       "name": "Noxogy Pro: Sleep & Snore",
@@ -1212,9 +1300,9 @@
       "releaseDate": "13 May 2015"
     },
     {
-      "rank": 55,
+      "rank": 59,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "384567214",
       "name": "Complete Nurse",
@@ -1234,9 +1322,9 @@
       "releaseDate": "10 Aug 2010"
     },
     {
-      "rank": 56,
+      "rank": 60,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "306526794",
       "name": "iBP Blood Pressure",
@@ -1256,9 +1344,9 @@
       "releaseDate": "02 Mar 2009"
     },
     {
-      "rank": 57,
+      "rank": 61,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "453210774",
       "name": "Blood Pressure Companion Pro",
@@ -1278,9 +1366,9 @@
       "releaseDate": "03 Aug 2011"
     },
     {
-      "rank": 58,
+      "rank": 62,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "429680650",
       "name": "Acupressure: Heal Yourself",
@@ -1300,31 +1388,9 @@
       "releaseDate": "08 Apr 2011"
     },
     {
-      "rank": 59,
-      "previousRank": 59,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "914433692",
-      "name": "Fluency Calculator",
-      "developer": "JOY VENTURES PTY LTD",
-      "developerUrl": "https://apps.apple.com/au/developer/joy-ventures-pty-ltd/id914433695?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/38/dc/b438dc32-673d-56c0-5ce4-8bd9ac1d4822/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/fluency-calculator/id914433692?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "11 Sep 2014"
-    },
-    {
-      "rank": 60,
+      "rank": 63,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "333195169",
       "name": "MD on Call",
@@ -1344,9 +1410,9 @@
       "releaseDate": "05 Oct 2009"
     },
     {
-      "rank": 61,
+      "rank": 64,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "519530925",
       "name": "Visual Anatomy",
@@ -1366,9 +1432,9 @@
       "releaseDate": "21 Apr 2012"
     },
     {
-      "rank": 62,
+      "rank": 65,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "552797517",
       "name": "Complete Relaxation: PRO",
@@ -1388,9 +1454,9 @@
       "releaseDate": "01 Oct 2012"
     },
     {
-      "rank": 63,
+      "rank": 66,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "328711340",
       "name": "Med Mnemonics",
@@ -1410,9 +1476,31 @@
       "releaseDate": "01 Sep 2009"
     },
     {
-      "rank": 64,
+      "rank": 67,
+      "previousRank": 40,
+      "rankChange": -27,
+      "isNew": false,
+      "appleId": "438184927",
+      "name": "Dental Prescriber",
+      "developer": "Dental Sciences Australia Pty. Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/dental-sciences-australia-pty-ltd/id438184930?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/9a/37/489a3745-90bf-84ee-d661-a91ba22cb2dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/dental-prescriber/id438184927?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "21 May 2011"
+    },
+    {
+      "rank": 68,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "301068353",
       "name": "Quit Smoking with AJ",
@@ -1432,9 +1520,9 @@
       "releaseDate": "03 Jan 2009"
     },
     {
-      "rank": 65,
+      "rank": 69,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "394284454",
       "name": "Skeletal Anatomy 3D",
@@ -1454,9 +1542,9 @@
       "releaseDate": "30 Sep 2010"
     },
     {
-      "rank": 66,
+      "rank": 70,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "428465331",
       "name": "Dr. Reichel's IQ Test",
@@ -1476,9 +1564,9 @@
       "releaseDate": "05 Apr 2011"
     },
     {
-      "rank": 67,
+      "rank": 71,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "303058840",
       "name": "MedAbbreviations",
@@ -1498,9 +1586,9 @@
       "releaseDate": "23 Jan 2009"
     },
     {
-      "rank": 68,
+      "rank": 72,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "324256792",
       "name": "Anatomy Quiz",
@@ -1520,9 +1608,9 @@
       "releaseDate": "27 Jul 2009"
     },
     {
-      "rank": 69,
+      "rank": 73,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "468314731",
       "name": "Grays Anatomy Premium Edition",
@@ -1542,9 +1630,9 @@
       "releaseDate": "04 Oct 2011"
     },
     {
-      "rank": 70,
+      "rank": 74,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "416100461",
       "name": "Anatomy Quiz Pro",
@@ -1564,9 +1652,9 @@
       "releaseDate": "27 Jan 2011"
     },
     {
-      "rank": 71,
+      "rank": 75,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "371093098",
       "name": "Dermatomes",
@@ -1586,9 +1674,9 @@
       "releaseDate": "12 May 2010"
     },
     {
-      "rank": 72,
+      "rank": 76,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "301316540",
       "name": "PubMed On Tap",
@@ -1608,9 +1696,9 @@
       "releaseDate": "10 Jan 2009"
     },
     {
-      "rank": 73,
-      "previousRank": 74,
-      "rankChange": 1,
+      "rank": 77,
+      "previousRank": 73,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "420464455",
       "name": "Dexteria - Fine Motor Skills",
@@ -1630,9 +1718,9 @@
       "releaseDate": "08 Mar 2011"
     },
     {
-      "rank": 74,
-      "previousRank": 75,
-      "rankChange": 1,
+      "rank": 78,
+      "previousRank": 74,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "417367089",
       "name": "Pillboxie",
@@ -1652,9 +1740,9 @@
       "releaseDate": "10 Feb 2011"
     },
     {
-      "rank": 75,
-      "previousRank": 76,
-      "rankChange": 1,
+      "rank": 79,
+      "previousRank": 75,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "321996942",
       "name": "Beat Social Phobia with AJ",
@@ -1674,9 +1762,9 @@
       "releaseDate": "18 Jul 2009"
     },
     {
-      "rank": 76,
-      "previousRank": 77,
-      "rankChange": 1,
+      "rank": 80,
+      "previousRank": 76,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "327889314",
       "name": "ICU Pearls Critical Care tips",
@@ -1696,9 +1784,9 @@
       "releaseDate": "29 Aug 2009"
     },
     {
-      "rank": 77,
-      "previousRank": 78,
-      "rankChange": 1,
+      "rank": 81,
+      "previousRank": 77,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "338627856",
       "name": "My Pain Diary: Chronic Pain & Symptom Tracker",
@@ -1718,9 +1806,9 @@
       "releaseDate": "13 Nov 2009"
     },
     {
-      "rank": 78,
-      "previousRank": 79,
-      "rankChange": 1,
+      "rank": 82,
+      "previousRank": 78,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "512153051",
       "name": "Journal Club: Medicine",
@@ -1740,9 +1828,9 @@
       "releaseDate": "24 Apr 2012"
     },
     {
-      "rank": 79,
-      "previousRank": 80,
-      "rankChange": 1,
+      "rank": 83,
+      "previousRank": 79,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "293656711",
       "name": "Perfect OB Wheel",
@@ -1762,9 +1850,9 @@
       "releaseDate": "16 Oct 2008"
     },
     {
-      "rank": 80,
-      "previousRank": 81,
-      "rankChange": 1,
+      "rank": 84,
+      "previousRank": 80,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "397685975",
       "name": "Instant Anatomy Flash Cards",
@@ -1784,9 +1872,9 @@
       "releaseDate": "19 Oct 2010"
     },
     {
-      "rank": 81,
-      "previousRank": 82,
-      "rankChange": 1,
+      "rank": 85,
+      "previousRank": 81,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "892157966",
       "name": "Emergency Pharmacology Guide",
@@ -1806,9 +1894,9 @@
       "releaseDate": "05 Jul 2014"
     },
     {
-      "rank": 82,
-      "previousRank": 83,
-      "rankChange": 1,
+      "rank": 86,
+      "previousRank": 82,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "406042878",
       "name": "Move On with AJ",
@@ -1828,9 +1916,9 @@
       "releaseDate": "02 Dec 2010"
     },
     {
-      "rank": 83,
-      "previousRank": 84,
-      "rankChange": 1,
+      "rank": 87,
+      "previousRank": 83,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "332636983",
       "name": "Cry Translator",
@@ -1850,9 +1938,9 @@
       "releaseDate": "11 Oct 2009"
     },
     {
-      "rank": 84,
-      "previousRank": 85,
-      "rankChange": 1,
+      "rank": 88,
+      "previousRank": 84,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "311408394",
       "name": "TCM Clinic Aid",
@@ -1872,9 +1960,9 @@
       "releaseDate": "05 Jun 2009"
     },
     {
-      "rank": 85,
-      "previousRank": 86,
-      "rankChange": 1,
+      "rank": 89,
+      "previousRank": 85,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "349477846",
       "name": "Positive Pregnancy with AJ",
@@ -1894,9 +1982,9 @@
       "releaseDate": "20 Jan 2010"
     },
     {
-      "rank": 86,
-      "previousRank": 88,
-      "rankChange": 2,
+      "rank": 90,
+      "previousRank": 86,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "286022402",
       "name": "Eponyms",
@@ -1916,9 +2004,9 @@
       "releaseDate": "12 Feb 2019"
     },
     {
-      "rank": 87,
+      "rank": 91,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "1082941708",
       "name": "Recognise Back",
@@ -1938,9 +2026,9 @@
       "releaseDate": "23 Feb 2016"
     },
     {
-      "rank": 88,
-      "previousRank": 89,
-      "rankChange": 1,
+      "rank": 92,
+      "previousRank": 88,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "477666512",
       "name": "Pill Monitor Pro",
@@ -1960,9 +2048,9 @@
       "releaseDate": "07 Nov 2011"
     },
     {
-      "rank": 89,
-      "previousRank": 90,
-      "rankChange": 1,
+      "rank": 93,
+      "previousRank": 89,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "380195729",
       "name": "Ortho Traumapedia",
@@ -1982,9 +2070,9 @@
       "releaseDate": "07 Jul 2010"
     },
     {
-      "rank": 90,
-      "previousRank": 91,
-      "rankChange": 1,
+      "rank": 94,
+      "previousRank": 90,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "533299240",
       "name": "Glucose Buddy+ for Diabetes",
@@ -2004,9 +2092,9 @@
       "releaseDate": "10 Jun 2012"
     },
     {
-      "rank": 91,
-      "previousRank": 92,
-      "rankChange": 1,
+      "rank": 95,
+      "previousRank": 91,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "534227095",
       "name": "ICU Trials by ClinCalc",
@@ -2026,9 +2114,9 @@
       "releaseDate": "16 Jun 2012"
     },
     {
-      "rank": 92,
-      "previousRank": 93,
-      "rankChange": 1,
+      "rank": 96,
+      "previousRank": 92,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "689597531",
       "name": "Fructose Guide",
@@ -2046,116 +2134,6 @@
         "name": "Medical"
       },
       "releaseDate": "22 Aug 2013"
-    },
-    {
-      "rank": 93,
-      "previousRank": 95,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "444082194",
-      "name": "Dog Buddy Pro",
-      "developer": "倩 赵",
-      "developerUrl": "https://apps.apple.com/au/developer/%E5%80%A9-%E8%B5%B5/id376557917?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/6f/70/eb6f7096-66bf-acef-416f-a9c9cbc51bb3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/dog-buddy-pro/id444082194?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "22 Jun 2011"
-    },
-    {
-      "rank": 94,
-      "previousRank": 96,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "662018700",
-      "name": "Calm Down Now™",
-      "developer": "Calm Down Now LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/calm-down-now-llc/id662018703?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/6d/ff/94/6dff94e4-c555-cc8d-3fa2-70cd52b1e8d0/mzl.zwxqjlil.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/calm-down-now/id662018700?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "04 Jul 2013"
-    },
-    {
-      "rank": 95,
-      "previousRank": 97,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "456218638",
-      "name": "Glucose Companion Pro",
-      "developer": "倩 赵",
-      "developerUrl": "https://apps.apple.com/au/developer/%E5%80%A9-%E8%B5%B5/id376557917?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/b0/1467b061-c1d3-0daa-47da-24acab7bdb83/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/glucose-companion-pro/id456218638?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "16 Aug 2011"
-    },
-    {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "364731597",
-      "name": "SimMon",
-      "developer": "Castle Andersen ApS",
-      "developerUrl": "https://apps.apple.com/au/developer/castle-andersen-aps/id344683558?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7c/96/417c96e6-0acb-e846-d269-ee68569edfb2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/simmon/id364731597?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "AUD",
-        "formatted": "$39.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "01 Apr 2010"
-    },
-    {
-      "rank": 97,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1082947661",
-      "name": "Recognise Shoulder",
-      "developer": "noigroup",
-      "developerUrl": "https://apps.apple.com/au/developer/noigroup/id470824375?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/31/49/a53149c8-6313-be33-6e1b-d26eafee679b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/recognise-shoulder/id1082947661?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "24 Feb 2016"
     }
   ]
 }
