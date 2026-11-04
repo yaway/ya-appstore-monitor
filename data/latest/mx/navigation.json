@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-03",
-  "collectedAt": "2026-11-03T07:44:25.785Z",
-  "sourceUpdatedAt": "2026-11-02T23:44:25-07:00",
+  "snapshotDate": "2026-11-04",
+  "collectedAt": "2026-11-04T07:22:56.334Z",
+  "sourceUpdatedAt": "2026-11-03T23:22:55-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/mx/rss/toppaidapplications/limit=100/genre=6010/json",
   "chartType": "paid",
@@ -21,12 +21,34 @@
   "actualCount": 96,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-02",
+  "previousSnapshotDate": "2026-11-03",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 6,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "330247123",
+      "name": "Sun Seeker Golden Hour Tracker",
+      "developer": "ozPDA",
+      "developerUrl": "https://apps.apple.com/mx/developer/ozpda/id295147488?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/0d/e5/cf0de549-7dc3-4fa5-5574-7c9f9f09e71c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/sun-seeker-golden-hour-tracker/id330247123?uo=2",
+      "price": {
+        "amount": 149,
+        "currency": "MXN",
+        "formatted": "$149.00"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navegación"
+      },
+      "releaseDate": "04/10/2009"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "708869281",
       "name": "LeadNav GPS",
@@ -46,31 +68,9 @@
       "releaseDate": "30/09/2013"
     },
     {
-      "rank": 2,
-      "previousRank": 3,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1497379822",
-      "name": "GPX Viewer PRO: caminar y bici",
-      "developer": "Vectura Games",
-      "developerUrl": "https://apps.apple.com/mx/developer/vectura-games/id1497379821?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/24/abb3248c-32aa-bcc6-a51a-d4e966496129/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/gpx-viewer-pro-caminar-y-bici/id1497379822?uo=2",
-      "price": {
-        "amount": 149,
-        "currency": "MXN",
-        "formatted": "$149.00"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navegación"
-      },
-      "releaseDate": "05/02/2020"
-    },
-    {
       "rank": 3,
-      "previousRank": 4,
-      "rankChange": 1,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1638753363",
       "name": "Pro Night — Visión Nocturna",
@@ -91,8 +91,52 @@
     },
     {
       "rank": 4,
-      "previousRank": 9,
-      "rankChange": 5,
+      "previousRank": 5,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "6785090016",
+      "name": "Alpin Quest: Mapas offline PRO",
+      "developer": "Dogukan ERDAGI",
+      "developerUrl": "https://apps.apple.com/mx/developer/dogukan-erdagi/id1817708993?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/a3/13/7ca3136c-74ee-a8df-aafc-9fb37a5bce19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/alpin-quest-mapas-offline-pro/id6785090016?uo=2",
+      "price": {
+        "amount": 89,
+        "currency": "MXN",
+        "formatted": "$89.00"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navegación"
+      },
+      "releaseDate": "17/07/2026"
+    },
+    {
+      "rank": 5,
+      "previousRank": 2,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1497379822",
+      "name": "GPX Viewer PRO: caminar y bici",
+      "developer": "Vectura Games",
+      "developerUrl": "https://apps.apple.com/mx/developer/vectura-games/id1497379821?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/24/abb3248c-32aa-bcc6-a51a-d4e966496129/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/gpx-viewer-pro-caminar-y-bici/id1497379822?uo=2",
+      "price": {
+        "amount": 149,
+        "currency": "MXN",
+        "formatted": "$149.00"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navegación"
+      },
+      "releaseDate": "05/02/2020"
+    },
+    {
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6479535865",
       "name": "MUEVETEX PRO",
@@ -112,53 +156,9 @@
       "releaseDate": "09/04/2024"
     },
     {
-      "rank": 5,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6785090016",
-      "name": "Alpin Quest: Mapas offline PRO",
-      "developer": "Dogukan ERDAGI",
-      "developerUrl": "https://apps.apple.com/mx/developer/dogukan-erdagi/id1817708993?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/64/a9/a364a950-1036-7683-675b-42c7e611184c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/alpin-quest-mapas-offline-pro/id6785090016?uo=2",
-      "price": {
-        "amount": 89,
-        "currency": "MXN",
-        "formatted": "$89.00"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navegación"
-      },
-      "releaseDate": "17/07/2026"
-    },
-    {
-      "rank": 6,
-      "previousRank": 2,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "330247123",
-      "name": "Sun Seeker Golden Hour Tracker",
-      "developer": "ozPDA",
-      "developerUrl": "https://apps.apple.com/mx/developer/ozpda/id295147488?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/0d/e5/cf0de549-7dc3-4fa5-5574-7c9f9f09e71c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/sun-seeker-golden-hour-tracker/id330247123?uo=2",
-      "price": {
-        "amount": 149,
-        "currency": "MXN",
-        "formatted": "$149.00"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navegación"
-      },
-      "releaseDate": "04/10/2009"
-    },
-    {
       "rank": 7,
-      "previousRank": 5,
-      "rankChange": -2,
+      "previousRank": 7,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "721609826",
       "name": "Boat Watch Pro",
@@ -179,8 +179,8 @@
     },
     {
       "rank": 8,
-      "previousRank": 6,
-      "rankChange": -2,
+      "previousRank": 8,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6760237050",
       "name": "MilGPS PRO",
@@ -201,8 +201,8 @@
     },
     {
       "rank": 9,
-      "previousRank": 7,
-      "rankChange": -2,
+      "previousRank": 9,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6761584269",
       "name": "Where is it? Item Finder",
@@ -223,29 +223,7 @@
     },
     {
       "rank": 10,
-      "previousRank": 8,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "582584117",
-      "name": "Solocator - GPS Field Camera",
-      "developer": "Civi Corp",
-      "developerUrl": "https://apps.apple.com/mx/developer/civi-corp/id505154738?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/solocator-gps-field-camera/id582584117?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navegación"
-      },
-      "releaseDate": "09/12/2012"
-    },
-    {
-      "rank": 11,
-      "previousRank": 12,
+      "previousRank": 11,
       "rankChange": 1,
       "isNew": false,
       "appleId": "405239907",
@@ -266,8 +244,8 @@
       "releaseDate": "13/01/2011"
     },
     {
-      "rank": 12,
-      "previousRank": 13,
+      "rank": 11,
+      "previousRank": 12,
       "rankChange": 1,
       "isNew": false,
       "appleId": "409869453",
@@ -288,8 +266,8 @@
       "releaseDate": "21/12/2010"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
+      "rank": 12,
+      "previousRank": 13,
       "rankChange": 1,
       "isNew": false,
       "appleId": "391304000",
@@ -310,8 +288,8 @@
       "releaseDate": "25/03/2011"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
+      "rank": 13,
+      "previousRank": 14,
       "rankChange": 1,
       "isNew": false,
       "appleId": "287909017",
@@ -332,8 +310,8 @@
       "releaseDate": "11/02/2019"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
+      "rank": 14,
+      "previousRank": 15,
       "rankChange": 1,
       "isNew": false,
       "appleId": "284980812",
@@ -354,8 +332,8 @@
       "releaseDate": "31/01/2019"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
+      "rank": 15,
+      "previousRank": 16,
       "rankChange": 1,
       "isNew": false,
       "appleId": "339393884",
@@ -376,8 +354,8 @@
       "releaseDate": "30/11/2009"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
+      "rank": 16,
+      "previousRank": 17,
       "rankChange": 1,
       "isNew": false,
       "appleId": "557827515",
@@ -398,8 +376,8 @@
       "releaseDate": "26/11/2012"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
+      "rank": 17,
+      "previousRank": 18,
       "rankChange": 1,
       "isNew": false,
       "appleId": "530829008",
@@ -420,8 +398,8 @@
       "releaseDate": "10/06/2012"
     },
     {
-      "rank": 19,
-      "previousRank": 20,
+      "rank": 18,
+      "previousRank": 19,
       "rankChange": 1,
       "isNew": false,
       "appleId": "298395058",
@@ -442,8 +420,8 @@
       "releaseDate": "02/12/2008"
     },
     {
-      "rank": 20,
-      "previousRank": 21,
+      "rank": 19,
+      "previousRank": 20,
       "rankChange": 1,
       "isNew": false,
       "appleId": "417204570",
@@ -464,8 +442,8 @@
       "releaseDate": "03/02/2011"
     },
     {
-      "rank": 21,
-      "previousRank": 22,
+      "rank": 20,
+      "previousRank": 21,
       "rankChange": 1,
       "isNew": false,
       "appleId": "482325002",
@@ -486,8 +464,8 @@
       "releaseDate": "23/11/2011"
     },
     {
-      "rank": 22,
-      "previousRank": 23,
+      "rank": 21,
+      "previousRank": 22,
       "rankChange": 1,
       "isNew": false,
       "appleId": "384363262",
@@ -508,9 +486,9 @@
       "releaseDate": "02/08/2010"
     },
     {
-      "rank": 23,
-      "previousRank": 10,
-      "rankChange": -13,
+      "rank": 22,
+      "previousRank": 23,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "880510678",
       "name": "GPX-Viewer",
@@ -530,9 +508,9 @@
       "releaseDate": "23/05/2014"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "414640034",
       "name": "Altimeter X",
@@ -552,9 +530,9 @@
       "releaseDate": "18/01/2011"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "650008859",
       "name": "iLocation+: ¡Aquí!",
@@ -572,6 +550,28 @@
         "name": "Navegación"
       },
       "releaseDate": "22/05/2013"
+    },
+    {
+      "rank": 25,
+      "previousRank": 10,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "582584117",
+      "name": "Solocator - GPS Field Camera",
+      "developer": "Civi Corp",
+      "developerUrl": "https://apps.apple.com/mx/developer/civi-corp/id505154738?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/solocator-gps-field-camera/id582584117?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navegación"
+      },
+      "releaseDate": "09/12/2012"
     },
     {
       "rank": 26,
@@ -1015,8 +1015,8 @@
     },
     {
       "rank": 46,
-      "previousRank": 11,
-      "rankChange": -35,
+      "previousRank": 46,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "498732510",
       "name": "Blitzer.de PRO",
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 46,
-      "rankChange": -1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "353321502",
       "name": "Hot Air",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 47,
-      "rankChange": -1,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "517739197",
       "name": "Pro Compass",
@@ -1081,8 +1081,8 @@
     },
     {
       "rank": 49,
-      "previousRank": 48,
-      "rankChange": -1,
+      "previousRank": 49,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "622591557",
       "name": "Topography",
@@ -1103,8 +1103,8 @@
     },
     {
       "rank": 50,
-      "previousRank": 49,
-      "rankChange": -1,
+      "previousRank": 50,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "346516607",
       "name": "MagnetMeter",
@@ -1125,8 +1125,8 @@
     },
     {
       "rank": 51,
-      "previousRank": 50,
-      "rankChange": -1,
+      "previousRank": 51,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1020967894",
       "name": "GPS Diagnostic:Prueba Satélite",
@@ -1147,8 +1147,8 @@
     },
     {
       "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "387718749",
       "name": "Air Distance",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "304070702",
       "name": "aSmart HUD",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 53,
-      "rankChange": -1,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "496096478",
       "name": "Odómetro+",
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 54,
-      "rankChange": -1,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "304564168",
       "name": "aSmart HUD +SpeedCams",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "323662975",
       "name": "PFMA E6B",
@@ -1257,8 +1257,8 @@
     },
     {
       "rank": 57,
-      "previousRank": 56,
-      "rankChange": -1,
+      "previousRank": 57,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "320946370",
       "name": "Exit Strategy NYC Subway Map",
@@ -1279,8 +1279,8 @@
     },
     {
       "rank": 58,
-      "previousRank": 57,
-      "rankChange": -1,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "441063072",
       "name": "Ariadne GPS",
@@ -1301,8 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "354048843",
       "name": "NOTAMs",
@@ -1345,30 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 59,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "477094081",
-      "name": "MapOut",
-      "developer": "Valnova",
-      "developerUrl": "https://apps.apple.com/mx/developer/valnova/id312297700?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/mapout/id477094081?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navegación"
-      },
-      "releaseDate": "19/03/2012"
-    },
-    {
-      "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "previousRank": 62,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1530464858",
       "name": "Light Pollution Map",
@@ -1388,9 +1366,31 @@
       "releaseDate": "20/09/2020"
     },
     {
-      "rank": 63,
-      "previousRank": 62,
+      "rank": 62,
+      "previousRank": 61,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "477094081",
+      "name": "MapOut",
+      "developer": "Valnova",
+      "developerUrl": "https://apps.apple.com/mx/developer/valnova/id312297700?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/mapout/id477094081?uo=2",
+      "price": {
+        "amount": 99,
+        "currency": "MXN",
+        "formatted": "$99.00"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navegación"
+      },
+      "releaseDate": "19/03/2012"
+    },
+    {
+      "rank": 63,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1004718471",
       "name": "Navigate to Photo",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "331426518",
       "name": "Airports 4 Pilots Pro - Global",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1174267396",
       "name": "UTM Coordinates Tool",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "494877039",
       "name": "Boat Beacon",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "469705478",
       "name": "Mapa del Mundo",
@@ -1499,8 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
+      "previousRank": 68,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1003087844",
       "name": "Visual Holding Pattern",
@@ -1521,8 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "928388790",
       "name": "Gestor de ubicaciones",
@@ -1543,8 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "500557255",
       "name": "BlindSquare",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "865293820",
       "name": "Nav Camera",
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "405835358",
       "name": "MilGPS",
@@ -1609,8 +1609,8 @@
     },
     {
       "rank": 73,
-      "previousRank": 72,
-      "rankChange": -1,
+      "previousRank": 73,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "321274850",
       "name": "Mizrach Compass",
@@ -1631,8 +1631,8 @@
     },
     {
       "rank": 74,
-      "previousRank": 73,
-      "rankChange": -1,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1433684168",
       "name": "Altura",
@@ -1653,8 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "789553991",
       "name": "MapTool - GPS, Brújula, Altitud, Velocidad, UTM, MGRS y Declinación Magnética",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "657016140",
       "name": "Good Maps: Rutas y Street View",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "348836721",
       "name": "iSpeed Speedometer",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "364909484",
       "name": "GOToronto: GO Transit Sidekick",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "353482327",
       "name": "GPS Recorder X",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6742644783",
       "name": "Speed-Tracker",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "315649961",
       "name": "Marina: Reglas y Señales",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1118978857",
       "name": "Gpx Viewer-Gpx Converter app",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "380647441",
       "name": "AirTrack Classic",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017849394",
       "name": "Ultramagic FlightPack",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "377696336",
       "name": "Best Biking Roads",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "320231032",
       "name": "My Position App",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "329374073",
       "name": "aSmart HUD 3D +SpeedCams",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 87,
-      "rankChange": -1,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "510764571",
       "name": "MapPath Pro",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 88,
-      "rankChange": -1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "346996240",
       "name": "TwoNav 5 (sin actualizaciones)",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "922155038",
       "name": "aprs.fi",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "518207969",
       "name": "San Diego Transit",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "441456344",
       "name": "GPS Stone (GPX Trip Recorder)",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "641353363",
       "name": "Buscar mi latitud y longitud +",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "293118835",
       "name": "iStellar",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1068158828",
       "name": "GPX KML KMZ Viewer Converter",
@@ -2115,8 +2115,8 @@
     },
     {
       "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
+      "previousRank": 96,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "300884541",
       "name": "Aircraft Heading",

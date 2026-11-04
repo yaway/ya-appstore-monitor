@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-03",
-  "collectedAt": "2026-11-03T07:43:45.311Z",
-  "sourceUpdatedAt": "2026-11-02T23:43:44-07:00",
+  "snapshotDate": "2026-11-04",
+  "collectedAt": "2026-11-04T07:22:01.020Z",
+  "sourceUpdatedAt": "2026-11-03T23:22:00-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/us/rss/toppaidapplications/limit=100/genre=6008/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "摄影与录像"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-02",
+  "previousSnapshotDate": "2026-11-03",
   "apps": [
     {
       "rank": 1,
@@ -69,36 +69,14 @@
     },
     {
       "rank": 3,
-      "previousRank": 3,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6805318319",
-      "name": "ROLLIE'S: 35mm Film Camera",
-      "developer": "마야크루",
-      "developerUrl": "https://apps.apple.com/us/developer/%EB%A7%88%EC%95%BC%ED%81%AC%EB%A3%A8/id1242322359?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/53/e3/c453e30f-f6ad-0893-ec4a-cd03ca348fc6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rollies-35mm-film-camera/id6805318319?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "USD",
-        "formatted": "$6.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "September 10, 2026"
-    },
-    {
-      "rank": 4,
-      "previousRank": 21,
-      "rankChange": 17,
+      "previousRank": 4,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6760676546",
       "name": "Very Good Camera",
       "developer": "Gray Ribbon, Inc.",
       "developerUrl": "https://apps.apple.com/us/developer/gray-ribbon-inc/id1885658750?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/fd/39/0ffd3990-f528-010f-3cdc-198eb0bddd85/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/a6/cf/06a6cf52-7555-f1d5-5a29-a6f92a3e5890/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/us/app/very-good-camera/id6760676546?uo=2",
       "price": {
         "amount": 9.99,
@@ -112,9 +90,31 @@
       "releaseDate": "October 21, 2026"
     },
     {
-      "rank": 5,
-      "previousRank": 4,
+      "rank": 4,
+      "previousRank": 3,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "6805318319",
+      "name": "ROLLIE'S: 35mm Film Camera",
+      "developer": "마야크루",
+      "developerUrl": "https://apps.apple.com/us/developer/%EB%A7%88%EC%95%BC%ED%81%AC%EB%A3%A8/id1242322359?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/11/17/5b1117ea-367b-c3cd-8a76-54a24c11c37e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rollies-35mm-film-camera/id6805318319?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "USD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "September 10, 2026"
+    },
+    {
+      "rank": 5,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6748837351",
       "name": "Moment Pro Camera II",
@@ -135,7 +135,29 @@
     },
     {
       "rank": 6,
-      "previousRank": 5,
+      "previousRank": 8,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "640564761",
+      "name": "Stop Motion Studio Pro",
+      "developer": "CATEATER, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/cateater-llc/id388444973?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/c7/9b/edc79bbf-387d-688e-d5b2-a65d46e18aad/Stop_Motion_Studio_Pro_AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/stop-motion-studio-pro/id640564761?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "July 5, 2013"
+    },
+    {
+      "rank": 7,
+      "previousRank": 6,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6818168418",
@@ -156,97 +178,9 @@
       "releaseDate": "October 23, 2026"
     },
     {
-      "rank": 7,
-      "previousRank": 7,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6741474933",
-      "name": "BerryFilm - Korean Style Cam",
-      "developer": "Seungyun Kim",
-      "developerUrl": "https://apps.apple.com/us/developer/seungyun-kim/id1637477427?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/23/47/55234741-500b-2a5e-921d-4bb53260055f/berryfilm-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/berryfilm-korean-style-cam/id6741474933?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "February 27, 2025"
-    },
-    {
       "rank": 8,
-      "previousRank": 8,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "640564761",
-      "name": "Stop Motion Studio Pro",
-      "developer": "CATEATER, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/cateater-llc/id388444973?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/c7/9b/edc79bbf-387d-688e-d5b2-a65d46e18aad/Stop_Motion_Studio_Pro_AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/stop-motion-studio-pro/id640564761?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "July 5, 2013"
-    },
-    {
-      "rank": 9,
-      "previousRank": 14,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "894811756",
-      "name": "PromptSmart Pro - Teleprompter",
-      "developer": "PromptSmart",
-      "developerUrl": "https://apps.apple.com/us/developer/promptsmart/id894811759?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/2b/d5/c02bd5ee-7468-4ad6-abda-20b843356fe1/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "USD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "August 13, 2014"
-    },
-    {
-      "rank": 10,
       "previousRank": 11,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6763737180",
-      "name": "YoungPhoto - Aesthetic Camera",
-      "developer": "Seungyun Kim",
-      "developerUrl": "https://apps.apple.com/us/developer/seungyun-kim/id1637477427?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/38/49/18384936-c2ec-e3c3-90e9-5981d332fb15/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/youngphoto-aesthetic-camera/id6763737180?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "June 26, 2026"
-    },
-    {
-      "rank": 11,
-      "previousRank": 6,
-      "rankChange": -5,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "949490225",
       "name": "Print to Size",
@@ -266,9 +200,75 @@
       "releaseDate": "January 21, 2015"
     },
     {
-      "rank": 12,
-      "previousRank": 10,
+      "rank": 9,
+      "previousRank": 7,
       "rankChange": -2,
+      "isNew": false,
+      "appleId": "6741474933",
+      "name": "BerryFilm - Korean Style Cam",
+      "developer": "Seungyun Kim",
+      "developerUrl": "https://apps.apple.com/us/developer/seungyun-kim/id1637477427?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/23/47/55234741-500b-2a5e-921d-4bb53260055f/berryfilm-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/berryfilm-korean-style-cam/id6741474933?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 27, 2025"
+    },
+    {
+      "rank": 10,
+      "previousRank": 9,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "894811756",
+      "name": "PromptSmart Pro - Teleprompter",
+      "developer": "PromptSmart",
+      "developerUrl": "https://apps.apple.com/us/developer/promptsmart/id894811759?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/2b/d5/c02bd5ee-7468-4ad6-abda-20b843356fe1/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "USD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "August 13, 2014"
+    },
+    {
+      "rank": 11,
+      "previousRank": 13,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "679454835",
+      "name": "Rarevision VHS: Retro Cam",
+      "developer": "Rarevision",
+      "developerUrl": "https://apps.apple.com/us/developer/rarevision/id464591028?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/48/33/244833ea-83a1-0973-5e84-4d376875386e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "August 17, 2015"
+    },
+    {
+      "rank": 12,
+      "previousRank": 12,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "596026805",
       "name": "PhotoPills",
@@ -289,29 +289,7 @@
     },
     {
       "rank": 13,
-      "previousRank": 9,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "679454835",
-      "name": "Rarevision VHS: Retro Cam",
-      "developer": "Rarevision",
-      "developerUrl": "https://apps.apple.com/us/developer/rarevision/id464591028?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/48/33/244833ea-83a1-0973-5e84-4d376875386e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "August 17, 2015"
-    },
-    {
-      "rank": 14,
-      "previousRank": 15,
+      "previousRank": 14,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1062022008",
@@ -332,16 +310,38 @@
       "releaseDate": "December 22, 2016"
     },
     {
-      "rank": 15,
-      "previousRank": 12,
-      "rankChange": -3,
+      "rank": 14,
+      "previousRank": 10,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "754105884",
-      "name": "NightCap Camera: Long Exposure",
-      "developer": "RTD",
-      "developerUrl": "https://apps.apple.com/us/developer/rtd/id1804158489?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884?uo=2",
+      "appleId": "6763737180",
+      "name": "YoungPhoto - Aesthetic Camera",
+      "developer": "Seungyun Kim",
+      "developerUrl": "https://apps.apple.com/us/developer/seungyun-kim/id1637477427?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/38/49/18384936-c2ec-e3c3-90e9-5981d332fb15/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/youngphoto-aesthetic-camera/id6763737180?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "June 26, 2026"
+    },
+    {
+      "rank": 15,
+      "previousRank": 21,
+      "rankChange": 6,
+      "isNew": false,
+      "appleId": "357404131",
+      "name": "Slow Shutter Cam",
+      "developer": "Cogitap Software",
+      "developerUrl": "https://apps.apple.com/us/developer/cogitap-software/id338236702?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ec/70/f7ec7046-f784-0216-cb00-e37354e66130/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/slow-shutter-cam/id357404131?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -351,12 +351,12 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "December 12, 2013"
+      "releaseDate": "February 23, 2010"
     },
     {
       "rank": 16,
-      "previousRank": 22,
-      "rankChange": 6,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "908905093",
       "name": "Lumy",
@@ -377,30 +377,30 @@
     },
     {
       "rank": 17,
-      "previousRank": 17,
-      "rankChange": 0,
+      "previousRank": 15,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "6444631986",
-      "name": "AstroShader",
-      "developer": "AstroShader Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/astroshader-limited/id1655754202?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/23/1e/49231e98-25a2-47bf-abba-89c65699721a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/astroshader/id6444631986?uo=2",
+      "appleId": "754105884",
+      "name": "NightCap Camera: Long Exposure",
+      "developer": "RTD",
+      "developerUrl": "https://apps.apple.com/us/developer/rtd/id1804158489?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$1.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "November 29, 2022"
+      "releaseDate": "December 12, 2013"
     },
     {
       "rank": 18,
-      "previousRank": 31,
-      "rankChange": 13,
+      "previousRank": 18,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "793232740",
       "name": "Cadrage Director's Viewfinder",
@@ -421,7 +421,29 @@
     },
     {
       "rank": 19,
-      "previousRank": 18,
+      "previousRank": 20,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "583922375",
+      "name": "myLightMeter PRO",
+      "developer": "David Quiles",
+      "developerUrl": "https://apps.apple.com/us/developer/david-quiles/id578971109?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/cc/68/16cc6838-a88a-15d8-8a34-5832da18b937/MLPIconCOmposer-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/mylightmeter-pro/id583922375?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 13, 2012"
+    },
+    {
+      "rank": 20,
+      "previousRank": 19,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6472380172",
@@ -442,97 +464,9 @@
       "releaseDate": "May 29, 2024"
     },
     {
-      "rank": 20,
-      "previousRank": 19,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "583922375",
-      "name": "myLightMeter PRO",
-      "developer": "David Quiles",
-      "developerUrl": "https://apps.apple.com/us/developer/david-quiles/id578971109?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/cc/68/16cc6838-a88a-15d8-8a34-5832da18b937/MLPIconCOmposer-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/mylightmeter-pro/id583922375?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 13, 2012"
-    },
-    {
       "rank": 21,
-      "previousRank": 20,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "357404131",
-      "name": "Slow Shutter Cam",
-      "developer": "Cogitap Software",
-      "developerUrl": "https://apps.apple.com/us/developer/cogitap-software/id338236702?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ec/70/f7ec7046-f784-0216-cb00-e37354e66130/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/slow-shutter-cam/id357404131?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "February 23, 2010"
-    },
-    {
-      "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "730712409",
-      "name": "ProCam - Pro Camera",
-      "developer": "Tinkerworks Apps",
-      "developerUrl": "https://apps.apple.com/us/developer/tinkerworks-apps/id503806808?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/76/5a/9d765a70-4bdc-fae1-f35e-4f05a5864419/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 30, 2013"
-    },
-    {
-      "rank": 23,
-      "previousRank": 41,
-      "rankChange": 18,
-      "isNew": false,
-      "appleId": "1198515341",
-      "name": "TV Cast Pro for Sony TV",
-      "developer": "Kraus und Karnath GbR 2Kit Consulting",
-      "developerUrl": "https://apps.apple.com/us/developer/kraus-und-karnath-gbr-2kit-consulting/id477998014?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6a/1d/156a1d7c-1e84-45c1-6ee6-e77ffe6078ce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tv-cast-pro-for-sony-tv/id1198515341?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "August 30, 2017"
-    },
-    {
-      "rank": 24,
-      "previousRank": 13,
-      "rankChange": -11,
+      "previousRank": 24,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1453647914",
       "name": "iWebTV PRO",
@@ -552,75 +486,53 @@
       "releaseDate": "March 15, 2019"
     },
     {
-      "rank": 25,
-      "previousRank": 32,
-      "rankChange": 7,
+      "rank": 22,
+      "previousRank": 17,
+      "rankChange": -5,
       "isNew": false,
-      "appleId": "924695435",
-      "name": "Pixelmator Classic iOS",
-      "developer": "Apple",
-      "developerUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1d/05/f81d0598-c04b-aac5-1048-47ef376a6e90/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pixelmator-classic-ios/id924695435?uo=2",
+      "appleId": "6444631986",
+      "name": "AstroShader",
+      "developer": "AstroShader Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/astroshader-limited/id1655754202?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/23/1e/49231e98-25a2-47bf-abba-89c65699721a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/astroshader/id6444631986?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 1.99,
         "currency": "USD",
-        "formatted": "$9.99"
+        "formatted": "$1.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "October 23, 2014"
+      "releaseDate": "November 29, 2022"
     },
     {
-      "rank": 26,
-      "previousRank": 16,
-      "rankChange": -10,
+      "rank": 23,
+      "previousRank": 37,
+      "rankChange": 14,
       "isNew": false,
-      "appleId": "1304177471",
-      "name": "Superimpose X",
-      "developer": "Pankaj Goswami",
-      "developerUrl": "https://apps.apple.com/us/developer/pankaj-goswami/id1453844207?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/35/e1/8735e161-b3f3-dbd6-263b-004621d59394/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/superimpose-x/id1304177471?uo=2",
+      "appleId": "6738967033",
+      "name": "CineTemp",
+      "developer": "TKNYE",
+      "developerUrl": "https://apps.apple.com/us/developer/tknye/id1783198959?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/cinetemp/id6738967033?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 19.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$19.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "December 15, 2017"
+      "releaseDate": "December 17, 2024"
     },
     {
-      "rank": 27,
-      "previousRank": 30,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "406541444",
-      "name": "8mm Vintage Camera",
-      "developer": "NEXVIO INC.",
-      "developerUrl": "https://apps.apple.com/us/developer/nexvio-inc/id305703973?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/ce/ae/2aceaef3-358a-3b7f-9f18-71af57cf3bf4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 22, 2010"
-    },
-    {
-      "rank": 28,
-      "previousRank": 34,
-      "rankChange": 6,
+      "rank": 24,
+      "previousRank": 28,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "1124131441",
       "name": "Pic Scanner Gold: Scan Photos",
@@ -640,9 +552,53 @@
       "releaseDate": "November 6, 2016"
     },
     {
-      "rank": 29,
-      "previousRank": 37,
-      "rankChange": 8,
+      "rank": 25,
+      "previousRank": 22,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "730712409",
+      "name": "ProCam - Pro Camera",
+      "developer": "Tinkerworks Apps",
+      "developerUrl": "https://apps.apple.com/us/developer/tinkerworks-apps/id503806808?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/76/5a/9d765a70-4bdc-fae1-f35e-4f05a5864419/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 30, 2013"
+    },
+    {
+      "rank": 26,
+      "previousRank": 27,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "406541444",
+      "name": "8mm Vintage Camera",
+      "developer": "NEXVIO INC.",
+      "developerUrl": "https://apps.apple.com/us/developer/nexvio-inc/id305703973?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/ce/ae/2aceaef3-358a-3b7f-9f18-71af57cf3bf4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 22, 2010"
+    },
+    {
+      "rank": 27,
+      "previousRank": 29,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "951627022",
       "name": "Photo Scan Plus",
@@ -662,9 +618,53 @@
       "releaseDate": "March 10, 2015"
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "previousRank": 64,
+      "rankChange": 36,
+      "isNew": false,
+      "appleId": "662559044",
+      "name": "Context Camera",
+      "developer": "Cascode Labs Pty Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/cascode-labs-pty-ltd/id895755095?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/f3/6e/e9f36e95-7d65-c1cc-d15c-febfa3120e63/Icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/context-camera/id662559044?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "June 25, 2013"
+    },
+    {
+      "rank": 29,
       "previousRank": 26,
-      "rankChange": -4,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1304177471",
+      "name": "Superimpose X",
+      "developer": "Pankaj Goswami",
+      "developerUrl": "https://apps.apple.com/us/developer/pankaj-goswami/id1453844207?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/35/e1/8735e161-b3f3-dbd6-263b-004621d59394/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/superimpose-x/id1304177471?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 15, 2017"
+    },
+    {
+      "rank": 30,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6756866511",
       "name": "IIWII",
@@ -685,316 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "650415564",
-      "name": "Mextures Photo Editor",
-      "developer": "MEREK DAVIS COM, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/merek-davis-com-llc/id650415567?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/2e/d2/3c2ed28c-2d3f-7df9-8707-0bb4e8d04ff9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/mextures-photo-editor/id650415564?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 29, 2013"
-    },
-    {
-      "rank": 32,
-      "previousRank": 46,
+      "previousRank": 45,
       "rankChange": 14,
-      "isNew": false,
-      "appleId": "292628469",
-      "name": "Juxtaposer: cut, combine, edit",
-      "developer": "Pocket Pixels Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/pocket-pixels-inc/id292628472?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d2/be/05d2bec0-8afb-7ac4-8e78-e9c3e5ffd29c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/juxtaposer-cut-combine-edit/id292628469?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 6, 2008"
-    },
-    {
-      "rank": 33,
-      "previousRank": 25,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "6768040383",
-      "name": "GR Snap - Ricoh GR Image Sync",
-      "developer": "Techflow Studio Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/techflow-studio-limited/id1896533428?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/41/7b/06417b79-ae89-3215-987d-1875964c450b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/gr-snap-ricoh-gr-image-sync/id6768040383?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 28, 2026"
-    },
-    {
-      "rank": 34,
-      "previousRank": 49,
-      "rankChange": 15,
-      "isNew": false,
-      "appleId": "6443723657",
-      "name": "filmhwa - @hwa.min's filter",
-      "developer": "ARTTIC CO., LTD.",
-      "developerUrl": "https://apps.apple.com/us/developer/arttic-co-ltd/id1648723381?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b5/e5/bbb5e51d-023a-a85a-37ae-d46fb74c301e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/filmhwa-hwa-mins-filter/id6443723657?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "November 9, 2022"
-    },
-    {
-      "rank": 35,
-      "previousRank": 74,
-      "rankChange": 39,
-      "isNew": false,
-      "appleId": "6818673560",
-      "name": "Snapshots: Instant Film Camera",
-      "developer": "Ryan Fredericks",
-      "developerUrl": "https://apps.apple.com/us/developer/ryan-fredericks/id6818673562?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4e/62/9e4e62da-b876-f3f2-9a12-0c24392aa3f4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/snapshots-instant-film-camera/id6818673560?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 19, 2026"
-    },
-    {
-      "rank": 36,
-      "previousRank": 86,
-      "rankChange": 50,
-      "isNew": false,
-      "appleId": "402405770",
-      "name": "Massive Dev Chart Timer",
-      "developer": "Freestyle Photo & Imaging",
-      "developerUrl": "https://apps.apple.com/us/developer/freestyle-photo-imaging/id1786429988?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/58/04/fd58046a-9e54-feba-d0eb-728900057629/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/massive-dev-chart-timer/id402405770?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "November 11, 2010"
-    },
-    {
-      "rank": 37,
-      "previousRank": 35,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6738967033",
-      "name": "CineTemp",
-      "developer": "TKNYE",
-      "developerUrl": "https://apps.apple.com/us/developer/tknye/id1783198959?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/cinetemp/id6738967033?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 17, 2024"
-    },
-    {
-      "rank": 38,
-      "previousRank": 28,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6739510993",
-      "name": "CoreCam",
-      "developer": "NIKLAS KLEEMANN",
-      "developerUrl": "https://apps.apple.com/us/developer/niklas-kleemann/id1747357304?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/21/eb/1421eb7c-8a5b-5d94-b81b-76ac597376b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/corecam/id6739510993?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 12, 2025"
-    },
-    {
-      "rank": 39,
-      "previousRank": 42,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "6821872148",
-      "name": "Duopaper: Panoramic Wallpapers",
-      "developer": "CyberGame Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/e9/6f/7ae96f7f-a8ae-7dbf-9b13-38fafac85d59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/duopaper-panoramic-wallpapers/id6821872148?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 19, 2026"
-    },
-    {
-      "rank": 40,
-      "previousRank": 43,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "955687901",
-      "name": "kirakira+",
-      "developer": "bytes inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/bytes-inc/id451040503?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/kirakira/id955687901?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "February 25, 2015"
-    },
-    {
-      "rank": 41,
-      "previousRank": 24,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "6814971826",
-      "name": "SharpStop Depth of Field Calc",
-      "developer": "Yaniv van der Stigchel",
-      "developerUrl": "https://apps.apple.com/us/developer/yaniv-van-der-stigchel/id6791340700?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ae/7f/85ae7f30-d82a-68e9-cc94-a475f5fba4ed/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sharpstop-depth-of-field-calc/id6814971826?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "September 24, 2026"
-    },
-    {
-      "rank": 42,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1376947780",
-      "name": "Bluetooth+ for Blackmagic",
-      "developer": "We Are Empire PTY LTD",
-      "developerUrl": "https://apps.apple.com/us/developer/we-are-empire-pty-ltd/id356298444?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/28/cf/1728cfbf-b709-26c7-e3a7-8620ea787382/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bluetooth-for-blackmagic/id1376947780?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 8, 2018"
-    },
-    {
-      "rank": 43,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6760838876",
-      "name": "Oldi - Phone Camera",
-      "developer": "Sean Cho",
-      "developerUrl": "https://apps.apple.com/us/developer/sean-cho/id1660678472?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/oldi-phone-camera/id6760838876?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "March 20, 2026"
-    },
-    {
-      "rank": 44,
-      "previousRank": 61,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "342115564",
-      "name": "Classic Camera by Hipstamatic",
-      "developer": "Hipstamatic, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/hipstamatic-llc/id342115567?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8d/64/9f8d641a-ed52-ba4a-55a1-d5318d528937/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/classic-camera-by-hipstamatic/id342115564?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 9, 2009"
-    },
-    {
-      "rank": 45,
-      "previousRank": 48,
-      "rankChange": 3,
       "isNew": false,
       "appleId": "1169086981",
       "name": "NotanIzer",
@@ -1014,16 +706,148 @@
       "releaseDate": "November 10, 2016"
     },
     {
-      "rank": 46,
-      "previousRank": 29,
-      "rankChange": -17,
+      "rank": 32,
+      "previousRank": 25,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "924695435",
+      "name": "Pixelmator Classic iOS",
+      "developer": "Apple",
+      "developerUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1d/05/f81d0598-c04b-aac5-1048-47ef376a6e90/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pixelmator-classic-ios/id924695435?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 23, 2014"
+    },
+    {
+      "rank": 33,
+      "previousRank": 31,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "650415564",
+      "name": "Mextures Photo Editor",
+      "developer": "MEREK DAVIS COM, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/merek-davis-com-llc/id650415567?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/2e/d2/3c2ed28c-2d3f-7df9-8707-0bb4e8d04ff9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/mextures-photo-editor/id650415564?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "May 29, 2013"
+    },
+    {
+      "rank": 34,
+      "previousRank": 23,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "1198515341",
+      "name": "TV Cast Pro for Sony TV",
+      "developer": "Kraus und Karnath GbR 2Kit Consulting",
+      "developerUrl": "https://apps.apple.com/us/developer/kraus-und-karnath-gbr-2kit-consulting/id477998014?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6a/1d/156a1d7c-1e84-45c1-6ee6-e77ffe6078ce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/tv-cast-pro-for-sony-tv/id1198515341?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "August 30, 2017"
+    },
+    {
+      "rank": 35,
+      "previousRank": 39,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6821872148",
+      "name": "Duopaper: Panoramic Wallpapers",
+      "developer": "CyberGame Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/e9/6f/7ae96f7f-a8ae-7dbf-9b13-38fafac85d59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/duopaper-panoramic-wallpapers/id6821872148?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 19, 2026"
+    },
+    {
+      "rank": 36,
+      "previousRank": 83,
+      "rankChange": 47,
+      "isNew": false,
+      "appleId": "1059218666",
+      "name": "Litchi for DJI Drones",
+      "developer": "VC Technology Ltd",
+      "developerUrl": "https://apps.apple.com/us/developer/vc-technology-ltd/id1031764015?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b1/66/ffb166da-7c60-016c-c008-ab2e444bac8b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/litchi-for-dji-drones/id1059218666?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "USD",
+        "formatted": "$24.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 21, 2015"
+    },
+    {
+      "rank": 37,
+      "previousRank": 42,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "1376947780",
+      "name": "Bluetooth+ for Blackmagic",
+      "developer": "We Are Empire PTY LTD",
+      "developerUrl": "https://apps.apple.com/us/developer/we-are-empire-pty-ltd/id356298444?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/28/cf/1728cfbf-b709-26c7-e3a7-8620ea787382/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bluetooth-for-blackmagic/id1376947780?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "May 8, 2018"
+    },
+    {
+      "rank": 38,
+      "previousRank": 46,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "377989827",
-      "name": "Diptic",
+      "name": "Diptic: Photo Collage Maker",
       "developer": "RRRB LLC",
       "developerUrl": "https://apps.apple.com/us/developer/rrrb-llc/id6773141754?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/93/c3/e3/93c3e3c4-7aea-1ac8-f4f8-0289129c92d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/diptic/id377989827?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/59/d5/b159d5ca-f6dd-f3e3-e4c4-021c4d48306a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/diptic-photo-collage-maker/id377989827?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -1036,207 +860,31 @@
       "releaseDate": "June 23, 2010"
     },
     {
-      "rank": 47,
+      "rank": 39,
+      "previousRank": 34,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6443723657",
+      "name": "filmhwa - @hwa.min's filter",
+      "developer": "ARTTIC CO., LTD.",
+      "developerUrl": "https://apps.apple.com/us/developer/arttic-co-ltd/id1648723381?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b5/e5/bbb5e51d-023a-a85a-37ae-d46fb74c301e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/filmhwa-hwa-mins-filter/id6443723657?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "November 9, 2022"
+    },
+    {
+      "rank": 40,
       "previousRank": 56,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "945320815",
-      "name": "ViewExif",
-      "developer": "Skyjos Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/skyjos-co-ltd/id499470116?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/c6/1d/f6c61d4c-d6d1-e031-3b5a-c1e3dbd414da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/viewexif/id945320815?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 9, 2014"
-    },
-    {
-      "rank": 48,
-      "previousRank": 87,
-      "rankChange": 39,
-      "isNew": false,
-      "appleId": "1471558286",
-      "name": "LiveCam – Fullscreen Monitor",
-      "developer": "SoundSpin",
-      "developerUrl": "https://apps.apple.com/us/developer/soundspin/id391672423?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/e8/cf/53e8cf3f-1b71-0b40-42fd-310d45a9e945/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/livecam-fullscreen-monitor/id1471558286?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "July 22, 2019"
-    },
-    {
-      "rank": 49,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1072158444",
-      "name": "iDStretch",
-      "developer": "Jon Harman",
-      "developerUrl": "https://apps.apple.com/us/developer/jon-harman/id1072158443?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/b6/50/afb650d1-09ac-5c6f-732b-eb3680eed4b2/AppIcon-1-1x_U007emarketing-0-10-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/idstretch/id1072158444?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 11, 2016"
-    },
-    {
-      "rank": 50,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "944118456",
-      "name": "EXIF Viewer by Fluntro",
-      "developer": "Fluntro",
-      "developerUrl": "https://apps.apple.com/us/developer/fluntro/id497684641?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/4e/53/5d4e53c1-509c-1ffd-a7a6-9876bcf7856e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/exif-viewer-by-fluntro/id944118456?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "USD",
-        "formatted": "$6.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 11, 2015"
-    },
-    {
-      "rank": 51,
-      "previousRank": 40,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6826452879",
-      "name": "DualSpatial",
-      "developer": "Matthew Fisher",
-      "developerUrl": "https://apps.apple.com/us/developer/matthew-fisher/id1780881912?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/5c/cb/125ccb98-dde8-44a5-30e0-da1a0b7e712e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/dualspatial/id6826452879?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "November 1, 2026"
-    },
-    {
-      "rank": 52,
-      "previousRank": 55,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "414469628",
-      "name": "Face & Body Photo editor",
-      "developer": "Uniqo Lab.",
-      "developerUrl": "https://apps.apple.com/us/developer/uniqo-lab/id1625160709?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/17/d7/a417d719-8c7a-878b-404e-71491023cdce/AppIcon-1x_U007emarketing-0-9-0-0-sRGB-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/face-body-photo-editor/id414469628?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 27, 2011"
-    },
-    {
-      "rank": 53,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1507240653",
-      "name": "Clean Camera for Stream Feed",
-      "developer": "Thomas Backes",
-      "developerUrl": "https://apps.apple.com/us/developer/thomas-backes/id1461717148?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/04/8a/11048a1b-476c-87f9-f7c8-c329ec93dead/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/clean-camera-for-stream-feed/id1507240653?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "April 14, 2020"
-    },
-    {
-      "rank": 54,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1586397529",
-      "name": "yPlayer for YouTube",
-      "developer": "Alex Kitcoff",
-      "developerUrl": "https://apps.apple.com/us/developer/alex-kitcoff/id1348935577?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/22/7b/f5227b04-1dd6-0eab-74a5-c1b17e258ea6/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/yplayer-for-youtube/id1586397529?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "September 20, 2021"
-    },
-    {
-      "rank": 55,
-      "previousRank": 69,
-      "rankChange": 14,
-      "isNew": false,
-      "appleId": "1494197457",
-      "name": "White Balance Meter AI - KEV",
-      "developer": "Satnam Singh",
-      "developerUrl": "https://apps.apple.com/us/developer/satnam-singh/id1090760318?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/ca/9f26ca94-1ea9-c2fd-ec80-081665807f71/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/white-balance-meter-ai-kev/id1494197457?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 30, 2020"
-    },
-    {
-      "rank": 56,
-      "previousRank": 39,
-      "rankChange": -17,
+      "rankChange": 16,
       "isNew": false,
       "appleId": "366195670",
       "name": "The Photographer's Ephemeris",
@@ -1256,31 +904,9 @@
       "releaseDate": "April 16, 2010"
     },
     {
-      "rank": 57,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "381698089",
-      "name": "Pocket Light Meter",
-      "developer": "Nuwaste studios",
-      "developerUrl": "https://apps.apple.com/us/developer/nuwaste-studios/id338524950?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/16/1d/80161d00-66f9-6ccd-c75b-85d3bd6c85f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pocket-light-meter/id381698089?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "July 29, 2010"
-    },
-    {
-      "rank": 58,
-      "previousRank": 53,
-      "rankChange": -5,
+      "rank": 41,
+      "previousRank": 58,
+      "rankChange": 17,
       "isNew": false,
       "appleId": "525176875",
       "name": "Sun Surveyor (Sun & Moon)",
@@ -1300,185 +926,53 @@
       "releaseDate": "May 11, 2012"
     },
     {
-      "rank": 59,
-      "previousRank": 44,
-      "rankChange": -15,
+      "rank": 42,
+      "previousRank": 33,
+      "rankChange": -9,
       "isNew": false,
-      "appleId": "879408799",
-      "name": "Bluristic - Long Exposure",
-      "developer": "Johannes Pfahler",
-      "developerUrl": "https://apps.apple.com/us/developer/johannes-pfahler/id725328483?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ce/00/e3ce0043-4490-a79c-2dde-da27a8d829f9/AppIconFull-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/bluristic-long-exposure/id879408799?uo=2",
+      "appleId": "6768040383",
+      "name": "GR Snap - Ricoh GR Image Sync",
+      "developer": "Techflow Studio Limited",
+      "developerUrl": "https://apps.apple.com/us/developer/techflow-studio-limited/id1896533428?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/41/7b/06417b79-ae89-3215-987d-1875964c450b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/gr-snap-ricoh-gr-image-sync/id6768040383?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 9.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$9.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "June 3, 2014"
+      "releaseDate": "May 28, 2026"
     },
     {
-      "rank": 60,
-      "previousRank": 85,
-      "rankChange": 25,
-      "isNew": false,
-      "appleId": "1348597095",
-      "name": "Camera Remote Watch",
-      "developer": "AppMosaic.com",
-      "developerUrl": "https://apps.apple.com/us/developer/appmosaic-com/id301672819?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/a1/3e/4ba13e82-813c-dbb8-2d53-43901bcd9387/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/camera-remote-watch/id1348597095?uo=2",
-      "price": {
-        "amount": 2.49,
-        "currency": "USD",
-        "formatted": "$2.49"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "February 20, 2018"
-    },
-    {
-      "rank": 61,
+      "rank": 43,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6757842205",
-      "name": "Video Upscaler",
-      "developer": "Le Giang Nam",
-      "developerUrl": "https://apps.apple.com/us/developer/le-giang-nam/id1588693429?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/84/4c/57844c2e-bbeb-0952-1312-e7a0131a98fb/AIUpscaleIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/video-upscaler/id6757842205?uo=2",
+      "appleId": "603037910",
+      "name": "SP Camera",
+      "developer": "Ratha Sou",
+      "developerUrl": "https://apps.apple.com/us/developer/ratha-sou/id590343618?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e9/26/a5e926ca-f7d8-1184-194f-469d25a488c8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sp-camera/id603037910?uo=2",
       "price": {
-        "amount": 4.99,
+        "amount": 9.99,
         "currency": "USD",
-        "formatted": "$4.99"
+        "formatted": "$9.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "July 21, 2026"
+      "releaseDate": "February 19, 2013"
     },
     {
-      "rank": 62,
-      "previousRank": 27,
-      "rankChange": -35,
-      "isNew": false,
-      "appleId": "1313164055",
-      "name": "EE35 Film Camera",
-      "developer": "EIGHTIVE DESIGN, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/eightive-design-inc/id392627285?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/54/96/da549603-1862-fe5c-8bff-9969f9ff1bde/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ee35-film-camera/id1313164055?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "November 15, 2017"
-    },
-    {
-      "rank": 63,
-      "previousRank": 36,
-      "rankChange": -27,
-      "isNew": false,
-      "appleId": "6762336561",
-      "name": "Parallax Monitor",
-      "developer": "Michael Aguado",
-      "developerUrl": "https://apps.apple.com/us/developer/michael-aguado/id1893856394?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/30/4d/e5304db0-6ecc-bcfc-b461-782629e957b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/parallax-monitor/id6762336561?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "USD",
-        "formatted": "$19.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "June 29, 2026"
-    },
-    {
-      "rank": 64,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "662559044",
-      "name": "Context Camera",
-      "developer": "Cascode Labs Pty Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/cascode-labs-pty-ltd/id895755095?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/f3/6e/e9f36e95-7d65-c1cc-d15c-febfa3120e63/Icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/context-camera/id662559044?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "June 25, 2013"
-    },
-    {
-      "rank": 65,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6702028512",
-      "name": "FaceScreen: Floating Camera",
-      "developer": "Softal Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/softal-limited/id1507246665?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/88/9b/61889b1d-3f9d-f24a-a2d9-1f5b8c556ab3/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/facescreen-floating-camera/id6702028512?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "USD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 1, 2024"
-    },
-    {
-      "rank": 66,
-      "previousRank": 81,
-      "rankChange": 15,
-      "isNew": false,
-      "appleId": "6670216955",
-      "name": "Photon Library",
-      "developer": "LateNiteSoft S.L.",
-      "developerUrl": "https://apps.apple.com/us/developer/latenitesoft-s-l/id283292600?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/85/6e/80856eda-e56b-1c6e-84c0-1d2ab75573f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/photon-library/id6670216955?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "USD",
-        "formatted": "$6.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "September 18, 2024"
-    },
-    {
-      "rank": 67,
-      "previousRank": 50,
-      "rankChange": -17,
+      "rank": 44,
+      "previousRank": 67,
+      "rankChange": 23,
       "isNew": false,
       "appleId": "1661598353",
       "name": "Queryable - Photo Search App",
@@ -1498,31 +992,141 @@
       "releaseDate": "December 28, 2022"
     },
     {
-      "rank": 68,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1084325249",
-      "name": "ShutterCount Mobile",
-      "developer": "DIRE Studio",
-      "developerUrl": "https://apps.apple.com/us/developer/dire-studio/id362492883?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/3c/ab/b93caba7-0442-d21e-7565-8ef9095ea7ef/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/shuttercount-mobile/id1084325249?uo=2",
+      "rank": 45,
+      "previousRank": 52,
+      "rankChange": 7,
+      "isNew": false,
+      "appleId": "414469628",
+      "name": "Face & Body Photo editor",
+      "developer": "Uniqo Lab.",
+      "developerUrl": "https://apps.apple.com/us/developer/uniqo-lab/id1625160709?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/17/d7/a417d719-8c7a-878b-404e-71491023cdce/AppIcon-1x_U007emarketing-0-9-0-0-sRGB-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/face-body-photo-editor/id414469628?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 1.99,
         "currency": "USD",
-        "formatted": "$9.99"
+        "formatted": "$1.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "April 4, 2016"
+      "releaseDate": "January 27, 2011"
     },
     {
-      "rank": 69,
-      "previousRank": 33,
-      "rankChange": -36,
+      "rank": 46,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1549693927",
+      "name": "Star Stacker",
+      "developer": "michael webb",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-webb/id622398499?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/d9/86/97d9862e-711f-1ab4-2c0d-c847ca2dc0c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/star-stacker/id1549693927?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "March 1, 2021"
+    },
+    {
+      "rank": 47,
+      "previousRank": 35,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6818673560",
+      "name": "Snapshots: Instant Film Camera",
+      "developer": "Ryan Fredericks",
+      "developerUrl": "https://apps.apple.com/us/developer/ryan-fredericks/id6818673562?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4e/62/9e4e62da-b876-f3f2-9a12-0c24392aa3f4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/snapshots-instant-film-camera/id6818673560?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 19, 2026"
+    },
+    {
+      "rank": 48,
+      "previousRank": 55,
+      "rankChange": 7,
+      "isNew": false,
+      "appleId": "1494197457",
+      "name": "White Balance Meter AI - KEV",
+      "developer": "Satnam Singh",
+      "developerUrl": "https://apps.apple.com/us/developer/satnam-singh/id1090760318?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/ca/9f26ca94-1ea9-c2fd-ec80-081665807f71/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/white-balance-meter-ai-kev/id1494197457?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 30, 2020"
+    },
+    {
+      "rank": 49,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1308057201",
+      "name": "pCAM Pro - Camera Tools",
+      "developer": "David Eubank",
+      "developerUrl": "https://apps.apple.com/us/developer/david-eubank/id1645606643?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/f8/13/adf813eb-c118-71c7-0ad9-694961c77798/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pcam-pro-camera-tools/id1308057201?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "USD",
+        "formatted": "$34.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 20, 2018"
+    },
+    {
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6787959974",
+      "name": "KiraSpark: Sparkle Camera",
+      "developer": "NEURAL CRAFT LIMITED",
+      "developerUrl": "https://apps.apple.com/us/developer/neural-craft-limited/id778607532?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/6e/29/4e6e29ef-d47f-19d0-22ac-50cb574ac8fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/kiraspark-sparkle-camera/id6787959974?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "July 7, 2026"
+    },
+    {
+      "rank": 51,
+      "previousRank": 69,
+      "rankChange": 18,
       "isNew": false,
       "appleId": "6789911475",
       "name": "mySpotMeter",
@@ -1542,126 +1146,16 @@
       "releaseDate": "August 5, 2026"
     },
     {
-      "rank": 70,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "644278663",
-      "name": "Pic Scanner: Scan Old Photos",
-      "developer": "App Initio Limited",
-      "developerUrl": "https://apps.apple.com/us/developer/app-initio-limited/id641937779?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/c7/fe/e0c7fe4d-b07b-2b69-1f5f-32b82a03234d/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pic-scanner-scan-old-photos/id644278663?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "USD",
-        "formatted": "$3.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "June 26, 2013"
-    },
-    {
-      "rank": 71,
-      "previousRank": 67,
+      "rank": 52,
+      "previousRank": 48,
       "rankChange": -4,
       "isNew": false,
-      "appleId": "437015777",
-      "name": "Background Eraser Pro",
-      "developer": "handyCloset Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/handycloset-inc/id434388697?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/0a/db/b40adb11-000e-9186-baec-9996b5281fca/Paid-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/background-eraser-pro/id437015777?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 17, 2011"
-    },
-    {
-      "rank": 72,
-      "previousRank": 75,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "6758233962",
-      "name": "Local Photo Upscaler: Enhancer",
-      "developer": "David Balderston",
-      "developerUrl": "https://apps.apple.com/us/developer/david-balderston/id1819162485?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/61/96/5d619685-8834-5197-989b-ec49c81a7f70/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/local-photo-upscaler-enhancer/id6758233962?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 28, 2026"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1577078380",
-      "name": "Wavebox Audio Editor",
-      "developer": "Luis Rivas",
-      "developerUrl": "https://apps.apple.com/us/developer/luis-rivas/id599309613?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/2f/e3/762fe334-e43f-0c4e-d264-d33a9acf03b6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wavebox-audio-editor/id1577078380?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "USD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "July 21, 2021"
-    },
-    {
-      "rank": 74,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6792011398",
-      "name": "PocketMeter Pro",
-      "developer": "Studio C-41 Productions, LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/studio-c-41-productions-llc/id6792011400?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/73/87/ed738762-92f0-9bed-be64-dfe58565380e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/pocketmeter-pro/id6792011398?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "September 22, 2026"
-    },
-    {
-      "rank": 75,
-      "previousRank": 47,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "320636131",
-      "name": "FACEinHOLE®",
-      "developer": "Lisbon Labs",
-      "developerUrl": "https://apps.apple.com/us/developer/lisbon-labs/id320636134?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c4/12/7fc412af-1e4b-0b59-6817-91d37d924553/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/faceinhole/id320636131?uo=2",
+      "appleId": "1471558286",
+      "name": "LiveCam – Fullscreen Monitor",
+      "developer": "SoundSpin",
+      "developerUrl": "https://apps.apple.com/us/developer/soundspin/id391672423?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/e8/cf/53e8cf3f-1b71-0b40-42fd-310d45a9e945/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/livecam-fullscreen-monitor/id1471558286?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -1671,63 +1165,85 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "July 12, 2009"
+      "releaseDate": "July 22, 2019"
     },
     {
-      "rank": 76,
-      "previousRank": 89,
-      "rankChange": 13,
+      "rank": 53,
+      "previousRank": 36,
+      "rankChange": -17,
       "isNew": false,
-      "appleId": "392627282",
-      "name": "Princess Camera",
-      "developer": "EIGHTIVE DESIGN, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/eightive-design-inc/id392627285?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/a7/0c/6ea70cef-5d2b-314a-699b-79792f1858a6/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/princess-camera/id392627282?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 1, 2010"
-    },
-    {
-      "rank": 77,
-      "previousRank": 94,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "1020149692",
-      "name": "Darkroom Lab Timer",
+      "appleId": "402405770",
+      "name": "Massive Dev Chart Timer",
       "developer": "Freestyle Photo & Imaging",
       "developerUrl": "https://apps.apple.com/us/developer/freestyle-photo-imaging/id1786429988?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/fb/c8/05fbc879-434f-c9d1-b08b-27997ed8ea0c/AppIcon-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/darkroom-lab-timer/id1020149692?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/58/04/fd58046a-9e54-feba-d0eb-728900057629/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/massive-dev-chart-timer/id402405770?uo=2",
       "price": {
-        "amount": 8.99,
+        "amount": 9.99,
         "currency": "USD",
-        "formatted": "$8.99"
+        "formatted": "$9.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "August 25, 2015"
+      "releaseDate": "November 11, 2010"
     },
     {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1262188908",
-      "name": "Scrolling Credits Pro",
-      "developer": "Dating DNA, Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/dating-dna-inc/id295453837?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/1e/4d/a01e4d93-51cd-3727-c269-cfd2541bb332/AppIcon-1-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/scrolling-credits-pro/id1262188908?uo=2",
+      "rank": 54,
+      "previousRank": 40,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "955687901",
+      "name": "kirakira+",
+      "developer": "bytes inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/bytes-inc/id451040503?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/kirakira/id955687901?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 25, 2015"
+    },
+    {
+      "rank": 55,
+      "previousRank": 38,
+      "rankChange": -17,
+      "isNew": false,
+      "appleId": "6739510993",
+      "name": "CoreCam",
+      "developer": "NIKLAS KLEEMANN",
+      "developerUrl": "https://apps.apple.com/us/developer/niklas-kleemann/id1747357304?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/21/eb/1421eb7c-8a5b-5d94-b81b-76ac597376b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/corecam/id6739510993?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 12, 2025"
+    },
+    {
+      "rank": 56,
+      "previousRank": 32,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "292628469",
+      "name": "Juxtaposer: cut, combine, edit",
+      "developer": "Pocket Pixels Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/pocket-pixels-inc/id292628472?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d2/be/05d2bec0-8afb-7ac4-8e78-e9c3e5ffd29c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/juxtaposer-cut-combine-edit/id292628469?uo=2",
       "price": {
         "amount": 4.99,
         "currency": "USD",
@@ -1737,41 +1253,85 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "July 27, 2017"
+      "releaseDate": "October 6, 2008"
     },
     {
-      "rank": 79,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1270382069",
-      "name": "Brightly - Fix Dark Photos",
-      "developer": "Code Organa",
-      "developerUrl": "https://apps.apple.com/us/developer/code-organa/id363410063?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/17/79/131779d5-725d-e869-4244-a06b23754493/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/brightly-fix-dark-photos/id1270382069?uo=2",
+      "rank": 57,
+      "previousRank": 41,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "6814971826",
+      "name": "SharpStop Depth of Field Calc",
+      "developer": "Yaniv van der Stigchel",
+      "developerUrl": "https://apps.apple.com/us/developer/yaniv-van-der-stigchel/id6791340700?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ae/7f/85ae7f30-d82a-68e9-cc94-a475f5fba4ed/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/sharpstop-depth-of-field-calc/id6814971826?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 4.99,
         "currency": "USD",
-        "formatted": "$5.99"
+        "formatted": "$4.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "August 23, 2017"
+      "releaseDate": "September 24, 2026"
     },
     {
-      "rank": 80,
-      "previousRank": 38,
-      "rankChange": -42,
+      "rank": 58,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1546911907",
+      "name": "Even Longer",
+      "developer": "Mario Tomiak",
+      "developerUrl": "https://apps.apple.com/us/developer/mario-tomiak/id571596483?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ed/e0/89ede049-8421-99f8-a746-bc7e0b6e9a99/EvenLonger26-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/even-longer/id1546911907?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "May 30, 2021"
+    },
+    {
+      "rank": 59,
+      "previousRank": 43,
+      "rankChange": -16,
       "isNew": false,
-      "appleId": "1477266080",
-      "name": "NDI Camera: Easy Streaming",
-      "developer": "NewTek",
-      "developerUrl": "https://apps.apple.com/us/developer/newtek/id573312611?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/b4/b9/e5b4b95e-2393-34a0-8911-bb9e22ce8fa7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ndi-camera-easy-streaming/id1477266080?uo=2",
+      "appleId": "6760838876",
+      "name": "Oldi - Phone Camera",
+      "developer": "Sean Cho",
+      "developerUrl": "https://apps.apple.com/us/developer/sean-cho/id1660678472?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/oldi-phone-camera/id6760838876?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "March 20, 2026"
+    },
+    {
+      "rank": 60,
+      "previousRank": 63,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "6762336561",
+      "name": "Parallax Monitor",
+      "developer": "Michael Aguado",
+      "developerUrl": "https://apps.apple.com/us/developer/michael-aguado/id1893856394?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/7a/bf/d77abfbe-8b3f-bf19-7242-156e147fe273/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/parallax-monitor/id6762336561?uo=2",
       "price": {
         "amount": 19.99,
         "currency": "USD",
@@ -1781,12 +1341,166 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "September 14, 2019"
+      "releaseDate": "June 29, 2026"
     },
     {
-      "rank": 81,
-      "previousRank": 59,
-      "rankChange": -22,
+      "rank": 61,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1441905750",
+      "name": "Distressed FX : Plus",
+      "developer": "We Are Here",
+      "developerUrl": "https://apps.apple.com/us/developer/we-are-here/id585702634?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/6b/3e/526b3e72-ff06-deff-2ada-bd47021be6b9/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/distressed-fx-plus/id1441905750?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 8, 2019"
+    },
+    {
+      "rank": 62,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "881156035",
+      "name": "Cinescope",
+      "developer": "Poster Child Pictures Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/poster-child-pictures-inc/id883857368?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/07/6b/76/076b76e0-b59f-e5cc-ecfa-ef18d40a6360/AppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/cinescope/id881156035?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "May 28, 2014"
+    },
+    {
+      "rank": 63,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1547228500",
+      "name": "OBS Controller",
+      "developer": "Fallen Starlight AB",
+      "developerUrl": "https://apps.apple.com/us/developer/fallen-starlight-ab/id1547228502?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/80/0a/6e800a18-80d1-3306-e8a0-5f821915f5a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/obs-controller/id1547228500?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 16, 2021"
+    },
+    {
+      "rank": 64,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1671238889",
+      "name": "Macroscope Cam",
+      "developer": "Don Vuckovic",
+      "developerUrl": "https://apps.apple.com/us/developer/don-vuckovic/id1176249791?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/03/53/ab03534e-fb7a-b4f7-060d-948e28b0520c/Macroscope26-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/macroscope-cam/id1671238889?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 22, 2023"
+    },
+    {
+      "rank": 65,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6741552778",
+      "name": "CoreDream – AI Art Styles",
+      "developer": "MEHDI SQALLI",
+      "developerUrl": "https://apps.apple.com/us/developer/mehdi-sqalli/id1788505317?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/33/da/d633dac2-2a6d-ea2d-1068-f5745a762624/AppIcon-0-0-1x_U007ephone-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/coredream-ai-art-styles/id6741552778?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 14, 2025"
+    },
+    {
+      "rank": 66,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6821098445",
+      "name": "QuickLUT",
+      "developer": "Scott DeVore",
+      "developerUrl": "https://apps.apple.com/us/developer/scott-devore/id6819098971?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/2c/76/e82c769b-d2f4-73be-d949-4bdc07dc6996/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/quicklut/id6821098445?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 27, 2026"
+    },
+    {
+      "rank": 67,
+      "previousRank": 49,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "1072158444",
+      "name": "iDStretch",
+      "developer": "Jon Harman",
+      "developerUrl": "https://apps.apple.com/us/developer/jon-harman/id1072158443?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/af/b6/50/afb650d1-09ac-5c6f-732b-eb3680eed4b2/AppIcon-1-1x_U007emarketing-0-10-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/idstretch/id1072158444?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 11, 2016"
+    },
+    {
+      "rank": 68,
+      "previousRank": 81,
+      "rankChange": 13,
       "isNew": false,
       "appleId": "6698876690",
       "name": "WristTube+ Player for YouTube",
@@ -1806,76 +1520,10 @@
       "releaseDate": "September 28, 2024"
     },
     {
-      "rank": 82,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1135992985",
-      "name": "TV Cast Pro for Chromecast",
-      "developer": "Kraus und Karnath GbR 2Kit Consulting",
-      "developerUrl": "https://apps.apple.com/us/developer/kraus-und-karnath-gbr-2kit-consulting/id477998014?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/b1/40/b9b14045-e2fc-f405-4bd7-65fe3a5874a2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/tv-cast-pro-for-chromecast/id1135992985?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "July 29, 2016"
-    },
-    {
-      "rank": 83,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1059218666",
-      "name": "Litchi for DJI Drones",
-      "developer": "VC Technology Ltd",
-      "developerUrl": "https://apps.apple.com/us/developer/vc-technology-ltd/id1031764015?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b1/66/ffb166da-7c60-016c-c008-ab2e444bac8b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/litchi-for-dji-drones/id1059218666?uo=2",
-      "price": {
-        "amount": 24.99,
-        "currency": "USD",
-        "formatted": "$24.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "December 21, 2015"
-    },
-    {
-      "rank": 84,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6796873275",
-      "name": "VHS Camcorder: 90s Retro Cam",
-      "developer": "Efuare Okougbo",
-      "developerUrl": "https://apps.apple.com/us/developer/efuare-okougbo/id1877426457?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ba/0d/e9ba0d16-bd24-bad7-e10d-42ec2e340d37/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/vhs-camcorder-90s-retro-cam/id6796873275?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "USD",
-        "formatted": "$1.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "October 1, 2026"
-    },
-    {
-      "rank": 85,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 69,
+      "previousRank": 85,
+      "rankChange": 16,
+      "isNew": false,
       "appleId": "6504192378",
       "name": "B.ROLL - Youth Filter Camera",
       "developer": "FRONIS CO., LTD.",
@@ -1894,10 +1542,450 @@
       "releaseDate": "June 21, 2024"
     },
     {
-      "rank": 86,
+      "rank": 70,
+      "previousRank": 44,
+      "rankChange": -26,
+      "isNew": false,
+      "appleId": "342115564",
+      "name": "Classic Camera by Hipstamatic",
+      "developer": "Hipstamatic, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/hipstamatic-llc/id342115567?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8d/64/9f8d641a-ed52-ba4a-55a1-d5318d528937/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/classic-camera-by-hipstamatic/id342115564?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 9, 2009"
+    },
+    {
+      "rank": 71,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
+      "appleId": "6761366366",
+      "name": "ZineControl",
+      "developer": "Antonio Gonzalez",
+      "developerUrl": "https://apps.apple.com/us/developer/antonio-gonzalez/id1889147339?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/c4/ba/fac4bad4-5342-efe9-5d71-b68e01154924/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/zinecontrol/id6761366366?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "USD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "June 12, 2026"
+    },
+    {
+      "rank": 72,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "414544492",
+      "name": "Image Blender",
+      "developer": "JHND i Sverige AB",
+      "developerUrl": "https://apps.apple.com/us/developer/jhnd-i-sverige-ab/id309687330?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/4e/67/f24e6762-4d11-b0e3-ff19-0ad47d78ec03/IB27-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/image-blender/id414544492?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 21, 2011"
+    },
+    {
+      "rank": 73,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "590534084",
+      "name": "Timecode+",
+      "developer": "Daniel Ricciotti",
+      "developerUrl": "https://apps.apple.com/us/developer/daniel-ricciotti/id327181167?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/03/91/4e039125-782f-3095-9bbb-11cebfa72e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/timecode/id590534084?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 7, 2013"
+    },
+    {
+      "rank": 74,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1587381734",
+      "name": "Macro Mode",
+      "developer": "Kenneth Kao",
+      "developerUrl": "https://apps.apple.com/us/developer/kenneth-kao/id288711611?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/d5/c8/e7d5c8c0-8c45-cd5e-f272-dfc367fbc0e9/AppIcon3-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/macro-mode/id1587381734?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 15, 2021"
+    },
+    {
+      "rank": 75,
+      "previousRank": 66,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "6670216955",
+      "name": "Photon Library",
+      "developer": "LateNiteSoft S.L.",
+      "developerUrl": "https://apps.apple.com/us/developer/latenitesoft-s-l/id283292600?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/85/6e/80856eda-e56b-1c6e-84c0-1d2ab75573f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/photon-library/id6670216955?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "USD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "September 18, 2024"
+    },
+    {
+      "rank": 76,
+      "previousRank": 68,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "1084325249",
+      "name": "ShutterCount Mobile",
+      "developer": "DIRE Studio",
+      "developerUrl": "https://apps.apple.com/us/developer/dire-studio/id362492883?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/3c/ab/b93caba7-0442-d21e-7565-8ef9095ea7ef/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/shuttercount-mobile/id1084325249?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "April 4, 2016"
+    },
+    {
+      "rank": 77,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "926015463",
+      "name": "Timestamp Photo and Video pro",
+      "developer": "玉彬 陈",
+      "developerUrl": "https://apps.apple.com/us/developer/%E7%8E%89%E5%BD%AC-%E9%99%88/id662165538?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/8b/eb/a08beb22-6778-53b6-0741-44403e267878/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/timestamp-photo-and-video-pro/id926015463?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 22, 2014"
+    },
+    {
+      "rank": 78,
+      "previousRank": 75,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "320636131",
+      "name": "FACEinHOLE®",
+      "developer": "Lisbon Labs",
+      "developerUrl": "https://apps.apple.com/us/developer/lisbon-labs/id320636134?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c4/12/7fc412af-1e4b-0b59-6817-91d37d924553/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/faceinhole/id320636131?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "USD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "July 12, 2009"
+    },
+    {
+      "rank": 79,
+      "previousRank": 47,
+      "rankChange": -32,
+      "isNew": false,
+      "appleId": "945320815",
+      "name": "ViewExif",
+      "developer": "Skyjos Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/us/developer/skyjos-co-ltd/id499470116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/c6/1d/f6c61d4c-d6d1-e031-3b5a-c1e3dbd414da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/viewexif/id945320815?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "December 9, 2014"
+    },
+    {
+      "rank": 80,
+      "previousRank": 71,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "437015777",
+      "name": "Background Eraser Pro",
+      "developer": "handyCloset Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/handycloset-inc/id434388697?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/0a/db/b40adb11-000e-9186-baec-9996b5281fca/Paid-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/background-eraser-pro/id437015777?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "USD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "May 17, 2011"
+    },
+    {
+      "rank": 81,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "305557780",
+      "name": "iSwap Faces Pro",
+      "developer": "Black Frog Industries, LLC",
+      "developerUrl": "https://apps.apple.com/us/developer/black-frog-industries-llc/id303102762?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/72/5c/4d725c99-53e7-1c74-a249-fb4930682a30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/iswap-faces-pro/id305557780?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 26, 2009"
+    },
+    {
+      "rank": 82,
+      "previousRank": 72,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6758233962",
+      "name": "Local Photo Upscaler: Enhancer",
+      "developer": "David Balderston",
+      "developerUrl": "https://apps.apple.com/us/developer/david-balderston/id1819162485?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/61/96/5d619685-8834-5197-989b-ec49c81a7f70/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/local-photo-upscaler-enhancer/id6758233962?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "USD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 28, 2026"
+    },
+    {
+      "rank": 83,
+      "previousRank": 76,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "392627282",
+      "name": "Princess Camera",
+      "developer": "EIGHTIVE DESIGN, Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/eightive-design-inc/id392627285?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/a7/0c/6ea70cef-5d2b-314a-699b-79792f1858a6/AppIcon-1x_U007emarketing-85-220-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/princess-camera/id392627282?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "October 1, 2010"
+    },
+    {
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "304871603",
+      "name": "Color Splash",
+      "developer": "Pocket Pixels Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/pocket-pixels-inc/id292628472?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/23/88/ad23889d-fcf7-a406-7285-1d8d63581913/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/color-splash/id304871603?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "February 15, 2009"
+    },
+    {
+      "rank": 85,
+      "previousRank": 79,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1270382069",
+      "name": "Brightly - Fix Dark Photos",
+      "developer": "Code Organa",
+      "developerUrl": "https://apps.apple.com/us/developer/code-organa/id363410063?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/17/79/131779d5-725d-e869-4244-a06b23754493/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/brightly-fix-dark-photos/id1270382069?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "USD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "August 23, 2017"
+    },
+    {
+      "rank": 86,
+      "previousRank": 80,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1477266080",
+      "name": "NDI Camera: Easy Streaming",
+      "developer": "NewTek",
+      "developerUrl": "https://apps.apple.com/us/developer/newtek/id573312611?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/b4/b9/e5b4b95e-2393-34a0-8911-bb9e22ce8fa7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ndi-camera-easy-streaming/id1477266080?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "USD",
+        "formatted": "$19.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "September 14, 2019"
+    },
+    {
+      "rank": 87,
+      "previousRank": 50,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "944118456",
+      "name": "EXIF Viewer by Fluntro",
+      "developer": "Fluntro",
+      "developerUrl": "https://apps.apple.com/us/developer/fluntro/id497684641?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/4e/53/5d4e53c1-509c-1ffd-a7a6-9876bcf7856e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/exif-viewer-by-fluntro/id944118456?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "USD",
+        "formatted": "$6.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 11, 2015"
+    },
+    {
+      "rank": 88,
+      "previousRank": 51,
+      "rankChange": -37,
+      "isNew": false,
+      "appleId": "6826452879",
+      "name": "DualSpatial",
+      "developer": "Matthew Fisher",
+      "developerUrl": "https://apps.apple.com/us/developer/matthew-fisher/id1780881912?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/5c/cb/125ccb98-dde8-44a5-30e0-da1a0b7e712e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/dualspatial/id6826452879?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "USD",
+        "formatted": "$3.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "November 1, 2026"
+    },
+    {
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1599324535",
+      "name": "AI Reef Cam",
+      "developer": "Feraco media Inc.",
+      "developerUrl": "https://apps.apple.com/us/developer/feraco-media-inc/id497957884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/23/66/8b/23668bf4-2ca3-aa78-4001-cfd72f4e4f7a/AppIcon-1x_U007epad-0-10-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/ai-reef-cam/id1599324535?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "USD",
+        "formatted": "$1.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "January 5, 2022"
+    },
+    {
+      "rank": 90,
+      "previousRank": 86,
+      "rankChange": -4,
+      "isNew": false,
       "appleId": "481606446",
       "name": "TurboCollage - Collage Creator",
       "developer": "SilkenMermaid",
@@ -1916,32 +2004,32 @@
       "releaseDate": "November 29, 2011"
     },
     {
-      "rank": 87,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "494472589",
-      "name": "eZy Watermark Photos Classic",
-      "developer": "Whizpool",
-      "developerUrl": "https://apps.apple.com/us/developer/whizpool/id403929838?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/3e/b1/1c3eb1bf-192d-651f-8edb-fd1a2ece7eae/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/ezy-watermark-photos-classic/id494472589?uo=2",
+      "rank": 91,
+      "previousRank": 53,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "1507240653",
+      "name": "Clean Camera for Stream Feed",
+      "developer": "Thomas Backes",
+      "developerUrl": "https://apps.apple.com/us/developer/thomas-backes/id1461717148?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/04/8a/11048a1b-476c-87f9-f7c8-c329ec93dead/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/clean-camera-for-stream-feed/id1507240653?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$5.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "February 16, 2012"
+      "releaseDate": "April 14, 2020"
     },
     {
-      "rank": 88,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 92,
+      "previousRank": 88,
+      "rankChange": -4,
+      "isNew": false,
       "appleId": "436114747",
       "name": "ComicBook!",
       "developer": "3DTOPO Inc.",
@@ -1960,82 +2048,16 @@
       "releaseDate": "July 5, 2011"
     },
     {
-      "rank": 89,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1453990763",
-      "name": "Screen Mirroring+ for Fire TV",
-      "developer": "Kraus und Karnath GbR 2Kit Consulting",
-      "developerUrl": "https://apps.apple.com/us/developer/kraus-und-karnath-gbr-2kit-consulting/id477998014?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/26/a7/3126a720-f7bd-31a4-51db-6907b05bb6d9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/screen-mirroring-for-fire-tv/id1453990763?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "USD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "March 2, 2019"
-    },
-    {
-      "rank": 90,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6771109323",
-      "name": "WA Sticker",
-      "developer": "GlobalBIT Inc.",
-      "developerUrl": "https://apps.apple.com/us/developer/globalbit-inc/id419302057?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/21/d0/b021d07d-87cb-338c-cb0a-644749684ed6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/wa-sticker/id6771109323?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 20, 2026"
-    },
-    {
-      "rank": 91,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "525313123",
-      "name": "Panorama 360",
-      "developer": "Pelsynth",
-      "developerUrl": "https://apps.apple.com/us/developer/pelsynth/id525313126?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/6d/81/c26d81b7-dcd8-5583-5203-ddd620253499/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/panorama-360/id525313123?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "USD",
-        "formatted": "$0.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "May 25, 2012"
-    },
-    {
-      "rank": 92,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6736499511",
-      "name": "NO RAW",
-      "developer": "Drew Mylrea",
-      "developerUrl": "https://apps.apple.com/us/developer/drew-mylrea/id953433557?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fe/7b/04fe7b40-7053-41f0-7170-d4f35a7f1dd8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/no-raw/id6736499511?uo=2",
+      "rank": 93,
+      "previousRank": 54,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "1586397529",
+      "name": "yPlayer for YouTube",
+      "developer": "Alex Kitcoff",
+      "developerUrl": "https://apps.apple.com/us/developer/alex-kitcoff/id1348935577?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/22/7b/f5227b04-1dd6-0eab-74a5-c1b17e258ea6/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/yplayer-for-youtube/id1586397529?uo=2",
       "price": {
         "amount": 1.99,
         "currency": "USD",
@@ -2045,63 +2067,41 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "October 5, 2024"
-    },
-    {
-      "rank": 93,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1178946624",
-      "name": "Auto Date & Time Photo Stamper",
-      "developer": "SUSAMP INFOTECH",
-      "developerUrl": "https://apps.apple.com/us/developer/susamp-infotech/id1535920005?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/79/5f/fc795fa3-f3ee-1583-ef03-2b12be9edbfc/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/auto-date-time-photo-stamper/id1178946624?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "January 5, 2017"
+      "releaseDate": "September 20, 2021"
     },
     {
       "rank": 94,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1366557092",
-      "name": "Filmlike Kyoto",
-      "developer": "Hyun-il Kim",
-      "developerUrl": "https://apps.apple.com/us/developer/hyun-il-kim/id1273509681?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/91/12/da9112e7-bb12-2d68-4b60-712a8d6a853e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/filmlike-kyoto/id1366557092?uo=2",
+      "appleId": "6744577017",
+      "name": "MistLens",
+      "developer": "Dongguan Tuesday Technology Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/us/developer/dongguan-tuesday-technology-co-ltd/id1681685673?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/14/cb/0414cb50-fc38-6061-0cc3-051b1ccac996/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/mistlens/id6744577017?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 2.99,
         "currency": "USD",
-        "formatted": "$0.99"
+        "formatted": "$2.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "April 3, 2018"
+      "releaseDate": "April 23, 2025"
     },
     {
       "rank": 95,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6776040988",
-      "name": "This Time Last Year",
-      "developer": "Allura LLC",
-      "developerUrl": "https://apps.apple.com/us/developer/allura-llc/id1896731246?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/32/9d/ce329d88-3786-0578-491c-aab8524a2e33/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/this-time-last-year/id6776040988?uo=2",
+      "appleId": "6759816094",
+      "name": "Pixels: Self-Hosted Photos",
+      "developer": "Jerrell Mardis",
+      "developerUrl": "https://apps.apple.com/us/developer/jerrell-mardis/id320579484?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/56/a3/7356a384-9082-abaf-5a96-be1ef8a94c38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pixels-self-hosted-photos/id6759816094?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "USD",
@@ -2111,85 +2111,41 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "June 10, 2026"
+      "releaseDate": "September 4, 2026"
     },
     {
       "rank": 96,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6499238232",
-      "name": "YISM Pose Guide",
-      "developer": "Anthony Wright",
-      "developerUrl": "https://apps.apple.com/us/developer/anthony-wright/id1678001083?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a6/54/bda65442-b0e6-9ed0-3628-4881488c77b5/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/yism-pose-guide/id6499238232?uo=2",
+      "appleId": "1539331570",
+      "name": "Camera Tools for GoPro® Heros",
+      "developer": "Harald Meyer",
+      "developerUrl": "https://apps.apple.com/us/developer/harald-meyer/id389514018?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/54/01/8554011b-db79-15ee-5d4e-f4d97de84193/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/camera-tools-for-gopro-heros/id1539331570?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 17.99,
         "currency": "USD",
-        "formatted": "$5.99"
+        "formatted": "$17.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "April 24, 2024"
+      "releaseDate": "November 11, 2020"
     },
     {
       "rank": 97,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6761054764",
-      "name": "Face Morph Video: Baby Growth",
-      "developer": "Koji Yamamoto",
-      "developerUrl": "https://apps.apple.com/us/developer/koji-yamamoto/id584373084?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/5e/78/2d5e7826-f6b2-28ec-fb72-54f2d65adc2d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/face-morph-video-baby-growth/id6761054764?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "USD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "April 17, 2026"
-    },
-    {
-      "rank": 98,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1626766643",
-      "name": "Cross Filter",
-      "developer": "Masanori Katsuta",
-      "developerUrl": "https://apps.apple.com/us/developer/masanori-katsuta/id320172788?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1e/35/5b1e35cf-c84c-9b52-dc13-0e5ce43e8c96/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/cross-filter/id1626766643?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "USD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6008",
-        "name": "Photo & Video"
-      },
-      "releaseDate": "June 1, 2022"
-    },
-    {
-      "rank": 99,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6814655039",
-      "name": "The Director's Viewfinder",
-      "developer": "Rickey Mizuno",
-      "developerUrl": "https://apps.apple.com/us/developer/rickey-mizuno/id6814655041?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/f6/39/10f639f7-f22f-61fd-ec17-9ee6b60d4082/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/the-directors-viewfinder/id6814655039?uo=2",
+      "previousRank": 57,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "381698089",
+      "name": "Pocket Light Meter",
+      "developer": "Nuwaste studios",
+      "developerUrl": "https://apps.apple.com/us/developer/nuwaste-studios/id338524950?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/16/1d/80161d00-66f9-6ccd-c75b-85d3bd6c85f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/pocket-light-meter/id381698089?uo=2",
       "price": {
         "amount": 9.99,
         "currency": "USD",
@@ -2199,29 +2155,51 @@
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "October 6, 2026"
+      "releaseDate": "July 29, 2010"
     },
     {
-      "rank": 100,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6789496773",
-      "name": "Sequence: Zines & Books",
-      "developer": "Codesigner Tech Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/us/developer/codesigner-tech-co-ltd/id1093345141?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/aa/4c/e9aa4ccf-5027-51d3-fa5f-d301fd501c01/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/us/app/sequence-zines-books/id6789496773?uo=2",
+      "rank": 98,
+      "previousRank": 59,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "879408799",
+      "name": "Bluristic - Long Exposure",
+      "developer": "Johannes Pfahler",
+      "developerUrl": "https://apps.apple.com/us/developer/johannes-pfahler/id725328483?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ce/00/e3ce0043-4490-a79c-2dde-da27a8d829f9/AppIconFull-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/bluristic-long-exposure/id879408799?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 4.99,
         "currency": "USD",
-        "formatted": "$2.99"
+        "formatted": "$4.99"
       },
       "primaryCategory": {
         "id": "6008",
         "name": "Photo & Video"
       },
-      "releaseDate": "August 5, 2026"
+      "releaseDate": "June 3, 2014"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "979540312",
+      "name": "Northern Lights Photo Taker",
+      "developer": "Lazily Inspired",
+      "developerUrl": "https://apps.apple.com/us/developer/lazily-inspired/id517620725?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/bf/7a/17/bf7a170b-5d2b-3f74-9246-2023f9e56c2e/AppIcon-0-1x_U007emarketing-0-0-85-220-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/us/app/northern-lights-photo-taker/id979540312?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "USD",
+        "formatted": "$0.99"
+      },
+      "primaryCategory": {
+        "id": "6008",
+        "name": "Photo & Video"
+      },
+      "releaseDate": "April 8, 2015"
     }
   ]
 }
