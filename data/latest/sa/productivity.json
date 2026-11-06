@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-04",
-  "collectedAt": "2026-11-04T07:23:35.695Z",
-  "sourceUpdatedAt": "2026-11-03T23:23:34-07:00",
+  "snapshotDate": "2026-11-06",
+  "collectedAt": "2026-11-06T07:49:23.215Z",
+  "sourceUpdatedAt": "2026-11-05T23:49:22-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/sa/rss/toppaidapplications/limit=100/genre=6007/json",
   "chartType": "paid",
@@ -21,7 +21,7 @@
   "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-02",
+  "previousSnapshotDate": "2026-11-04",
   "apps": [
     {
       "rank": 1,
@@ -47,14 +47,58 @@
     },
     {
       "rank": 2,
+      "previousRank": 78,
+      "rankChange": 76,
+      "isNew": false,
+      "appleId": "352000376",
+      "name": "Shift Worker",
+      "developer": "Production Shed Pty Ltd",
+      "developerUrl": "https://apps.apple.com/sa/developer/production-shed-pty-ltd/id317720850?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/aa/f9/9baaf92e-b4f7-621a-5210-1a7ed0f5d1f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/shift-worker/id352000376?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "SAR",
+        "formatted": "SAR 9.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "25 January 2010"
+    },
+    {
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1672085276",
+      "name": "Aiko",
+      "developer": "Sindre Sorhus",
+      "developerUrl": "https://apps.apple.com/sa/developer/sindre-sorhus/id328077650?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/7a/df/b67adf6a-68d2-36cd-f8af-6a64ed2f3b73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/aiko/id1672085276?uo=2",
+      "price": {
+        "amount": 99.99,
+        "currency": "SAR",
+        "formatted": "SAR 99.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "03 March 2023"
+    },
+    {
+      "rank": 4,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6822194774",
       "name": "TypeDraw",
       "developer": "Trautmann & Dorre GbR Shaped Agency",
       "developerUrl": "https://apps.apple.com/sa/developer/trautmann-dorre-gbr-shaped-agency/id1784286059?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/47/cf/e047cf32-1f37-c739-13c7-6095a34a0794/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/60/fb/5d60fbba-b293-c6f8-035c-eecd59f1e7a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/sa/app/typedraw/id6822194774?uo=2",
       "price": {
         "amount": 19.99,
@@ -68,31 +112,9 @@
       "releaseDate": "20 October 2026"
     },
     {
-      "rank": 3,
-      "previousRank": 12,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "378503081",
-      "name": "Groundwire: VoIP SIP Softphone",
-      "developer": "Acrobits",
-      "developerUrl": "https://apps.apple.com/sa/developer/acrobits/id314192802?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/06/70/64067063-1b4f-61c8-e87c-44b4b7bc6a6f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/groundwire-voip-sip-softphone/id378503081?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "SAR",
-        "formatted": "SAR 39.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "17 August 2010"
-    },
-    {
-      "rank": 4,
-      "previousRank": 25,
-      "rankChange": 21,
+      "rank": 5,
+      "previousRank": 4,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "466388978",
       "name": "My Contacts Backup Pro",
@@ -112,141 +134,9 @@
       "releaseDate": "03 October 2011"
     },
     {
-      "rank": 5,
-      "previousRank": 99,
-      "rankChange": 94,
-      "isNew": false,
-      "appleId": "1602403259",
-      "name": "Webmail App: IMAP Email Client",
-      "developer": "LAXMAN KATTIKAR",
-      "developerUrl": "https://apps.apple.com/sa/developer/laxman-kattikar/id1551532983?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/0e/15ef0e6c-ce43-ee87-d1c9-d6e151e3d90b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/webmail-app-imap-email-client/id1602403259?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "SAR",
-        "formatted": "SAR 12.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "14 March 2022"
-    },
-    {
       "rank": 6,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1438243180",
-      "name": "Dark Reader for Safari",
-      "developer": "Dark Reader Ltd",
-      "developerUrl": "https://apps.apple.com/sa/developer/dark-reader-ltd/id1438243179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/91/11/e8911158-a4b1-3a6f-c8b9-1193164ee5ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/dark-reader-for-safari/id1438243180?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "SAR",
-        "formatted": "SAR 19.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "10 October 2018"
-    },
-    {
-      "rank": 7,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "464192849",
-      "name": "RE.minder PRO+",
-      "developer": "postmechanical, LLC",
-      "developerUrl": "https://apps.apple.com/sa/developer/postmechanical-llc/id342587069?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/98/69/2098699b-fd19-8847-ba9a-fe8afdfa1cbd/RE.minder_PRO_U002b-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/re-minder-pro/id464192849?uo=2",
-      "price": {
-        "amount": 34.99,
-        "currency": "SAR",
-        "formatted": "SAR 34.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "12 October 2011"
-    },
-    {
-      "rank": 8,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6756236079",
-      "name": "Gravity Notes: Minimal Notepad",
-      "developer": "Tristan Manchester",
-      "developerUrl": "https://apps.apple.com/sa/developer/tristan-manchester/id1841242335?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/cc/aa/72ccaa60-c77a-f6f6-c76f-2c2920038396/Gravity-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/gravity-notes-minimal-notepad/id6756236079?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "SAR",
-        "formatted": "SAR 39.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "09 December 2025"
-    },
-    {
-      "rank": 9,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1393837500",
-      "name": "LittleGray Calculator-Infinity",
-      "developer": "峻 杨",
-      "developerUrl": "https://apps.apple.com/sa/developer/%E5%B3%BB-%E6%9D%A8/id1259658398?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ca/83/e7ca8320-c9ea-e068-9ceb-ba013dac772c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/littlegray-calculator-infinity/id1393837500?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "SAR",
-        "formatted": "SAR 12.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "07 September 2018"
-    },
-    {
-      "rank": 10,
-      "previousRank": 6,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6738342400",
-      "name": "Tampermonkey",
-      "developer": "Jan Biniok",
-      "developerUrl": "https://apps.apple.com/sa/developer/jan-biniok/id1482490088?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/tampermonkey/id6738342400?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "SAR",
-        "formatted": "SAR 12.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "18 November 2024"
-    },
-    {
-      "rank": 11,
-      "previousRank": 13,
-      "rankChange": 2,
+      "previousRank": 11,
+      "rankChange": 5,
       "isNew": false,
       "appleId": "390017969",
       "name": "Due - Reminders & Timers",
@@ -266,75 +156,9 @@
       "releaseDate": "14 September 2010"
     },
     {
-      "rank": 12,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "839529762",
-      "name": "Safe +  Password Manager",
-      "developer": "edv & medien GmbH",
-      "developerUrl": "https://apps.apple.com/sa/developer/edv-medien-gmbh/id1310453576?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/79/af/0079affa-6100-8ade-ca7e-083462b48b0e/_appIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/safe-password-manager/id839529762?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "SAR",
-        "formatted": "SAR 12.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "08 April 2014"
-    },
-    {
-      "rank": 13,
-      "previousRank": 37,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "325962257",
-      "name": "My Measures PRO + AR Measure",
-      "developer": "TOP APP d.o.o.",
-      "developerUrl": "https://apps.apple.com/sa/developer/top-app-d-o-o/id987048778?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/97/ce/fb97ceac-1bda-1a43-5b12-72c244fbaa94/appIcon-blue-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/my-measures-pro-ar-measure/id325962257?uo=2",
-      "price": {
-        "amount": 49.99,
-        "currency": "SAR",
-        "formatted": "SAR 49.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "13 August 2009"
-    },
-    {
-      "rank": 14,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6759260396",
-      "name": "EquiStudio",
-      "developer": "Natalie Koop",
-      "developerUrl": "https://apps.apple.com/sa/developer/natalie-koop/id1877698626?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/65/6a/e0656a12-3f56-fb74-8f61-5d2f3e38d8ca/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/equistudio/id6759260396?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "SAR",
-        "formatted": "SAR 17.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "24 February 2026"
-    },
-    {
-      "rank": 15,
-      "previousRank": 3,
-      "rankChange": -12,
+      "rank": 7,
+      "previousRank": 15,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "904237743",
       "name": "Things 3",
@@ -354,31 +178,119 @@
       "releaseDate": "18 May 2017"
     },
     {
-      "rank": 16,
-      "previousRank": 4,
-      "rankChange": -12,
+      "rank": 8,
+      "previousRank": 58,
+      "rankChange": 50,
       "isNew": false,
-      "appleId": "1453356099",
-      "name": "Multi Timer: Study & Focus",
-      "developer": "Roman Sevastyanov",
-      "developerUrl": "https://apps.apple.com/sa/developer/roman-sevastyanov/id1448837134?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/b9/74/b5b97455-a7c7-bc5b-39d7-3328c6e13f77/app-icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/multi-timer-study-focus/id1453356099?uo=2",
+      "appleId": "1046592104",
+      "name": "Pipedata-Plus",
+      "developer": "John Bennett",
+      "developerUrl": "https://apps.apple.com/sa/developer/john-bennett/id967758845?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/11/011111e4-4635-834a-5877-cc9a5c2fc698/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/pipedata-plus/id1046592104?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 59.99,
         "currency": "SAR",
-        "formatted": "SAR 0.99"
+        "formatted": "SAR 59.99"
       },
       "primaryCategory": {
         "id": "6007",
         "name": "Productivity"
       },
-      "releaseDate": "19 February 2019"
+      "releaseDate": "18 October 2015"
     },
     {
-      "rank": 17,
-      "previousRank": 5,
-      "rankChange": -12,
+      "rank": 9,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1449380586",
+      "name": "WristMail for Gmail",
+      "developer": "Muhammad Siddiqui",
+      "developerUrl": "https://apps.apple.com/sa/developer/muhammad-siddiqui/id1438148611?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c6/e0/f3/c6e0f31e-a385-a015-ef42-409df995302e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/wristmail-for-gmail/id1449380586?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "SAR",
+        "formatted": "SAR 9.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "13 January 2019"
+    },
+    {
+      "rank": 10,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1641038939",
+      "name": "Quick keyboard - Auto Reply",
+      "developer": "ErxiangHeyi Information",
+      "developerUrl": "https://apps.apple.com/sa/developer/erxiangheyi-information/id1735695526?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/20/3b1620e1-880f-66c2-2992-587b5cd2d0b1/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/quick-keyboard-auto-reply/id1641038939?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "SAR",
+        "formatted": "SAR 9.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "02 September 2022"
+    },
+    {
+      "rank": 11,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6826478625",
+      "name": "Pocket Mac Lab",
+      "developer": "Declann Tan",
+      "developerUrl": "https://apps.apple.com/sa/developer/declann-tan/id6820676118?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/27/18/e5271884-cb32-faf2-3f6a-58c55a6ff334/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/pocket-mac-lab/id6826478625?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "SAR",
+        "formatted": "SAR 24.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "01 November 2026"
+    },
+    {
+      "rank": 12,
+      "previousRank": 3,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "378503081",
+      "name": "Groundwire: VoIP SIP Softphone",
+      "developer": "Acrobits",
+      "developerUrl": "https://apps.apple.com/sa/developer/acrobits/id314192802?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a2/f3/40a2f309-b767-0fef-d352-38730a51b5f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/groundwire-voip-sip-softphone/id378503081?uo=2",
+      "price": {
+        "amount": 39.99,
+        "currency": "SAR",
+        "formatted": "SAR 39.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "17 August 2010"
+    },
+    {
+      "rank": 13,
+      "previousRank": 17,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "6449003064",
       "name": "Goblin Tools",
@@ -398,82 +310,60 @@
       "releaseDate": "31 May 2023"
     },
     {
-      "rank": 18,
-      "previousRank": 8,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1085978097",
-      "name": "Pythonista 3",
-      "developer": "omz:software",
-      "developerUrl": "https://apps.apple.com/sa/developer/omz-software/id285608316?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/64/b3/9364b3be-d98e-3820-cf6e-c531ea84cf2a/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/pythonista-3/id1085978097?uo=2",
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6744060281",
+      "name": "Merge - Voice Memos",
+      "developer": "Rajendran Sajith Sajindran",
+      "developerUrl": "https://apps.apple.com/sa/developer/rajendran-sajith-sajindran/id1769186344?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/75/12/4e751251-cdab-b5be-c373-a995041e64db/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/merge-voice-memos/id6744060281?uo=2",
       "price": {
-        "amount": 39.99,
+        "amount": 12.99,
         "currency": "SAR",
-        "formatted": "SAR 39.99"
+        "formatted": "SAR 12.99"
       },
       "primaryCategory": {
         "id": "6007",
         "name": "Productivity"
       },
-      "releaseDate": "13 June 2016"
+      "releaseDate": "02 April 2025"
     },
     {
-      "rank": 19,
-      "previousRank": 9,
+      "rank": 15,
+      "previousRank": 5,
       "rankChange": -10,
       "isNew": false,
-      "appleId": "1441863446",
-      "name": "1Contact Pro: Clean & Backup",
-      "developer": "Roxwin Vietnam Technologies Company Limited",
-      "developerUrl": "https://apps.apple.com/sa/developer/roxwin-vietnam-technologies-company-limited/id1077249023?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8f/7c/3f8f7cb3-8c8e-2b83-80b5-ee2691fc5039/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/1contact-pro-clean-backup/id1441863446?uo=2",
+      "appleId": "1602403259",
+      "name": "Webmail App: IMAP Email Client",
+      "developer": "LAXMAN KATTIKAR",
+      "developerUrl": "https://apps.apple.com/sa/developer/laxman-kattikar/id1551532983?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/0e/15ef0e6c-ce43-ee87-d1c9-d6e151e3d90b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/webmail-app-imap-email-client/id1602403259?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 12.99,
         "currency": "SAR",
-        "formatted": "SAR 9.99"
+        "formatted": "SAR 12.99"
       },
       "primaryCategory": {
         "id": "6007",
         "name": "Productivity"
       },
-      "releaseDate": "10 November 2018"
+      "releaseDate": "14 March 2022"
     },
     {
-      "rank": 20,
-      "previousRank": 10,
+      "rank": 16,
+      "previousRank": 6,
       "rankChange": -10,
       "isNew": false,
-      "appleId": "6760016182",
-      "name": "Image to PDF offline",
-      "developer": "Abid Rahim",
-      "developerUrl": "https://apps.apple.com/sa/developer/abid-rahim/id1707542441?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6e/45/406e4515-dd23-86b6-d3d5-683df511404d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/image-to-pdf-offline/id6760016182?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "SAR",
-        "formatted": "SAR 4.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "05 March 2026"
-    },
-    {
-      "rank": 21,
-      "previousRank": 11,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6775229471",
-      "name": "Glimpse: HTML & Markdown",
-      "developer": "浩 郭",
-      "developerUrl": "https://apps.apple.com/sa/developer/%E6%B5%A9-%E9%83%AD/id1881045244?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/6f/df/a46fdfea-d386-f796-0fb4-684db0641455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/glimpse-html-markdown/id6775229471?uo=2",
+      "appleId": "1438243180",
+      "name": "Dark Reader for Safari",
+      "developer": "Dark Reader Ltd",
+      "developerUrl": "https://apps.apple.com/sa/developer/dark-reader-ltd/id1438243179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/91/11/e8911158-a4b1-3a6f-c8b9-1193164ee5ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/dark-reader-for-safari/id1438243180?uo=2",
       "price": {
         "amount": 19.99,
         "currency": "SAR",
@@ -483,12 +373,100 @@
         "id": "6007",
         "name": "Productivity"
       },
-      "releaseDate": "14 September 2026"
+      "releaseDate": "10 October 2018"
     },
     {
-      "rank": 22,
-      "previousRank": 26,
-      "rankChange": 4,
+      "rank": 17,
+      "previousRank": 7,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "464192849",
+      "name": "RE.minder PRO+",
+      "developer": "postmechanical, LLC",
+      "developerUrl": "https://apps.apple.com/sa/developer/postmechanical-llc/id342587069?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/98/69/2098699b-fd19-8847-ba9a-fe8afdfa1cbd/RE.minder_PRO_U002b-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/re-minder-pro/id464192849?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "SAR",
+        "formatted": "SAR 34.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "12 October 2011"
+    },
+    {
+      "rank": 18,
+      "previousRank": 8,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6756236079",
+      "name": "Gravity Notes: Minimal Notepad",
+      "developer": "Tristan Manchester",
+      "developerUrl": "https://apps.apple.com/sa/developer/tristan-manchester/id1841242335?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/cc/aa/72ccaa60-c77a-f6f6-c76f-2c2920038396/Gravity-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/gravity-notes-minimal-notepad/id6756236079?uo=2",
+      "price": {
+        "amount": 39.99,
+        "currency": "SAR",
+        "formatted": "SAR 39.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "09 December 2025"
+    },
+    {
+      "rank": 19,
+      "previousRank": 9,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "1393837500",
+      "name": "LittleGray Calculator-Infinity",
+      "developer": "峻 杨",
+      "developerUrl": "https://apps.apple.com/sa/developer/%E5%B3%BB-%E6%9D%A8/id1259658398?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ca/83/e7ca8320-c9ea-e068-9ceb-ba013dac772c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/littlegray-calculator-infinity/id1393837500?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "SAR",
+        "formatted": "SAR 12.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "07 September 2018"
+    },
+    {
+      "rank": 20,
+      "previousRank": 10,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6738342400",
+      "name": "Tampermonkey",
+      "developer": "Jan Biniok",
+      "developerUrl": "https://apps.apple.com/sa/developer/jan-biniok/id1482490088?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/tampermonkey/id6738342400?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "SAR",
+        "formatted": "SAR 12.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "18 November 2024"
+    },
+    {
+      "rank": 21,
+      "previousRank": 22,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1126527207",
       "name": "CalliPro محترف الخط",
@@ -508,9 +486,9 @@
       "releaseDate": "23 July 2016"
     },
     {
-      "rank": 23,
-      "previousRank": 27,
-      "rankChange": 4,
+      "rank": 22,
+      "previousRank": 23,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "388624839",
       "name": "CamScanner + | PDF Scanner",
@@ -530,9 +508,9 @@
       "releaseDate": "27 August 2010"
     },
     {
-      "rank": 24,
-      "previousRank": 28,
-      "rankChange": 4,
+      "rank": 23,
+      "previousRank": 24,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "336683524",
       "name": "iFiles",
@@ -552,9 +530,31 @@
       "releaseDate": "05 December 2009"
     },
     {
+      "rank": 24,
+      "previousRank": 18,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1085978097",
+      "name": "Pythonista 3",
+      "developer": "omz:software",
+      "developerUrl": "https://apps.apple.com/sa/developer/omz-software/id285608316?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/64/b3/9364b3be-d98e-3820-cf6e-c531ea84cf2a/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/pythonista-3/id1085978097?uo=2",
+      "price": {
+        "amount": 39.99,
+        "currency": "SAR",
+        "formatted": "SAR 39.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "13 June 2016"
+    },
+    {
       "rank": 25,
-      "previousRank": 29,
-      "rankChange": 4,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "777310222",
       "name": "GoodReader PDF Editor & Viewer",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 30,
-      "rankChange": 4,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1126314052",
       "name": "SHAREit Pro",
@@ -597,8 +597,8 @@
     },
     {
       "rank": 27,
-      "previousRank": 31,
-      "rankChange": 4,
+      "previousRank": 27,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1037960018",
       "name": "Graphic for iPhone",
@@ -619,8 +619,8 @@
     },
     {
       "rank": 28,
-      "previousRank": 32,
-      "rankChange": 4,
+      "previousRank": 28,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "311349103",
       "name": "Tips & Tricks Pro - for iPhone",
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 33,
-      "rankChange": 4,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "625477515",
       "name": "Fast Flash -Browser and Player",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 34,
-      "rankChange": 4,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "680169170",
       "name": "Contact Cleaner & Merge",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 35,
-      "rankChange": 4,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1527022381",
       "name": "Speeche Pro - Voice Dictation",
@@ -707,8 +707,30 @@
     },
     {
       "rank": 32,
-      "previousRank": 36,
-      "rankChange": 4,
+      "previousRank": 13,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "325962257",
+      "name": "My Measures PRO + AR Measure",
+      "developer": "TOP APP d.o.o.",
+      "developerUrl": "https://apps.apple.com/sa/developer/top-app-d-o-o/id987048778?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/97/ce/fb97ceac-1bda-1a43-5b12-72c244fbaa94/appIcon-blue-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/my-measures-pro-ar-measure/id325962257?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "SAR",
+        "formatted": "SAR 49.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "13 August 2009"
+    },
+    {
+      "rank": 33,
+      "previousRank": 32,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "903019028",
       "name": "Keyplan 3D - Home design",
@@ -728,9 +750,9 @@
       "releaseDate": "09 October 2014"
     },
     {
-      "rank": 33,
-      "previousRank": 20,
-      "rankChange": -13,
+      "rank": 34,
+      "previousRank": 33,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1269010857",
       "name": "Magic Call Pro: AI Voices",
@@ -750,9 +772,9 @@
       "releaseDate": "31 August 2017"
     },
     {
-      "rank": 34,
-      "previousRank": 38,
-      "rankChange": 4,
+      "rank": 35,
+      "previousRank": 34,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "794829634",
       "name": "DownloadMate - Music, Video, File Downloader & Manager",
@@ -772,15 +794,15 @@
       "releaseDate": "04 March 2014"
     },
     {
-      "rank": 35,
-      "previousRank": 39,
-      "rankChange": 4,
+      "rank": 36,
+      "previousRank": 35,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "314192799",
       "name": "Acrobits: VoIP SIP Softphone",
       "developer": "Acrobits",
       "developerUrl": "https://apps.apple.com/sa/developer/acrobits/id314192802?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/36/bc/9f36bc0e-c118-9c5f-17fd-09eb9b8c9bd3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/73/99/7d739907-d6e7-67cd-687a-14ac1dc260af/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/sa/app/acrobits-voip-sip-softphone/id314192799?uo=2",
       "price": {
         "amount": 29.99,
@@ -794,9 +816,9 @@
       "releaseDate": "01 July 2009"
     },
     {
-      "rank": 36,
-      "previousRank": 40,
-      "rankChange": 4,
+      "rank": 37,
+      "previousRank": 36,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "415038787",
       "name": "Photo Measures",
@@ -816,9 +838,9 @@
       "releaseDate": "19 January 2011"
     },
     {
-      "rank": 37,
-      "previousRank": 41,
-      "rankChange": 4,
+      "rank": 38,
+      "previousRank": 37,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "953426154",
       "name": "Be Focused Pro- Pomodoro Timer",
@@ -838,9 +860,9 @@
       "releaseDate": "27 January 2015"
     },
     {
-      "rank": 38,
-      "previousRank": 42,
-      "rankChange": 4,
+      "rank": 39,
+      "previousRank": 38,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "378174507",
       "name": "SimpleMind Pro - Mind Mapping",
@@ -860,9 +882,9 @@
       "releaseDate": "24 June 2010"
     },
     {
-      "rank": 39,
-      "previousRank": 43,
-      "rankChange": 4,
+      "rank": 40,
+      "previousRank": 39,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "582793399",
       "name": "Rocket Video Cast",
@@ -882,9 +904,9 @@
       "releaseDate": "14 January 2015"
     },
     {
-      "rank": 40,
-      "previousRank": 44,
-      "rankChange": 4,
+      "rank": 41,
+      "previousRank": 40,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1304488725",
       "name": "MyScript Calculator",
@@ -904,9 +926,9 @@
       "releaseDate": "23 January 2018"
     },
     {
-      "rank": 41,
-      "previousRank": 45,
-      "rankChange": 4,
+      "rank": 42,
+      "previousRank": 41,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "453325610",
       "name": "Hide my phone number",
@@ -926,9 +948,9 @@
       "releaseDate": "05 August 2011"
     },
     {
-      "rank": 42,
-      "previousRank": 46,
-      "rankChange": 4,
+      "rank": 43,
+      "previousRank": 42,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "284979163",
       "name": "iSilo",
@@ -948,9 +970,9 @@
       "releaseDate": "01 February 2019"
     },
     {
-      "rank": 43,
-      "previousRank": 47,
-      "rankChange": 4,
+      "rank": 44,
+      "previousRank": 43,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "313005710",
       "name": "Documents Pro",
@@ -970,9 +992,9 @@
       "releaseDate": "30 April 2009"
     },
     {
-      "rank": 44,
-      "previousRank": 48,
-      "rankChange": 4,
+      "rank": 45,
+      "previousRank": 44,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1530535446",
       "name": "Text4Me",
@@ -992,9 +1014,9 @@
       "releaseDate": "12 May 2021"
     },
     {
-      "rank": 45,
-      "previousRank": 50,
-      "rankChange": 5,
+      "rank": 46,
+      "previousRank": 45,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "301656026",
       "name": "Print n Share",
@@ -1014,9 +1036,9 @@
       "releaseDate": "12 January 2009"
     },
     {
-      "rank": 46,
-      "previousRank": 7,
-      "rankChange": -39,
+      "rank": 47,
+      "previousRank": 46,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "623690732",
       "name": "Calzy",
@@ -1036,9 +1058,9 @@
       "releaseDate": "18 April 2013"
     },
     {
-      "rank": 47,
-      "previousRank": 51,
-      "rankChange": 4,
+      "rank": 48,
+      "previousRank": 47,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1104795347",
       "name": "iFiles 2",
@@ -1058,9 +1080,9 @@
       "releaseDate": "11 July 2016"
     },
     {
-      "rank": 48,
-      "previousRank": 52,
-      "rankChange": 4,
+      "rank": 49,
+      "previousRank": 48,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1121523480",
       "name": "Magic Launcher Widgets Pro",
@@ -1080,9 +1102,9 @@
       "releaseDate": "07 June 2016"
     },
     {
-      "rank": 49,
-      "previousRank": 53,
-      "rankChange": 4,
+      "rank": 50,
+      "previousRank": 49,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "787863350",
       "name": "Zoiper Premium voip soft phone",
@@ -1102,9 +1124,9 @@
       "releaseDate": "06 January 2014"
     },
     {
-      "rank": 50,
-      "previousRank": 54,
-      "rankChange": 4,
+      "rank": 51,
+      "previousRank": 50,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "480102733",
       "name": "Awesome Calendar",
@@ -1124,9 +1146,9 @@
       "releaseDate": "17 November 2011"
     },
     {
-      "rank": 51,
-      "previousRank": 55,
-      "rankChange": 4,
+      "rank": 52,
+      "previousRank": 51,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1238229570",
       "name": "OctoPanel for OctoPrint",
@@ -1146,9 +1168,31 @@
       "releaseDate": "23 June 2017"
     },
     {
-      "rank": 52,
-      "previousRank": 16,
-      "rankChange": -36,
+      "rank": 53,
+      "previousRank": 19,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "1441863446",
+      "name": "1Contact Pro: Clean & Backup",
+      "developer": "Roxwin Vietnam Technologies Company Limited",
+      "developerUrl": "https://apps.apple.com/sa/developer/roxwin-vietnam-technologies-company-limited/id1077249023?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8f/7c/3f8f7cb3-8c8e-2b83-80b5-ee2691fc5039/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/1contact-pro-clean-backup/id1441863446?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "SAR",
+        "formatted": "SAR 9.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "10 November 2018"
+    },
+    {
+      "rank": 54,
+      "previousRank": 52,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1050198849",
       "name": "حاسبة التركس Trix Calculator",
@@ -1168,9 +1212,9 @@
       "releaseDate": "06 November 2015"
     },
     {
-      "rank": 53,
-      "previousRank": 56,
-      "rankChange": 3,
+      "rank": 55,
+      "previousRank": 53,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "455190486",
       "name": "oneSafe password manager",
@@ -1190,9 +1234,9 @@
       "releaseDate": "12 October 2011"
     },
     {
-      "rank": 54,
-      "previousRank": 57,
-      "rankChange": 3,
+      "rank": 56,
+      "previousRank": 54,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "573135652",
       "name": "Simple Notes: Ultimate Edition",
@@ -1212,9 +1256,9 @@
       "releaseDate": "06 November 2012"
     },
     {
-      "rank": 55,
-      "previousRank": 58,
-      "rankChange": 3,
+      "rank": 57,
+      "previousRank": 55,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1335318686",
       "name": "IPSW Go",
@@ -1234,9 +1278,9 @@
       "releaseDate": "15 January 2018"
     },
     {
-      "rank": 56,
-      "previousRank": 59,
-      "rankChange": 3,
+      "rank": 58,
+      "previousRank": 56,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1030156203",
       "name": "Purify: Block Ads and Tracking",
@@ -1256,9 +1300,9 @@
       "releaseDate": "16 September 2015"
     },
     {
-      "rank": 57,
-      "previousRank": 60,
-      "rankChange": 3,
+      "rank": 59,
+      "previousRank": 57,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "876356250",
       "name": "AirBrowser - AirPlay browser",
@@ -1278,31 +1322,9 @@
       "releaseDate": "28 May 2014"
     },
     {
-      "rank": 58,
-      "previousRank": 61,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1046592104",
-      "name": "Pipedata-Plus",
-      "developer": "John Bennett",
-      "developerUrl": "https://apps.apple.com/sa/developer/john-bennett/id967758845?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/11/011111e4-4635-834a-5877-cc9a5c2fc698/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/pipedata-plus/id1046592104?uo=2",
-      "price": {
-        "amount": 59.99,
-        "currency": "SAR",
-        "formatted": "SAR 59.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "18 October 2015"
-    },
-    {
-      "rank": 59,
-      "previousRank": 62,
-      "rankChange": 3,
+      "rank": 60,
+      "previousRank": 59,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "728530482",
       "name": "House Design Pro",
@@ -1322,9 +1344,9 @@
       "releaseDate": "25 October 2013"
     },
     {
-      "rank": 60,
-      "previousRank": 63,
-      "rankChange": 3,
+      "rank": 61,
+      "previousRank": 60,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "354015291",
       "name": "abcNotes Full Version",
@@ -1344,9 +1366,9 @@
       "releaseDate": "01 April 2010"
     },
     {
-      "rank": 61,
-      "previousRank": 64,
-      "rankChange": 3,
+      "rank": 62,
+      "previousRank": 61,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1041886995",
       "name": "Home Design 3D Outdoor Garden",
@@ -1366,9 +1388,9 @@
       "releaseDate": "06 November 2015"
     },
     {
-      "rank": 62,
-      "previousRank": 66,
-      "rankChange": 4,
+      "rank": 63,
+      "previousRank": 62,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "515197396",
       "name": "Reminder & Countdown Pro",
@@ -1388,9 +1410,9 @@
       "releaseDate": "05 April 2012"
     },
     {
-      "rank": 63,
-      "previousRank": 67,
-      "rankChange": 4,
+      "rank": 64,
+      "previousRank": 63,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "513188658",
       "name": "Polaris Office Mobile",
@@ -1410,9 +1432,9 @@
       "releaseDate": "09 January 2013"
     },
     {
-      "rank": 64,
-      "previousRank": 68,
-      "rankChange": 4,
+      "rank": 65,
+      "previousRank": 64,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "831046475",
       "name": "VisuCaller",
@@ -1432,9 +1454,9 @@
       "releaseDate": "28 June 2014"
     },
     {
-      "rank": 65,
-      "previousRank": 69,
-      "rankChange": 4,
+      "rank": 66,
+      "previousRank": 65,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "817682885",
       "name": "NFT Creator & Crypto Art Maker",
@@ -1454,31 +1476,9 @@
       "releaseDate": "18 February 2014"
     },
     {
-      "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "615328054",
-      "name": "Planit2d",
-      "developer": "Paul Wright",
-      "developerUrl": "https://apps.apple.com/sa/developer/paul-wright/id1393408896?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/15/9b/f0159b29-e715-e668-42c7-39c921d0c5f1/AppIcon-Paid-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/planit2d/id615328054?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "SAR",
-        "formatted": "SAR 19.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "27 March 2013"
-    },
-    {
       "rank": 67,
-      "previousRank": 71,
-      "rankChange": 4,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "686378579",
       "name": "Contacts Sync Pro",
@@ -1499,30 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 70,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "430234732",
-      "name": "Site Audit Pro",
-      "developer": "Veam Studios Ltd",
-      "developerUrl": "https://apps.apple.com/sa/developer/veam-studios-ltd/id410336935?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/b6/41/08b64171-945e-a063-61d8-713a17699b2b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/site-audit-pro/id430234732?uo=2",
-      "price": {
-        "amount": 59.99,
-        "currency": "SAR",
-        "formatted": "SAR 59.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "26 April 2011"
-    },
-    {
-      "rank": 69,
-      "previousRank": 72,
-      "rankChange": 3,
+      "previousRank": 69,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "948216105",
       "name": "My Scans PRO, pdf scanner app",
@@ -1542,9 +1520,9 @@
       "releaseDate": "21 December 2014"
     },
     {
-      "rank": 70,
-      "previousRank": 73,
-      "rankChange": 3,
+      "rank": 69,
+      "previousRank": 70,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "740660941",
       "name": "3D Animated Emoji PRO + Emoticons - SMS,MMS,WhatsApp Smileys Animoticons Stickers",
@@ -1564,9 +1542,9 @@
       "releaseDate": "15 November 2013"
     },
     {
-      "rank": 71,
-      "previousRank": 74,
-      "rankChange": 3,
+      "rank": 70,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "374151636",
       "name": "Popplet",
@@ -1586,9 +1564,53 @@
       "releaseDate": "31 May 2010"
     },
     {
+      "rank": 71,
+      "previousRank": 66,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "615328054",
+      "name": "Planit2d",
+      "developer": "Paul Wright",
+      "developerUrl": "https://apps.apple.com/sa/developer/paul-wright/id1393408896?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/15/9b/f0159b29-e715-e668-42c7-39c921d0c5f1/AppIcon-Paid-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/planit2d/id615328054?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "SAR",
+        "formatted": "SAR 19.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "27 March 2013"
+    },
+    {
       "rank": 72,
-      "previousRank": 75,
-      "rankChange": 3,
+      "previousRank": 68,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "430234732",
+      "name": "Site Audit Pro",
+      "developer": "Veam Studios Ltd",
+      "developerUrl": "https://apps.apple.com/sa/developer/veam-studios-ltd/id410336935?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/b6/41/08b64171-945e-a063-61d8-713a17699b2b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/site-audit-pro/id430234732?uo=2",
+      "price": {
+        "amount": 59.99,
+        "currency": "SAR",
+        "formatted": "SAR 59.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "26 April 2011"
+    },
+    {
+      "rank": 73,
+      "previousRank": 72,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "302724213",
       "name": "all-in Notes",
@@ -1608,9 +1630,9 @@
       "releaseDate": "19 January 2009"
     },
     {
-      "rank": 73,
-      "previousRank": 76,
-      "rankChange": 3,
+      "rank": 74,
+      "previousRank": 73,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "484001216",
       "name": "SuperNote Notes Recorder+Photo",
@@ -1630,9 +1652,9 @@
       "releaseDate": "21 December 2011"
     },
     {
-      "rank": 74,
-      "previousRank": 77,
-      "rankChange": 3,
+      "rank": 75,
+      "previousRank": 74,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "410824816",
       "name": "Password Manager iPassSafe .",
@@ -1652,9 +1674,31 @@
       "releaseDate": "23 December 2010"
     },
     {
-      "rank": 75,
-      "previousRank": 79,
-      "rankChange": 4,
+      "rank": 76,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "460661291",
+      "name": "Safety Note+ Pro: Locked Notes",
+      "developer": "Eightythree Technology",
+      "developerUrl": "https://apps.apple.com/sa/developer/eightythree-technology/id431033047?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/b2/d0/a6b2d089-c7d4-60a9-d366-be70d777e145/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/safety-note-pro-locked-notes/id460661291?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "SAR",
+        "formatted": "SAR 17.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "30 September 2011"
+    },
+    {
+      "rank": 77,
+      "previousRank": 75,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1328806990",
       "name": "Bear Focus Timer: Work & Study",
@@ -1674,9 +1718,9 @@
       "releaseDate": "12 January 2018"
     },
     {
-      "rank": 76,
-      "previousRank": 80,
-      "rankChange": 4,
+      "rank": 78,
+      "previousRank": 76,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "506632088",
       "name": "Orderly Check Lists",
@@ -1696,9 +1740,9 @@
       "releaseDate": "19 July 2012"
     },
     {
-      "rank": 77,
-      "previousRank": 81,
-      "rankChange": 4,
+      "rank": 79,
+      "previousRank": 77,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "952813813",
       "name": "oneSafe+ password manager",
@@ -1718,53 +1762,9 @@
       "releaseDate": "02 February 2017"
     },
     {
-      "rank": 78,
-      "previousRank": 83,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "352000376",
-      "name": "Shift Worker",
-      "developer": "Production Shed Pty Ltd",
-      "developerUrl": "https://apps.apple.com/sa/developer/production-shed-pty-ltd/id317720850?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/aa/f9/9baaf92e-b4f7-621a-5210-1a7ed0f5d1f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/shift-worker/id352000376?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "SAR",
-        "formatted": "SAR 9.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "25 January 2010"
-    },
-    {
-      "rank": 79,
-      "previousRank": 84,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "552664144",
-      "name": "PDF Max Pro - Edit, Sign PDFs",
-      "developer": "Mobeera",
-      "developerUrl": "https://apps.apple.com/sa/developer/mobeera/id540572076?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2c/93/072c93b5-5ef2-c631-0237-02995596ba2a/PDFMaxPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/pdf-max-pro-edit-sign-pdfs/id552664144?uo=2",
-      "price": {
-        "amount": 39.99,
-        "currency": "SAR",
-        "formatted": "SAR 39.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "11 September 2012"
-    },
-    {
       "rank": 80,
-      "previousRank": 82,
-      "rankChange": 2,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "343133982",
       "name": "Project Planner - Gantt app",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 85,
-      "rankChange": 4,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "370141186",
       "name": "PrinterShare Premium",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 86,
-      "rankChange": 4,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "525434384",
       "name": "QuickSearch PDF Reader",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 87,
-      "rankChange": 4,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "382418196",
       "name": "Grafio 4 - Diagram Maker",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 88,
-      "rankChange": 4,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "338578109",
       "name": "Mental Note ๛",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 90,
-      "rankChange": 5,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "468610525",
       "name": "Qrafter Pro: QR Code Reader",
@@ -1895,30 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 89,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "1451559391",
-      "name": "Phone Buddy Phone Lost Alert",
-      "developer": "FRE STUDIOS LLC",
-      "developerUrl": "https://apps.apple.com/sa/developer/fre-studios-llc/id619585736?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/32/cd/9d32cd51-f309-0978-584f-4c347f52108b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/phone-buddy-phone-lost-alert/id1451559391?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "SAR",
-        "formatted": "SAR 19.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "01 April 2019"
-    },
-    {
-      "rank": 87,
-      "previousRank": 91,
-      "rankChange": 4,
+      "previousRank": 87,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "576718804",
       "name": "aTimeLogger Time Tracker",
@@ -1938,9 +1916,9 @@
       "releaseDate": "19 November 2012"
     },
     {
-      "rank": 88,
-      "previousRank": 92,
-      "rankChange": 4,
+      "rank": 87,
+      "previousRank": 88,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "515859445",
       "name": "Little Crane World Editor",
@@ -1960,9 +1938,31 @@
       "releaseDate": "17 April 2012"
     },
     {
+      "rank": 88,
+      "previousRank": 86,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1451559391",
+      "name": "Phone Buddy Phone Lost Alert",
+      "developer": "FRE STUDIOS LLC",
+      "developerUrl": "https://apps.apple.com/sa/developer/fre-studios-llc/id619585736?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/32/cd/9d32cd51-f309-0978-584f-4c347f52108b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/phone-buddy-phone-lost-alert/id1451559391?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "SAR",
+        "formatted": "SAR 19.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "01 April 2019"
+    },
+    {
       "rank": 89,
-      "previousRank": 93,
-      "rankChange": 4,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1295610132",
       "name": "Screen Mirroring+ for Roku",
@@ -1983,30 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 21,
-      "rankChange": -69,
-      "isNew": false,
-      "appleId": "775737172",
-      "name": "iA Writer: Get Focused",
-      "developer": "Information Architects AG",
-      "developerUrl": "https://apps.apple.com/sa/developer/information-architects-ag/id775737175?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f0/d5/a2f0d5d9-abdb-1674-1935-49b0fbcc6e98/Writer-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/ia-writer-get-focused/id775737172?uo=2",
-      "price": {
-        "amount": 89.99,
-        "currency": "SAR",
-        "formatted": "SAR 89.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "18 December 2013"
-    },
-    {
-      "rank": 91,
-      "previousRank": 95,
-      "rankChange": 4,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6480082872",
       "name": "Dumbify",
@@ -2026,31 +2004,9 @@
       "releaseDate": "02 April 2024"
     },
     {
-      "rank": 92,
-      "previousRank": 96,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "1146647134",
-      "name": "Electrodoc Pro",
-      "developer": "IODEMA Srl",
-      "developerUrl": "https://apps.apple.com/sa/developer/iodema-srl/id1146647133?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f5/2a/cc/f52acc8a-ffd5-cb3a-b842-3a2135bc3a44/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/electrodoc-pro/id1146647134?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "SAR",
-        "formatted": "SAR 19.99"
-      },
-      "primaryCategory": {
-        "id": "6007",
-        "name": "Productivity"
-      },
-      "releaseDate": "10 September 2016"
-    },
-    {
-      "rank": 93,
-      "previousRank": 97,
-      "rankChange": 4,
+      "rank": 91,
+      "previousRank": 93,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1093924230",
       "name": "iAnnotate 4 — PDFs & more",
@@ -2070,9 +2026,9 @@
       "releaseDate": "03 May 2016"
     },
     {
-      "rank": 94,
+      "rank": 92,
       "previousRank": 94,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1637438059",
       "name": "UnTrap for YouTube",
@@ -2092,9 +2048,9 @@
       "releaseDate": "08 August 2022"
     },
     {
-      "rank": 95,
-      "previousRank": 98,
-      "rankChange": 3,
+      "rank": 93,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1182856129",
       "name": "Blink - Quick Notes & Widget",
@@ -2114,10 +2070,10 @@
       "releaseDate": "18 May 2017"
     },
     {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 94,
+      "previousRank": 96,
+      "rankChange": 2,
+      "isNew": false,
       "appleId": "997435269",
       "name": "Listen Live Air Radio - Live ATC Pro",
       "developer": "ahmet Baydas",
@@ -2136,10 +2092,54 @@
       "releaseDate": "03 June 2015"
     },
     {
+      "rank": 95,
+      "previousRank": 90,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "775737172",
+      "name": "iA Writer: Get Focused",
+      "developer": "Information Architects AG",
+      "developerUrl": "https://apps.apple.com/sa/developer/information-architects-ag/id775737175?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f0/d5/a2f0d5d9-abdb-1674-1935-49b0fbcc6e98/Writer-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/ia-writer-get-focused/id775737172?uo=2",
+      "price": {
+        "amount": 89.99,
+        "currency": "SAR",
+        "formatted": "SAR 89.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "18 December 2013"
+    },
+    {
+      "rank": 96,
+      "previousRank": 92,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1146647134",
+      "name": "Electrodoc Pro",
+      "developer": "IODEMA Srl",
+      "developerUrl": "https://apps.apple.com/sa/developer/iodema-srl/id1146647133?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f5/2a/cc/f52acc8a-ffd5-cb3a-b842-3a2135bc3a44/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/electrodoc-pro/id1146647134?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "SAR",
+        "formatted": "SAR 19.99"
+      },
+      "primaryCategory": {
+        "id": "6007",
+        "name": "Productivity"
+      },
+      "releaseDate": "10 September 2016"
+    },
+    {
       "rank": 97,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 97,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "398401842",
       "name": "Printing for iPhone",
       "developer": "Ndili Technologies, Inc.",
@@ -2159,9 +2159,9 @@
     },
     {
       "rank": 98,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 98,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "520231936",
       "name": "eDrawings",
       "developer": "Dassault Systemes SolidWorks Corporation",
@@ -2181,25 +2181,25 @@
     },
     {
       "rank": 99,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "560750783",
-      "name": "Amount - Unit Converter",
-      "developer": "Marco Torretta",
-      "developerUrl": "https://apps.apple.com/sa/developer/marco-torretta/id560750786?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/82/5c/fa/825cfa99-c3fd-bee0-38d8-11e747b04007/AppIcon-0-1x_U007emarketing-0-85-220-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sa/app/amount-unit-converter/id560750783?uo=2",
+      "previousRank": 12,
+      "rankChange": -87,
+      "isNew": false,
+      "appleId": "839529762",
+      "name": "Safe +  Password Manager",
+      "developer": "edv & medien GmbH",
+      "developerUrl": "https://apps.apple.com/sa/developer/edv-medien-gmbh/id1310453576?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/62/d7/0262d709-0b03-9c34-404c-2e584ab006c8/_appIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sa/app/safe-password-manager/id839529762?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 12.99,
         "currency": "SAR",
-        "formatted": "SAR 2.99"
+        "formatted": "SAR 12.99"
       },
       "primaryCategory": {
         "id": "6007",
         "name": "Productivity"
       },
-      "releaseDate": "18 September 2012"
+      "releaseDate": "08 April 2014"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-05",
-  "collectedAt": "2026-11-05T07:48:05.673Z",
-  "sourceUpdatedAt": "2026-11-04T23:48:05-07:00",
+  "snapshotDate": "2026-11-06",
+  "collectedAt": "2026-11-06T07:48:04.892Z",
+  "sourceUpdatedAt": "2026-11-05T23:48:04-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,18 +17,40 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 27,
-  "actualCount": 27,
+  "expectedCount": 28,
+  "actualCount": 28,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-11-04",
+  "previousSnapshotDate": "2026-11-05",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 4,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "6775220909",
+      "name": "Paperback Mobile",
+      "developer": "Ty Gillespie",
+      "developerUrl": "https://apps.apple.com/de/developer/ty-gillespie/id1558608115?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/c2/b5/09c2b58a-3ec7-3de9-37cb-c508d43eafe0/AppIcon-0-0-1x_U007epad-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/paperback-mobile/id6775220909?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Bücher"
+      },
+      "releaseDate": "28.10.2026"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6753283726",
       "name": "Gesangbuch Online",
@@ -48,9 +70,9 @@
       "releaseDate": "30.10.2025"
     },
     {
-      "rank": 2,
-      "previousRank": 3,
-      "rankChange": 1,
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6756426038",
       "name": "7 Wochen Ohne 2026",
@@ -70,9 +92,9 @@
       "releaseDate": "05.01.2026"
     },
     {
-      "rank": 3,
-      "previousRank": 4,
-      "rankChange": 1,
+      "rank": 4,
+      "previousRank": 3,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "428498721",
       "name": "B&W Photography Magazine",
@@ -90,28 +112,6 @@
         "name": "Foto und Video"
       },
       "releaseDate": "29.03.2011"
-    },
-    {
-      "rank": 4,
-      "previousRank": 2,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6775220909",
-      "name": "Paperback Mobile",
-      "developer": "Ty Gillespie",
-      "developerUrl": "https://apps.apple.com/de/developer/ty-gillespie/id1558608115?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/c2/b5/09c2b58a-3ec7-3de9-37cb-c508d43eafe0/AppIcon-0-0-1x_U007epad-0-3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/paperback-mobile/id6775220909?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Bücher"
-      },
-      "releaseDate": "28.10.2026"
     },
     {
       "rank": 5,
@@ -291,8 +291,30 @@
     },
     {
       "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "723706796",
+      "name": "TextTV II",
+      "developer": "Throw Lab",
+      "developerUrl": "https://apps.apple.com/de/developer/throw-lab/id323994188?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/24/86/222486e7-b879-f99a-13c3-04be19383a5f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/texttv-ii/id723706796?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6009",
+        "name": "Nachrichten"
+      },
+      "releaseDate": "23.10.2013"
+    },
+    {
+      "rank": 14,
       "previousRank": 13,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "530088968",
       "name": "Prehistoric Times Magazine",
@@ -312,9 +334,9 @@
       "releaseDate": "10.06.2012"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "previousRank": 14,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6752505148",
       "name": "Flux Feed for Miniflux",
@@ -334,9 +356,9 @@
       "releaseDate": "08.10.2025"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "previousRank": 15,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737238435",
       "name": "Presidential & US Election Pro",
@@ -356,9 +378,9 @@
       "releaseDate": "25.10.2024"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "previousRank": 16,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6752511428",
       "name": "World News 206・Übersetzung",
@@ -378,9 +400,9 @@
       "releaseDate": "16.09.2025"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "previousRank": 17,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737512463",
       "name": "怦然心动的瞬间-轻科幻真人互动恋爱影游",
@@ -400,9 +422,9 @@
       "releaseDate": "09.02.2025"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "previousRank": 18,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6443873149",
       "name": "Navakatha Potha",
@@ -422,9 +444,9 @@
       "releaseDate": "18.01.2023"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6800283026",
       "name": "steuerstoff | KI-Assistent",
@@ -444,9 +466,9 @@
       "releaseDate": "21.08.2026"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6450701682",
       "name": "Scorpion Keys Deluxe",
@@ -466,9 +488,9 @@
       "releaseDate": "04.07.2023"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1488604959",
       "name": "Die Fontäne",
@@ -488,9 +510,9 @@
       "releaseDate": "13.12.2019"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1479540317",
       "name": "USA Headlines",
@@ -510,9 +532,9 @@
       "releaseDate": "14.09.2019"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "636377390",
       "name": "Hoofbeats Magazine",
@@ -532,9 +554,9 @@
       "releaseDate": "15.05.2013"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6761313552",
       "name": "Kitpick",
@@ -554,9 +576,9 @@
       "releaseDate": "14.04.2026"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6753128643",
       "name": "iPodcast Player",
@@ -576,9 +598,9 @@
       "releaseDate": "28.09.2025"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1065779915",
       "name": "Maple Magazine",
@@ -598,9 +620,9 @@
       "releaseDate": "13.12.2015"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "512733218",
       "name": "Race Tech",
