@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-06",
-  "collectedAt": "2026-11-06T07:48:00.825Z",
-  "sourceUpdatedAt": "2026-11-05T23:45:08-07:00",
+  "snapshotDate": "2026-11-07",
+  "collectedAt": "2026-11-07T06:55:20.978Z",
+  "sourceUpdatedAt": "2026-11-06T22:55:20-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6001/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "天气"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 95,
+  "actualCount": 95,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-05",
+  "previousSnapshotDate": "2026-11-06",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 10,
+      "rankChange": 9,
+      "isNew": false,
+      "appleId": "6826918371",
+      "name": "Wettergott - Dein Wunschwetter",
+      "developer": "Marcel Bihl",
+      "developerUrl": "https://apps.apple.com/de/developer/marcel-bihl/id1683310290?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/3c/4a/cc3c4ae8-d769-1e16-8853-0a82fc0f18fb/wettergott-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wettergott-dein-wunschwetter/id6826918371?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "05.11.2026"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "294631159",
       "name": "WeatherPro",
@@ -46,53 +68,9 @@
       "releaseDate": "10.11.2008"
     },
     {
-      "rank": 2,
-      "previousRank": 3,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1075462280",
-      "name": "Polarlicht-Vorhersage Pro",
-      "developer": "JRustonApps B.V.",
-      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c6/e4/94c6e465-751a-9cee-9f85-c1134498d5b9/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/polarlicht-vorhersage-pro/id1075462280?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "26.01.2016"
-    },
-    {
       "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1449893235",
-      "name": "Earthquake Network",
-      "developer": "Futura Innovation SRL",
-      "developerUrl": "https://apps.apple.com/de/developer/futura-innovation-srl/id1449885464?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/b2/91/43b29145-a947-aff5-e2e6-f99ee09c6224/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/earthquake-network/id1449893235?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "05.06.2019"
-    },
-    {
-      "rank": 4,
       "previousRank": 4,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1608949422",
       "name": "Metar-Taf",
@@ -112,53 +90,53 @@
       "releaseDate": "08.02.2022"
     },
     {
-      "rank": 5,
-      "previousRank": 9,
-      "rankChange": 4,
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "606193225",
-      "name": "YoWindow Wetter",
-      "developer": "Weather View LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/weather-view-llc/id1891582808?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/31/26/a7/3126a7e7-6478-79e4-0210-4d501214dbd4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/yowindow-wetter/id606193225?uo=2",
+      "appleId": "1075462280",
+      "name": "Polarlicht-Vorhersage Pro",
+      "developer": "JRustonApps B.V.",
+      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c6/e4/94c6e465-751a-9cee-9f85-c1134498d5b9/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/polarlicht-vorhersage-pro/id1075462280?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 3.99,
         "currency": "EUR",
-        "formatted": "0,99 €"
+        "formatted": "3,99 €"
       },
       "primaryCategory": {
         "id": "6001",
         "name": "Wetter"
       },
-      "releaseDate": "16.04.2013"
+      "releaseDate": "26.01.2016"
+    },
+    {
+      "rank": 5,
+      "previousRank": 25,
+      "rankChange": 20,
+      "isNew": false,
+      "appleId": "485251405",
+      "name": "Fishing Deluxe",
+      "developer": "Sergey Vdovenko",
+      "developerUrl": "https://apps.apple.com/de/developer/sergey-vdovenko/id462667655?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/bf/81/fbbf8120-dc86-2af6-6d3e-40d0f1e3015f/Fishing-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/fishing-deluxe/id485251405?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "06.12.2011"
     },
     {
       "rank": 6,
-      "previousRank": 16,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "327754661",
-      "name": "RegenVorschau Pro",
-      "developer": "CH-Software",
-      "developerUrl": "https://apps.apple.com/de/developer/ch-software/id327754664?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/regenvorschau-pro/id327754661?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "29.08.2009"
-    },
-    {
-      "rank": 7,
-      "previousRank": 19,
-      "rankChange": 12,
+      "previousRank": 7,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "379869627",
       "name": "Living Earth: Weltuhr & Wetter",
@@ -178,9 +156,185 @@
       "releaseDate": "17.08.2010"
     },
     {
+      "rank": 7,
+      "previousRank": 12,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "378120971",
+      "name": "AeroWeather Pro",
+      "developer": "Lakehorn AG",
+      "developerUrl": "https://apps.apple.com/de/developer/lakehorn-ag/id288286082?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/aeroweather-pro/id378120971?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "30.06.2010"
+    },
+    {
       "rank": 8,
-      "previousRank": 17,
-      "rankChange": 9,
+      "previousRank": 29,
+      "rankChange": 21,
+      "isNew": false,
+      "appleId": "513879979",
+      "name": "Wetterkarten & aktuelle Wetter",
+      "developer": "Elecont LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/elecont-llc/id401533969?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/90/3b/fb/903bfb08-5624-c083-3970-dfbc69d580ba/AppIcon-0-1x_U007emarketing-0-85-220-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wetterkarten-aktuelle-wetter/id513879979?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "23.05.2012"
+    },
+    {
+      "rank": 9,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6745443594",
+      "name": "Ventify",
+      "developer": "Johannes Bauer",
+      "developerUrl": "https://apps.apple.com/de/developer/johannes-bauer/id1517004006?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/25/1d/25251d17-e5e2-d9cd-948b-d061a67df9d2/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ventify/id6745443594?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "12.05.2025"
+    },
+    {
+      "rank": 10,
+      "previousRank": 66,
+      "rankChange": 56,
+      "isNew": false,
+      "appleId": "970644763",
+      "name": "Wetterwarte",
+      "developer": "LionsApp di Nallbati Elton",
+      "developerUrl": "https://apps.apple.com/de/developer/lionsapp-di-nallbati-elton/id432915499?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e5/e1/3b/e5e13bee-17a4-5054-b2c8-b8191d1dc5b5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wetterwarte/id970644763?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "10.05.2015"
+    },
+    {
+      "rank": 11,
+      "previousRank": 84,
+      "rankChange": 73,
+      "isNew": false,
+      "appleId": "394199597",
+      "name": "HF Weather Fax",
+      "developer": "Black Cat Systems",
+      "developerUrl": "https://apps.apple.com/de/developer/black-cat-systems/id301047032?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/84/38/28/8438283b-dc63-4520-db23-ab0c5879b128/mzl.wwrlcxtt.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/hf-weather-fax/id394199597?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "01.10.2010"
+    },
+    {
+      "rank": 12,
+      "previousRank": 3,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "1449893235",
+      "name": "Earthquake Network",
+      "developer": "Futura Innovation SRL",
+      "developerUrl": "https://apps.apple.com/de/developer/futura-innovation-srl/id1449885464?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/b2/91/43b29145-a947-aff5-e2e6-f99ee09c6224/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/earthquake-network/id1449893235?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "05.06.2019"
+    },
+    {
+      "rank": 13,
+      "previousRank": 5,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "606193225",
+      "name": "YoWindow Wetter",
+      "developer": "Weather View LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/weather-view-llc/id1891582808?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/31/26/a7/3126a7e7-6478-79e4-0210-4d501214dbd4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/yowindow-wetter/id606193225?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "16.04.2013"
+    },
+    {
+      "rank": 14,
+      "previousRank": 6,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "327754661",
+      "name": "RegenVorschau Pro",
+      "developer": "CH-Software",
+      "developerUrl": "https://apps.apple.com/de/developer/ch-software/id327754664?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/regenvorschau-pro/id327754661?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "29.08.2009"
+    },
+    {
+      "rank": 15,
+      "previousRank": 8,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "6751511779",
       "name": "Nachtfrost",
@@ -200,10 +354,10 @@
       "releaseDate": "26.08.2025"
     },
     {
-      "rank": 9,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 16,
+      "previousRank": 9,
+      "rankChange": -7,
+      "isNew": false,
       "appleId": "6744972823",
       "name": "Regen- & Schneeradarkarte",
       "developer": "Mykhailo Davydovych",
@@ -222,30 +376,8 @@
       "releaseDate": "28.04.2025"
     },
     {
-      "rank": 10,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6826918371",
-      "name": "Wettergott - Dein Wunschwetter",
-      "developer": "Marcel Bihl",
-      "developerUrl": "https://apps.apple.com/de/developer/marcel-bihl/id1683310290?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/3c/4a/cc3c4ae8-d769-1e16-8853-0a82fc0f18fb/wettergott-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wettergott-dein-wunschwetter/id6826918371?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "05.11.2026"
-    },
-    {
-      "rank": 11,
-      "previousRank": 5,
+      "rank": 17,
+      "previousRank": 11,
       "rankChange": -6,
       "isNew": false,
       "appleId": "778610321",
@@ -266,31 +398,9 @@
       "releaseDate": "18.12.2013"
     },
     {
-      "rank": 12,
-      "previousRank": 6,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "378120971",
-      "name": "AeroWeather Pro",
-      "developer": "Lakehorn AG",
-      "developerUrl": "https://apps.apple.com/de/developer/lakehorn-ag/id288286082?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/aeroweather-pro/id378120971?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "30.06.2010"
-    },
-    {
-      "rank": 13,
-      "previousRank": 7,
-      "rankChange": -6,
+      "rank": 18,
+      "previousRank": 13,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "6766528041",
       "name": "BaroWatch",
@@ -310,15 +420,15 @@
       "releaseDate": "12.05.2026"
     },
     {
-      "rank": 14,
-      "previousRank": 8,
-      "rankChange": -6,
+      "rank": 19,
+      "previousRank": 14,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "1175031995",
       "name": "Mein Blitz-Tracker Pro",
       "developer": "JRustonApps B.V.",
       "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/a4/d8/b3a4d80a-eb29-fd67-177e-038c7b976039/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/80/02/708002fc-ad84-f532-6d85-f710476746ed/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/mein-blitz-tracker-pro/id1175031995?uo=2",
       "price": {
         "amount": 5.99,
@@ -332,8 +442,8 @@
       "releaseDate": "16.11.2016"
     },
     {
-      "rank": 15,
-      "previousRank": 10,
+      "rank": 20,
+      "previousRank": 15,
       "rankChange": -5,
       "isNew": false,
       "appleId": "429394638",
@@ -354,8 +464,8 @@
       "releaseDate": "06.04.2011"
     },
     {
-      "rank": 16,
-      "previousRank": 11,
+      "rank": 21,
+      "previousRank": 16,
       "rankChange": -5,
       "isNew": false,
       "appleId": "912237070",
@@ -376,8 +486,8 @@
       "releaseDate": "10.09.2014"
     },
     {
-      "rank": 17,
-      "previousRank": 12,
+      "rank": 22,
+      "previousRank": 17,
       "rankChange": -5,
       "isNew": false,
       "appleId": "6761683949",
@@ -398,9 +508,9 @@
       "releaseDate": "16.04.2026"
     },
     {
-      "rank": 18,
-      "previousRank": 14,
-      "rankChange": -4,
+      "rank": 23,
+      "previousRank": 18,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "336901296",
       "name": "Windfinder Pro: Wind & Wetter",
@@ -420,9 +530,9 @@
       "releaseDate": "15.11.2009"
     },
     {
-      "rank": 19,
-      "previousRank": 13,
-      "rankChange": -6,
+      "rank": 24,
+      "previousRank": 19,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "288419283",
       "name": "RadarScope",
@@ -442,31 +552,9 @@
       "releaseDate": "12.02.2019"
     },
     {
-      "rank": 20,
-      "previousRank": 15,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "495546638",
-      "name": "Thermo-hygrometer",
-      "developer": "MORETHAN APPS",
-      "developerUrl": "https://apps.apple.com/de/developer/morethan-apps/id473001840?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/33/b6/2d33b67f-b456-9143-4f10-6ca1abccf231/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/thermo-hygrometer/id495546638?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "25.01.2012"
-    },
-    {
-      "rank": 21,
+      "rank": 25,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "401533966",
       "name": "eWeather HD: Wetter und Klima",
@@ -486,9 +574,9 @@
       "releaseDate": "10.11.2010"
     },
     {
-      "rank": 22,
+      "rank": 26,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "330442924",
       "name": "Wetter-Warner",
@@ -508,9 +596,9 @@
       "releaseDate": "25.09.2009"
     },
     {
-      "rank": 23,
+      "rank": 27,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "384086202",
       "name": "Seewetter Pro",
@@ -530,9 +618,31 @@
       "releaseDate": "03.08.2010"
     },
     {
-      "rank": 24,
+      "rank": 28,
+      "previousRank": 20,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "495546638",
+      "name": "Thermo-hygrometer",
+      "developer": "MORETHAN APPS",
+      "developerUrl": "https://apps.apple.com/de/developer/morethan-apps/id473001840?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/33/b6/2d33b67f-b456-9143-4f10-6ca1abccf231/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/thermo-hygrometer/id495546638?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "25.01.2012"
+    },
+    {
+      "rank": 29,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": -5,
       "isNew": false,
       "appleId": "410014375",
       "name": "Meteogram for iPhone",
@@ -552,37 +662,15 @@
       "releaseDate": "30.12.2010"
     },
     {
-      "rank": 25,
-      "previousRank": 25,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "485251405",
-      "name": "Fishing Deluxe",
-      "developer": "Sergey Vdovenko",
-      "developerUrl": "https://apps.apple.com/de/developer/sergey-vdovenko/id462667655?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/bf/81/fbbf8120-dc86-2af6-6d3e-40d0f1e3015f/Fishing-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fishing-deluxe/id485251405?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "06.12.2011"
-    },
-    {
-      "rank": 26,
+      "rank": 30,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "1106389686",
       "name": "Wetter 14 Tage - Meteored Pro",
       "developer": "Alpred, S.L.",
       "developerUrl": "https://apps.apple.com/de/developer/alpred-s-l/id543364904?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2c/3a/012c3a3f-ceaf-1408-18b0-53de91c218fc/icon_meteored_pro_black-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e5/2f/03e52f1e-449f-8b64-325f-b0309f8930e0/icon_meteored_pro_black-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/wetter-14-tage-meteored-pro/id1106389686?uo=2",
       "price": {
         "amount": 29.99,
@@ -596,9 +684,9 @@
       "releaseDate": "20.05.2016"
     },
     {
-      "rank": 27,
+      "rank": 31,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "366307784",
       "name": "Landratte",
@@ -618,9 +706,9 @@
       "releaseDate": "09.04.2010"
     },
     {
-      "rank": 28,
+      "rank": 32,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": -4,
       "isNew": false,
       "appleId": "608515289",
       "name": "Wetter-Partner Pro:Wetterradar",
@@ -640,31 +728,9 @@
       "releaseDate": "12.03.2013"
     },
     {
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "513879979",
-      "name": "Wetterkarten & aktuelle Wetter",
-      "developer": "Elecont LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/elecont-llc/id401533969?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/90/3b/fb/903bfb08-5624-c083-3970-dfbc69d580ba/AppIcon-0-1x_U007emarketing-0-85-220-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wetterkarten-aktuelle-wetter/id513879979?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "23.05.2012"
-    },
-    {
-      "rank": 30,
+      "rank": 33,
       "previousRank": 30,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "591672198",
       "name": "Flugwetter",
@@ -684,9 +750,9 @@
       "releaseDate": "15.01.2013"
     },
     {
-      "rank": 31,
+      "rank": 34,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1080118736",
       "name": "Golden Hour One",
@@ -706,9 +772,9 @@
       "releaseDate": "02.09.2016"
     },
     {
-      "rank": 32,
+      "rank": 35,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "417401887",
       "name": "WeatherTrack GRIB",
@@ -728,9 +794,9 @@
       "releaseDate": "07.02.2011"
     },
     {
-      "rank": 33,
+      "rank": 36,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "471629622",
       "name": "WeatherMap+",
@@ -750,9 +816,9 @@
       "releaseDate": "05.12.2011"
     },
     {
-      "rank": 34,
+      "rank": 37,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "409985317",
       "name": "Temperatur",
@@ -772,9 +838,9 @@
       "releaseDate": "19.12.2010"
     },
     {
-      "rank": 35,
+      "rank": 38,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "325175880",
       "name": "Bauernkalender",
@@ -794,9 +860,9 @@
       "releaseDate": "19.08.2009"
     },
     {
-      "rank": 36,
+      "rank": 39,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "530225248",
       "name": "Wind",
@@ -816,9 +882,9 @@
       "releaseDate": "02.06.2012"
     },
     {
-      "rank": 37,
+      "rank": 40,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "639101137",
       "name": "Wetter HD Live +",
@@ -838,9 +904,9 @@
       "releaseDate": "02.05.2013"
     },
     {
-      "rank": 38,
+      "rank": 41,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "294937581",
       "name": "Sun n Moon",
@@ -860,37 +926,15 @@
       "releaseDate": "30.10.2008"
     },
     {
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1104649303",
-      "name": "My Moon Phase Pro",
-      "developer": "JRustonApps B.V.",
-      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/04/3c/d5043c0c-ad2c-655f-8ef6-8e867603d749/AppIcon-New3-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/my-moon-phase-pro/id1104649303?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "27.04.2016"
-    },
-    {
-      "rank": 40,
+      "rank": 42,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "804031883",
       "name": "My Tide Times Pro - Tide Chart",
       "developer": "JRustonApps B.V.",
       "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/54/ca/f454ca2a-ad67-e7b6-c4eb-782d05668301/AppIcon-3-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f9/93/07f99368-3e1e-0bb4-e741-28c2740716ac/AppIcon-3-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/my-tide-times-pro-tide-chart/id804031883?uo=2",
       "price": {
         "amount": 3.99,
@@ -904,9 +948,31 @@
       "releaseDate": "28.01.2014"
     },
     {
-      "rank": 41,
+      "rank": 43,
+      "previousRank": 39,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "1104649303",
+      "name": "My Moon Phase Pro",
+      "developer": "JRustonApps B.V.",
+      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c4/e0/88c4e061-03a0-bedf-5f5d-eed9f459f339/AppIcon-New3-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/my-moon-phase-pro/id1104649303?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "27.04.2016"
+    },
+    {
+      "rank": 44,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "473165402",
       "name": "Mooncast",
@@ -926,9 +992,9 @@
       "releaseDate": "27.10.2011"
     },
     {
-      "rank": 42,
+      "rank": 45,
       "previousRank": 42,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "516492507",
       "name": "Hunting Calendar Deluxe",
@@ -948,9 +1014,9 @@
       "releaseDate": "10.04.2012"
     },
     {
-      "rank": 43,
+      "rank": 46,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "734747680",
       "name": "Pegelstand",
@@ -970,9 +1036,9 @@
       "releaseDate": "05.11.2013"
     },
     {
-      "rank": 44,
+      "rank": 47,
       "previousRank": 44,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "839923054",
       "name": "14 Tage Wetter Deutschland +",
@@ -992,9 +1058,9 @@
       "releaseDate": "08.04.2014"
     },
     {
-      "rank": 45,
+      "rank": 48,
       "previousRank": 45,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "299504833",
       "name": "Weather WO",
@@ -1014,9 +1080,9 @@
       "releaseDate": "20.12.2008"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "previousRank": 46,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1492559559",
       "name": "Northern Lights Forecast",
@@ -1036,9 +1102,9 @@
       "releaseDate": "24.12.2019"
     },
     {
-      "rank": 47,
+      "rank": 50,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1016528618",
       "name": "Tides PRO - Tide Times",
@@ -1058,9 +1124,9 @@
       "releaseDate": "22.09.2015"
     },
     {
-      "rank": 48,
+      "rank": 51,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "817389853",
       "name": "Zeeweer - Maritieme app",
@@ -1080,31 +1146,9 @@
       "releaseDate": "20.03.2014"
     },
     {
-      "rank": 49,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1422605014",
-      "name": "Wetter Radar PRO: Regen & Wind",
-      "developer": "DeluxeWare",
-      "developerUrl": "https://apps.apple.com/de/developer/deluxeware/id302677215?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/19/f8/4519f876-6eb6-8964-4013-b73ca2998a4b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wetter-radar-pro-regen-wind/id1422605014?uo=2",
-      "price": {
-        "amount": 25,
-        "currency": "EUR",
-        "formatted": "25,00 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "24.08.2018"
-    },
-    {
-      "rank": 50,
-      "previousRank": 49,
-      "rankChange": -1,
+      "rank": 52,
+      "previousRank": 50,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "366765248",
       "name": "Wind Seeker",
@@ -1124,9 +1168,9 @@
       "releaseDate": "10.04.2010"
     },
     {
-      "rank": 51,
-      "previousRank": 50,
-      "rankChange": -1,
+      "rank": 53,
+      "previousRank": 51,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "325683306",
       "name": "MyRadar Pro",
@@ -1146,9 +1190,9 @@
       "releaseDate": "16.05.2016"
     },
     {
-      "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
+      "rank": 54,
+      "previousRank": 52,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1198962475",
       "name": "Sonne Mond 3D Planetarium Pro",
@@ -1168,9 +1212,9 @@
       "releaseDate": "30.01.2017"
     },
     {
-      "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "rank": 55,
+      "previousRank": 53,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1317284385",
       "name": "Solar Monitor 3",
@@ -1190,9 +1234,9 @@
       "releaseDate": "06.12.2017"
     },
     {
-      "rank": 54,
-      "previousRank": 53,
-      "rankChange": -1,
+      "rank": 56,
+      "previousRank": 54,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "370697660",
       "name": "Meteo Plus - by iLMeteo.it",
@@ -1212,9 +1256,9 @@
       "releaseDate": "05.05.2010"
     },
     {
-      "rank": 55,
-      "previousRank": 54,
-      "rankChange": -1,
+      "rank": 57,
+      "previousRank": 55,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "916760091",
       "name": "Gismeteo",
@@ -1234,9 +1278,9 @@
       "releaseDate": "24.09.2014"
     },
     {
-      "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "rank": 58,
+      "previousRank": 56,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1020486527",
       "name": "My Hurricane Tracker Pro",
@@ -1256,9 +1300,9 @@
       "releaseDate": "25.07.2015"
     },
     {
-      "rank": 57,
-      "previousRank": 56,
-      "rankChange": -1,
+      "rank": 59,
+      "previousRank": 57,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "493917756",
       "name": "Wind & Meer Med",
@@ -1278,9 +1322,9 @@
       "releaseDate": "19.01.2012"
     },
     {
-      "rank": 58,
-      "previousRank": 57,
-      "rankChange": -1,
+      "rank": 60,
+      "previousRank": 58,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "491537291",
       "name": "Sol: Sun Clock",
@@ -1300,9 +1344,9 @@
       "releaseDate": "06.01.2012"
     },
     {
-      "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
+      "rank": 61,
+      "previousRank": 59,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "362074119",
       "name": "Nordic Radar",
@@ -1322,9 +1366,9 @@
       "releaseDate": "22.03.2010"
     },
     {
-      "rank": 60,
+      "rank": 62,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "373515261",
       "name": "WeatherPro for iPad",
@@ -1344,8 +1388,8 @@
       "releaseDate": "27.05.2010"
     },
     {
-      "rank": 61,
-      "previousRank": 59,
+      "rank": 63,
+      "previousRank": 61,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1053736323",
@@ -1366,9 +1410,9 @@
       "releaseDate": "15.09.2020"
     },
     {
-      "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "rank": 64,
+      "previousRank": 62,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1032783648",
       "name": "Mondphasen beste fangzeit ka",
@@ -1388,9 +1432,9 @@
       "releaseDate": "03.10.2015"
     },
     {
-      "rank": 63,
-      "previousRank": 62,
-      "rankChange": -1,
+      "rank": 65,
+      "previousRank": 63,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "908649054",
       "name": "widget weather",
@@ -1410,9 +1454,9 @@
       "releaseDate": "10.10.2014"
     },
     {
-      "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "rank": 66,
+      "previousRank": 64,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "716023568",
       "name": "Hygrometer - Luftfeuchtigkeit",
@@ -1432,9 +1476,9 @@
       "releaseDate": "16.10.2013"
     },
     {
-      "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "rank": 67,
+      "previousRank": 65,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "992351930",
       "name": "RegenRadar Live +",
@@ -1454,30 +1498,8 @@
       "releaseDate": "23.06.2015"
     },
     {
-      "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "970644763",
-      "name": "Wetterwarte",
-      "developer": "LionsApp di Nallbati Elton",
-      "developerUrl": "https://apps.apple.com/de/developer/lionsapp-di-nallbati-elton/id432915499?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e5/e1/3b/e5e13bee-17a4-5054-b2c8-b8191d1dc5b5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wetterwarte/id970644763?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "10.05.2015"
-    },
-    {
-      "rank": 67,
-      "previousRank": 66,
+      "rank": 68,
+      "previousRank": 67,
       "rankChange": -1,
       "isNew": false,
       "appleId": "540120977",
@@ -1498,8 +1520,8 @@
       "releaseDate": "25.04.2013"
     },
     {
-      "rank": 68,
-      "previousRank": 67,
+      "rank": 69,
+      "previousRank": 68,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1174281818",
@@ -1520,31 +1542,9 @@
       "releaseDate": "10.11.2016"
     },
     {
-      "rank": 69,
-      "previousRank": 18,
-      "rankChange": -51,
-      "isNew": false,
-      "appleId": "1100646247",
-      "name": "Sonnenzeit App",
-      "developer": "Piet Jonas",
-      "developerUrl": "https://apps.apple.com/de/developer/piet-jonas/id288060167?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/e9/41/4e/e9414ece-60b1-4e11-ced6-4663b7c81d43/pr_source.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sonnenzeit-app/id1100646247?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "21.04.2016"
-    },
-    {
       "rank": 70,
-      "previousRank": 68,
-      "rankChange": -2,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1439422081",
       "name": "The Weather forecast Pro",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 69,
-      "rankChange": -2,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "769602146",
       "name": "Barometer - Luftdruck Prognose",
@@ -1587,8 +1587,30 @@
     },
     {
       "rank": 72,
-      "previousRank": 70,
-      "rankChange": -2,
+      "previousRank": 69,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1100646247",
+      "name": "Sonnenzeit App",
+      "developer": "Piet Jonas",
+      "developerUrl": "https://apps.apple.com/de/developer/piet-jonas/id288060167?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/e9/41/4e/e9414ece-60b1-4e11-ced6-4663b7c81d43/pr_source.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sonnenzeit-app/id1100646247?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "21.04.2016"
+    },
+    {
+      "rank": 73,
+      "previousRank": 72,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "562360450",
       "name": "ClassicWeather HD",
@@ -1608,9 +1630,9 @@
       "releaseDate": "25.09.2012"
     },
     {
-      "rank": 73,
-      "previousRank": 71,
-      "rankChange": -2,
+      "rank": 74,
+      "previousRank": 73,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1437256011",
       "name": "Live Wetter Pro-wetter de pro",
@@ -1630,31 +1652,9 @@
       "releaseDate": "29.09.2018"
     },
     {
-      "rank": 74,
-      "previousRank": 20,
-      "rankChange": -54,
-      "isNew": false,
-      "appleId": "975770717",
-      "name": "My Earthquake Alerts Pro",
-      "developer": "JRustonApps B.V.",
-      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a7/39/7ea73965-ee08-9774-3c77-a54da8ab318d/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/my-earthquake-alerts-pro/id975770717?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "04.04.2015"
-    },
-    {
       "rank": 75,
-      "previousRank": 72,
-      "rankChange": -3,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "945662966",
       "name": "Storm Tracker° Pro",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 73,
-      "rankChange": -3,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "514041536",
       "name": "Temperatur Umrechner",
@@ -1700,6 +1700,28 @@
       "previousRank": 74,
       "rankChange": -3,
       "isNew": false,
+      "appleId": "975770717",
+      "name": "My Earthquake Alerts Pro",
+      "developer": "JRustonApps B.V.",
+      "developerUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a7/39/7ea73965-ee08-9774-3c77-a54da8ab318d/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/my-earthquake-alerts-pro/id975770717?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "Wetter"
+      },
+      "releaseDate": "04.04.2015"
+    },
+    {
+      "rank": 78,
+      "previousRank": 77,
+      "rankChange": -1,
+      "isNew": false,
       "appleId": "418723845",
       "name": "Weather4D Lite",
       "developer": "APP4NAV",
@@ -1718,9 +1740,9 @@
       "releaseDate": "24.03.2011"
     },
     {
-      "rank": 78,
-      "previousRank": 75,
-      "rankChange": -3,
+      "rank": 79,
+      "previousRank": 78,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1498504358",
       "name": "Windsack: Wind und Wetter",
@@ -1740,9 +1762,9 @@
       "releaseDate": "25.03.2020"
     },
     {
-      "rank": 79,
-      "previousRank": 76,
-      "rankChange": -3,
+      "rank": 80,
+      "previousRank": 79,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "455218380",
       "name": "Wind Vorhersage für Windgurus",
@@ -1762,9 +1784,9 @@
       "releaseDate": "08.08.2011"
     },
     {
-      "rank": 80,
-      "previousRank": 77,
-      "rankChange": -3,
+      "rank": 81,
+      "previousRank": 80,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "455707813",
       "name": "Vrijeme+",
@@ -1784,9 +1806,9 @@
       "releaseDate": "11.08.2011"
     },
     {
-      "rank": 81,
-      "previousRank": 78,
-      "rankChange": -3,
+      "rank": 82,
+      "previousRank": 81,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1439881811",
       "name": "RadarOmega: Doppler Radar App",
@@ -1806,9 +1828,9 @@
       "releaseDate": "26.05.2019"
     },
     {
-      "rank": 82,
-      "previousRank": 79,
-      "rankChange": -3,
+      "rank": 83,
+      "previousRank": 82,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1194006388",
       "name": "Sonnenaufgang Sonnenuntergang",
@@ -1828,9 +1850,9 @@
       "releaseDate": "16.01.2017"
     },
     {
-      "rank": 83,
-      "previousRank": 80,
-      "rankChange": -3,
+      "rank": 84,
+      "previousRank": 83,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "879946294",
       "name": "UV-Index: Sichere Sonne",
@@ -1850,31 +1872,9 @@
       "releaseDate": "28.06.2014"
     },
     {
-      "rank": 84,
-      "previousRank": 81,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "394199597",
-      "name": "HF Weather Fax",
-      "developer": "Black Cat Systems",
-      "developerUrl": "https://apps.apple.com/de/developer/black-cat-systems/id301047032?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/84/38/28/8438283b-dc63-4520-db23-ab0c5879b128/mzl.wwrlcxtt.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/hf-weather-fax/id394199597?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "01.10.2010"
-    },
-    {
       "rank": 85,
-      "previousRank": 82,
-      "rankChange": -3,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1011499945",
       "name": "Mondphasen – Mondkalender",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 83,
-      "rankChange": -3,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "305728705",
       "name": "WeatherCyclopedia™ Premium",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 84,
-      "rankChange": -3,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "480096611",
       "name": "Weather4D Routing",
@@ -1939,9 +1939,9 @@
     },
     {
       "rank": 88,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 88,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "511951636",
       "name": "Croatia Weather",
       "developer": "BITWARE j.d.o.o.",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 85,
-      "rankChange": -4,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "433372825",
       "name": "CroForecast",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 86,
-      "rankChange": -4,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "897511324",
       "name": "global storms pro",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 87,
-      "rankChange": -4,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "925318438",
       "name": "NiceWeather Pro by NiceApps",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 89,
-      "rankChange": -3,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1122659402",
       "name": "Regenmesser - Regen indikator",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 90,
-      "rankChange": -3,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1104486867",
       "name": "Partly Sunny",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 91,
-      "rankChange": -3,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1422497682",
       "name": "Minimalistic Weather App",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 88,
-      "rankChange": -7,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1314407112",
       "name": "Angelbarometer - Fischer",
@@ -2103,37 +2103,15 @@
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/52/4b/d5524b67-9b75-2c58-1c0f-f816c68ab3e8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/angelbarometer-fischer/id1314407112?uo=2",
       "price": {
-        "amount": 3.99,
+        "amount": 9.99,
         "currency": "EUR",
-        "formatted": "3,99 €"
+        "formatted": "9,99 €"
       },
       "primaryCategory": {
         "id": "6001",
         "name": "Wetter"
       },
       "releaseDate": "17.12.2017"
-    },
-    {
-      "rank": 96,
-      "previousRank": 92,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1527544620",
-      "name": "WeatherٞPro",
-      "developer": "Siyong Studio",
-      "developerUrl": "https://apps.apple.com/de/developer/siyong-studio/id6777462143?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/28/ae/de/28aedeba-e2a2-08f7-9bca-e035d9e6677c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/weather-pro/id1527544620?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "Wetter"
-      },
-      "releaseDate": "26.08.2020"
     }
   ]
 }
