@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-09",
-  "collectedAt": "2026-11-09T07:46:14.097Z",
-  "sourceUpdatedAt": "2026-11-08T23:46:13-07:00",
+  "snapshotDate": "2026-11-10",
+  "collectedAt": "2026-11-10T08:06:58.275Z",
+  "sourceUpdatedAt": "2026-11-10T00:02:59-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/gb/rss/toppaidapplications/limit=100/genre=6000/json",
   "chartType": "paid",
@@ -17,38 +17,16 @@
     "name": "商务"
   },
   "requestedLimit": 100,
-  "expectedCount": 98,
-  "actualCount": 98,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-08",
+  "previousSnapshotDate": "2026-11-09",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "364876095",
-      "name": "Jump Desktop (RDP, VNC, Fluid)",
-      "developer": "Phase Five Systems",
-      "developerUrl": "https://apps.apple.com/gb/developer/phase-five-systems/id364876098?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/81/8d/71818d3c-7dbf-c7f4-a2b9-2b9eae725ac4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/jump-desktop-rdp-vnc-fluid/id364876095?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "GBP",
-        "formatted": "£14.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "01 April 2010"
-    },
-    {
-      "rank": 2,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "936694037",
       "name": "Voice Recorder - Audio Record",
@@ -68,9 +46,75 @@
       "releaseDate": "20 November 2014"
     },
     {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "364876095",
+      "name": "Jump Desktop (RDP, VNC, Fluid)",
+      "developer": "Phase Five Systems",
+      "developerUrl": "https://apps.apple.com/gb/developer/phase-five-systems/id364876098?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/81/8d/71818d3c-7dbf-c7f4-a2b9-2b9eae725ac4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/jump-desktop-rdp-vnc-fluid/id364876095?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "GBP",
+        "formatted": "£14.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "01 April 2010"
+    },
+    {
       "rank": 3,
-      "previousRank": 28,
-      "rankChange": 25,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6444574623",
+      "name": "Libreoffice Viewer .",
+      "developer": "Aditya Wagh",
+      "developerUrl": "https://apps.apple.com/gb/developer/aditya-wagh/id1649173793?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/c0/3d/76c03d9a-dcbe-6c25-431e-03bafdd1de04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/libreoffice-viewer/id6444574623?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "20 November 2022"
+    },
+    {
+      "rank": 4,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6746383387",
+      "name": "Visa Sponsorship Finder UK",
+      "developer": "Rukshan Marapana",
+      "developerUrl": "https://apps.apple.com/gb/developer/rukshan-marapana/id546670930?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/27/6e/7c276e60-f5a7-74ce-8e48-1239b2a20628/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/visa-sponsorship-finder-uk/id6746383387?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "02 June 2025"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "426227084",
       "name": "GB Gas Purging Calculator",
@@ -90,185 +134,9 @@
       "releaseDate": "22 March 2011"
     },
     {
-      "rank": 4,
-      "previousRank": 4,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6762639006",
-      "name": "UP/1B Calculator",
-      "developer": "Little App Company",
-      "developerUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/up-1b-calculator/id6762639006?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "GBP",
-        "formatted": "£8.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "22 April 2026"
-    },
-    {
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6765892376",
-      "name": "Pro Gas Volume Calculator",
-      "developer": "Liam Turner",
-      "developerUrl": "https://apps.apple.com/gb/developer/liam-turner/id1896118263?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cd/76/7fcd7602-6dff-8385-1fcf-3ebf91db8aa2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/pro-gas-volume-calculator/id6765892376?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "05 May 2026"
-    },
-    {
       "rank": 6,
-      "previousRank": 13,
-      "rankChange": 7,
-      "isNew": false,
-      "appleId": "6761654797",
-      "name": "Vretti printer",
-      "developer": "BanjoSoft",
-      "developerUrl": "https://apps.apple.com/gb/developer/banjosoft/id498841687?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/7e/6e/907e6e71-c406-a06f-90ae-131ead72b992/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/vretti-printer/id6761654797?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "09 April 2026"
-    },
-    {
-      "rank": 7,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6804464523",
-      "name": "Pocket Publisher: For KDP",
-      "developer": "Dead Cool Apps",
-      "developerUrl": "https://apps.apple.com/gb/developer/dead-cool-apps/id1126027413?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/8b/bb/d18bbbe3-ba78-3c59-5aee-1cee4320916c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/pocket-publisher-for-kdp/id6804464523?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "05 September 2026"
-    },
-    {
-      "rank": 8,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "346169165",
-      "name": "Hindenburg Field Recorder",
-      "developer": "Hindenburg Systems ApS",
-      "developerUrl": "https://apps.apple.com/gb/developer/hindenburg-systems-aps/id346169168?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/25/6f/7c256f40-d778-b881-fb64-0be1d681612c/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/hindenburg-field-recorder/id346169165?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "10 January 2010"
-    },
-    {
-      "rank": 9,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "488522018",
-      "name": "Purchase Order",
-      "developer": "Manu Gupta",
-      "developerUrl": "https://apps.apple.com/gb/developer/manu-gupta/id806110625?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/3b/7b053bae-ec91-32fe-5dc9-a44178f758e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/purchase-order/id488522018?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "02 February 2012"
-    },
-    {
-      "rank": 10,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1571341170",
-      "name": "CryptoPad",
-      "developer": "Valerii Shinkaryuk",
-      "developerUrl": "https://apps.apple.com/gb/developer/valerii-shinkaryuk/id1571341172?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ed/1c/a6ed1cea-c1b8-c94f-8af3-4df9bc586053/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/cryptopad/id1571341170?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "05 July 2021"
-    },
-    {
-      "rank": 11,
-      "previousRank": 3,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "342548956",
-      "name": "TurboScan™ Pro: PDF scanner",
-      "developer": "Piksoft Inc.",
-      "developerUrl": "https://apps.apple.com/gb/developer/piksoft-inc/id342548959?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/3c/85/273c85f6-cff6-f03f-da21-13e5b19f28a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/turboscan-pro-pdf-scanner/id342548956?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "07 December 2009"
-    },
-    {
-      "rank": 12,
-      "previousRank": 6,
-      "rankChange": -6,
+      "previousRank": 12,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "6467678289",
       "name": "PayToPark",
@@ -288,53 +156,9 @@
       "releaseDate": "30 July 2026"
     },
     {
-      "rank": 13,
-      "previousRank": 7,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6791272747",
-      "name": "WealthOnTrackers",
-      "developer": "Rashpal Maan",
-      "developerUrl": "https://apps.apple.com/gb/developer/rashpal-maan/id6780415769?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/a2/4e/baa24ea6-2cd5-20b6-4436-5347f1057e32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/wealthontrackers/id6791272747?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "03 November 2026"
-    },
-    {
-      "rank": 14,
-      "previousRank": 8,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "325303634",
-      "name": "Calc VAT – VAT Calculator",
-      "developer": "Aaron Wardle",
-      "developerUrl": "https://apps.apple.com/gb/developer/aaron-wardle/id317720002?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/48/80/b94880a8-f16e-0e04-afe7-27ac2b6624dc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/calc-vat-vat-calculator/id325303634?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "01 August 2009"
-    },
-    {
-      "rank": 15,
-      "previousRank": 9,
-      "rankChange": -6,
+      "rank": 7,
+      "previousRank": 15,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "498425561",
       "name": "Alon Dictaphone-Voice Recorder",
@@ -354,9 +178,9 @@
       "releaseDate": "06 February 2012"
     },
     {
-      "rank": 16,
-      "previousRank": 10,
-      "rankChange": -6,
+      "rank": 8,
+      "previousRank": 16,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "1603818774",
       "name": "The Blissful Baby Expert App",
@@ -376,9 +200,9 @@
       "releaseDate": "23 February 2022"
     },
     {
-      "rank": 17,
-      "previousRank": 11,
-      "rankChange": -6,
+      "rank": 9,
+      "previousRank": 17,
+      "rankChange": 8,
       "isNew": false,
       "appleId": "430236121",
       "name": "GB Gas Tightness NG + LPG",
@@ -398,119 +222,9 @@
       "releaseDate": "11 April 2011"
     },
     {
-      "rank": 18,
-      "previousRank": 12,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6450181489",
-      "name": "AF Download Manager",
-      "developer": "Autoflame Engineering Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/autoflame-engineering-ltd/id1812690732?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/52/9a/1d529a03-166f-731b-d937-0a3db6ab8320/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/af-download-manager/id6450181489?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "02 May 2025"
-    },
-    {
-      "rank": 19,
-      "previousRank": 14,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "406389136",
-      "name": "Gas Rate Calculator",
-      "developer": "Little App Company",
-      "developerUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/ef/7a/b7/ef7ab79f-1c7a-fa84-4b34-806373c521a8/mzl.fhgozomk.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/gas-rate-calculator/id406389136?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "06 December 2010"
-    },
-    {
-      "rank": 20,
-      "previousRank": 15,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "577499909",
-      "name": "TapeACall Pro: Call Recorder",
-      "developer": "Mosaic S.r.l.",
-      "developerUrl": "https://apps.apple.com/gb/developer/mosaic-s-r-l/id570748343?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/tapeacall-pro-call-recorder/id577499909?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "23 January 2013"
-    },
-    {
-      "rank": 21,
-      "previousRank": 16,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "1061414009",
-      "name": "Business & Leadership BBA- MBA",
-      "developer": "Karim SLITI",
-      "developerUrl": "https://apps.apple.com/gb/developer/karim-sliti/id1049042697?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/80/61/8d806130-2b02-e3cd-7499-496e09772a0c/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/business-leadership-bba-mba/id1061414009?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "03 December 2015"
-    },
-    {
-      "rank": 22,
-      "previousRank": 17,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "1480545222",
-      "name": "Business Card Reader, Scanner",
-      "developer": "Abdulla Yasin",
-      "developerUrl": "https://apps.apple.com/gb/developer/abdulla-yasin/id1407887788?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/10/b1/3810b153-b298-d438-f890-158539ccd316/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/business-card-reader-scanner/id1480545222?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "25 September 2019"
-    },
-    {
-      "rank": 23,
-      "previousRank": 18,
-      "rankChange": -5,
+      "rank": 10,
+      "previousRank": 23,
+      "rankChange": 13,
       "isNew": false,
       "appleId": "6829927835",
       "name": "Yolla: Digital Business Card",
@@ -530,53 +244,9 @@
       "releaseDate": "06 November 2026"
     },
     {
-      "rank": 24,
-      "previousRank": 19,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6821030329",
-      "name": "Pro Gas Ventilation",
-      "developer": "Liam Turner",
-      "developerUrl": "https://apps.apple.com/gb/developer/liam-turner/id1896118263?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/4a/58/9c4a588e-398b-e1c9-b0c1-8985aa422a57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/pro-gas-ventilation/id6821030329?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "23 October 2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 20,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6754534271",
-      "name": "BuildReport Pro: Snag List",
-      "developer": "Raghvendra Bhargava",
-      "developerUrl": "https://apps.apple.com/gb/developer/raghvendra-bhargava/id821435272?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/6e/b9/4c6eb919-1947-1b53-f413-eaaab6d2a646/AppIcon-BuildReportPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/buildreport-pro-snag-list/id6754534271?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "16 February 2026"
-    },
-    {
-      "rank": 26,
-      "previousRank": 22,
-      "rankChange": -4,
+      "rank": 11,
+      "previousRank": 26,
+      "rankChange": 15,
       "isNew": false,
       "appleId": "294934058",
       "name": "HotSchedules",
@@ -596,16 +266,16 @@
       "releaseDate": "30 October 2008"
     },
     {
-      "rank": 27,
-      "previousRank": 21,
-      "rankChange": -6,
+      "rank": 12,
+      "previousRank": 86,
+      "rankChange": 74,
       "isNew": false,
-      "appleId": "6765894488",
-      "name": "Simple Invoice Creator",
-      "developer": "Mark Tiddy",
-      "developerUrl": "https://apps.apple.com/gb/developer/mark-tiddy/id1387964564?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/c1/ed/13c1edc5-d4eb-15ba-c137-0d0e8e9be601/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/simple-invoice-creator/id6765894488?uo=2",
+      "appleId": "412366083",
+      "name": "CameraVision",
+      "developer": "Masayuki Akamatsu",
+      "developerUrl": "https://apps.apple.com/gb/developer/masayuki-akamatsu/id284722836?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c0/13/5cc01348-8105-ce17-6ebb-3f58c6faa214/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/cameravision/id412366083?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "GBP",
@@ -615,12 +285,298 @@
         "id": "6000",
         "name": "Business"
       },
-      "releaseDate": "04 May 2026"
+      "releaseDate": "03 January 2011"
     },
     {
-      "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "rank": 13,
+      "previousRank": 92,
+      "rankChange": 79,
+      "isNew": false,
+      "appleId": "6471742059",
+      "name": "DoLS App",
+      "developer": "Aasya Mughal",
+      "developerUrl": "https://apps.apple.com/gb/developer/aasya-mughal/id1715924855?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/53/55/ca5355db-ef73-fc7b-2316-92afcd64e7c9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/dols-app/id6471742059?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "15 November 2023"
+    },
+    {
+      "rank": 14,
+      "previousRank": 97,
+      "rankChange": 83,
+      "isNew": false,
+      "appleId": "728573891",
+      "name": "Audio Recorder Pro & Playback",
+      "developer": "LiveBird Technologies Private Limited",
+      "developerUrl": "https://apps.apple.com/gb/developer/livebird-technologies-private-limited/id551521372?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/e1/cd/fde1cdf6-532a-a630-db27-87f8ea24a232/AppIconPro-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/audio-recorder-pro-playback/id728573891?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "GBP",
+        "formatted": "£7.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "04 November 2013"
+    },
+    {
+      "rank": 15,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6792541999",
+      "name": "TBT Mate™",
+      "developer": "Bullion Apps Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/bullion-apps-ltd/id6792542001?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/65/a4/0665a404-2c80-e9c0-b815-f18c9290b457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/tbt-mate/id6792541999?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "30 July 2026"
+    },
+    {
+      "rank": 16,
+      "previousRank": 4,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6762639006",
+      "name": "UP/1B Calculator",
+      "developer": "Little App Company",
+      "developerUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/up-1b-calculator/id6762639006?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "GBP",
+        "formatted": "£8.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "22 April 2026"
+    },
+    {
+      "rank": 17,
+      "previousRank": 5,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6765892376",
+      "name": "Pro Gas Volume Calculator",
+      "developer": "Liam Turner",
+      "developerUrl": "https://apps.apple.com/gb/developer/liam-turner/id1896118263?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cd/76/7fcd7602-6dff-8385-1fcf-3ebf91db8aa2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pro-gas-volume-calculator/id6765892376?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "05 May 2026"
+    },
+    {
+      "rank": 18,
+      "previousRank": 6,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6761654797",
+      "name": "Vretti printer",
+      "developer": "BanjoSoft",
+      "developerUrl": "https://apps.apple.com/gb/developer/banjosoft/id498841687?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/7e/6e/907e6e71-c406-a06f-90ae-131ead72b992/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/vretti-printer/id6761654797?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "09 April 2026"
+    },
+    {
+      "rank": 19,
+      "previousRank": 7,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "6804464523",
+      "name": "Pocket Publisher: For KDP",
+      "developer": "Dead Cool Apps",
+      "developerUrl": "https://apps.apple.com/gb/developer/dead-cool-apps/id1126027413?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/8b/bb/d18bbbe3-ba78-3c59-5aee-1cee4320916c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pocket-publisher-for-kdp/id6804464523?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "05 September 2026"
+    },
+    {
+      "rank": 20,
+      "previousRank": 8,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "346169165",
+      "name": "Hindenburg Field Recorder",
+      "developer": "Hindenburg Systems ApS",
+      "developerUrl": "https://apps.apple.com/gb/developer/hindenburg-systems-aps/id346169168?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/25/6f/7c256f40-d778-b881-fb64-0be1d681612c/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/hindenburg-field-recorder/id346169165?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "10 January 2010"
+    },
+    {
+      "rank": 21,
+      "previousRank": 9,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "488522018",
+      "name": "Purchase Order",
+      "developer": "Manu Gupta",
+      "developerUrl": "https://apps.apple.com/gb/developer/manu-gupta/id806110625?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/3b/7b053bae-ec91-32fe-5dc9-a44178f758e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/purchase-order/id488522018?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "02 February 2012"
+    },
+    {
+      "rank": 22,
+      "previousRank": 10,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "1571341170",
+      "name": "CryptoPad",
+      "developer": "Valerii Shinkaryuk",
+      "developerUrl": "https://apps.apple.com/gb/developer/valerii-shinkaryuk/id1571341172?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ed/1c/a6ed1cea-c1b8-c94f-8af3-4df9bc586053/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/cryptopad/id1571341170?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "05 July 2021"
+    },
+    {
+      "rank": 23,
+      "previousRank": 11,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "342548956",
+      "name": "TurboScan™ Pro: PDF scanner",
+      "developer": "Piksoft Inc.",
+      "developerUrl": "https://apps.apple.com/gb/developer/piksoft-inc/id342548959?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/3c/85/273c85f6-cff6-f03f-da21-13e5b19f28a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/turboscan-pro-pdf-scanner/id342548956?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "07 December 2009"
+    },
+    {
+      "rank": 24,
+      "previousRank": 13,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6791272747",
+      "name": "WealthOnTrackers",
+      "developer": "Rashpal Maan",
+      "developerUrl": "https://apps.apple.com/gb/developer/rashpal-maan/id6780415769?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/a2/4e/baa24ea6-2cd5-20b6-4436-5347f1057e32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/wealthontrackers/id6791272747?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "03 November 2026"
+    },
+    {
+      "rank": 25,
+      "previousRank": 14,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "325303634",
+      "name": "Calc VAT – VAT Calculator",
+      "developer": "Aaron Wardle",
+      "developerUrl": "https://apps.apple.com/gb/developer/aaron-wardle/id317720002?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/48/80/b94880a8-f16e-0e04-afe7-27ac2b6624dc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/calc-vat-vat-calculator/id325303634?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "01 August 2009"
+    },
+    {
+      "rank": 26,
+      "previousRank": 28,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "307868751",
       "name": "JotNot Scanner App Pro",
@@ -640,9 +596,9 @@
       "releaseDate": "26 March 2009"
     },
     {
-      "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "rank": 27,
+      "previousRank": 29,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "428974099",
       "name": "Mail+ for Outlook",
@@ -662,9 +618,9 @@
       "releaseDate": "18 April 2011"
     },
     {
-      "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "rank": 28,
+      "previousRank": 30,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "285877935",
       "name": "QuickVoice2Text Email (PRO Recorder)",
@@ -684,8 +640,30 @@
       "releaseDate": "31 January 2019"
     },
     {
-      "rank": 31,
-      "previousRank": 32,
+      "rank": 29,
+      "previousRank": 20,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "577499909",
+      "name": "TapeACall Pro: Call Recorder",
+      "developer": "Mosaic S.r.l.",
+      "developerUrl": "https://apps.apple.com/gb/developer/mosaic-s-r-l/id570748343?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/18/a1/bc18a138-56ed-e6de-5ecb-0ca7b90fec10/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/tapeacall-pro-call-recorder/id577499909?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "23 January 2013"
+    },
+    {
+      "rank": 30,
+      "previousRank": 31,
       "rankChange": 1,
       "isNew": false,
       "appleId": "295798315",
@@ -706,9 +684,31 @@
       "releaseDate": "20 November 2008"
     },
     {
+      "rank": 31,
+      "previousRank": 19,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "406389136",
+      "name": "Gas Rate Calculator",
+      "developer": "Little App Company",
+      "developerUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/ef/7a/b7/ef7ab79f-1c7a-fa84-4b34-806373c521a8/mzl.fhgozomk.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/gas-rate-calculator/id406389136?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "06 December 2010"
+    },
+    {
       "rank": 32,
-      "previousRank": 33,
-      "rankChange": 1,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "338550388",
       "name": "Audio Memos",
@@ -729,8 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": 34,
-      "rankChange": 1,
+      "previousRank": 33,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "401818935",
       "name": "Genius Scan Enterprise - PDF",
@@ -751,8 +751,8 @@
     },
     {
       "rank": 34,
-      "previousRank": 35,
-      "rankChange": 1,
+      "previousRank": 34,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "555938334",
       "name": "TruckerTimer",
@@ -773,8 +773,8 @@
     },
     {
       "rank": 35,
-      "previousRank": 23,
-      "rankChange": -12,
+      "previousRank": 35,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "558160040",
       "name": "vMEyeCloud",
@@ -1697,30 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 24,
-      "rankChange": -53,
-      "isNew": false,
-      "appleId": "598268211",
-      "name": "Voice-activated Recorder",
-      "developer": "Hongwen Yang",
-      "developerUrl": "https://apps.apple.com/gb/developer/hongwen-yang/id390857595?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/da/e2/01dae24d-8f2f-6092-cb1b-6b859551b6ba/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/voice-activated-recorder/id598268211?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "16 February 2013"
-    },
-    {
-      "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "586166344",
       "name": "Fast Scanner - PDF Doc Scan",
@@ -1740,9 +1718,31 @@
       "releaseDate": "12 January 2013"
     },
     {
-      "rank": 79,
-      "previousRank": 78,
+      "rank": 78,
+      "previousRank": 77,
       "rankChange": -1,
+      "isNew": false,
+      "appleId": "598268211",
+      "name": "Voice-activated Recorder",
+      "developer": "Hongwen Yang",
+      "developerUrl": "https://apps.apple.com/gb/developer/hongwen-yang/id390857595?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/da/e2/01dae24d-8f2f-6092-cb1b-6b859551b6ba/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/voice-activated-recorder/id598268211?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "16 February 2013"
+    },
+    {
+      "rank": 79,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "590313779",
       "name": "FormConnect Pro",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1126113478",
       "name": "Touchscreen Test",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "585529704",
       "name": "Scanner App Pro: Scan Edit PDF",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "401454706",
       "name": "Projectionist",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "840011082",
       "name": "V.A.T. Calculator Pro - Tax Me",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "528727630",
       "name": "Percentages Calculator",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1463377225",
       "name": "UK Post Prices",
@@ -1895,30 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "412366083",
-      "name": "CameraVision",
-      "developer": "Masayuki Akamatsu",
-      "developerUrl": "https://apps.apple.com/gb/developer/masayuki-akamatsu/id284722836?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c0/13/5cc01348-8105-ce17-6ebb-3f58c6faa214/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/cameravision/id412366083?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "03 January 2011"
-    },
-    {
-      "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "previousRank": 87,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "550062698",
       "name": "Inkflow Plus Visual Notebook",
@@ -1938,9 +1916,9 @@
       "releaseDate": "13 August 2012"
     },
     {
-      "rank": 88,
-      "previousRank": 87,
-      "rankChange": -1,
+      "rank": 87,
+      "previousRank": 88,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "530058716",
       "name": "BusinessCardDesigner - Business Card Maker with AirPrint",
@@ -1960,9 +1938,9 @@
       "releaseDate": "01 June 2012"
     },
     {
-      "rank": 89,
-      "previousRank": 88,
-      "rankChange": -1,
+      "rank": 88,
+      "previousRank": 89,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "704992962",
       "name": "Invoice Maker Simple",
@@ -1982,9 +1960,9 @@
       "releaseDate": "24 September 2013"
     },
     {
-      "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "rank": 89,
+      "previousRank": 90,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "946930094",
       "name": "FineReader Pro: PDF Scanner",
@@ -2004,9 +1982,9 @@
       "releaseDate": "07 January 2015"
     },
     {
-      "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "rank": 90,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "382994576",
       "name": "FileViewer USB for iPhone",
@@ -2026,53 +2004,9 @@
       "releaseDate": "29 July 2010"
     },
     {
-      "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6471742059",
-      "name": "DoLS App",
-      "developer": "Aasya Mughal",
-      "developerUrl": "https://apps.apple.com/gb/developer/aasya-mughal/id1715924855?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/53/55/ca5355db-ef73-fc7b-2316-92afcd64e7c9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/dols-app/id6471742059?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "15 November 2023"
-    },
-    {
-      "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "854618029",
-      "name": "FileBrowser Professional",
-      "developer": "Stratospherix Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/stratospherix-ltd/id323133606?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/b6/64/3cb664a7-5308-5e03-06ee-3b0ecfa3cf0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/filebrowser-professional/id854618029?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "GBP",
-        "formatted": "£14.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "17 April 2014"
-    },
-    {
-      "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "rank": 91,
+      "previousRank": 94,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "423213182",
       "name": "inShort",
@@ -2092,9 +2026,31 @@
       "releaseDate": "08 March 2011"
     },
     {
-      "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "rank": 92,
+      "previousRank": 93,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "854618029",
+      "name": "FileBrowser Professional",
+      "developer": "Stratospherix Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/stratospherix-ltd/id323133606?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/b6/64/3cb664a7-5308-5e03-06ee-3b0ecfa3cf0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/filebrowser-professional/id854618029?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "GBP",
+        "formatted": "£14.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "17 April 2014"
+    },
+    {
+      "rank": 93,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "382005326",
       "name": "GContact",
@@ -2114,9 +2070,9 @@
       "releaseDate": "29 July 2010"
     },
     {
-      "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
+      "rank": 94,
+      "previousRank": 96,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1556128361",
       "name": "SoftToken",
@@ -2136,31 +2092,9 @@
       "releaseDate": "31 March 2021"
     },
     {
-      "rank": 97,
-      "previousRank": 96,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "728573891",
-      "name": "Audio Recorder Pro & Playback",
-      "developer": "LiveBird Technologies Private Limited",
-      "developerUrl": "https://apps.apple.com/gb/developer/livebird-technologies-private-limited/id551521372?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/e1/cd/fde1cdf6-532a-a630-db27-87f8ea24a232/AppIconPro-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/audio-recorder-pro-playback/id728573891?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "GBP",
-        "formatted": "£7.99"
-      },
-      "primaryCategory": {
-        "id": "6000",
-        "name": "Business"
-      },
-      "releaseDate": "04 November 2013"
-    },
-    {
-      "rank": 98,
-      "previousRank": 97,
-      "rankChange": -1,
+      "rank": 95,
+      "previousRank": 98,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "325207575",
       "name": "Date Wheel date calculator",
@@ -2178,6 +2112,94 @@
         "name": "Business"
       },
       "releaseDate": "20 August 2009"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "661244018",
+      "name": "MyShiftWork",
+      "developer": "MTSoft MTSoft",
+      "developerUrl": "https://apps.apple.com/gb/developer/mtsoft-mtsoft/id661244021?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/f0/48/99f04887-a5b0-0d22-0b27-6dc0e091dba1/AppIcon-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/myshiftwork/id661244018?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "13 July 2013"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "286366281",
+      "name": "SalesCalc",
+      "developer": "On-Core Software LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/on-core-software-llc/id283621364?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/5f/69/29/5f69291a-a499-a1f2-cd1e-6f3b715ee34e/pr_source.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/salescalc/id286366281?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "05 February 2019"
+    },
+    {
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "378476242",
+      "name": "Smart Group: Email, SMS/Text",
+      "developer": "Shan Shan Liu",
+      "developerUrl": "https://apps.apple.com/gb/developer/shan-shan-liu/id312352870?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/99/f4/6c99f413-fba4-8903-1122-3245ec484f17/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/smart-group-email-sms-text/id378476242?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "GBP",
+        "formatted": "£7.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "25 June 2010"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "536930649",
+      "name": "Date & Time Calculator(9 in 1)",
+      "developer": "Thomas Tsopanakis",
+      "developerUrl": "https://apps.apple.com/gb/developer/thomas-tsopanakis/id471022214?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/d7/f0/30d7f05a-25a1-a12f-949d-b13168433469/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/date-time-calculator-9-in-1/id536930649?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6000",
+        "name": "Business"
+      },
+      "releaseDate": "28 June 2012"
     }
   ]
 }

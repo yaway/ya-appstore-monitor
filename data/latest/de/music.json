@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-09",
-  "collectedAt": "2026-11-09T07:46:20.224Z",
-  "sourceUpdatedAt": "2026-11-08T23:46:19-07:00",
+  "snapshotDate": "2026-11-10",
+  "collectedAt": "2026-11-10T08:07:01.797Z",
+  "sourceUpdatedAt": "2026-11-10T00:07:01-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6011/json",
   "chartType": "paid",
@@ -17,16 +17,60 @@
     "name": "音乐"
   },
   "requestedLimit": 100,
-  "expectedCount": 98,
-  "actualCount": 98,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-08",
+  "previousSnapshotDate": "2026-11-09",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 20,
+      "rankChange": 19,
+      "isNew": false,
+      "appleId": "6823045499",
+      "name": "IvyPod",
+      "developer": "Jeremy Siegel",
+      "developerUrl": "https://apps.apple.com/de/developer/jeremy-siegel/id1679205677?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ivypod/id6823045499?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "06.11.2026"
+    },
+    {
+      "rank": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6816793607",
+      "name": "GigClick: Metronome, Setlist",
+      "developer": "MATTHEW PETER WHIMP",
+      "developerUrl": "https://apps.apple.com/de/developer/matthew-peter-whimp/id6816793609?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/3d/52/453d5263-ecd6-83de-20c1-4c326b1434a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/gigclick-metronome-setlist/id6816793607?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "27.10.2026"
+    },
+    {
+      "rank": 3,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "6800616114",
       "name": "play_music_theory",
@@ -46,75 +90,9 @@
       "releaseDate": "21.08.2026"
     },
     {
-      "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "1633243177",
-      "name": "Ableton Note",
-      "developer": "Ableton AG",
-      "developerUrl": "https://apps.apple.com/de/developer/ableton-ag/id1228664884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/ac/382cac74-ec5a-46bc-aa40-560caa33fdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ableton-note/id1633243177?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "18.10.2022"
-    },
-    {
-      "rank": 3,
-      "previousRank": 5,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "298206806",
-      "name": "iReal Pro",
-      "developer": "Technimo LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/technimo-llc/id298206809?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/f4/2a08f4bf-b058-a21b-a475-fb93ba85c0c2/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ireal-pro/id298206806?uo=2",
-      "price": {
-        "amount": 24.99,
-        "currency": "EUR",
-        "formatted": "24,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "02.12.2008"
-    },
-    {
       "rank": 4,
-      "previousRank": 8,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "432850619",
-      "name": "FL Studio Mobile",
-      "developer": "Image Line Software",
-      "developerUrl": "https://apps.apple.com/de/developer/image-line-software/id432850147?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/48/67/d848676e-e1ad-039e-713d-da05b9dc0657/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fl-studio-mobile/id432850619?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "21.06.2011"
-    },
-    {
-      "rank": 5,
-      "previousRank": 2,
-      "rankChange": -3,
+      "previousRank": 5,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -134,53 +112,31 @@
       "releaseDate": "14.10.2026"
     },
     {
-      "rank": 6,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6824241131",
-      "name": "Midgar - Ambience Effect",
-      "developer": "Bram Bos",
-      "developerUrl": "https://apps.apple.com/de/developer/bram-bos/id325340444?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/3d/8f/a53d8f5e-064e-0a00-50d1-3ed76e7aef13/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/midgar-ambience-effect/id6824241131?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "08.11.2026"
-    },
-    {
-      "rank": 7,
-      "previousRank": 24,
-      "rankChange": 17,
+      "rank": 5,
+      "previousRank": 4,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "363738376",
-      "name": "forScore",
-      "developer": "forScore LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/forscore-llc/id797590287?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/74/4fd37470-6739-cbe7-297f-6942f39728da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/forscore/id363738376?uo=2",
+      "appleId": "432850619",
+      "name": "FL Studio Mobile",
+      "developer": "Image Line Software",
+      "developerUrl": "https://apps.apple.com/de/developer/image-line-software/id432850147?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1d/2b/301d2b9b-2041-040c-7c44-e00e1598ed20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/fl-studio-mobile/id432850619?uo=2",
       "price": {
-        "amount": 29.99,
+        "amount": 17.99,
         "currency": "EUR",
-        "formatted": "29,99 €"
+        "formatted": "17,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "09.04.2010"
+      "releaseDate": "21.06.2011"
     },
     {
-      "rank": 8,
-      "previousRank": 6,
-      "rankChange": -2,
+      "rank": 6,
+      "previousRank": 8,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1449584007",
       "name": "Koala Sampler • Beat Maker",
@@ -200,60 +156,16 @@
       "releaseDate": "28.02.2019"
     },
     {
-      "rank": 9,
-      "previousRank": 18,
-      "rankChange": 9,
+      "rank": 7,
+      "previousRank": 2,
+      "rankChange": -5,
       "isNew": false,
-      "appleId": "491916556",
-      "name": "NAK Gesangbuch",
-      "developer": "Verlag Friedrich Bischoff GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/verlag-friedrich-bischoff-gmbh/id491916559?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/31/a9/a531a9fa-e4b4-43e3-a08f-415bfac0cd64/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nak-gesangbuch/id491916556?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "11.01.2012"
-    },
-    {
-      "rank": 10,
-      "previousRank": 9,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1210584625",
-      "name": "Audyssey MultEQ Editor app",
-      "developer": "D&M Holdings",
-      "developerUrl": "https://apps.apple.com/de/developer/d-m-holdings/id388608883?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/audyssey-multeq-editor-app/id1210584625?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "03.04.2017"
-    },
-    {
-      "rank": 11,
-      "previousRank": 7,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "497716362",
-      "name": "TonalEnergy Stimmgerät & Metro",
-      "developer": "TonalEnergy, Inc",
-      "developerUrl": "https://apps.apple.com/de/developer/tonalenergy-inc/id1448604955?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/66/4b/d0664b44-47f6-bc30-6c32-58d8592299cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tonalenergy-stimmger%C3%A4t-metro/id497716362?uo=2",
+      "appleId": "1633243177",
+      "name": "Ableton Note",
+      "developer": "Ableton AG",
+      "developerUrl": "https://apps.apple.com/de/developer/ableton-ag/id1228664884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/ac/382cac74-ec5a-46bc-aa40-560caa33fdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ableton-note/id1633243177?uo=2",
       "price": {
         "amount": 7.99,
         "currency": "EUR",
@@ -263,11 +175,143 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "17.02.2012"
+      "releaseDate": "18.10.2022"
+    },
+    {
+      "rank": 8,
+      "previousRank": 3,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "298206806",
+      "name": "iReal Pro",
+      "developer": "Technimo LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/technimo-llc/id298206809?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/f4/2a08f4bf-b058-a21b-a475-fb93ba85c0c2/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ireal-pro/id298206806?uo=2",
+      "price": {
+        "amount": 24.99,
+        "currency": "EUR",
+        "formatted": "24,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "02.12.2008"
+    },
+    {
+      "rank": 9,
+      "previousRank": 6,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6824241131",
+      "name": "Midgar - Ambience Effect",
+      "developer": "Bram Bos",
+      "developerUrl": "https://apps.apple.com/de/developer/bram-bos/id325340444?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/3d/8f/a53d8f5e-064e-0a00-50d1-3ed76e7aef13/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/midgar-ambience-effect/id6824241131?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "08.11.2026"
+    },
+    {
+      "rank": 10,
+      "previousRank": 7,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "363738376",
+      "name": "forScore",
+      "developer": "forScore LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/forscore-llc/id797590287?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/74/4fd37470-6739-cbe7-297f-6942f39728da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/forscore/id363738376?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "EUR",
+        "formatted": "29,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "09.04.2010"
+    },
+    {
+      "rank": 11,
+      "previousRank": 50,
+      "rankChange": 39,
+      "isNew": false,
+      "appleId": "967043604",
+      "name": "SonoSequencr",
+      "developer": "Marcus Pleintinger",
+      "developerUrl": "https://apps.apple.com/de/developer/marcus-pleintinger/id938374594?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/12/23/a3122399-ad52-8c5a-baac-b360fe24a275/AppIcon-18-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sonosequencr/id967043604?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "14.04.2015"
     },
     {
       "rank": 12,
-      "previousRank": 10,
+      "previousRank": 45,
+      "rankChange": 33,
+      "isNew": false,
+      "appleId": "6818329288",
+      "name": "Pragmatic Audio PEQ",
+      "developer": "KONECKTA LIMITED",
+      "developerUrl": "https://apps.apple.com/de/developer/koneckta-limited/id1779735440?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/04/41/2a0441d8-d6d3-2daf-d0eb-a7d1c255adc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pragmatic-audio-peq/id6818329288?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "14.10.2026"
+    },
+    {
+      "rank": 13,
+      "previousRank": 49,
+      "rankChange": 36,
+      "isNew": false,
+      "appleId": "304731501",
+      "name": "Tempo Metronom mit Setlisten",
+      "developer": "Frozen Ape Pte. Ltd.",
+      "developerUrl": "https://apps.apple.com/de/developer/frozen-ape-pte-ltd/id304731504?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/07/ef/7a07ef92-188c-4a03-024b-29fe3b252e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tempo-metronom-mit-setlisten/id304731501?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "12.02.2009"
+    },
+    {
+      "rank": 14,
+      "previousRank": 12,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1006939067",
@@ -288,141 +332,9 @@
       "releaseDate": "02.09.2015"
     },
     {
-      "rank": 13,
-      "previousRank": 3,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6752807769",
-      "name": "DJ Rehab Mashups & Remixes",
-      "developer": "Brian McCoy",
-      "developerUrl": "https://apps.apple.com/de/developer/brian-mccoy/id1834899738?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/fa/03/58fa03b8-6491-1c63-9295-56cec09c547c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dj-rehab-mashups-remixes/id6752807769?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "20.09.2025"
-    },
-    {
-      "rank": 14,
-      "previousRank": 30,
-      "rankChange": 16,
-      "isNew": false,
-      "appleId": "6819227334",
-      "name": "ImpulseDie - Symbiotic Drum",
-      "developer": "Diego Capoccitti",
-      "developerUrl": "https://apps.apple.com/de/developer/diego-capoccitti/id1650005470?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/5f/d4/535fd4bc-5d46-117f-1956-defe3243ba64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/impulsedie-symbiotic-drum/id6819227334?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "05.11.2026"
-    },
-    {
       "rank": 15,
-      "previousRank": 50,
-      "rankChange": 35,
-      "isNew": false,
-      "appleId": "1318750537",
-      "name": "Groove Rider GR-16",
-      "developer": "Dmitrij Pavlov",
-      "developerUrl": "https://apps.apple.com/de/developer/dmitrij-pavlov/id478154322?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/54/69/d754691a-8d3c-cfaa-c4e3-a8980a8027aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/groove-rider-gr-16/id1318750537?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "23.12.2017"
-    },
-    {
-      "rank": 16,
-      "previousRank": 51,
-      "rankChange": 35,
-      "isNew": false,
-      "appleId": "1620569987",
-      "name": "MobileSheets®",
-      "developer": "Michael Zuber",
-      "developerUrl": "https://apps.apple.com/de/developer/michael-zuber/id1620569989?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mobilesheets/id1620569987?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "16.12.2022"
-    },
-    {
-      "rank": 17,
-      "previousRank": 12,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6777792345",
-      "name": "Blueprint 4-Track",
-      "developer": "MAX B HELGEMO",
-      "developerUrl": "https://apps.apple.com/de/developer/max-b-helgemo/id6777792347?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/blueprint-4-track/id6777792345?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "17.07.2026"
-    },
-    {
-      "rank": 18,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "379868541",
-      "name": "Salsa Rhythm",
-      "developer": "District One Mobile, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/district-one-mobile-llc/id812513884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ea/fa/2beafacd-7cce-3dba-853e-f6ce39b62e01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/salsa-rhythm/id379868541?uo=2",
-      "price": {
-        "amount": 3.49,
-        "currency": "EUR",
-        "formatted": "3,49 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "06.07.2010"
-    },
-    {
-      "rank": 19,
-      "previousRank": 13,
-      "rankChange": -6,
+      "previousRank": 19,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "6757758923",
       "name": "Better ST for Bose SoundTouch",
@@ -442,32 +354,164 @@
       "releaseDate": "06.03.2026"
     },
     {
-      "rank": 20,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6823045499",
-      "name": "IvyPod",
-      "developer": "Jeremy Siegel",
-      "developerUrl": "https://apps.apple.com/de/developer/jeremy-siegel/id1679205677?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ivypod/id6823045499?uo=2",
+      "rank": 16,
+      "previousRank": 55,
+      "rankChange": 39,
+      "isNew": false,
+      "appleId": "407160120",
+      "name": "VirtualDJ Remote",
+      "developer": "Atomix Productions America Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/atomix-productions-america-inc/id938290526?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/de/c3/b0dec36b-c272-3915-0d01-9e1c9647de49/AppIcon-0-0-1x_U007emarketing-0-8-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/virtualdj-remote/id407160120?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 9.99,
         "currency": "EUR",
-        "formatted": "2,99 €"
+        "formatted": "9,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "06.11.2026"
+      "releaseDate": "15.12.2010"
+    },
+    {
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1620569987",
+      "name": "MobileSheets®",
+      "developer": "Michael Zuber",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-zuber/id1620569989?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mobilesheets/id1620569987?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "16.12.2022"
+    },
+    {
+      "rank": 18,
+      "previousRank": 26,
+      "rankChange": 8,
+      "isNew": false,
+      "appleId": "308296029",
+      "name": "iStroboSoft",
+      "developer": "Peterson Tuners",
+      "developerUrl": "https://apps.apple.com/de/developer/peterson-tuners/id308296032?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/a1/ce/95a1ce0c-5ffc-e6b2-2acd-af171e24c3fe/AppIcon-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/istrobosoft/id308296029?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "31.03.2009"
+    },
+    {
+      "rank": 19,
+      "previousRank": 11,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "497716362",
+      "name": "TonalEnergy Stimmgerät & Metro",
+      "developer": "TonalEnergy, Inc",
+      "developerUrl": "https://apps.apple.com/de/developer/tonalenergy-inc/id1448604955?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/66/4b/d0664b44-47f6-bc30-6c32-58d8592299cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tonalenergy-stimmger%C3%A4t-metro/id497716362?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "17.02.2012"
+    },
+    {
+      "rank": 20,
+      "previousRank": 9,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "491916556",
+      "name": "NAK Gesangbuch",
+      "developer": "Verlag Friedrich Bischoff GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/verlag-friedrich-bischoff-gmbh/id491916559?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/31/a9/a531a9fa-e4b4-43e3-a08f-415bfac0cd64/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nak-gesangbuch/id491916556?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "11.01.2012"
     },
     {
       "rank": 21,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
+      "appleId": "6825144332",
+      "name": "HWM Midi Surface",
+      "developer": "casey govero",
+      "developerUrl": "https://apps.apple.com/de/developer/casey-govero/id6825144334?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/61/7a/94617ae5-b6f9-fcb3-e5dc-8157335ed8d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/hwm-midi-surface/id6825144332?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "08.11.2026"
+    },
+    {
+      "rank": 22,
+      "previousRank": 18,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "379868541",
+      "name": "Salsa Rhythm",
+      "developer": "District One Mobile, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/district-one-mobile-llc/id812513884?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ea/fa/2beafacd-7cce-3dba-853e-f6ce39b62e01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/salsa-rhythm/id379868541?uo=2",
+      "price": {
+        "amount": 3.49,
+        "currency": "EUR",
+        "formatted": "3,49 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "06.07.2010"
+    },
+    {
+      "rank": 23,
+      "previousRank": 21,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "286799607",
       "name": "Cleartune",
       "developer": "Bitcount ltd.",
@@ -486,75 +530,31 @@
       "releaseDate": "13.02.2019"
     },
     {
-      "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6786712549",
-      "name": "PraisePad",
-      "developer": "Johannes Hovermann",
-      "developerUrl": "https://apps.apple.com/de/developer/johannes-hovermann/id6786712551?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/7c/b7/1d7cb713-9146-c4c9-b311-ce3309f555d6/PraisePad-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/praisepad/id6786712549?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "07.11.2026"
-    },
-    {
-      "rank": 23,
-      "previousRank": 25,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "1447768809",
-      "name": "Marvis Pro",
-      "developer": "Aditya Rajveer",
-      "developerUrl": "https://apps.apple.com/de/developer/aditya-rajveer/id882719699?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/marvis-pro/id1447768809?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.02.2019"
-    },
-    {
       "rank": 24,
-      "previousRank": 41,
-      "rankChange": 17,
-      "isNew": false,
-      "appleId": "400666114",
-      "name": "Guitar Pro",
-      "developer": "Arobas Music",
-      "developerUrl": "https://apps.apple.com/de/developer/arobas-music/id400666117?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e2/70/e5e27069-dba9-a440-c279-85af5c9cd27b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/guitar-pro/id400666114?uo=2",
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6446242162",
+      "name": "Player for Watch",
+      "developer": "磊 汪",
+      "developerUrl": "https://apps.apple.com/de/developer/%E7%A3%8A-%E6%B1%AA/id1063627762?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ba/68/b1ba686d-20e6-0610-9671-de2b1553e9a0/Black-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/player-for-watch/id6446242162?uo=2",
       "price": {
-        "amount": 7.99,
+        "amount": 3.99,
         "currency": "EUR",
-        "formatted": "7,99 €"
+        "formatted": "3,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "15.01.2011"
+      "releaseDate": "05.04.2023"
     },
     {
       "rank": 25,
-      "previousRank": 40,
-      "rankChange": 15,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "459313476",
       "name": "Tenuto",
@@ -578,92 +578,26 @@
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "308296029",
-      "name": "iStroboSoft",
-      "developer": "Peterson Tuners",
-      "developerUrl": "https://apps.apple.com/de/developer/peterson-tuners/id308296032?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/a1/ce/95a1ce0c-5ffc-e6b2-2acd-af171e24c3fe/AppIcon-1x_U007epad-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/istrobosoft/id308296029?uo=2",
+      "appleId": "655607914",
+      "name": "Drumtune PRO | Drum Tuner",
+      "developer": "EXALTD CO., Limited",
+      "developerUrl": "https://apps.apple.com/de/developer/exaltd-co-limited/id1554472750?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/a6/e4/e9a6e47c-833d-e3aa-d30a-a4f8104e34ca/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/drumtune-pro-drum-tuner/id655607914?uo=2",
       "price": {
-        "amount": 9.99,
+        "amount": 12.99,
         "currency": "EUR",
-        "formatted": "9,99 €"
+        "formatted": "12,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "31.03.2009"
+      "releaseDate": "05.06.2013"
     },
     {
       "rank": 27,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1612952507",
-      "name": "AeroPads - Pads & Soundscapes",
-      "developer": "Aerospace Audio LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/aerospace-audio-llc/id1612952509?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/11/28/c51128c6-a3cc-90e7-675a-db33ff9d3071/AeroPads-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/aeropads-pads-soundscapes/id1612952507?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "17.10.2022"
-    },
-    {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6831317249",
-      "name": "SM-1: Semi-modular synth",
-      "developer": "Dubspot",
-      "developerUrl": "https://apps.apple.com/de/developer/dubspot/id6812401574?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/77/26/3e7726c1-2b24-67fa-d37d-90f5f3fb7a90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sm-1-semi-modular-synth/id6831317249?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "07.11.2026"
-    },
-    {
-      "rank": 29,
-      "previousRank": 27,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6763518834",
-      "name": "NaviBeat: Navidrome Player",
-      "developer": "Nenad Jokic",
-      "developerUrl": "https://apps.apple.com/de/developer/nenad-jokic/id1895353961?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/94/56/8e94564e-0048-c8d8-7ab1-59445f660b04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/navibeat-navidrome-player/id6763518834?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "25.05.2026"
-    },
-    {
-      "rank": 30,
-      "previousRank": 33,
+      "previousRank": 30,
       "rankChange": 3,
       "isNew": false,
       "appleId": "348094874",
@@ -684,192 +618,16 @@
       "releaseDate": "05.01.2010"
     },
     {
-      "rank": 31,
-      "previousRank": 36,
-      "rankChange": 5,
+      "rank": 28,
+      "previousRank": 13,
+      "rankChange": -15,
       "isNew": false,
-      "appleId": "1212118228",
-      "name": "OnPitch - Vocal Pitch Monitor",
-      "developer": "Alena Kucharenka",
-      "developerUrl": "https://apps.apple.com/de/developer/alena-kucharenka/id1212118227?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/5f/a9/c45fa9ef-c552-6cd6-8e84-713ddce50e69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/onpitch-vocal-pitch-monitor/id1212118228?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "11.03.2017"
-    },
-    {
-      "rank": 32,
-      "previousRank": 38,
-      "rankChange": 6,
-      "isNew": false,
-      "appleId": "6746699177",
-      "name": "Lysoniq",
-      "developer": "Tim Fagan",
-      "developerUrl": "https://apps.apple.com/de/developer/tim-fagan/id1750065373?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/1f/90/241f90ee-43b0-57c7-270d-771d5c850ebe/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/lysoniq/id6746699177?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "22.07.2025"
-    },
-    {
-      "rank": 33,
-      "previousRank": 57,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "1443682940",
-      "name": "Gap Click by Benny Greb",
-      "developer": "Kick Snare Hat Apps, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/kick-snare-hat-apps-llc/id945994325?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/d3/33/b2d3336b-18e7-1b4d-241e-75a9a70a97ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/gap-click-by-benny-greb/id1443682940?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "09.06.2020"
-    },
-    {
-      "rank": 34,
-      "previousRank": 60,
-      "rankChange": 26,
-      "isNew": false,
-      "appleId": "6466678799",
-      "name": "WatchCloud: SoundCloud Player",
-      "developer": "Ryan Forsyth",
-      "developerUrl": "https://apps.apple.com/de/developer/ryan-forsyth/id1486027180?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/9e/0e/079e0e48-5b79-0d37-fba0-52ba2e6a1acf/Icon-0-0-1x_U007ephone-0-1-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/watchcloud-soundcloud-player/id6466678799?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "19.09.2023"
-    },
-    {
-      "rank": 35,
-      "previousRank": 14,
-      "rankChange": -21,
-      "isNew": false,
-      "appleId": "308998718",
-      "name": "Amazing Slow Downer",
-      "developer": "Roni Music",
-      "developerUrl": "https://apps.apple.com/de/developer/roni-music/id308998721?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/a1/3f/e5a13f8b-90b6-a9ae-d84c-edaba81283c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/amazing-slow-downer/id308998718?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "26.03.2009"
-    },
-    {
-      "rank": 36,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1606736073",
-      "name": "Benaudira-Player",
-      "developer": "Holger Raddatz",
-      "developerUrl": "https://apps.apple.com/de/developer/holger-raddatz/id1364838612?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b6/42/cbb642fa-0aa6-cd04-a04d-9ab1532917a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/benaudira-player/id1606736073?uo=2",
-      "price": {
-        "amount": 11.99,
-        "currency": "EUR",
-        "formatted": "11,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "15.02.2022"
-    },
-    {
-      "rank": 37,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6820495772",
-      "name": "VU303",
-      "developer": "Dariusz Chynek",
-      "developerUrl": "https://apps.apple.com/de/developer/dariusz-chynek/id1805845479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fc/6b/1bfc6b0c-ca5a-43e4-1f3c-c476aed591bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vu303/id6820495772?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "31.10.2026"
-    },
-    {
-      "rank": 38,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "372716320",
-      "name": "Jagdsignale",
-      "developer": "Jagdschule Blatt",
-      "developerUrl": "https://apps.apple.com/de/developer/jagdschule-blatt/id370136015?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/17/a0/86/17a086cf-147a-da13-2cee-f564cda39eb7/mzl.ffsurjfn.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/jagdsignale/id372716320?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.05.2010"
-    },
-    {
-      "rank": 39,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6749867472",
-      "name": "VIRAL Synth 2: T2x | AUv3",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ea/94/f8ea94c2-aef4-c680-ee62-b696b440dd00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/viral-synth-2-t2x-auv3/id6749867472?uo=2",
+      "appleId": "6752807769",
+      "name": "DJ Rehab Mashups & Remixes",
+      "developer": "Brian McCoy",
+      "developerUrl": "https://apps.apple.com/de/developer/brian-mccoy/id1834899738?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/fa/03/58fa03b8-6491-1c63-9295-56cec09c547c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dj-rehab-mashups-remixes/id6752807769?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -879,144 +637,12 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "24.09.2025"
+      "releaseDate": "20.09.2025"
     },
     {
-      "rank": 40,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6756800933",
-      "name": "Super J8 Synth + AUv3",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6e/f4/0f6ef4c7-6762-d59f-8b59-e79d75b51411/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/super-j8-synth-auv3/id6756800933?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "EUR",
-        "formatted": "8,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "12.02.2026"
-    },
-    {
-      "rank": 41,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1473111210",
-      "name": "TB Equalizer",
-      "developer": "ToneBoosters",
-      "developerUrl": "https://apps.apple.com/de/developer/toneboosters/id1472446500?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/2d/2b/a52d2b22-8aea-736d-b6a6-3d714e94249e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tb-equalizer/id1473111210?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "30.07.2019"
-    },
-    {
-      "rank": 42,
-      "previousRank": 29,
-      "rankChange": -13,
-      "isNew": false,
-      "appleId": "815251931",
-      "name": "SonoPhone für Sonos",
-      "developer": "Stefan Hansel Solutions UG (haftungsbeschraenkt)",
-      "developerUrl": "https://apps.apple.com/de/developer/stefan-hansel-solutions-ug-haftungsbeschraenkt/id380003008?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/a1/bf/2ea1bf90-44d1-8616-058d-693e50199fac/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sonophone-f%C3%BCr-sonos/id815251931?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "18.02.2014"
-    },
-    {
-      "rank": 43,
-      "previousRank": 31,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "526650611",
-      "name": "DM1 for iPhone",
-      "developer": "Fingerlab",
-      "developerUrl": "https://apps.apple.com/de/developer/fingerlab/id412786610?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/19/55/9c195531-4f79-22dd-c862-8c45c4d2de6c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dm1-for-iphone/id526650611?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "07.06.2012"
-    },
-    {
-      "rank": 44,
-      "previousRank": 11,
-      "rankChange": -33,
-      "isNew": false,
-      "appleId": "1234266367",
-      "name": "iDrumTune Precision Drum Tuner",
-      "developer": "RT Sixty Ltd",
-      "developerUrl": "https://apps.apple.com/de/developer/rt-sixty-ltd/id509606275?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c9/ed/c2c9edef-dea1-30a8-013b-d8676e886e3e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/idrumtune-precision-drum-tuner/id1234266367?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "EUR",
-        "formatted": "14,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "31.05.2017"
-    },
-    {
-      "rank": 45,
-      "previousRank": 35,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6818329288",
-      "name": "Pragmatic Audio PEQ",
-      "developer": "KONECKTA LIMITED",
-      "developerUrl": "https://apps.apple.com/de/developer/koneckta-limited/id1779735440?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/04/41/2a0441d8-d6d3-2daf-d0eb-a7d1c255adc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/pragmatic-audio-peq/id6818329288?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.10.2026"
-    },
-    {
-      "rank": 46,
-      "previousRank": 39,
-      "rankChange": -7,
+      "rank": 29,
+      "previousRank": 46,
+      "rankChange": 17,
       "isNew": false,
       "appleId": "6802397608",
       "name": "Sinusoidal Run Rhythm",
@@ -1036,8 +662,492 @@
       "releaseDate": "04.11.2026"
     },
     {
+      "rank": 30,
+      "previousRank": 10,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "1210584625",
+      "name": "Audyssey MultEQ Editor app",
+      "developer": "D&M Holdings",
+      "developerUrl": "https://apps.apple.com/de/developer/d-m-holdings/id388608883?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/audyssey-multeq-editor-app/id1210584625?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "03.04.2017"
+    },
+    {
+      "rank": 31,
+      "previousRank": 65,
+      "rankChange": 34,
+      "isNew": false,
+      "appleId": "608540795",
+      "name": "Tunable – Tuner & Metronome",
+      "developer": "AffinityBlue",
+      "developerUrl": "https://apps.apple.com/de/developer/affinityblue/id428440807?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tunable-tuner-metronome/id608540795?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "27.03.2013"
+    },
+    {
+      "rank": 32,
+      "previousRank": 17,
+      "rankChange": -15,
+      "isNew": false,
+      "appleId": "6777792345",
+      "name": "Blueprint 4-Track",
+      "developer": "MAX B HELGEMO",
+      "developerUrl": "https://apps.apple.com/de/developer/max-b-helgemo/id6777792347?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/blueprint-4-track/id6777792345?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "17.07.2026"
+    },
+    {
+      "rank": 33,
+      "previousRank": 66,
+      "rankChange": 33,
+      "isNew": false,
+      "appleId": "554766778",
+      "name": "liveBPM - Beat Detector",
+      "developer": "Daniel Bach",
+      "developerUrl": "https://apps.apple.com/de/developer/daniel-bach/id554766781?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/78/84/97/78849705-1885-9d96-949e-0ce95878a70c/mzl.elogfyln.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/livebpm-beat-detector/id554766778?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "31.08.2012"
+    },
+    {
+      "rank": 34,
+      "previousRank": 69,
+      "rankChange": 35,
+      "isNew": false,
+      "appleId": "955329386",
+      "name": "play:Sub Music Streamer",
+      "developer": "Michael Hansen",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-hansen/id955329385?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/88/64/d88864b9-490a-b1fc-f4f1-9e5b450037ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/play-sub-music-streamer/id955329386?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "26.03.2015"
+    },
+    {
+      "rank": 35,
+      "previousRank": 88,
+      "rankChange": 53,
+      "isNew": false,
+      "appleId": "6778600014",
+      "name": "Omnisound",
+      "developer": "Konstantin Torsten Schutz",
+      "developerUrl": "https://apps.apple.com/de/developer/konstantin-torsten-schutz/id6778600016?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/a7/36/32a736bc-65e4-a42c-6a36-f32652c3ee22/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/omnisound/id6778600014?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "18.06.2026"
+    },
+    {
+      "rank": 36,
+      "previousRank": 90,
+      "rankChange": 54,
+      "isNew": false,
+      "appleId": "6806721202",
+      "name": "M8 Music Tracker",
+      "developer": "Dirtywave",
+      "developerUrl": "https://apps.apple.com/de/developer/dirtywave/id1816585443?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/92/98/b99298ec-83d0-7544-c4f5-d9401c6dc210/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/m8-music-tracker/id6806721202?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "09.09.2026"
+    },
+    {
+      "rank": 37,
+      "previousRank": 23,
+      "rankChange": -14,
+      "isNew": false,
+      "appleId": "1447768809",
+      "name": "Marvis Pro",
+      "developer": "Aditya Rajveer",
+      "developerUrl": "https://apps.apple.com/de/developer/aditya-rajveer/id882719699?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/marvis-pro/id1447768809?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "14.02.2019"
+    },
+    {
+      "rank": 38,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759358968",
+      "name": "PadLab - Live Pads",
+      "developer": "Daniel Albano",
+      "developerUrl": "https://apps.apple.com/de/developer/daniel-albano/id1878280171?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/68/68/7b686887-cb10-4ade-7362-8786a074d98e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/padlab-live-pads/id6759358968?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "20.02.2026"
+    },
+    {
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "573192227",
+      "name": "CloudBeats: Musik Player",
+      "developer": "Roman Burda",
+      "developerUrl": "https://apps.apple.com/de/developer/roman-burda/id426901819?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/89/a6/a689a684-c95f-2729-2c2d-b1af666eb338/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/cloudbeats-musik-player/id573192227?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "04.11.2012"
+    },
+    {
+      "rank": 40,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6760545075",
+      "name": "Reel: 4-Spur-Recorder",
+      "developer": "TUGKAN MUTLU",
+      "developerUrl": "https://apps.apple.com/de/developer/tugkan-mutlu/id1884887772?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/9b/5f/079b5f9b-04ce-b795-1927-d43e0bcfe54b/ReelIcon2026-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/reel-4-spur-recorder/id6760545075?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "05.05.2026"
+    },
+    {
+      "rank": 41,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1456153507",
+      "name": "Miximum: Smart Playlist Maker",
+      "developer": "Mike Clay",
+      "developerUrl": "https://apps.apple.com/de/developer/mike-clay/id924491990?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c2/5f/03c25f23-f294-d05d-bf81-65adae6a8e0a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/miximum-smart-playlist-maker/id1456153507?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "27.06.2019"
+    },
+    {
+      "rank": 42,
+      "previousRank": 24,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "400666114",
+      "name": "Guitar Pro",
+      "developer": "Arobas Music",
+      "developerUrl": "https://apps.apple.com/de/developer/arobas-music/id400666117?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e2/70/e5e27069-dba9-a440-c279-85af5c9cd27b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/guitar-pro/id400666114?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "15.01.2011"
+    },
+    {
+      "rank": 43,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "503760460",
+      "name": "mconnect Player",
+      "developer": "ConversDigital Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/de/developer/conversdigital-co-ltd/id503760463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/8d/a9/308da93b-3875-50dd-6b6c-91a0d07a7144/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mconnect-player/id503760460?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "22.02.2012"
+    },
+    {
+      "rank": 44,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6806470752",
+      "name": "Practice Farm: Etüden und Bach",
+      "developer": "Nicholas Mahon",
+      "developerUrl": "https://apps.apple.com/de/developer/nicholas-mahon/id1888194985?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/96/84/889684d0-a0cd-ca13-b0c9-4063d6454a7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/practice-farm-et%C3%BCden-und-bach/id6806470752?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "22.09.2026"
+    },
+    {
+      "rank": 45,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757311508",
+      "name": "Stimmgerät Gitarre für Watch",
+      "developer": "Simone Saleri",
+      "developerUrl": "https://apps.apple.com/de/developer/simone-saleri/id1738027672?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/19/5f/5b195f10-7857-b9d2-d611-1720f9fc2cc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/stimmger%C3%A4t-gitarre-f%C3%BCr-watch/id6757311508?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "03.02.2026"
+    },
+    {
+      "rank": 46,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6747075643",
+      "name": "Surreal Machines Impact",
+      "developer": "Surreal Machines",
+      "developerUrl": "https://apps.apple.com/de/developer/surreal-machines/id1688572197?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/88/f5/7a88f5e5-9226-3379-85a8-8e5eadb7b2c5/ImpactiOSAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/surreal-machines-impact/id6747075643?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "08.11.2026"
+    },
+    {
       "rank": 47,
-      "previousRank": 42,
+      "previousRank": 28,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "6831317249",
+      "name": "SM-1: Semi-modular synth",
+      "developer": "Dubspot",
+      "developerUrl": "https://apps.apple.com/de/developer/dubspot/id6812401574?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ec/2c/a2ec2cd8-ba73-e76a-d146-aa82677729dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sm-1-semi-modular-synth/id6831317249?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "07.11.2026"
+    },
+    {
+      "rank": 48,
+      "previousRank": 14,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "6819227334",
+      "name": "ImpulseDie - Symbiotic Drum",
+      "developer": "Diego Capoccitti",
+      "developerUrl": "https://apps.apple.com/de/developer/diego-capoccitti/id1650005470?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/5f/d4/535fd4bc-5d46-117f-1956-defe3243ba64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/impulsedie-symbiotic-drum/id6819227334?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "05.11.2026"
+    },
+    {
+      "rank": 49,
+      "previousRank": 36,
+      "rankChange": -13,
+      "isNew": false,
+      "appleId": "1606736073",
+      "name": "Benaudira-Player",
+      "developer": "Holger Raddatz",
+      "developerUrl": "https://apps.apple.com/de/developer/holger-raddatz/id1364838612?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b6/42/cbb642fa-0aa6-cd04-a04d-9ab1532917a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/benaudira-player/id1606736073?uo=2",
+      "price": {
+        "amount": 11.99,
+        "currency": "EUR",
+        "formatted": "11,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "15.02.2022"
+    },
+    {
+      "rank": 50,
+      "previousRank": 39,
+      "rankChange": -11,
+      "isNew": false,
+      "appleId": "6749867472",
+      "name": "VIRAL Synth 2: T2x | AUv3",
+      "developer": "AudioKit Pro",
+      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ea/94/f8ea94c2-aef4-c680-ee62-b696b440dd00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/viral-synth-2-t2x-auv3/id6749867472?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "24.09.2025"
+    },
+    {
+      "rank": 51,
+      "previousRank": 44,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "1234266367",
+      "name": "iDrumTune Precision Drum Tuner",
+      "developer": "RT Sixty Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/rt-sixty-ltd/id509606275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c9/ed/c2c9edef-dea1-30a8-013b-d8676e886e3e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/idrumtune-precision-drum-tuner/id1234266367?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "31.05.2017"
+    },
+    {
+      "rank": 52,
+      "previousRank": 47,
       "rankChange": -5,
       "isNew": false,
       "appleId": "6753140309",
@@ -1058,75 +1168,9 @@
       "releaseDate": "08.09.2026"
     },
     {
-      "rank": 48,
-      "previousRank": 43,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6781631808",
-      "name": "NostalgicPod",
-      "developer": "Jesus manuel Curreri",
-      "developerUrl": "https://apps.apple.com/de/developer/jesus-manuel-curreri/id6781631810?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/e2/5c70e278-0c12-4e63-6045-10fe4e4b798a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nostalgicpod/id6781631808?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "05.10.2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 44,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "304731501",
-      "name": "Tempo Metronom mit Setlisten",
-      "developer": "Frozen Ape Pte. Ltd.",
-      "developerUrl": "https://apps.apple.com/de/developer/frozen-ape-pte-ltd/id304731504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/07/ef/7a07ef92-188c-4a03-024b-29fe3b252e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tempo-metronom-mit-setlisten/id304731501?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "12.02.2009"
-    },
-    {
-      "rank": 50,
-      "previousRank": 45,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "967043604",
-      "name": "SonoSequencr",
-      "developer": "Marcus Pleintinger",
-      "developerUrl": "https://apps.apple.com/de/developer/marcus-pleintinger/id938374594?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/12/23/a3122399-ad52-8c5a-baac-b360fe24a275/AppIcon-18-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sonosequencr/id967043604?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.04.2015"
-    },
-    {
-      "rank": 51,
-      "previousRank": 47,
-      "rankChange": -4,
+      "rank": 53,
+      "previousRank": 51,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "526364858",
       "name": "radio.de PRIME",
@@ -1146,16 +1190,38 @@
       "releaseDate": "31.07.2012"
     },
     {
-      "rank": 52,
-      "previousRank": 46,
+      "rank": 54,
+      "previousRank": 48,
       "rankChange": -6,
       "isNew": false,
-      "appleId": "478293637",
-      "name": "Anytune Pro+",
-      "developer": "Anytune Inc.",
-      "developerUrl": "https://apps.apple.com/de/developer/anytune-inc/id382344236?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/bf/9c/a5bf9c7b-f83d-c727-1bf2-02b37c5221b6/AnytuneAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/anytune-pro/id478293637?uo=2",
+      "appleId": "6781631808",
+      "name": "NostalgicPod",
+      "developer": "Jesus manuel Curreri",
+      "developerUrl": "https://apps.apple.com/de/developer/jesus-manuel-curreri/id6781631810?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/e2/5c70e278-0c12-4e63-6045-10fe4e4b798a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nostalgicpod/id6781631808?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "05.10.2026"
+    },
+    {
+      "rank": 55,
+      "previousRank": 15,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "1318750537",
+      "name": "Groove Rider GR-16",
+      "developer": "Dmitrij Pavlov",
+      "developerUrl": "https://apps.apple.com/de/developer/dmitrij-pavlov/id478154322?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/54/69/d754691a-8d3c-cfaa-c4e3-a8980a8027aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/groove-rider-gr-16/id1318750537?uo=2",
       "price": {
         "amount": 17.99,
         "currency": "EUR",
@@ -1165,12 +1231,12 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "09.12.2011"
+      "releaseDate": "23.12.2017"
     },
     {
-      "rank": 53,
+      "rank": 56,
       "previousRank": 53,
-      "rankChange": 0,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "505179836",
       "name": "Note Trainer Pro",
@@ -1190,296 +1256,10 @@
       "releaseDate": "06.03.2012"
     },
     {
-      "rank": 54,
-      "previousRank": 61,
-      "rankChange": 7,
-      "isNew": false,
-      "appleId": "319295332",
-      "name": "TuneIn Radio: Music & Sports",
-      "developer": "TuneIn",
-      "developerUrl": "https://apps.apple.com/de/developer/tunein/id319295335?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/90/b6/0e90b6ad-c896-6ecd-8e38-32bd060bf8a5/AppIconPro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tunein-radio-music-sports/id319295332?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "03.09.2009"
-    },
-    {
-      "rank": 55,
-      "previousRank": 66,
-      "rankChange": 11,
-      "isNew": false,
-      "appleId": "407160120",
-      "name": "VirtualDJ Remote",
-      "developer": "Atomix Productions America Inc.",
-      "developerUrl": "https://apps.apple.com/de/developer/atomix-productions-america-inc/id938290526?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/de/c3/b0dec36b-c272-3915-0d01-9e1c9647de49/AppIcon-0-0-1x_U007emarketing-0-8-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/virtualdj-remote/id407160120?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "15.12.2010"
-    },
-    {
-      "rank": 56,
-      "previousRank": 78,
-      "rankChange": 22,
-      "isNew": false,
-      "appleId": "6459015025",
-      "name": "Music Buddy Pro – Lerne Noten",
-      "developer": "Vladimir Vasek",
-      "developerUrl": "https://apps.apple.com/de/developer/vladimir-vasek/id793356058?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/56/72/175672d7-9e08-f34f-0120-22ab5e8e8004/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/music-buddy-pro-lerne-noten/id6459015025?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "05.09.2023"
-    },
-    {
       "rank": 57,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6826906626",
-      "name": "iSyn Tron: Synth & Beat Maker",
-      "developer": "Harry Gohs",
-      "developerUrl": "https://apps.apple.com/de/developer/harry-gohs/id382428644?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/6c/71/fa6c71d8-a6b4-3795-d128-f1292746145c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/isyn-tron-synth-beat-maker/id6826906626?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "07.11.2026"
-    },
-    {
-      "rank": 58,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6827264767",
-      "name": "LaboKe VieW",
-      "developer": "rossano giallombardo",
-      "developerUrl": "https://apps.apple.com/de/developer/rossano-giallombardo/id6827264769?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/ec/dc/d0ecdc33-f7fa-344a-9e5a-168605f61901/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/laboke-view/id6827264767?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "EUR",
-        "formatted": "19,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "03.11.2026"
-    },
-    {
-      "rank": 59,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1064769019",
-      "name": "GeoShred",
-      "developer": "Wizdom Music LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/wizdom-music-llc/id377345351?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/35/62/8d356299-ace9-5269-0b09-050f605ac916/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/geoshred/id1064769019?uo=2",
-      "price": {
-        "amount": 19.99,
-        "currency": "EUR",
-        "formatted": "19,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "15.12.2015"
-    },
-    {
-      "rank": 60,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6800839231",
-      "name": "Dawcade",
-      "developer": "Nihatcan Dogu",
-      "developerUrl": "https://apps.apple.com/de/developer/nihatcan-dogu/id6800831259?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/19/94/71199415-45df-1081-81d3-127b016b8448/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dawcade/id6800839231?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "01.09.2026"
-    },
-    {
-      "rank": 61,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6806641850",
-      "name": "Mast für SoundTouch-Systeme",
-      "developer": "Kevalo BE",
-      "developerUrl": "https://apps.apple.com/de/developer/kevalo-be/id6799481591?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/e7/ce/60e7ce09-1f38-35c6-962f-178f290263c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mast-f%C3%BCr-soundtouch-systeme/id6806641850?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "23.09.2026"
-    },
-    {
-      "rank": 62,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "543859300",
-      "name": "AudioShare",
-      "developer": "Kymatica AB",
-      "developerUrl": "https://apps.apple.com/de/developer/kymatica-ab/id522046659?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/6f/ca/376fcaba-83fc-f202-5dbd-e56715dd4f38/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/audioshare/id543859300?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "23.07.2012"
-    },
-    {
-      "rank": 63,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1413887036",
-      "name": "iMPC Pro 2 for iPhone",
-      "developer": "Akai Professional",
-      "developerUrl": "https://apps.apple.com/de/developer/akai-professional/id373969727?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/32/8d/91328d51-b6f5-2d41-aef6-a6a3cdddf993/iMPC_Pro_2_iPhone_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/impc-pro-2-for-iphone/id1413887036?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "EUR",
-        "formatted": "14,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "10.12.2018"
-    },
-    {
-      "rank": 64,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "824880320",
-      "name": "forScore Cue",
-      "developer": "forScore LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/forscore-llc/id797590287?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1a/a0/bc1aa072-b68b-c2a8-aab3-9920dcef26f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/forscore-cue/id824880320?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "27.03.2014"
-    },
-    {
-      "rank": 65,
-      "previousRank": 15,
-      "rankChange": -50,
+      "previousRank": 67,
+      "rankChange": 10,
       "isNew": false,
-      "appleId": "608540795",
-      "name": "Tunable – Tuner & Metronome",
-      "developer": "AffinityBlue",
-      "developerUrl": "https://apps.apple.com/de/developer/affinityblue/id428440807?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tunable-tuner-metronome/id608540795?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "EUR",
-        "formatted": "8,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "27.03.2013"
-    },
-    {
-      "rank": 66,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "554766778",
-      "name": "liveBPM - Beat Detector",
-      "developer": "Daniel Bach",
-      "developerUrl": "https://apps.apple.com/de/developer/daniel-bach/id554766781?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/78/84/97/78849705-1885-9d96-949e-0ce95878a70c/mzl.elogfyln.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/livebpm-beat-detector/id554766778?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "31.08.2012"
-    },
-    {
-      "rank": 67,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "6446786448",
       "name": "WatchAudio",
       "developer": "Atlum Limited",
@@ -1498,75 +1278,9 @@
       "releaseDate": "12.10.2023"
     },
     {
-      "rank": 68,
-      "previousRank": 16,
-      "rankChange": -52,
-      "isNew": false,
-      "appleId": "421929034",
-      "name": "Time Guru Metronom",
-      "developer": "Avi Bortnick",
-      "developerUrl": "https://apps.apple.com/de/developer/avi-bortnick/id421929037?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/b3/e4/41b3e4d7-f9c1-ee93-127d-ccd09777987a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/time-guru-metronom/id421929034?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "17.03.2011"
-    },
-    {
-      "rank": 69,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "955329386",
-      "name": "play:Sub Music Streamer",
-      "developer": "Michael Hansen",
-      "developerUrl": "https://apps.apple.com/de/developer/michael-hansen/id955329385?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/88/64/d88864b9-490a-b1fc-f4f1-9e5b450037ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/play-sub-music-streamer/id955329386?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "26.03.2015"
-    },
-    {
-      "rank": 70,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "376193244",
-      "name": "Dub Siren DX",
-      "developer": "Sawa Digital LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/sawa-digital-llc/id307147848?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/16/7c691625-403d-7ce2-00da-02f5c21718ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dub-siren-dx/id376193244?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "09.06.2010"
-    },
-    {
-      "rank": 71,
-      "previousRank": 17,
-      "rankChange": -54,
+      "rank": 58,
+      "previousRank": 71,
+      "rankChange": 13,
       "isNew": false,
       "appleId": "467923185",
       "name": "Loopy HD: Looper",
@@ -1586,208 +1300,10 @@
       "releaseDate": "06.10.2011"
     },
     {
-      "rank": 72,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "325307477",
-      "name": "AudioTools, dB, Klang & Audio",
-      "developer": "Andrew Smith",
-      "developerUrl": "https://apps.apple.com/de/developer/andrew-smith/id291822462?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/20/22/65202253-2f86-22b3-50db-30153da8b89e/AudioTools_Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/audiotools-db-klang-audio/id325307477?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "08.09.2009"
-    },
-    {
-      "rank": 73,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6757296278",
-      "name": "Latin Rhythm: Backing Tracks",
-      "developer": "District One Mobile, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/district-one-mobile-llc/id812513884?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/d1/c5/cfd1c535-0964-af96-737a-6067d7fc0358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/latin-rhythm-backing-tracks/id6757296278?uo=2",
-      "price": {
-        "amount": 3.49,
-        "currency": "EUR",
-        "formatted": "3,49 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.09.2026"
-    },
-    {
-      "rank": 74,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6771907011",
-      "name": "Tapko Harmony",
-      "developer": "David Lars Guva",
-      "developerUrl": "https://apps.apple.com/de/developer/david-lars-guva/id1887879459?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/5b/68/2a5b6858-0156-1a1b-e196-313886af95c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tapko-harmony/id6771907011?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "31.10.2026"
-    },
-    {
-      "rank": 75,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6785994018",
-      "name": "Sonority for Sonos",
-      "developer": "Casper Verswijvelt",
-      "developerUrl": "https://apps.apple.com/de/developer/casper-verswijvelt/id6785994020?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/83/df/a983df62-5ee8-9996-59a6-dd581464a0e8/Sonority-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sonority-for-sonos/id6785994018?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "13.07.2026"
-    },
-    {
-      "rank": 76,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1391256308",
-      "name": "SpaceCraft Granular Synth",
-      "developer": "Mark Watt",
-      "developerUrl": "https://apps.apple.com/de/developer/mark-watt/id1391256307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c9/f2/7a/c9f27a75-0f78-3412-569c-beab9c9b95a8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/spacecraft-granular-synth/id1391256308?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "02.07.2018"
-    },
-    {
-      "rank": 77,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6800424988",
-      "name": "MNTRP - Drone Synth",
-      "developer": "LASZLO DOBROVOLSZKI",
-      "developerUrl": "https://apps.apple.com/de/developer/laszlo-dobrovolszki/id6779159106?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/76/b6/1176b650-7dad-809f-1d8b-291c2af210ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mntrp-drone-synth/id6800424988?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "02.09.2026"
-    },
-    {
-      "rank": 78,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6786147299",
-      "name": "SP-Slidekick",
-      "developer": "Samuel Bennett",
-      "developerUrl": "https://apps.apple.com/de/developer/samuel-bennett/id6786147301?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b0/ac/a5b0ac93-fa91-3cb8-36dd-634e64fa58b1/appicon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/sp-slidekick/id6786147299?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "03.11.2026"
-    },
-    {
-      "rank": 79,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1491146332",
-      "name": "iPracticePro",
-      "developer": "Steffen Weber",
-      "developerUrl": "https://apps.apple.com/de/developer/steffen-weber/id1491146331?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/06/fd/2406fd73-f8b1-2b7f-01d6-4720c96812b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ipracticepro/id1491146332?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "30.01.2020"
-    },
-    {
-      "rank": 80,
-      "previousRank": 19,
-      "rankChange": -61,
+      "rank": 59,
+      "previousRank": 81,
+      "rankChange": 22,
       "isNew": false,
-      "appleId": "1094354001",
-      "name": "VBAN Receptor",
-      "developer": "Vincent Burel",
-      "developerUrl": "https://apps.apple.com/de/developer/vincent-burel/id1094354000?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8c/0f/268c0f53-9732-b1e4-47af-bf5693906e74/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vban-receptor/id1094354001?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "27.05.2016"
-    },
-    {
-      "rank": 81,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "999375757",
       "name": "B Flat - Noten lernen",
       "developer": "MAMP GmbH",
@@ -1806,76 +1322,10 @@
       "releaseDate": "11.09.2015"
     },
     {
-      "rank": 82,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6444855562",
-      "name": "BluRemote - BluOS Controller",
-      "developer": "Christoph Goldner",
-      "developerUrl": "https://apps.apple.com/de/developer/christoph-goldner/id1657379305?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/60/98/736098ac-7a93-2783-ff53-18e270730632/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bluremote-bluos-controller/id6444855562?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "20.12.2023"
-    },
-    {
-      "rank": 83,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6813749166",
-      "name": "StajPilot",
-      "developer": "JONGWOONG AN",
-      "developerUrl": "https://apps.apple.com/de/developer/jongwoong-an/id6813749168?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/eb/40/8deb4031-08a7-0e4f-e65e-eef0feae6447/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/stajpilot/id6813749166?uo=2",
-      "price": {
-        "amount": 34.99,
-        "currency": "EUR",
-        "formatted": "34,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "24.09.2026"
-    },
-    {
-      "rank": 84,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6809848329",
-      "name": "Bounce: Music Visualizer",
-      "developer": "DGR Labs",
-      "developerUrl": "https://apps.apple.com/de/developer/dgr-labs/id1872445279?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/b9/82/29b98235-7ba3-67d8-cad3-9deca371bfb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bounce-music-visualizer/id6809848329?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "14.09.2026"
-    },
-    {
-      "rank": 85,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 60,
+      "previousRank": 85,
+      "rankChange": 25,
+      "isNew": false,
       "appleId": "6803790337",
       "name": "PolyQuad",
       "developer": "LASZLO DOBROVOLSZKI",
@@ -1894,76 +1344,10 @@
       "releaseDate": "04.09.2026"
     },
     {
-      "rank": 86,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "924491991",
-      "name": "Cs Music Pro",
-      "developer": "Mike Clay",
-      "developerUrl": "https://apps.apple.com/de/developer/mike-clay/id924491990?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0a/ed/0d0aed95-bbbf-087a-cd09-45cbcd1e7e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/cs-music-pro/id924491991?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "20.11.2014"
-    },
-    {
-      "rank": 87,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1270890718",
-      "name": "AutoPad — Ambient Pad Loops",
-      "developer": "Ryan Robinson",
-      "developerUrl": "https://apps.apple.com/de/developer/ryan-robinson/id1270890717?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/autopad-ambient-pad-loops/id1270890718?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "04.09.2017"
-    },
-    {
-      "rank": 88,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6778600014",
-      "name": "Omnisound",
-      "developer": "Konstantin Torsten Schutz",
-      "developerUrl": "https://apps.apple.com/de/developer/konstantin-torsten-schutz/id6778600016?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/a7/36/32a736bc-65e4-a42c-6a36-f32652c3ee22/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/omnisound/id6778600014?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "18.06.2026"
-    },
-    {
-      "rank": 89,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 61,
+      "previousRank": 89,
+      "rankChange": 28,
+      "isNew": false,
       "appleId": "6751760761",
       "name": "Metronom Pro für Apple Watch",
       "developer": "Simone Saleri",
@@ -1982,126 +1366,60 @@
       "releaseDate": "01.10.2025"
     },
     {
-      "rank": 90,
+      "rank": 62,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6806721202",
-      "name": "M8 Music Tracker",
-      "developer": "Dirtywave",
-      "developerUrl": "https://apps.apple.com/de/developer/dirtywave/id1816585443?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/92/98/b99298ec-83d0-7544-c4f5-d9401c6dc210/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/m8-music-tracker/id6806721202?uo=2",
+      "appleId": "6502974933",
+      "name": "TB Equalizer Pro",
+      "developer": "ToneBoosters",
+      "developerUrl": "https://apps.apple.com/de/developer/toneboosters/id1472446500?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/36/3b/5b363bee-2368-e393-81b6-68c40ede529f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tb-equalizer-pro/id6502974933?uo=2",
       "price": {
-        "amount": 34.99,
+        "amount": 14.99,
         "currency": "EUR",
-        "formatted": "34,99 €"
+        "formatted": "14,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "09.09.2026"
+      "releaseDate": "31.08.2024"
     },
     {
-      "rank": 91,
+      "rank": 63,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "404381428",
-      "name": "Trace Tuner",
-      "developer": "Dr. Harald Merkel",
-      "developerUrl": "https://apps.apple.com/de/developer/dr-harald-merkel/id404381431?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/91/59/dc/9159dcde-da4d-fb0d-53d8-08d29c26ab35/pr_source.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/trace-tuner/id404381428?uo=2",
+      "appleId": "6787936848",
+      "name": "CORRODE",
+      "developer": "Anthony Moran",
+      "developerUrl": "https://apps.apple.com/de/developer/anthony-moran/id6786293116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ef/6a/52ef6ae8-321c-6ce6-9aca-7b2fe6f23c47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/corrode/id6787936848?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 2.99,
         "currency": "EUR",
-        "formatted": "0,99 €"
+        "formatted": "2,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "21.11.2010"
+      "releaseDate": "06.11.2026"
     },
     {
-      "rank": 92,
+      "rank": 64,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6744552136",
-      "name": "xTune - Lyrion Remote & Player",
-      "developer": "斌 胡",
-      "developerUrl": "https://apps.apple.com/de/developer/%E6%96%8C-%E8%83%A1/id1808139239?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/00/65/930065c2-4a64-a70d-0766-90053daa2c8f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/xtune-lyrion-remote-player/id6744552136?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "06.06.2025"
-    },
-    {
-      "rank": 93,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "571863178",
-      "name": "AudioStretch",
-      "developer": "Cognosonic Pte Ltd",
-      "developerUrl": "https://apps.apple.com/de/developer/cognosonic-pte-ltd/id571863181?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/74/91/117491a6-e087-6277-2ab7-00723ad95568/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/audiostretch/id571863178?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "01.11.2012"
-    },
-    {
-      "rank": 94,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1131210331",
-      "name": "Genius Jamtracks",
-      "developer": "Antonis Tsikandilakis",
-      "developerUrl": "https://apps.apple.com/de/developer/antonis-tsikandilakis/id1131210330?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/04/2b/55042bf9-aa2e-c488-5b92-e22ea41a2896/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/genius-jamtracks/id1131210331?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Musik"
-      },
-      "releaseDate": "02.09.2016"
-    },
-    {
-      "rank": 95,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6794137719",
-      "name": "Super 606 Drums - Drum Machine",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/24/8e/50248eaf-6842-38d6-e052-13fc2b061876/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/super-606-drums-drum-machine/id6794137719?uo=2",
+      "appleId": "6818844637",
+      "name": "GLIMR: Strum Any Sound",
+      "developer": "Joseph Musselman",
+      "developerUrl": "https://apps.apple.com/de/developer/joseph-musselman/id6818844639?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/glimr-strum-any-sound/id6818844637?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -2111,19 +1429,41 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "25.08.2026"
+      "releaseDate": "12.10.2026"
     },
     {
-      "rank": 96,
+      "rank": 65,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6478898564",
-      "name": "NERD Synth A2x + AUv3",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/35/cd/3a35cdf0-9a1b-e897-fd34-dc08c4d69e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nerd-synth-a2x-auv3/id6478898564?uo=2",
+      "appleId": "635644097",
+      "name": "Stimmgerät by Piascore",
+      "developer": "Piascore, Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/piascore-inc/id406133802?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a3/d7/f6a3d7e1-8542-d46b-63d7-26cd6f679a71/PATuner-AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/stimmger%C3%A4t-by-piascore/id635644097?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "23.04.2013"
+    },
+    {
+      "rank": 66,
+      "previousRank": 22,
+      "rankChange": -44,
+      "isNew": false,
+      "appleId": "6786712549",
+      "name": "PraisePad",
+      "developer": "Johannes Hovermann",
+      "developerUrl": "https://apps.apple.com/de/developer/johannes-hovermann/id6786712551?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/7c/b7/1d7cb713-9146-c4c9-b311-ce3309f555d6/PraisePad-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/praisepad/id6786712549?uo=2",
       "price": {
         "amount": 6.99,
         "currency": "EUR",
@@ -2133,41 +1473,723 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "11.04.2024"
+      "releaseDate": "07.11.2026"
+    },
+    {
+      "rank": 67,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1507575984",
+      "name": "Streamlets",
+      "developer": "Paul Carmody",
+      "developerUrl": "https://apps.apple.com/de/developer/paul-carmody/id326304727?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/65/9c/43659c59-1ff8-6d9d-a3bb-703c5a8acd41/streamlets-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/streamlets/id1507575984?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "14.04.2020"
+    },
+    {
+      "rank": 68,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "337350026",
+      "name": "iTablaPro",
+      "developer": "Prasad Upasani",
+      "developerUrl": "https://apps.apple.com/de/developer/prasad-upasani/id326115061?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/98/f8/f898f832-6b35-a259-30af-81983561164d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/itablapro/id337350026?uo=2",
+      "price": {
+        "amount": 34.99,
+        "currency": "EUR",
+        "formatted": "34,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "18.12.2009"
+    },
+    {
+      "rank": 69,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "896879399",
+      "name": "MidiPad 2",
+      "developer": "Codelle",
+      "developerUrl": "https://apps.apple.com/de/developer/codelle/id429266189?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/b2/54/8fb25425-69d2-02a4-0056-ddc6521eb004/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/midipad-2/id896879399?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "17.07.2014"
+    },
+    {
+      "rank": 70,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1609936795",
+      "name": "Crystalline - Baby Audio",
+      "developer": "Baby Audio Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/baby-audio-inc/id1674621630?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/ed/d6/a8edd6c5-0710-6a10-1be0-e0086182e4e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/crystalline-baby-audio/id1609936795?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "21.06.2022"
+    },
+    {
+      "rank": 71,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1061261675",
+      "name": "Mintzer Big Band Essentials",
+      "developer": "Fuzzy Music, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/fuzzy-music-llc/id534683214?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/77/cf/a777cf7c-8d89-615f-e516-68140194f915/BigBand_Icons-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mintzer-big-band-essentials/id1061261675?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "30.12.2015"
+    },
+    {
+      "rank": 72,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1598618004",
+      "name": "MIDI Tape Recorder",
+      "developer": "Uwyn, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/uwyn-llc/id597132109?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/a2/aa/98a2aa99-ede8-0f71-0a12-b10d3bf77898/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/midi-tape-recorder/id1598618004?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "25.12.2021"
+    },
+    {
+      "rank": 73,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1516175223",
+      "name": "Tabla Sampler Pro",
+      "developer": "Emal MandozaI",
+      "developerUrl": "https://apps.apple.com/de/developer/emal-mandozai/id1516175222?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ef/6d/d0/ef6dd029-1e2b-1f15-cc48-141826d2f196/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tabla-sampler-pro/id1516175223?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR",
+        "formatted": "49,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "04.06.2020"
+    },
+    {
+      "rank": 74,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6786723124",
+      "name": "WAIL",
+      "developer": "Anthony Moran",
+      "developerUrl": "https://apps.apple.com/de/developer/anthony-moran/id6786293116?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/c6/7f/cbc67f90-e383-d8ac-2399-4c921620b7aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wail/id6786723124?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "31.07.2026"
+    },
+    {
+      "rank": 75,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1055636344",
+      "name": "AUM - Audio Mixer",
+      "developer": "Kymatica AB",
+      "developerUrl": "https://apps.apple.com/de/developer/kymatica-ab/id522046659?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/aum-audio-mixer/id1055636344?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "EUR",
+        "formatted": "29,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "24.02.2016"
+    },
+    {
+      "rank": 76,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "309206756",
+      "name": "SPL Meter",
+      "developer": "Andrew Smith",
+      "developerUrl": "https://apps.apple.com/de/developer/andrew-smith/id291822462?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/c7/d0/29c7d01b-01f3-208e-136c-e59dc63e3fb7/Spl-Meter-AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/spl-meter/id309206756?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "26.03.2009"
+    },
+    {
+      "rank": 77,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "294168446",
+      "name": "Gitarrengriffe - Guitar Chords",
+      "developer": "Brent Chionh",
+      "developerUrl": "https://apps.apple.com/de/developer/brent-chionh/id287630679?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/19/55/5e/19555e82-3c7c-3dad-5be9-2fc90da662ee/mzl.aqnjppfh.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/gitarrengriffe-guitar-chords/id294168446?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "20.10.2008"
+    },
+    {
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "322700286",
+      "name": "nanoloop",
+      "developer": "Oliver Wittchow",
+      "developerUrl": "https://apps.apple.com/de/developer/oliver-wittchow/id322700289?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/b0/83/01b0832e-b7a0-435a-7410-e48ef208d612/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nanoloop/id322700286?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "26.01.2010"
+    },
+    {
+      "rank": 79,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6775795973",
+      "name": "AumChord",
+      "developer": "Mika Edelijn",
+      "developerUrl": "https://apps.apple.com/de/developer/mika-edelijn/id6775541086?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/aumchord/id6775795973?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "12.10.2026"
+    },
+    {
+      "rank": 80,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6800332474",
+      "name": "VU202 FX",
+      "developer": "Dariusz Chynek",
+      "developerUrl": "https://apps.apple.com/de/developer/dariusz-chynek/id1805845479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/c8/6e/eec86e04-dc72-6005-be8e-35a04e98028d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vu202-fx/id6800332474?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "26.08.2026"
+    },
+    {
+      "rank": 81,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "677356259",
+      "name": "iMPC for iPhone",
+      "developer": "Akai Professional",
+      "developerUrl": "https://apps.apple.com/de/developer/akai-professional/id373969727?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d6/5a/51/d65a5152-9f06-6e42-d5b7-c6de48cf4318/AppIcon-0-1x_U007emarketing-85-220-3.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/impc-for-iphone/id677356259?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "01.08.2013"
+    },
+    {
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1271279395",
+      "name": "XAir Monitor Mixer",
+      "developer": "Eric Tetz",
+      "developerUrl": "https://apps.apple.com/de/developer/eric-tetz/id1271279394?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/be/ec/22beece3-88d1-9803-a6fe-8b8262e7672d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/xair-monitor-mixer/id1271279395?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "06.09.2017"
+    },
+    {
+      "rank": 83,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "306629300",
+      "name": "iBone - the Pocket Trombone",
+      "developer": "Spoonjack, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/spoonjack-llc/id306629303?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/8a/e7/408ae70b-c58a-d413-ee1f-aa5e440fc91b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ibone-the-pocket-trombone/id306629300?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "03.03.2009"
+    },
+    {
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6476902290",
+      "name": "Handy Guitar Lab for MS-70CDR+",
+      "developer": "ZOOM Corporation",
+      "developerUrl": "https://apps.apple.com/de/developer/zoom-corporation/id566291782?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/01/f3/2d01f3d8-eafd-a35b-06b5-5827f39fd213/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/handy-guitar-lab-for-ms-70cdr/id6476902290?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "22.04.2024"
+    },
+    {
+      "rank": 85,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1083801827",
+      "name": "Note Rush: Music Reading Game",
+      "developer": "Thomas Grayston",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-grayston/id1083801826?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/53/ac/3653acbb-0a6c-b9d0-917d-c9c1fd96518a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/note-rush-music-reading-game/id1083801827?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "17.06.2016"
+    },
+    {
+      "rank": 86,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1434183286",
+      "name": "Vocal Painting",
+      "developer": "Jim Hjernoe",
+      "developerUrl": "https://apps.apple.com/de/developer/jim-hjernoe/id1434183285?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/26/c0/8426c022-d27e-cb95-83e4-d570683d02cb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vocal-painting/id1434183286?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "26.08.2018"
+    },
+    {
+      "rank": 87,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "390881575",
+      "name": "Guitar Sight Reading Trainer",
+      "developer": "Rolfs Apps",
+      "developerUrl": "https://apps.apple.com/de/developer/rolfs-apps/id376191908?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d8/7b/1dd87b85-364e-3ca5-e081-0558f8d6fa69/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/guitar-sight-reading-trainer/id390881575?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "13.09.2010"
+    },
+    {
+      "rank": 88,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "370505375",
+      "name": "SYNKD Metronome & Sequencer",
+      "developer": "Flamadiddle Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/flamadiddle-inc/id370505378?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/2c/4c/742c4ce0-4558-d52e-e445-4888675c7e21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/synkd-metronome-sequencer/id370505375?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "28.06.2010"
+    },
+    {
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6788140771",
+      "name": "Wake: Sound Activated Recorder",
+      "developer": "Elijah Lucian",
+      "developerUrl": "https://apps.apple.com/de/developer/elijah-lucian/id1881481954?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/cc/6c/a2cc6c59-cee8-e8c0-2281-28df65ef1e92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wake-sound-activated-recorder/id6788140771?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "21.09.2026"
+    },
+    {
+      "rank": 90,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "413943804",
+      "name": "Real Piano™",
+      "developer": "Cookie Commons",
+      "developerUrl": "https://apps.apple.com/de/developer/cookie-commons/id6783499309?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/3c/c6/fd/3cc6fdcb-a1b0-34e9-f1ba-549f9bae48b4/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/real-piano/id413943804?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "17.01.2011"
+    },
+    {
+      "rank": 91,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1289165912",
+      "name": "Brusfri",
+      "developer": "Klevgränd produkter AB",
+      "developerUrl": "https://apps.apple.com/de/developer/klevgr%C3%A4nd-produkter-ab/id1118902192?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/db/df/fe/dbdffe33-7c15-b77b-90ce-480e622404e0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/brusfri/id1289165912?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "10.10.2017"
+    },
+    {
+      "rank": 92,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1635993805",
+      "name": "Jazz & Pop Harmony /w Analysis",
+      "developer": "Michael Fluegel",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-fluegel/id1635993807?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/7e/1b/f07e1bb2-6fbc-5610-be43-45844ee33ea5/JPHarmony_LiquidGlass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/jazz-pop-harmony-w-analysis/id1635993805?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "18.08.2022"
+    },
+    {
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6446161792",
+      "name": "TREK: Sounds",
+      "developer": "NSTE, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/nste-llc/id1671708345?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/04/30/f50430c0-b414-91e5-ecfe-efd45958a41d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/trek-sounds/id6446161792?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "13.03.2023"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "993487078",
+      "name": "Tuplet Trainer",
+      "developer": "Bengt Holmquist",
+      "developerUrl": "https://apps.apple.com/de/developer/bengt-holmquist/id993487077?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/23/d5/6d/23d56d76-1e85-dd4e-61b7-6a0c60d53ada/mzm.sapqxgzc.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tuplet-trainer/id993487078?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "29.05.2015"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1589542148",
+      "name": "Nova Tuner",
+      "developer": "Thomas J Foster",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-j-foster/id1299823120?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/7d/2f/4f7d2fb1-fa61-febd-bf0a-e704eb8fc1cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nova-tuner/id1589542148?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "24.06.2022"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1474944185",
+      "name": "TB Reverb",
+      "developer": "ToneBoosters",
+      "developerUrl": "https://apps.apple.com/de/developer/toneboosters/id1472446500?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/c5/24/c4c52442-4bb9-5600-cf40-d18a42996838/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tb-reverb/id1474944185?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "13.08.2019"
     },
     {
       "rank": 97,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "407459560",
-      "name": "Weihnachtsbaum-Lieder Musik Playlist",
-      "developer": "Vipos.com",
-      "developerUrl": "https://apps.apple.com/de/developer/vipos-com/id400048012?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/79/10/7a/79107acc-d033-85f3-657a-2e0e1bcc804e/pr_source.jpg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/weihnachtsbaum-lieder-musik-playlist/id407459560?uo=2",
+      "appleId": "1480150563",
+      "name": "TB Barricade",
+      "developer": "ToneBoosters",
+      "developerUrl": "https://apps.apple.com/de/developer/toneboosters/id1472446500?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/6c/a7/a86ca77d-84d0-4257-b098-ae6075c308a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tb-barricade/id1480150563?uo=2",
       "price": {
-        "amount": 0.99,
+        "amount": 9.99,
         "currency": "EUR",
-        "formatted": "0,99 €"
+        "formatted": "9,99 €"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "11.12.2010"
+      "releaseDate": "17.09.2019"
     },
     {
       "rank": 98,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1492023479",
-      "name": "AudioKit Hey Metronome",
-      "developer": "AudioKit Pro",
-      "developerUrl": "https://apps.apple.com/de/developer/audiokit-pro/id1307785645?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cd/ca/86/cdca8679-dea8-dfbf-c154-6b9c85f54804/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/audiokit-hey-metronome/id1492023479?uo=2",
+      "appleId": "1517791397",
+      "name": "TB Compressor",
+      "developer": "ToneBoosters",
+      "developerUrl": "https://apps.apple.com/de/developer/toneboosters/id1472446500?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/b9/39/2bb93914-4dea-bee4-2028-d9f4264b0777/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tb-compressor/id1517791397?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Musik"
+      },
+      "releaseDate": "23.06.2020"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1449066822",
+      "name": "Tiny Piano Synthesizer No Ads",
+      "developer": "Seiji Hashizume",
+      "developerUrl": "https://apps.apple.com/de/developer/seiji-hashizume/id665726532?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/67/87/6a678713-d92c-0548-ea33-42cf97bb5320/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tiny-piano-synthesizer-no-ads/id1449066822?uo=2",
       "price": {
         "amount": 0.99,
         "currency": "EUR",
@@ -2177,7 +2199,7 @@
         "id": "6011",
         "name": "Musik"
       },
-      "releaseDate": "22.12.2019"
+      "releaseDate": "11.01.2019"
     }
   ]
 }

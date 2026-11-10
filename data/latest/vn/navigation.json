@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-09",
-  "collectedAt": "2026-11-09T07:46:56.085Z",
-  "sourceUpdatedAt": "2026-11-08T23:46:55-07:00",
+  "snapshotDate": "2026-11-10",
+  "collectedAt": "2026-11-10T08:07:31.771Z",
+  "sourceUpdatedAt": "2026-11-10T00:07:31-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/vn/rss/toppaidapplications/limit=100/genre=6010/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "导航"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 94,
+  "actualCount": 94,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-08",
+  "previousSnapshotDate": "2026-11-09",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 16,
+      "rankChange": 15,
+      "isNew": false,
+      "appleId": "582584117",
+      "name": "Solocator - GPS Field Camera",
+      "developer": "Civi Corp",
+      "developerUrl": "https://apps.apple.com/vn/developer/civi-corp/id505154738?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/solocator-gps-field-camera/id582584117?uo=2",
+      "price": {
+        "amount": 29000,
+        "currency": "VND",
+        "formatted": "29.000đ"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navigation"
+      },
+      "releaseDate": "09 December 2012"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1456729642",
       "name": "CoNav",
@@ -46,31 +68,9 @@
       "releaseDate": "24 March 2019"
     },
     {
-      "rank": 2,
-      "previousRank": 3,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1020967894",
-      "name": "GPS Diagnostic: Satellite Test",
-      "developer": "David Ryall",
-      "developerUrl": "https://apps.apple.com/vn/developer/david-ryall/id925576172?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/5a/48/285a4871-256f-64ac-75c5-519977a7b0ed/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/gps-diagnostic-satellite-test/id1020967894?uo=2",
-      "price": {
-        "amount": 99000,
-        "currency": "VND",
-        "formatted": "99.000đ"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "09 September 2015"
-    },
-    {
       "rank": 3,
-      "previousRank": 5,
-      "rankChange": 2,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "657016140",
       "name": "Good Maps: Trails,Street View",
@@ -91,8 +91,8 @@
     },
     {
       "rank": 4,
-      "previousRank": 6,
-      "rankChange": 2,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1447859624",
       "name": "iGeoTrans X",
@@ -113,8 +113,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 7,
-      "rankChange": 2,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "405239907",
       "name": "Speed Tracker. Pro",
@@ -135,8 +135,8 @@
     },
     {
       "rank": 6,
-      "previousRank": 8,
-      "rankChange": 2,
+      "previousRank": 6,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "650008859",
       "name": "iLocation+: Here!",
@@ -157,8 +157,8 @@
     },
     {
       "rank": 7,
-      "previousRank": 4,
-      "rankChange": -3,
+      "previousRank": 7,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "330247123",
       "name": "Sun Seeker - Tracker & Compass",
@@ -179,8 +179,8 @@
     },
     {
       "rank": 8,
-      "previousRank": 9,
-      "rankChange": 1,
+      "previousRank": 8,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "530829008",
       "name": "Speedometer 55 Pro. GPS kit.",
@@ -201,8 +201,8 @@
     },
     {
       "rank": 9,
-      "previousRank": 10,
-      "rankChange": 1,
+      "previousRank": 9,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "528181527",
       "name": "TripREC Dash Cam",
@@ -223,8 +223,8 @@
     },
     {
       "rank": 10,
-      "previousRank": 11,
-      "rankChange": 1,
+      "previousRank": 10,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "557827515",
       "name": "Car Camera DVR. PRO",
@@ -248,28 +248,6 @@
       "previousRank": 12,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "363360636",
-      "name": "Ship Finder",
-      "developer": "pinkfroot limited",
-      "developerUrl": "https://apps.apple.com/vn/developer/pinkfroot-limited/id319726822?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d5/f1/1d/d5f11d60-a639-43b3-936b-47c2c1c5a87b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/ship-finder/id363360636?uo=2",
-      "price": {
-        "amount": 149000,
-        "currency": "VND",
-        "formatted": "149.000đ"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "01 April 2010"
-    },
-    {
-      "rank": 12,
-      "previousRank": 13,
-      "rankChange": 1,
-      "isNew": false,
       "appleId": "287909017",
       "name": "GPS Kit - Offline GPS Tracker",
       "developer": "Garafa, LLC",
@@ -288,8 +266,8 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
+      "rank": 12,
+      "previousRank": 13,
       "rankChange": 1,
       "isNew": false,
       "appleId": "880510678",
@@ -310,8 +288,8 @@
       "releaseDate": "23 May 2014"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
+      "rank": 13,
+      "previousRank": 14,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1532372625",
@@ -332,8 +310,8 @@
       "releaseDate": "03 October 2020"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
+      "rank": 14,
+      "previousRank": 15,
       "rankChange": 1,
       "isNew": false,
       "appleId": "391304000",
@@ -354,30 +332,30 @@
       "releaseDate": "25 March 2011"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "rank": 15,
+      "previousRank": 2,
+      "rankChange": -13,
       "isNew": false,
-      "appleId": "582584117",
-      "name": "Solocator - GPS Field Camera",
-      "developer": "Civi Corp",
-      "developerUrl": "https://apps.apple.com/vn/developer/civi-corp/id505154738?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/solocator-gps-field-camera/id582584117?uo=2",
+      "appleId": "1020967894",
+      "name": "GPS Diagnostic: Satellite Test",
+      "developer": "David Ryall",
+      "developerUrl": "https://apps.apple.com/vn/developer/david-ryall/id925576172?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/5a/48/285a4871-256f-64ac-75c5-519977a7b0ed/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/gps-diagnostic-satellite-test/id1020967894?uo=2",
       "price": {
-        "amount": 29000,
+        "amount": 99000,
         "currency": "VND",
-        "formatted": "29.000đ"
+        "formatted": "99.000đ"
       },
       "primaryCategory": {
         "id": "6010",
         "name": "Navigation"
       },
-      "releaseDate": "09 December 2012"
+      "releaseDate": "09 September 2015"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
+      "rank": 16,
+      "previousRank": 17,
       "rankChange": 1,
       "isNew": false,
       "appleId": "339393884",
@@ -398,9 +376,9 @@
       "releaseDate": "30 November 2009"
     },
     {
-      "rank": 18,
-      "previousRank": 2,
-      "rankChange": -16,
+      "rank": 17,
+      "previousRank": 18,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "803736422",
       "name": "ETA - GPS & maps driving times",
@@ -420,9 +398,9 @@
       "releaseDate": "26 February 2014"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "891362701",
       "name": "Guru Maps Pro - Offline Nav",
@@ -442,9 +420,9 @@
       "releaseDate": "12 July 2014"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "409869453",
       "name": "Localscope - Find places and people around you",
@@ -464,9 +442,9 @@
       "releaseDate": "21 December 2010"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "286677125",
       "name": "Speedometer & Trip Logging",
@@ -486,9 +464,9 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "287316432",
       "name": "AyeTides",
@@ -508,9 +486,9 @@
       "releaseDate": "06 February 2019"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1497379822",
       "name": "GPX Viewer PRO: Hike & Bike",
@@ -530,9 +508,9 @@
       "releaseDate": "05 February 2020"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "previousRank": 24,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1197352863",
       "name": "Car Camera DVR PRO",
@@ -552,9 +530,9 @@
       "releaseDate": "02 February 2017"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "previousRank": 25,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1444818142",
       "name": "Map Chart Mosaic",
@@ -574,9 +552,9 @@
       "releaseDate": "29 November 2018"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "489534088",
       "name": "Real Tides & Currents Chart HD",
@@ -596,9 +574,9 @@
       "releaseDate": "21 December 2011"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "405835358",
       "name": "MilGPS",
@@ -618,8 +596,8 @@
       "releaseDate": "01 December 2010"
     },
     {
-      "rank": 28,
-      "previousRank": 29,
+      "rank": 27,
+      "previousRank": 28,
       "rankChange": 1,
       "isNew": false,
       "appleId": "353482327",
@@ -640,8 +618,8 @@
       "releaseDate": "13 February 2010"
     },
     {
-      "rank": 29,
-      "previousRank": 30,
+      "rank": 28,
+      "previousRank": 29,
       "rankChange": 1,
       "isNew": false,
       "appleId": "328171605",
@@ -662,8 +640,8 @@
       "releaseDate": "31 August 2009"
     },
     {
-      "rank": 30,
-      "previousRank": 31,
+      "rank": 29,
+      "previousRank": 30,
       "rankChange": 1,
       "isNew": false,
       "appleId": "500557255",
@@ -684,8 +662,8 @@
       "releaseDate": "21 May 2012"
     },
     {
-      "rank": 31,
-      "previousRank": 32,
+      "rank": 30,
+      "previousRank": 31,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1124129340",
@@ -706,31 +684,9 @@
       "releaseDate": "15 June 2016"
     },
     {
-      "rank": 32,
-      "previousRank": 28,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1638753363",
-      "name": "Pro Night — Night Vision App",
-      "developer": "Viktor Pobedria",
-      "developerUrl": "https://apps.apple.com/vn/developer/viktor-pobedria/id1610628750?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1a/b6/831ab68f-8420-b34d-762c-ceae161b0768/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/pro-night-night-vision-app/id1638753363?uo=2",
-      "price": {
-        "amount": 59000,
-        "currency": "VND",
-        "formatted": "59.000đ"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "09 August 2022"
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "885347877",
       "name": "Speedo GPS Speed Tracker, Car Speedometer, Cycle Computer, Trip Computer, Route Tracking, HUD",
@@ -750,9 +706,9 @@
       "releaseDate": "21 June 2014"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "481679745",
       "name": "Pocket Earth PRO",
@@ -772,9 +728,31 @@
       "releaseDate": "22 November 2011"
     },
     {
-      "rank": 35,
+      "rank": 33,
+      "previousRank": 32,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1638753363",
+      "name": "Pro Night — Night Vision App",
+      "developer": "Viktor Pobedria",
+      "developerUrl": "https://apps.apple.com/vn/developer/viktor-pobedria/id1610628750?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1a/b6/831ab68f-8420-b34d-762c-ceae161b0768/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/pro-night-night-vision-app/id1638753363?uo=2",
+      "price": {
+        "amount": 59000,
+        "currency": "VND",
+        "formatted": "59.000đ"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navigation"
+      },
+      "releaseDate": "09 August 2022"
+    },
+    {
+      "rank": 34,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1150898780",
       "name": "KMZ Viewer-Converter",
@@ -794,9 +772,9 @@
       "releaseDate": "15 September 2016"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "477094081",
       "name": "MapOut",
@@ -816,9 +794,9 @@
       "releaseDate": "19 March 2012"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "286046305",
       "name": "E6B Aviation Calculator",
@@ -838,9 +816,9 @@
       "releaseDate": "05 February 2019"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1150900225",
       "name": "KML KMZ Viewer-Converter",
@@ -860,9 +838,9 @@
       "releaseDate": "15 September 2016"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "298395058",
       "name": "GPS",
@@ -882,9 +860,9 @@
       "releaseDate": "02 December 2008"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "284980812",
       "name": "GoSkyWatch Planetarium",
@@ -904,9 +882,9 @@
       "releaseDate": "31 January 2019"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "438351943",
       "name": "GPS & Map Toolbox",
@@ -926,9 +904,9 @@
       "releaseDate": "31 May 2011"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "previousRank": 42,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "288420566",
       "name": "Compass",
@@ -948,9 +926,9 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "865293820",
       "name": "Nav Camera",
@@ -970,9 +948,9 @@
       "releaseDate": "22 August 2014"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "previousRank": 44,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1128448761",
       "name": "Kml to Kmz-Kmz to Kml app",
@@ -992,8 +970,8 @@
       "releaseDate": "04 July 2016"
     },
     {
-      "rank": 45,
-      "previousRank": 46,
+      "rank": 44,
+      "previousRank": 45,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1530464858",
@@ -1014,8 +992,8 @@
       "releaseDate": "20 September 2020"
     },
     {
-      "rank": 46,
-      "previousRank": 47,
+      "rank": 45,
+      "previousRank": 46,
       "rankChange": 1,
       "isNew": false,
       "appleId": "704471940",
@@ -1036,8 +1014,8 @@
       "releaseDate": "21 September 2013"
     },
     {
-      "rank": 47,
-      "previousRank": 48,
+      "rank": 46,
+      "previousRank": 47,
       "rankChange": 1,
       "isNew": false,
       "appleId": "417204570",
@@ -1058,8 +1036,8 @@
       "releaseDate": "03 February 2011"
     },
     {
-      "rank": 48,
-      "previousRank": 49,
+      "rank": 47,
+      "previousRank": 48,
       "rankChange": 1,
       "isNew": false,
       "appleId": "315649961",
@@ -1080,8 +1058,8 @@
       "releaseDate": "14 May 2009"
     },
     {
-      "rank": 49,
-      "previousRank": 50,
+      "rank": 48,
+      "previousRank": 49,
       "rankChange": 1,
       "isNew": false,
       "appleId": "304564168",
@@ -1102,8 +1080,8 @@
       "releaseDate": "10 February 2009"
     },
     {
-      "rank": 50,
-      "previousRank": 51,
+      "rank": 49,
+      "previousRank": 50,
       "rankChange": 1,
       "isNew": false,
       "appleId": "350158485",
@@ -1124,8 +1102,8 @@
       "releaseDate": "13 January 2010"
     },
     {
-      "rank": 51,
-      "previousRank": 52,
+      "rank": 50,
+      "previousRank": 51,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6742644783",
@@ -1146,31 +1124,9 @@
       "releaseDate": "02 March 2025"
     },
     {
-      "rank": 52,
-      "previousRank": 45,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "6760953505",
-      "name": "Metro Xiamen Map",
-      "developer": "Razvan IVAN",
-      "developerUrl": "https://apps.apple.com/vn/developer/razvan-ivan/id733451937?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c8/ac/3bc8ac3a-ddce-36cb-4ab1-460d81e7e7ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/metro-xiamen-map/id6760953505?uo=2",
-      "price": {
-        "amount": 29000,
-        "currency": "VND",
-        "formatted": "29.000đ"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "23 March 2026"
-    },
-    {
-      "rank": 53,
+      "rank": 51,
       "previousRank": 53,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1483007345",
       "name": "Perpetual Nautical Almanac",
@@ -1190,9 +1146,9 @@
       "releaseDate": "10 October 2019"
     },
     {
-      "rank": 54,
+      "rank": 52,
       "previousRank": 54,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1384426729",
       "name": "Dride for BlackVue",
@@ -1212,9 +1168,9 @@
       "releaseDate": "05 June 2018"
     },
     {
-      "rank": 55,
+      "rank": 53,
       "previousRank": 55,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "494877039",
       "name": "Boat Beacon",
@@ -1234,9 +1190,9 @@
       "releaseDate": "16 February 2012"
     },
     {
-      "rank": 56,
+      "rank": 54,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "371178753",
       "name": "PlaceTrack",
@@ -1256,9 +1212,9 @@
       "releaseDate": "11 September 2010"
     },
     {
-      "rank": 57,
+      "rank": 55,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "299032226",
       "name": "TrafficCamNZ",
@@ -1278,9 +1234,9 @@
       "releaseDate": "12 December 2008"
     },
     {
-      "rank": 58,
+      "rank": 56,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "456327713",
       "name": "Holding Pattern Trainer",
@@ -1300,9 +1256,31 @@
       "releaseDate": "16 August 2011"
     },
     {
-      "rank": 59,
+      "rank": 57,
+      "previousRank": 52,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6760953505",
+      "name": "Metro Xiamen Map",
+      "developer": "Razvan IVAN",
+      "developerUrl": "https://apps.apple.com/vn/developer/razvan-ivan/id733451937?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c8/ac/3bc8ac3a-ddce-36cb-4ab1-460d81e7e7ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/metro-xiamen-map/id6760953505?uo=2",
+      "price": {
+        "amount": 29000,
+        "currency": "VND",
+        "formatted": "29.000đ"
+      },
+      "primaryCategory": {
+        "id": "6010",
+        "name": "Navigation"
+      },
+      "releaseDate": "23 March 2026"
+    },
+    {
+      "rank": 58,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6446209111",
       "name": "COLREG",
@@ -1322,9 +1300,9 @@
       "releaseDate": "31 March 2023"
     },
     {
-      "rank": 60,
+      "rank": 59,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1199479918",
       "name": "Area Calculator Pro",
@@ -1344,9 +1322,9 @@
       "releaseDate": "28 January 2017"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "712286784",
       "name": "ECDIS NAUTICAL CHART SYMBOLS",
@@ -1366,9 +1344,9 @@
       "releaseDate": "30 October 2013"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "427480051",
       "name": "Nav Trainer Pro",
@@ -1388,9 +1366,9 @@
       "releaseDate": "28 March 2011"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "657324657",
       "name": "WGS84",
@@ -1410,9 +1388,9 @@
       "releaseDate": "21 June 2013"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1455851003",
       "name": "Nautical Calculator Pro",
@@ -1432,9 +1410,9 @@
       "releaseDate": "27 March 2019"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "previousRank": 65,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "371817955",
       "name": "Sporty's E6B Flight Computer",
@@ -1454,9 +1432,9 @@
       "releaseDate": "17 May 2010"
     },
     {
-      "rank": 66,
+      "rank": 65,
       "previousRank": 66,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "356076234",
       "name": "Marine Chart Symbols",
@@ -1476,9 +1454,9 @@
       "releaseDate": "19 February 2010"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1052637769",
       "name": "Moon Calendar Watch",
@@ -1498,9 +1476,9 @@
       "releaseDate": "14 November 2015"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "536158103",
       "name": "Orientation: Compass & Map",
@@ -1520,9 +1498,9 @@
       "releaseDate": "03 July 2012"
     },
     {
-      "rank": 69,
+      "rank": 68,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "496096478",
       "name": "Odometer+",
@@ -1542,9 +1520,9 @@
       "releaseDate": "27 January 2012"
     },
     {
-      "rank": 70,
+      "rank": 69,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "482325002",
       "name": "Traffic Cam+ Pro",
@@ -1564,9 +1542,9 @@
       "releaseDate": "23 November 2011"
     },
     {
-      "rank": 71,
+      "rank": 70,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "427484233",
       "name": "GPS - Way Home Finder App",
@@ -1586,9 +1564,9 @@
       "releaseDate": "04 April 2011"
     },
     {
-      "rank": 72,
+      "rank": 71,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "387718749",
       "name": "Air Distance",
@@ -1608,9 +1586,9 @@
       "releaseDate": "27 August 2010"
     },
     {
-      "rank": 73,
+      "rank": 72,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "365745482",
       "name": "UK Map",
@@ -1630,9 +1608,9 @@
       "releaseDate": "13 April 2010"
     },
     {
-      "rank": 74,
+      "rank": 73,
       "previousRank": 74,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "346516607",
       "name": "MagnetMeter",
@@ -1652,9 +1630,9 @@
       "releaseDate": "18 December 2009"
     },
     {
-      "rank": 75,
+      "rank": 74,
       "previousRank": 75,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "323662975",
       "name": "PFMA E6B",
@@ -1674,9 +1652,9 @@
       "releaseDate": "27 July 2009"
     },
     {
-      "rank": 76,
+      "rank": 75,
       "previousRank": 76,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1547012516",
       "name": "GeoTracker Pro",
@@ -1696,9 +1674,9 @@
       "releaseDate": "02 January 2021"
     },
     {
-      "rank": 77,
+      "rank": 76,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1221203637",
       "name": "Nautical Calculator",
@@ -1718,9 +1696,9 @@
       "releaseDate": "01 December 2017"
     },
     {
-      "rank": 78,
+      "rank": 77,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1123097127",
       "name": "Kml Viewer-Kml Converter app",
@@ -1740,9 +1718,9 @@
       "releaseDate": "10 June 2016"
     },
     {
-      "rank": 79,
+      "rank": 78,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1086481475",
       "name": "Sun Locator - Find the Sun",
@@ -1762,9 +1740,9 @@
       "releaseDate": "29 April 2016"
     },
     {
-      "rank": 80,
+      "rank": 79,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "993733853",
       "name": "HUD Nav",
@@ -1784,9 +1762,9 @@
       "releaseDate": "12 March 2017"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "963371436",
       "name": "CamCarDer",
@@ -1806,9 +1784,9 @@
       "releaseDate": "25 May 2015"
     },
     {
-      "rank": 82,
+      "rank": 81,
       "previousRank": 82,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "384363262",
       "name": "13:20:Sync",
@@ -1828,9 +1806,9 @@
       "releaseDate": "02 August 2010"
     },
     {
-      "rank": 83,
+      "rank": 82,
       "previousRank": 83,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "375612556",
       "name": "Moon Seeker",
@@ -1850,9 +1828,9 @@
       "releaseDate": "09 June 2010"
     },
     {
-      "rank": 84,
+      "rank": 83,
       "previousRank": 84,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "329374073",
       "name": "aSmart HUD 3D +SpeedCams",
@@ -1872,9 +1850,9 @@
       "releaseDate": "24 September 2009"
     },
     {
-      "rank": 85,
+      "rank": 84,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1564763366",
       "name": "美丽世界地图 - 导航全球景点，体验异国风情",
@@ -1894,9 +1872,9 @@
       "releaseDate": "29 April 2021"
     },
     {
-      "rank": 86,
+      "rank": 85,
       "previousRank": 86,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1238634442",
       "name": "Altimeter Pro: Compass, GPS",
@@ -1916,9 +1894,9 @@
       "releaseDate": "29 May 2017"
     },
     {
-      "rank": 87,
+      "rank": 86,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1174267396",
       "name": "UTM Coordinates Tool",
@@ -1938,9 +1916,9 @@
       "releaseDate": "10 November 2016"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1168292175",
       "name": "Speedometer GPS: HUD, Car Speed Tracker, Mph Meter",
@@ -1960,9 +1938,9 @@
       "releaseDate": "24 October 2016"
     },
     {
-      "rank": 89,
+      "rank": 88,
       "previousRank": 89,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1092067489",
       "name": "Cruise Nav",
@@ -1982,9 +1960,9 @@
       "releaseDate": "16 March 2016"
     },
     {
-      "rank": 90,
+      "rank": 89,
       "previousRank": 90,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "733144754",
       "name": "Pinbox - Map Your World",
@@ -2004,9 +1982,9 @@
       "releaseDate": "02 November 2013"
     },
     {
-      "rank": 91,
+      "rank": 90,
       "previousRank": 91,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "721609826",
       "name": "Boat Watch Pro",
@@ -2026,9 +2004,9 @@
       "releaseDate": "20 October 2013"
     },
     {
-      "rank": 92,
+      "rank": 91,
       "previousRank": 92,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "441456344",
       "name": "GPS Stone (GPX Trip Recorder)",
@@ -2048,9 +2026,9 @@
       "releaseDate": "24 June 2011"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "previousRank": 93,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "396351547",
       "name": "Where's my MBTA Bus?",
@@ -2070,9 +2048,9 @@
       "releaseDate": "12 October 2010"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "previousRank": 94,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "354048843",
       "name": "NOTAMs",
@@ -2092,9 +2070,9 @@
       "releaseDate": "12 February 2010"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "previousRank": 95,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6467383947",
       "name": "MiniMap Radar",
@@ -2112,28 +2090,6 @@
         "name": "Navigation"
       },
       "releaseDate": "20 October 2023"
-    },
-    {
-      "rank": 96,
-      "previousRank": 96,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1579639084",
-      "name": "TrekkingPoint",
-      "developer": "Marco Palaferri",
-      "developerUrl": "https://apps.apple.com/vn/developer/marco-palaferri/id395030821?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/be/eb/5abeebfd-3170-cda0-6806-2caefe83e5cb/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/trekkingpoint/id1579639084?uo=2",
-      "price": {
-        "amount": 59000,
-        "currency": "VND",
-        "formatted": "59.000đ"
-      },
-      "primaryCategory": {
-        "id": "6010",
-        "name": "Navigation"
-      },
-      "releaseDate": "04 August 2021"
     }
   ]
 }

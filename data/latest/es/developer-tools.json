@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-09",
-  "collectedAt": "2026-11-09T07:47:42.310Z",
-  "sourceUpdatedAt": "2026-11-08T23:47:41-07:00",
+  "snapshotDate": "2026-11-10",
+  "collectedAt": "2026-11-10T08:08:04.630Z",
+  "sourceUpdatedAt": "2026-11-10T00:08:04-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/es/rss/toppaidapplications/limit=100/genre=6026/json",
   "chartType": "paid",
@@ -21,12 +21,34 @@
   "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-08",
+  "previousSnapshotDate": "2026-11-09",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 4,
-      "rankChange": 3,
+      "previousRank": 23,
+      "rankChange": 22,
+      "isNew": false,
+      "appleId": "1567601472",
+      "name": "ESP32 BLE Terminal",
+      "developer": "Gopi Gadhiya",
+      "developerUrl": "https://apps.apple.com/es/developer/gopi-gadhiya/id1387816354?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/esp32-ble-terminal/id1567601472?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "01/06/2021"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1203594958",
       "name": "Inspect Browser",
@@ -46,8 +68,8 @@
       "releaseDate": "06/06/2017"
     },
     {
-      "rank": 2,
-      "previousRank": 1,
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "6806220019",
@@ -68,31 +90,9 @@
       "releaseDate": "14/09/2026"
     },
     {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6762464046",
-      "name": "Muxy",
-      "developer": "Saeed Vaziry",
-      "developerUrl": "https://apps.apple.com/es/developer/saeed-vaziry/id1873447179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/13/a2/f813a288-3e12-ee6b-e69d-1e37d7dd58f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/muxy/id6762464046?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "15/05/2026"
-    },
-    {
       "rank": 4,
-      "previousRank": 5,
-      "rankChange": 1,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6758669847",
       "name": "Echo - SSH + Mosh Client",
@@ -113,8 +113,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 6,
-      "rankChange": 1,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6743685377",
       "name": "Termix Pro: SSH & SFTP Client",
@@ -135,30 +135,8 @@
     },
     {
       "rank": 6,
-      "previousRank": 30,
-      "rankChange": 24,
-      "isNew": false,
-      "appleId": "1563852783",
-      "name": "Resolutioner",
-      "developer": "Sun Apps, LLC",
-      "developerUrl": "https://apps.apple.com/es/developer/sun-apps-llc/id1465505382?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/75/2c4375f4-29b1-30fb-19dd-d5cdbbfa6481/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/resolutioner/id1563852783?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "11/05/2021"
-    },
-    {
-      "rank": 7,
       "previousRank": 7,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1237825358",
       "name": "MongoLime - manage databases",
@@ -178,9 +156,9 @@
       "releaseDate": "17/08/2017"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "previousRank": 8,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1582439659",
       "name": "Harbour - Docker Manager",
@@ -198,6 +176,28 @@
         "name": "Para desarrolladores"
       },
       "releaseDate": "06/04/2024"
+    },
+    {
+      "rank": 8,
+      "previousRank": 6,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1563852783",
+      "name": "Resolutioner",
+      "developer": "Sun Apps, LLC",
+      "developerUrl": "https://apps.apple.com/es/developer/sun-apps-llc/id1465505382?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/75/2c4375f4-29b1-30fb-19dd-d5cdbbfa6481/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/resolutioner/id1563852783?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "11/05/2021"
     },
     {
       "rank": 9,
@@ -245,25 +245,25 @@
     },
     {
       "rank": 11,
-      "previousRank": 11,
-      "rankChange": 0,
+      "previousRank": 3,
+      "rankChange": -8,
       "isNew": false,
-      "appleId": "1534470128",
-      "name": "Node-PAD",
-      "developer": "Michael Angelo Ruta",
-      "developerUrl": "https://apps.apple.com/es/developer/michael-angelo-ruta/id468628157?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/4f/a0/424fa082-6eae-f93e-9d04-f3734b9e4702/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/node-pad/id1534470128?uo=2",
+      "appleId": "6762464046",
+      "name": "Muxy",
+      "developer": "Saeed Vaziry",
+      "developerUrl": "https://apps.apple.com/es/developer/saeed-vaziry/id1873447179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/28/74/732874b4-13e6-74f7-736e-1e6d0ac36aaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/muxy/id6762464046?uo=2",
       "price": {
-        "amount": 1.99,
+        "amount": 2.99,
         "currency": "EUR",
-        "formatted": "1,99 €"
+        "formatted": "2,99 €"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "Para desarrolladores"
       },
-      "releaseDate": "14/10/2020"
+      "releaseDate": "15/05/2026"
     },
     {
       "rank": 12,
@@ -311,8 +311,30 @@
     },
     {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 11,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "1534470128",
+      "name": "Node-PAD",
+      "developer": "Michael Angelo Ruta",
+      "developerUrl": "https://apps.apple.com/es/developer/michael-angelo-ruta/id468628157?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/4f/a0/424fa082-6eae-f93e-9d04-f3734b9e4702/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/node-pad/id1534470128?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "14/10/2020"
+    },
+    {
+      "rank": 15,
+      "previousRank": 14,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6443893597",
       "name": "Simple Server: HTTP Server",
@@ -332,31 +354,9 @@
       "releaseDate": "18/10/2022"
     },
     {
-      "rank": 15,
-      "previousRank": 3,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "6811290737",
-      "name": "Shell Keyboard",
-      "developer": "Nguyen Nguyen",
-      "developerUrl": "https://apps.apple.com/es/developer/nguyen-nguyen/id1071455830?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/32/e2/cd32e272-0268-ab0c-f34d-f825bfc1e6dc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/shell-keyboard/id6811290737?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "16/09/2026"
-    },
-    {
       "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1054670022",
       "name": "Adaptivity (A)",
@@ -377,8 +377,8 @@
     },
     {
       "rank": 17,
-      "previousRank": 18,
-      "rankChange": 1,
+      "previousRank": 17,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "593757593",
       "name": "DraftCode for PHP IDE",
@@ -399,8 +399,8 @@
     },
     {
       "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
+      "previousRank": 18,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "921385542",
       "name": "Source 3",
@@ -421,8 +421,8 @@
     },
     {
       "rank": 19,
-      "previousRank": 20,
-      "rankChange": 1,
+      "previousRank": 19,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1481149807",
       "name": "OpenTerm",
@@ -443,8 +443,30 @@
     },
     {
       "rank": 20,
-      "previousRank": 14,
-      "rankChange": -6,
+      "previousRank": 15,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "6811290737",
+      "name": "Shell Keyboard",
+      "developer": "Nguyen Nguyen",
+      "developerUrl": "https://apps.apple.com/es/developer/nguyen-nguyen/id1071455830?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/32/e2/cd32e272-0268-ab0c-f34d-f825bfc1e6dc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/shell-keyboard/id6811290737?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "16/09/2026"
+    },
+    {
+      "rank": 21,
+      "previousRank": 20,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6758571420",
       "name": "YAML Tools",
@@ -464,31 +486,9 @@
       "releaseDate": "17/02/2026"
     },
     {
-      "rank": 21,
-      "previousRank": 16,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6799927158",
-      "name": "iperf3 - Network Tools",
-      "developer": "RanduSoft SRL",
-      "developerUrl": "https://apps.apple.com/es/developer/randusoft-srl/id1132039950?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/92/99/9492992f-9406-c42d-1e5e-bcaf79a39f17/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/iperf3-network-tools/id6799927158?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "11/08/2026"
-    },
-    {
       "rank": 22,
-      "previousRank": 21,
-      "rankChange": -1,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6446626905",
       "name": "Cookie Editor For Safari",
@@ -509,30 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 22,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1567601472",
-      "name": "ESP32 BLE Terminal",
-      "developer": "Gopi Gadhiya",
-      "developerUrl": "https://apps.apple.com/es/developer/gopi-gadhiya/id1387816354?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/36/bb/e8/36bbe8cd-a253-6e5e-6336-586ea3826e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/esp32-ble-terminal/id1567601472?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "01/06/2021"
-    },
-    {
-      "rank": 24,
-      "previousRank": 23,
-      "rankChange": -1,
+      "previousRank": 24,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1558236648",
       "name": "Packet Sender - UDP/TCP/HTTP",
@@ -552,9 +530,9 @@
       "releaseDate": "20/03/2021"
     },
     {
-      "rank": 25,
-      "previousRank": 24,
-      "rankChange": -1,
+      "rank": 24,
+      "previousRank": 25,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1461666739",
       "name": "Kuber - Kubernetes Dashboard",
@@ -572,6 +550,28 @@
         "name": "Para desarrolladores"
       },
       "releaseDate": "03/05/2019"
+    },
+    {
+      "rank": 25,
+      "previousRank": 21,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6799927158",
+      "name": "iperf3 - Network Tools",
+      "developer": "RanduSoft SRL",
+      "developerUrl": "https://apps.apple.com/es/developer/randusoft-srl/id1132039950?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/92/99/9492992f-9406-c42d-1e5e-bcaf79a39f17/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/iperf3-network-tools/id6799927158?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "11/08/2026"
     },
     {
       "rank": 26,
@@ -663,30 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 25,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6757315226",
-      "name": "MDC - Markdown Copier",
-      "developer": "Ryunosuke Shibuya",
-      "developerUrl": "https://apps.apple.com/es/developer/ryunosuke-shibuya/id1588660637?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/36/0e/20360e9f-69db-d3ea-7296-c6ed5ef8a3e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/mdc-markdown-copier/id6757315226?uo=2",
-      "price": {
-        "amount": 1.09,
-        "currency": "EUR",
-        "formatted": "1,09 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "08/01/2026"
-    },
-    {
-      "rank": 31,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1315744137",
       "name": "Juno Connect: Jupyter Client",
@@ -706,9 +684,9 @@
       "releaseDate": "23/01/2018"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1191488320",
       "name": "PasteMe - Pastebin Client",
@@ -728,9 +706,9 @@
       "releaseDate": "12/01/2017"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "585637688",
       "name": "python3$",
@@ -748,6 +726,28 @@
         "name": "Para desarrolladores"
       },
       "releaseDate": "16/01/2013"
+    },
+    {
+      "rank": 33,
+      "previousRank": 30,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6757315226",
+      "name": "MDC - Markdown Copier",
+      "developer": "Ryunosuke Shibuya",
+      "developerUrl": "https://apps.apple.com/es/developer/ryunosuke-shibuya/id1588660637?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/36/0e/20360e9f-69db-d3ea-7296-c6ed5ef8a3e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/mdc-markdown-copier/id6757315226?uo=2",
+      "price": {
+        "amount": 1.09,
+        "currency": "EUR",
+        "formatted": "1,09 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "08/01/2026"
     },
     {
       "rank": 34,
@@ -993,8 +993,8 @@
     },
     {
       "rank": 45,
-      "previousRank": 46,
-      "rankChange": 1,
+      "previousRank": 45,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1643868615",
       "name": "TFLite LiteRT TensorFlow Test",
@@ -1015,8 +1015,8 @@
     },
     {
       "rank": 46,
-      "previousRank": 47,
-      "rankChange": 1,
+      "previousRank": 46,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1551344923",
       "name": "UCoW - Ultimate Code Wrapper",
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1517211662",
       "name": "TinyServer",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 49,
-      "rankChange": 1,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1515506950",
       "name": "Code - Compile & Run Program",
@@ -1081,8 +1081,8 @@
     },
     {
       "rank": 49,
-      "previousRank": 50,
-      "rankChange": 1,
+      "previousRank": 49,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1296588408",
       "name": "AirTerminal - BLE Terminal",
@@ -1103,8 +1103,8 @@
     },
     {
       "rank": 50,
-      "previousRank": 51,
-      "rankChange": 1,
+      "previousRank": 50,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "511639148",
       "name": "Source Code Reader",
@@ -1125,8 +1125,8 @@
     },
     {
       "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "previousRank": 51,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6742509573",
       "name": "HogLite — PostHog Mobile App",
@@ -1147,8 +1147,8 @@
     },
     {
       "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6474695786",
       "name": "iPulse - Monitor Your Device",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6467449236",
       "name": "Aprender Python (paso a paso)",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1586466815",
       "name": "DashTabs: Firebase, AdMob …",
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 56,
-      "rankChange": 1,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1581312955",
       "name": "MermaidEditor",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 57,
-      "rankChange": 1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1511763524",
       "name": "RegEx+",
@@ -1257,8 +1257,8 @@
     },
     {
       "rank": 57,
-      "previousRank": 58,
-      "rankChange": 1,
+      "previousRank": 57,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1511127976",
       "name": "RevenueCat Sales: RCReporting",
@@ -1279,8 +1279,8 @@
     },
     {
       "rank": 58,
-      "previousRank": 59,
-      "rankChange": 1,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1245341806",
       "name": "My Lisp",
@@ -1301,8 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 60,
-      "rankChange": 1,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6760011289",
       "name": "Attach - ssh & native tmux",
@@ -1326,28 +1326,6 @@
       "previousRank": 61,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "6758522991",
-      "name": "KoeCode",
-      "developer": "Alvaro Luis Bustamante",
-      "developerUrl": "https://apps.apple.com/es/developer/alvaro-luis-bustamante/id886675507?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/3f/68/d03f6838-6bfb-69b7-3eb8-e4e72dd9c7cb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/es/app/koecode/id6758522991?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Para desarrolladores"
-      },
-      "releaseDate": "25/03/2026"
-    },
-    {
-      "rank": 61,
-      "previousRank": 62,
-      "rankChange": 1,
-      "isNew": false,
       "appleId": "6553999598",
       "name": "iDepth NDI",
       "developer": "Gwangyu Lee",
@@ -1366,8 +1344,8 @@
       "releaseDate": "20/07/2024"
     },
     {
-      "rank": 62,
-      "previousRank": 63,
+      "rank": 61,
+      "previousRank": 62,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6448196217",
@@ -1388,8 +1366,8 @@
       "releaseDate": "27/04/2023"
     },
     {
-      "rank": 63,
-      "previousRank": 64,
+      "rank": 62,
+      "previousRank": 63,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1517487743",
@@ -1410,8 +1388,8 @@
       "releaseDate": "29/07/2020"
     },
     {
-      "rank": 64,
-      "previousRank": 65,
+      "rank": 63,
+      "previousRank": 64,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1469009452",
@@ -1432,8 +1410,8 @@
       "releaseDate": "03/09/2019"
     },
     {
-      "rank": 65,
-      "previousRank": 66,
+      "rank": 64,
+      "previousRank": 65,
       "rankChange": 1,
       "isNew": false,
       "appleId": "908937788",
@@ -1454,8 +1432,8 @@
       "releaseDate": "12/06/2015"
     },
     {
-      "rank": 66,
-      "previousRank": 67,
+      "rank": 65,
+      "previousRank": 66,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6785798473",
@@ -1476,8 +1454,8 @@
       "releaseDate": "06/07/2026"
     },
     {
-      "rank": 67,
-      "previousRank": 68,
+      "rank": 66,
+      "previousRank": 67,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6762105412",
@@ -1498,8 +1476,8 @@
       "releaseDate": "16/04/2026"
     },
     {
-      "rank": 68,
-      "previousRank": 69,
+      "rank": 67,
+      "previousRank": 68,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6762069031",
@@ -1520,8 +1498,8 @@
       "releaseDate": "14/04/2026"
     },
     {
-      "rank": 69,
-      "previousRank": 70,
+      "rank": 68,
+      "previousRank": 69,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6759969606",
@@ -1542,8 +1520,8 @@
       "releaseDate": "23/03/2026"
     },
     {
-      "rank": 70,
-      "previousRank": 71,
+      "rank": 69,
+      "previousRank": 70,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1551494625",
@@ -1564,8 +1542,8 @@
       "releaseDate": "04/02/2021"
     },
     {
-      "rank": 71,
-      "previousRank": 72,
+      "rank": 70,
+      "previousRank": 71,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1548808907",
@@ -1586,8 +1564,8 @@
       "releaseDate": "14/01/2021"
     },
     {
-      "rank": 72,
-      "previousRank": 73,
+      "rank": 71,
+      "previousRank": 72,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1547278785",
@@ -1608,8 +1586,8 @@
       "releaseDate": "22/01/2021"
     },
     {
-      "rank": 73,
-      "previousRank": 74,
+      "rank": 72,
+      "previousRank": 73,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1535337134",
@@ -1630,8 +1608,8 @@
       "releaseDate": "20/10/2020"
     },
     {
-      "rank": 74,
-      "previousRank": 75,
+      "rank": 73,
+      "previousRank": 74,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1534485108",
@@ -1652,8 +1630,8 @@
       "releaseDate": "06/11/2020"
     },
     {
-      "rank": 75,
-      "previousRank": 76,
+      "rank": 74,
+      "previousRank": 75,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1505337953",
@@ -1674,8 +1652,8 @@
       "releaseDate": "31/03/2020"
     },
     {
-      "rank": 76,
-      "previousRank": 77,
+      "rank": 75,
+      "previousRank": 76,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1476973692",
@@ -1696,8 +1674,8 @@
       "releaseDate": "04/09/2019"
     },
     {
-      "rank": 77,
-      "previousRank": 78,
+      "rank": 76,
+      "previousRank": 77,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1474606532",
@@ -1718,8 +1696,8 @@
       "releaseDate": "19/09/2019"
     },
     {
-      "rank": 78,
-      "previousRank": 79,
+      "rank": 77,
+      "previousRank": 78,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1473088658",
@@ -1740,9 +1718,9 @@
       "releaseDate": "24/07/2019"
     },
     {
-      "rank": 79,
-      "previousRank": 45,
-      "rankChange": -34,
+      "rank": 78,
+      "previousRank": 79,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6802766546",
       "name": "Modbus Poll Mobile",
@@ -1762,9 +1740,9 @@
       "releaseDate": "04/09/2026"
     },
     {
-      "rank": 80,
+      "rank": 79,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6758960270",
       "name": "GitSync.md: Cliente Git",
@@ -1784,9 +1762,9 @@
       "releaseDate": "13/02/2026"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6757410819",
       "name": "Hetzman for Hetzner Cloud",
@@ -1806,9 +1784,9 @@
       "releaseDate": "11/01/2026"
     },
     {
-      "rank": 82,
+      "rank": 81,
       "previousRank": 82,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6753624290",
       "name": "Generador de tarjetas",
@@ -1828,9 +1806,9 @@
       "releaseDate": "06/10/2025"
     },
     {
-      "rank": 83,
+      "rank": 82,
       "previousRank": 83,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6738126761",
       "name": "PyPocket",
@@ -1850,9 +1828,9 @@
       "releaseDate": "13/11/2024"
     },
     {
-      "rank": 84,
+      "rank": 83,
       "previousRank": 84,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6736626499",
       "name": "Device Information Tool",
@@ -1872,9 +1850,9 @@
       "releaseDate": "07/10/2024"
     },
     {
-      "rank": 85,
+      "rank": 84,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6736591154",
       "name": "SMTP Tester Pro: Email Test",
@@ -1894,9 +1872,9 @@
       "releaseDate": "07/10/2024"
     },
     {
-      "rank": 86,
+      "rank": 85,
       "previousRank": 86,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6736484331",
       "name": "DNS Propagation: DNS Lookup",
@@ -1916,9 +1894,9 @@
       "releaseDate": "03/10/2024"
     },
     {
-      "rank": 87,
+      "rank": 86,
       "previousRank": 87,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6501961979",
       "name": "iCardVerify Creador de tarjeta",
@@ -1938,9 +1916,9 @@
       "releaseDate": "09/05/2024"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6461118802",
       "name": "iDraw OSC",
@@ -1960,9 +1938,9 @@
       "releaseDate": "15/08/2023"
     },
     {
-      "rank": 89,
+      "rank": 88,
       "previousRank": 89,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1633950905",
       "name": "SMTPTester - Test smtp service",
@@ -1982,9 +1960,9 @@
       "releaseDate": "11/07/2022"
     },
     {
-      "rank": 90,
+      "rank": 89,
       "previousRank": 90,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1583770274",
       "name": "Matplotlib教程",
@@ -2004,15 +1982,15 @@
       "releaseDate": "01/09/2021"
     },
     {
-      "rank": 91,
+      "rank": 90,
       "previousRank": 91,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1580309766",
       "name": "SQL Recipes Pro",
       "developer": "Fedor Obraztsov",
       "developerUrl": "https://apps.apple.com/es/developer/fedor-obraztsov/id1012115119?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/86/2c/f5862c51-2afa-6b14-2523-5f30bfe5b82a/AppIcon_sql_pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/43/ef/d843ef16-bebe-698f-61d9-8db95e9eff25/AppIcon_sql_pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/es/app/sql-recipes-pro/id1580309766?uo=2",
       "price": {
         "amount": 1.99,
@@ -2026,9 +2004,9 @@
       "releaseDate": "08/08/2021"
     },
     {
-      "rank": 92,
+      "rank": 91,
       "previousRank": 92,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1528537342",
       "name": "mitmproxy client by txthinking",
@@ -2048,9 +2026,9 @@
       "releaseDate": "27/08/2020"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "previousRank": 93,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1253599389",
       "name": "App Icon Generator",
@@ -2070,9 +2048,9 @@
       "releaseDate": "29/06/2017"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "previousRank": 94,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "727047729",
       "name": "Ruby 2.0-run code,pro",
@@ -2092,9 +2070,9 @@
       "releaseDate": "16/10/2014"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "previousRank": 95,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "579257935",
       "name": "iCodeEditor",
@@ -2114,9 +2092,9 @@
       "releaseDate": "06/12/2012"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "previousRank": 96,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6761494791",
       "name": "JavaScript Blocker for Safari",
@@ -2136,9 +2114,9 @@
       "releaseDate": "02/04/2026"
     },
     {
-      "rank": 97,
+      "rank": 96,
       "previousRank": 97,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6761261189",
       "name": "Hard Refresh",
@@ -2158,9 +2136,9 @@
       "releaseDate": "31/03/2026"
     },
     {
-      "rank": 98,
+      "rank": 97,
       "previousRank": 98,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6760799367",
       "name": "TDInput",
@@ -2180,9 +2158,9 @@
       "releaseDate": "23/03/2026"
     },
     {
-      "rank": 99,
+      "rank": 98,
       "previousRank": 99,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6759809062",
       "name": "CodeMan - VSCode",
@@ -2202,9 +2180,9 @@
       "releaseDate": "05/03/2026"
     },
     {
-      "rank": 100,
+      "rank": 99,
       "previousRank": 100,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6749065478",
       "name": "Gradient: Lab - Generator",
@@ -2222,6 +2200,28 @@
         "name": "Para desarrolladores"
       },
       "releaseDate": "28/07/2025"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6742278087",
+      "name": "Kontainer: Portainer Mobile",
+      "developer": "Trang Nguyen",
+      "developerUrl": "https://apps.apple.com/es/developer/trang-nguyen/id1797673424?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/8e/66/268e66b1-6595-8739-98fd-0834980d7ec7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/es/app/kontainer-portainer-mobile/id6742278087?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Para desarrolladores"
+      },
+      "releaseDate": "24/02/2025"
     }
   ]
 }
