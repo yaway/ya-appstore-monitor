@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-10",
-  "collectedAt": "2026-11-10T08:07:45.186Z",
-  "sourceUpdatedAt": "2026-11-10T00:07:44-07:00",
+  "snapshotDate": "2026-11-11",
+  "collectedAt": "2026-11-11T07:38:26.046Z",
+  "sourceUpdatedAt": "2026-11-10T23:38:25-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/sg/rss/toppaidapplications/limit=100/genre=6011/json",
   "chartType": "paid",
@@ -17,17 +17,17 @@
     "name": "音乐"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-09",
+  "previousSnapshotDate": "2026-11-10",
   "apps": [
     {
       "rank": 1,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 1,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "6816793607",
       "name": "GigClick: Metronome, Setlist",
       "developer": "MATTHEW PETER WHIMP",
@@ -47,8 +47,162 @@
     },
     {
       "rank": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6831618502",
+      "name": "Pretend Piano: Air Instruments",
+      "developer": "剑锋 梁",
+      "developerUrl": "https://apps.apple.com/sg/developer/%E5%89%91%E9%94%8B-%E6%A2%81/id1788815031?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/3e/90/c83e9034-3867-57e4-8871-14f4069cddc1/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/pretend-piano-air-instruments/id6831618502?uo=2",
+      "price": {
+        "amount": 0.98,
+        "currency": "SGD",
+        "formatted": "S$ 0.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "08 November 2026"
+    },
+    {
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1540299083",
+      "name": "BLEASS Granulizer",
+      "developer": "BLEASS",
+      "developerUrl": "https://apps.apple.com/sg/developer/bleass/id1220444177?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/db/05/5ddb051f-8ab7-8154-9b73-452234bef706/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/bleass-granulizer/id1540299083?uo=2",
+      "price": {
+        "amount": 5.98,
+        "currency": "SGD",
+        "formatted": "S$ 5.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "02 January 2021"
+    },
+    {
+      "rank": 4,
+      "previousRank": 5,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "6823045499",
+      "name": "IvyPod",
+      "developer": "Jeremy Siegel",
+      "developerUrl": "https://apps.apple.com/sg/developer/jeremy-siegel/id1679205677?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/ivypod/id6823045499?uo=2",
+      "price": {
+        "amount": 3.98,
+        "currency": "SGD",
+        "formatted": "S$ 3.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "06 November 2026"
+    },
+    {
+      "rank": 5,
+      "previousRank": 22,
+      "rankChange": 17,
+      "isNew": false,
+      "appleId": "304731501",
+      "name": "Tempo - Metronome with Setlist",
+      "developer": "Frozen Ape Pte. Ltd.",
+      "developerUrl": "https://apps.apple.com/sg/developer/frozen-ape-pte-ltd/id304731504?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/07/ef/7a07ef92-188c-4a03-024b-29fe3b252e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/tempo-metronome-with-setlist/id304731501?uo=2",
+      "price": {
+        "amount": 3.98,
+        "currency": "SGD",
+        "formatted": "S$ 3.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "12 February 2009"
+    },
+    {
+      "rank": 6,
+      "previousRank": 31,
+      "rankChange": 25,
+      "isNew": false,
+      "appleId": "608540795",
+      "name": "Tunable – Tuner & Metronome",
+      "developer": "AffinityBlue",
+      "developerUrl": "https://apps.apple.com/sg/developer/affinityblue/id428440807?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/tunable-tuner-metronome/id608540795?uo=2",
+      "price": {
+        "amount": 9.98,
+        "currency": "SGD",
+        "formatted": "S$ 9.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "27 March 2013"
+    },
+    {
+      "rank": 7,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1604438442",
+      "name": "Rhythm Pro: tempo trainer.",
+      "developer": "Alexey Ovod",
+      "developerUrl": "https://apps.apple.com/sg/developer/alexey-ovod/id1545142178?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/b1/b5/57b1b52a-3882-1ff5-ef48-3400e182a614/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/rhythm-pro-tempo-trainer/id1604438442?uo=2",
+      "price": {
+        "amount": 9.98,
+        "currency": "SGD",
+        "formatted": "S$ 9.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "26 May 2022"
+    },
+    {
+      "rank": 8,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6820495772",
+      "name": "VU303",
+      "developer": "Dariusz Chynek",
+      "developerUrl": "https://apps.apple.com/sg/developer/dariusz-chynek/id1805845479?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fc/6b/1bfc6b0c-ca5a-43e4-1f3c-c476aed591bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/vu303/id6820495772?uo=2",
+      "price": {
+        "amount": 5.98,
+        "currency": "SGD",
+        "formatted": "S$ 5.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "31 October 2026"
+    },
+    {
+      "rank": 9,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -68,9 +222,9 @@
       "releaseDate": "14 October 2026"
     },
     {
-      "rank": 3,
-      "previousRank": 12,
-      "rankChange": 9,
+      "rank": 10,
+      "previousRank": 3,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "497716362",
       "name": "TonalEnergy Tuner & Metronome",
@@ -90,9 +244,9 @@
       "releaseDate": "17 February 2012"
     },
     {
-      "rank": 4,
-      "previousRank": 60,
-      "rankChange": 56,
+      "rank": 11,
+      "previousRank": 4,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "363738376",
       "name": "forScore",
@@ -112,31 +266,9 @@
       "releaseDate": "09 April 2010"
     },
     {
-      "rank": 5,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6823045499",
-      "name": "IvyPod",
-      "developer": "Jeremy Siegel",
-      "developerUrl": "https://apps.apple.com/sg/developer/jeremy-siegel/id1679205677?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/ivypod/id6823045499?uo=2",
-      "price": {
-        "amount": 3.98,
-        "currency": "SGD",
-        "formatted": "S$ 3.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "06 November 2026"
-    },
-    {
-      "rank": 6,
-      "previousRank": 18,
-      "rankChange": 12,
+      "rank": 12,
+      "previousRank": 6,
+      "rankChange": -6,
       "isNew": false,
       "appleId": "319295332",
       "name": "TuneIn Radio: Music & Sports",
@@ -156,8 +288,8 @@
       "releaseDate": "03 September 2009"
     },
     {
-      "rank": 7,
-      "previousRank": 1,
+      "rank": 13,
+      "previousRank": 7,
       "rankChange": -6,
       "isNew": false,
       "appleId": "6743103559",
@@ -178,10 +310,10 @@
       "releaseDate": "09 October 2025"
     },
     {
-      "rank": 8,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 14,
+      "previousRank": 8,
+      "rankChange": -6,
+      "isNew": false,
       "appleId": "6444855562",
       "name": "BluRemote - BluOS Controller",
       "developer": "Christoph Goldner",
@@ -200,8 +332,8 @@
       "releaseDate": "20 December 2023"
     },
     {
-      "rank": 9,
-      "previousRank": 3,
+      "rank": 15,
+      "previousRank": 9,
       "rankChange": -6,
       "isNew": false,
       "appleId": "1449584007",
@@ -222,8 +354,8 @@
       "releaseDate": "28 February 2019"
     },
     {
-      "rank": 10,
-      "previousRank": 4,
+      "rank": 16,
+      "previousRank": 10,
       "rankChange": -6,
       "isNew": false,
       "appleId": "6800616114",
@@ -244,8 +376,8 @@
       "releaseDate": "19 August 2026"
     },
     {
-      "rank": 11,
-      "previousRank": 5,
+      "rank": 17,
+      "previousRank": 11,
       "rankChange": -6,
       "isNew": false,
       "appleId": "842218231",
@@ -266,141 +398,9 @@
       "releaseDate": "28 March 2014"
     },
     {
-      "rank": 12,
-      "previousRank": 6,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "1612952507",
-      "name": "AeroPads - Pads & Soundscapes",
-      "developer": "Aerospace Audio LLC",
-      "developerUrl": "https://apps.apple.com/sg/developer/aerospace-audio-llc/id1612952509?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/11/28/c51128c6-a3cc-90e7-675a-db33ff9d3071/AeroPads-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/aeropads-pads-soundscapes/id1612952507?uo=2",
-      "price": {
-        "amount": 9.98,
-        "currency": "SGD",
-        "formatted": "S$ 9.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "17 October 2022"
-    },
-    {
-      "rank": 13,
-      "previousRank": 7,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "298206806",
-      "name": "iReal Pro",
-      "developer": "Technimo LLC",
-      "developerUrl": "https://apps.apple.com/sg/developer/technimo-llc/id298206809?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/f4/2a08f4bf-b058-a21b-a475-fb93ba85c0c2/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/ireal-pro/id298206806?uo=2",
-      "price": {
-        "amount": 29.98,
-        "currency": "SGD",
-        "formatted": "S$ 29.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "02 December 2008"
-    },
-    {
-      "rank": 14,
-      "previousRank": 8,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6746699177",
-      "name": "Lysoniq",
-      "developer": "Tim Fagan",
-      "developerUrl": "https://apps.apple.com/sg/developer/tim-fagan/id1750065373?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/1f/90/241f90ee-43b0-57c7-270d-771d5c850ebe/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/lysoniq/id6746699177?uo=2",
-      "price": {
-        "amount": 19.98,
-        "currency": "SGD",
-        "formatted": "S$ 19.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 July 2025"
-    },
-    {
-      "rank": 15,
-      "previousRank": 9,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6763518834",
-      "name": "NaviBeat: Navidrome Player",
-      "developer": "Nenad Jokic",
-      "developerUrl": "https://apps.apple.com/sg/developer/nenad-jokic/id1895353961?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/94/56/8e94564e-0048-c8d8-7ab1-59445f660b04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/navibeat-navidrome-player/id6763518834?uo=2",
-      "price": {
-        "amount": 8.98,
-        "currency": "SGD",
-        "formatted": "S$ 8.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "22 May 2026"
-    },
-    {
-      "rank": 16,
-      "previousRank": 10,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "1067681897",
-      "name": "85 Metal Guitar Licks",
-      "developer": "Jonathan Bell",
-      "developerUrl": "https://apps.apple.com/sg/developer/jonathan-bell/id1061939293?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/f9/f4/02f9f476-c10b-c5c0-37c9-c94be187257e/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/85-metal-guitar-licks/id1067681897?uo=2",
-      "price": {
-        "amount": 5.98,
-        "currency": "SGD",
-        "formatted": "S$ 5.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "20 December 2015"
-    },
-    {
-      "rank": 17,
-      "previousRank": 11,
-      "rankChange": -6,
-      "isNew": false,
-      "appleId": "6777827556",
-      "name": "RetroDeck: Retro Music Player",
-      "developer": "Perry Hampton",
-      "developerUrl": "https://apps.apple.com/sg/developer/perry-hampton/id1826133992?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/90/7c/0f907c1f-5778-de6b-0fb5-1f6e1e1dad7a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/retrodeck-retro-music-player/id6777827556?uo=2",
-      "price": {
-        "amount": 3.98,
-        "currency": "SGD",
-        "formatted": "S$ 3.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "08 June 2026"
-    },
-    {
       "rank": 18,
-      "previousRank": 17,
-      "rankChange": -1,
+      "previousRank": 18,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "284972998",
       "name": "SoundHound∞ - Music Discovery",
@@ -487,25 +487,25 @@
     },
     {
       "rank": 22,
-      "previousRank": 22,
-      "rankChange": 0,
+      "previousRank": 13,
+      "rankChange": -9,
       "isNew": false,
-      "appleId": "304731501",
-      "name": "Tempo - Metronome with Setlist",
-      "developer": "Frozen Ape Pte. Ltd.",
-      "developerUrl": "https://apps.apple.com/sg/developer/frozen-ape-pte-ltd/id304731504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/07/ef/7a07ef92-188c-4a03-024b-29fe3b252e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/tempo-metronome-with-setlist/id304731501?uo=2",
+      "appleId": "298206806",
+      "name": "iReal Pro",
+      "developer": "Technimo LLC",
+      "developerUrl": "https://apps.apple.com/sg/developer/technimo-llc/id298206809?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/08/f4/2a08f4bf-b058-a21b-a475-fb93ba85c0c2/App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/ireal-pro/id298206806?uo=2",
       "price": {
-        "amount": 3.98,
+        "amount": 29.98,
         "currency": "SGD",
-        "formatted": "S$ 3.98"
+        "formatted": "S$ 29.98"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "12 February 2009"
+      "releaseDate": "02 December 2008"
     },
     {
       "rank": 23,
@@ -560,7 +560,7 @@
       "name": "iTablaPro",
       "developer": "Prasad Upasani",
       "developerUrl": "https://apps.apple.com/sg/developer/prasad-upasani/id326115061?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/98/f8/f898f832-6b35-a259-30af-81983561164d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/47/7e/11477e15-dc73-0355-780a-8bc27ecf7417/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
       "storeUrl": "https://apps.apple.com/sg/app/itablapro/id337350026?uo=2",
       "price": {
         "amount": 39.98,
@@ -685,30 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 31,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "608540795",
-      "name": "Tunable – Tuner & Metronome",
-      "developer": "AffinityBlue",
-      "developerUrl": "https://apps.apple.com/sg/developer/affinityblue/id428440807?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/bd/99/93bd992d-825e-df5d-eedb-550eb17895c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/tunable-tuner-metronome/id608540795?uo=2",
-      "price": {
-        "amount": 9.98,
-        "currency": "SGD",
-        "formatted": "S$ 9.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "27 March 2013"
-    },
-    {
-      "rank": 32,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "308998718",
       "name": "Amazing Slow Downer",
@@ -728,9 +706,9 @@
       "releaseDate": "26 March 2009"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "432850619",
       "name": "FL Studio Mobile",
@@ -750,9 +728,9 @@
       "releaseDate": "21 June 2011"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "321267949",
       "name": "Equalizer",
@@ -772,9 +750,9 @@
       "releaseDate": "08 July 2009"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "347859797",
       "name": "Voice Band",
@@ -794,9 +772,9 @@
       "releaseDate": "05 January 2010"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "493157418",
       "name": "Theory Lessons",
@@ -816,9 +794,9 @@
       "releaseDate": "17 January 2012"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "364009203",
       "name": "PolyTune",
@@ -838,9 +816,9 @@
       "releaseDate": "02 June 2010"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "373524000",
       "name": "AmpliTube",
@@ -860,9 +838,9 @@
       "releaseDate": "16 June 2010"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "368169363",
       "name": "Tempo Advance - Metronome",
@@ -882,9 +860,9 @@
       "releaseDate": "23 April 2010"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "302782364",
       "name": "ooTunes Radio: Record & Alarm",
@@ -904,9 +882,9 @@
       "releaseDate": "27 January 2009"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "288120394",
       "name": "TouchOSC Mk1",
@@ -926,9 +904,9 @@
       "releaseDate": "12 February 2019"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "previousRank": 42,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "954982733",
       "name": "Tuner T1 Pro",
@@ -948,9 +926,31 @@
       "releaseDate": "20 January 2015"
     },
     {
+      "rank": 42,
+      "previousRank": 44,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "292792586",
+      "name": "Bloom",
+      "developer": "Opal Limited",
+      "developerUrl": "https://apps.apple.com/sg/developer/opal-limited/id292792589?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/3a/cf/f13acf1f-6b20-227b-f953-f5c1f8d790b5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/bloom/id292792586?uo=2",
+      "price": {
+        "amount": 5.98,
+        "currency": "SGD",
+        "formatted": "S$ 5.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "07 October 2008"
+    },
+    {
       "rank": 43,
-      "previousRank": 13,
-      "rankChange": -30,
+      "previousRank": 43,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "566535238",
       "name": "ScoreCloud Express",
@@ -971,36 +971,14 @@
     },
     {
       "rank": 44,
-      "previousRank": 43,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "292792586",
-      "name": "Bloom",
-      "developer": "Opal Limited",
-      "developerUrl": "https://apps.apple.com/sg/developer/opal-limited/id292792589?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/3a/cf/f13acf1f-6b20-227b-f953-f5c1f8d790b5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/bloom/id292792586?uo=2",
-      "price": {
-        "amount": 5.98,
-        "currency": "SGD",
-        "formatted": "S$ 5.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "07 October 2008"
-    },
-    {
-      "rank": 45,
-      "previousRank": 44,
-      "rankChange": -1,
+      "previousRank": 45,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "326115058",
       "name": "iTanpura",
       "developer": "Prasad Upasani",
       "developerUrl": "https://apps.apple.com/sg/developer/prasad-upasani/id326115061?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/ba/7c/54ba7c28-27ed-db75-8d5e-f476df1c5a89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d4/d5/41d4d58c-fce9-ff3c-aa82-5f3dcf83d5e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
       "storeUrl": "https://apps.apple.com/sg/app/itanpura/id326115058?uo=2",
       "price": {
         "amount": 24.98,
@@ -1014,9 +992,9 @@
       "releaseDate": "15 August 2009"
     },
     {
-      "rank": 46,
-      "previousRank": 45,
-      "rankChange": -1,
+      "rank": 45,
+      "previousRank": 46,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "924491991",
       "name": "Cs Music Pro",
@@ -1036,9 +1014,31 @@
       "releaseDate": "20 November 2014"
     },
     {
+      "rank": 46,
+      "previousRank": 48,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "304048049",
+      "name": "Guitarist's Reference",
+      "developer": "My App Catalog LLC",
+      "developerUrl": "https://apps.apple.com/sg/developer/my-app-catalog-llc/id304048052?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/a4/15/95a41561-2350-b7c3-ba21-14112a6dc552/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/guitarists-reference/id304048049?uo=2",
+      "price": {
+        "amount": 29.98,
+        "currency": "SGD",
+        "formatted": "S$ 29.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "05 February 2009"
+    },
+    {
       "rank": 47,
-      "previousRank": 46,
-      "rankChange": -1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1633243177",
       "name": "Ableton Note",
@@ -1059,30 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 47,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "304048049",
-      "name": "Guitarist's Reference",
-      "developer": "My App Catalog LLC",
-      "developerUrl": "https://apps.apple.com/sg/developer/my-app-catalog-llc/id304048052?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/a4/15/95a41561-2350-b7c3-ba21-14112a6dc552/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/guitarists-reference/id304048049?uo=2",
-      "price": {
-        "amount": 29.98,
-        "currency": "SGD",
-        "formatted": "S$ 29.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "05 February 2009"
-    },
-    {
-      "rank": 49,
-      "previousRank": 48,
-      "rankChange": -1,
+      "previousRank": 49,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "526650611",
       "name": "DM1 for iPhone",
@@ -1102,9 +1080,9 @@
       "releaseDate": "07 June 2012"
     },
     {
-      "rank": 50,
-      "previousRank": 49,
-      "rankChange": -1,
+      "rank": 49,
+      "previousRank": 50,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "325307477",
       "name": "AudioTools, dB, Sound & Audio",
@@ -1124,9 +1102,9 @@
       "releaseDate": "08 September 2009"
     },
     {
-      "rank": 51,
-      "previousRank": 50,
-      "rankChange": -1,
+      "rank": 50,
+      "previousRank": 51,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "440179802",
       "name": "SOP - Stream of Praise Basic",
@@ -1146,9 +1124,9 @@
       "releaseDate": "03 June 2011"
     },
     {
-      "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
+      "rank": 51,
+      "previousRank": 52,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "309206756",
       "name": "SPL Meter",
@@ -1168,9 +1146,9 @@
       "releaseDate": "26 March 2009"
     },
     {
-      "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "rank": 52,
+      "previousRank": 53,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "573192227",
       "name": "CloudBeats: Cloud Music Player",
@@ -1190,9 +1168,9 @@
       "releaseDate": "04 November 2012"
     },
     {
-      "rank": 54,
-      "previousRank": 53,
-      "rankChange": -1,
+      "rank": 53,
+      "previousRank": 54,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "445253365",
       "name": "EZMP3 Player Pro",
@@ -1212,9 +1190,9 @@
       "releaseDate": "24 June 2011"
     },
     {
-      "rank": 55,
-      "previousRank": 54,
-      "rankChange": -1,
+      "rank": 54,
+      "previousRank": 55,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "478293637",
       "name": "Anytune Pro+: Studio Tools ",
@@ -1234,9 +1212,31 @@
       "releaseDate": "09 December 2011"
     },
     {
+      "rank": 55,
+      "previousRank": 57,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "328608539",
+      "name": "Music Studio",
+      "developer": "Steinberg Media Technologies GmbH",
+      "developerUrl": "https://apps.apple.com/sg/developer/steinberg-media-technologies-gmbh/id316698251?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/17/0e/7b/170e7bd0-5bbd-9ae7-c609-0113d7f8a022/AppIconFull-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/music-studio/id328608539?uo=2",
+      "price": {
+        "amount": 19.98,
+        "currency": "SGD",
+        "formatted": "S$ 19.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "03 September 2009"
+    },
+    {
       "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1083801827",
       "name": "Note Rush: Music Reading Game",
@@ -1257,29 +1257,51 @@
     },
     {
       "rank": 57,
-      "previousRank": 56,
-      "rankChange": -1,
+      "previousRank": 59,
+      "rankChange": 2,
       "isNew": false,
-      "appleId": "328608539",
-      "name": "Music Studio",
-      "developer": "Steinberg Media Technologies GmbH",
-      "developerUrl": "https://apps.apple.com/sg/developer/steinberg-media-technologies-gmbh/id316698251?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/17/0e/7b/170e7bd0-5bbd-9ae7-c609-0113d7f8a022/AppIconFull-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/music-studio/id328608539?uo=2",
+      "appleId": "1210584625",
+      "name": "Audyssey MultEQ Editor app",
+      "developer": "D&M Holdings",
+      "developerUrl": "https://apps.apple.com/sg/developer/d-m-holdings/id388608883?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/audyssey-multeq-editor-app/id1210584625?uo=2",
       "price": {
-        "amount": 19.98,
+        "amount": 29.98,
         "currency": "SGD",
-        "formatted": "S$ 19.98"
+        "formatted": "S$ 29.98"
       },
       "primaryCategory": {
         "id": "6011",
         "name": "Music"
       },
-      "releaseDate": "03 September 2009"
+      "releaseDate": "03 April 2017"
     },
     {
       "rank": 58,
-      "previousRank": 57,
+      "previousRank": 60,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "390593407",
+      "name": "Tempo Magic",
+      "developer": "lolo",
+      "developerUrl": "https://apps.apple.com/sg/developer/lolo/id383811733?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/41/57/2541573b-3589-118b-d2a9-a2e7c38ad048/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/tempo-magic/id390593407?uo=2",
+      "price": {
+        "amount": 8.98,
+        "currency": "SGD",
+        "formatted": "S$ 8.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "09 September 2010"
+    },
+    {
+      "rank": 59,
+      "previousRank": 58,
       "rankChange": -1,
       "isNew": false,
       "appleId": "396302174",
@@ -1300,53 +1322,9 @@
       "releaseDate": "11 October 2010"
     },
     {
-      "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1210584625",
-      "name": "Audyssey MultEQ Editor app",
-      "developer": "D&M Holdings",
-      "developerUrl": "https://apps.apple.com/sg/developer/d-m-holdings/id388608883?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/61/7e/49617e40-594c-4dc4-0c83-caa53b1d4abd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/audyssey-multeq-editor-app/id1210584625?uo=2",
-      "price": {
-        "amount": 29.98,
-        "currency": "SGD",
-        "formatted": "S$ 29.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "03 April 2017"
-    },
-    {
       "rank": 60,
-      "previousRank": 59,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "390593407",
-      "name": "Tempo Magic",
-      "developer": "lolo",
-      "developerUrl": "https://apps.apple.com/sg/developer/lolo/id383811733?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/41/57/2541573b-3589-118b-d2a9-a2e7c38ad048/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/tempo-magic/id390593407?uo=2",
-      "price": {
-        "amount": 8.98,
-        "currency": "SGD",
-        "formatted": "S$ 8.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "09 September 2010"
-    },
-    {
-      "rank": 61,
       "previousRank": 61,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "766858884",
       "name": "Neutron Music Player",
@@ -1366,9 +1344,9 @@
       "releaseDate": "05 December 2013"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "previousRank": 62,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "308296029",
       "name": "iStroboSoft",
@@ -1388,9 +1366,9 @@
       "releaseDate": "31 March 2009"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "previousRank": 63,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "444398835",
       "name": "SOP - Stream of Praise Pro",
@@ -1410,9 +1388,9 @@
       "releaseDate": "22 June 2011"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "previousRank": 64,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "635644097",
       "name": "Tuner by Piascore",
@@ -1430,6 +1408,28 @@
         "name": "Music"
       },
       "releaseDate": "23 April 2013"
+    },
+    {
+      "rank": 64,
+      "previousRank": 66,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "1270890718",
+      "name": "AutoPad — Ambient Pad Loops",
+      "developer": "Ryan Robinson",
+      "developerUrl": "https://apps.apple.com/sg/developer/ryan-robinson/id1270890717?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/autopad-ambient-pad-loops/id1270890718?uo=2",
+      "price": {
+        "amount": 9.98,
+        "currency": "SGD",
+        "formatted": "S$ 9.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "04 September 2017"
     },
     {
       "rank": 65,
@@ -1455,30 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 66,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1270890718",
-      "name": "AutoPad — Ambient Pad Loops",
-      "developer": "Ryan Robinson",
-      "developerUrl": "https://apps.apple.com/sg/developer/ryan-robinson/id1270890717?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/autopad-ambient-pad-loops/id1270890718?uo=2",
-      "price": {
-        "amount": 9.98,
-        "currency": "SGD",
-        "formatted": "S$ 9.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "04 September 2017"
-    },
-    {
-      "rank": 67,
       "previousRank": 67,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "407160120",
       "name": "VirtualDJ Remote",
@@ -1498,9 +1476,9 @@
       "releaseDate": "15 December 2010"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "previousRank": 68,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "338977566",
       "name": "ThumbJam",
@@ -1520,9 +1498,9 @@
       "releaseDate": "14 December 2009"
     },
     {
-      "rank": 69,
+      "rank": 68,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "452559831",
       "name": "KORG iKaossilator",
@@ -1540,6 +1518,28 @@
         "name": "Music"
       },
       "releaseDate": "14 October 2011"
+    },
+    {
+      "rank": 69,
+      "previousRank": 12,
+      "rankChange": -57,
+      "isNew": false,
+      "appleId": "1612952507",
+      "name": "AeroPads - Pads & Soundscapes",
+      "developer": "Aerospace Audio LLC",
+      "developerUrl": "https://apps.apple.com/sg/developer/aerospace-audio-llc/id1612952509?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/11/28/c51128c6-a3cc-90e7-675a-db33ff9d3071/AeroPads-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/aeropads-pads-soundscapes/id1612952507?uo=2",
+      "price": {
+        "amount": 9.98,
+        "currency": "SGD",
+        "formatted": "S$ 9.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "17 October 2022"
     },
     {
       "rank": 70,
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 73,
-      "rankChange": 1,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "373969724",
       "name": "SynthStation",
@@ -1609,7 +1609,29 @@
     },
     {
       "rank": 73,
-      "previousRank": 72,
+      "previousRank": 74,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "410619243",
+      "name": "VocaLive",
+      "developer": "IK Multimedia US, LLC",
+      "developerUrl": "https://apps.apple.com/sg/developer/ik-multimedia-us-llc/id323694278?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/69/96/9d6996c0-402e-5ed1-a59f-258781319087/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/vocalive/id410619243?uo=2",
+      "price": {
+        "amount": 34.98,
+        "currency": "SGD",
+        "formatted": "S$ 34.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "10 March 2011"
+    },
+    {
+      "rank": 74,
+      "previousRank": 73,
       "rankChange": -1,
       "isNew": false,
       "appleId": "333183750",
@@ -1628,28 +1650,6 @@
         "name": "Music"
       },
       "releaseDate": "08 October 2009"
-    },
-    {
-      "rank": 74,
-      "previousRank": 74,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "410619243",
-      "name": "VocaLive",
-      "developer": "IK Multimedia US, LLC",
-      "developerUrl": "https://apps.apple.com/sg/developer/ik-multimedia-us-llc/id323694278?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/69/96/9d6996c0-402e-5ed1-a59f-258781319087/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/vocalive/id410619243?uo=2",
-      "price": {
-        "amount": 34.98,
-        "currency": "SGD",
-        "formatted": "S$ 34.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "10 March 2011"
     },
     {
       "rank": 75,
@@ -1983,30 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 14,
-      "rankChange": -76,
-      "isNew": false,
-      "appleId": "6443844221",
-      "name": "Guzheng Master",
-      "developer": "SENSOR NOTES JOINT STOCK COMPANY",
-      "developerUrl": "https://apps.apple.com/sg/developer/sensor-notes-joint-stock-company/id1578811305?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/45/86/654586da-cb3e-8fbb-3ec7-5125637b2a6e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/guzheng-master/id6443844221?uo=2",
-      "price": {
-        "amount": 2.98,
-        "currency": "SGD",
-        "formatted": "S$ 2.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "23 October 2022"
-    },
-    {
-      "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "409782234",
       "name": "AirMusic",
@@ -2026,9 +2004,9 @@
       "releaseDate": "24 February 2011"
     },
     {
-      "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "rank": 91,
+      "previousRank": 92,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1607247603",
       "name": "Metal Drum Loops 2",
@@ -2048,9 +2026,9 @@
       "releaseDate": "03 May 2022"
     },
     {
-      "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "rank": 92,
+      "previousRank": 93,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "767266886",
       "name": "iPeng",
@@ -2070,9 +2048,9 @@
       "releaseDate": "10 December 2013"
     },
     {
-      "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "rank": 93,
+      "previousRank": 94,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "409818349",
       "name": "Real Piano™ Classic",
@@ -2092,9 +2070,9 @@
       "releaseDate": "17 December 2010"
     },
     {
-      "rank": 95,
-      "previousRank": 94,
-      "rankChange": -1,
+      "rank": 94,
+      "previousRank": 95,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "290205952",
       "name": "Harmonica",
@@ -2114,15 +2092,15 @@
       "releaseDate": "11 February 2019"
     },
     {
-      "rank": 96,
-      "previousRank": 95,
-      "rankChange": -1,
+      "rank": 95,
+      "previousRank": 96,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1507575984",
       "name": "Streamlets",
       "developer": "Paul Carmody",
       "developerUrl": "https://apps.apple.com/sg/developer/paul-carmody/id326304727?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/65/9c/43659c59-1ff8-6d9d-a3bb-703c5a8acd41/streamlets-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/6b/b7/416bb7c8-e5ae-885e-680a-cf025b16de03/streamlets-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/sg/app/streamlets/id1507575984?uo=2",
       "price": {
         "amount": 2.98,
@@ -2134,6 +2112,28 @@
         "name": "Music"
       },
       "releaseDate": "14 April 2020"
+    },
+    {
+      "rank": 96,
+      "previousRank": 90,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "6443844221",
+      "name": "Guzheng Master",
+      "developer": "SENSOR NOTES JOINT STOCK COMPANY",
+      "developerUrl": "https://apps.apple.com/sg/developer/sensor-notes-joint-stock-company/id1578811305?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/45/86/654586da-cb3e-8fbb-3ec7-5125637b2a6e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/guzheng-master/id6443844221?uo=2",
+      "price": {
+        "amount": 2.98,
+        "currency": "SGD",
+        "formatted": "S$ 2.98"
+      },
+      "primaryCategory": {
+        "id": "6011",
+        "name": "Music"
+      },
+      "releaseDate": "23 October 2022"
     },
     {
       "rank": 97,
@@ -2181,8 +2181,8 @@
     },
     {
       "rank": 99,
-      "previousRank": 96,
-      "rankChange": -3,
+      "previousRank": 99,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "394754767",
       "name": "Chordbot",
@@ -2200,28 +2200,6 @@
         "name": "Music"
       },
       "releaseDate": "04 October 2010"
-    },
-    {
-      "rank": 100,
-      "previousRank": 99,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1447768809",
-      "name": "Marvis Pro",
-      "developer": "Aditya Rajveer",
-      "developerUrl": "https://apps.apple.com/sg/developer/aditya-rajveer/id882719699?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/marvis-pro/id1447768809?uo=2",
-      "price": {
-        "amount": 14.98,
-        "currency": "SGD",
-        "formatted": "S$ 14.98"
-      },
-      "primaryCategory": {
-        "id": "6011",
-        "name": "Music"
-      },
-      "releaseDate": "14 February 2019"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-10",
-  "collectedAt": "2026-11-10T08:06:58.746Z",
-  "sourceUpdatedAt": "2026-11-10T00:03:01-07:00",
+  "snapshotDate": "2026-11-11",
+  "collectedAt": "2026-11-11T07:37:19.897Z",
+  "sourceUpdatedAt": "2026-11-10T23:37:19-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/gb/rss/toppaidapplications/limit=100/genre=6013/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "健康健美"
   },
   "requestedLimit": 100,
-  "expectedCount": 93,
-  "actualCount": 93,
+  "expectedCount": 95,
+  "actualCount": 95,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-09",
+  "previousSnapshotDate": "2026-11-10",
   "apps": [
     {
       "rank": 1,
@@ -47,30 +47,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 2,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1241909999",
-      "name": "WorkOutDoors",
-      "developer": "CCS Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/ccs-ltd/id569489568?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/workoutdoors/id1241909999?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "GBP",
-        "formatted": "£8.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "13 July 2017"
-    },
-    {
-      "rank": 3,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1164801111",
       "name": "AutoSleep: Watch Sleep Tracker",
@@ -90,9 +68,31 @@
       "releaseDate": "19 December 2016"
     },
     {
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1241909999",
+      "name": "WorkOutDoors",
+      "developer": "CCS Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/ccs-ltd/id569489568?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/workoutdoors/id1241909999?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "GBP",
+        "formatted": "£8.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "13 July 2017"
+    },
+    {
       "rank": 4,
-      "previousRank": 9,
-      "rankChange": 5,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1517914828",
       "name": "Watch to 5K: Couch to 5km plan",
@@ -113,14 +113,80 @@
     },
     {
       "rank": 5,
-      "previousRank": 4,
-      "rankChange": -1,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1538966480",
+      "name": "Stromno",
+      "developer": "Yaroslav Hryniuk",
+      "developerUrl": "https://apps.apple.com/gb/developer/yaroslav-hryniuk/id1538966482?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c3/2b/d0c32be0-ef9d-7ab1-26cb-5097e568aa4f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/stromno/id1538966480?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "18 November 2020"
+    },
+    {
+      "rank": 6,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759810746",
+      "name": "5-4-3-2-1 Grounding",
+      "developer": "DAN CAO",
+      "developerUrl": "https://apps.apple.com/gb/developer/dan-cao/id1880811781?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e5/4e/fbe54e93-2e1f-9482-84fa-038aee6aac17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/5-4-3-2-1-grounding/id6759810746?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "03 March 2026"
+    },
+    {
+      "rank": 7,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6758910859",
+      "name": "Stim: ADHD Sensory Calm",
+      "developer": "Elliot Wright",
+      "developerUrl": "https://apps.apple.com/gb/developer/elliot-wright/id1871743509?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/b7/98acb786-51a3-b927-ffae-ff19a5375f7d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/stim-adhd-sensory-calm/id6758910859?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "10 February 2026"
+    },
+    {
+      "rank": 8,
+      "previousRank": 5,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1202650514",
       "name": "HealthFit",
       "developer": "Stephane Lizeray",
       "developerUrl": "https://apps.apple.com/gb/developer/stephane-lizeray/id617677771?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d7/17/9fd7177e-392d-5acd-c1f5-a3b8ccbe3eee/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/e0/72/7de072d6-c8ed-6b76-79b6-496c1f9b2a36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/gb/app/healthfit/id1202650514?uo=2",
       "price": {
         "amount": 6.99,
@@ -134,119 +200,9 @@
       "releaseDate": "25 September 2017"
     },
     {
-      "rank": 6,
-      "previousRank": 59,
-      "rankChange": 53,
-      "isNew": false,
-      "appleId": "362633320",
-      "name": "Deep Sleep by Glenn Harrold, a Self-Hypnosis Meditation for Relaxation",
-      "developer": "Glenn Harrold Publishing Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/glenn-harrold-publishing-ltd/id1893582430?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/e2/8c/49/e28c4969-7878-232d-5b72-a4321c15e8cd/mzl.ttapihuo.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/deep-sleep-by-glenn-harrold-a-self-hypnosis/id362633320?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "06 May 2010"
-    },
-    {
-      "rank": 7,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1506403512",
-      "name": "Brush · Toothbrush Timer",
-      "developer": "Modum B.V.",
-      "developerUrl": "https://apps.apple.com/gb/developer/modum-b-v/id917457194?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/d8/ed/8bd8ed57-5aba-8855-e734-cff080ccb6bd/AppIcon-1x_U007emarketing-0-13-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/brush-toothbrush-timer/id1506403512?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "07 May 2020"
-    },
-    {
-      "rank": 8,
-      "previousRank": 18,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "686923970",
-      "name": "HRV4Training",
-      "developer": "A.S.M.A. B.V.",
-      "developerUrl": "https://apps.apple.com/gb/developer/a-s-m-a-b-v/id1066843463?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/86/97/f28697b6-4a3d-6b90-1440-11ea42064793/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/hrv4training/id686923970?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "14 August 2013"
-    },
-    {
       "rank": 9,
-      "previousRank": 46,
-      "rankChange": 37,
-      "isNew": false,
-      "appleId": "363978811",
-      "name": "Seconds Pro Interval Timer",
-      "developer": "Runloop Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/runloop-ltd/id325563420?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f6/57/acf657ec-895b-2576-dd29-d3f8402e0110/pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/seconds-pro-interval-timer/id363978811?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "GBP",
-        "formatted": "£7.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "13 July 2010"
-    },
-    {
-      "rank": 10,
-      "previousRank": 5,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "6753310758",
-      "name": "Nomo Widgets",
-      "developer": "Parker Stech",
-      "developerUrl": "https://apps.apple.com/gb/developer/parker-stech/id535265456?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/8e/4b/cc8e4bed-348d-1503-8206-e11bd6f4bf30/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/nomo-widgets/id6753310758?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "08 October 2025"
-    },
-    {
-      "rank": 11,
-      "previousRank": 49,
-      "rankChange": 38,
+      "previousRank": 11,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "647038074",
       "name": "Anxiety Release based on EMDR",
@@ -266,207 +222,9 @@
       "releaseDate": "17 June 2013"
     },
     {
-      "rank": 12,
-      "previousRank": 7,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "452705683",
-      "name": "I'm Done Drinking",
-      "developer": "Gargoyle Development",
-      "developerUrl": "https://apps.apple.com/gb/developer/gargoyle-development/id1778872959?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/42/63/d9426333-b697-c514-b3d3-9dbfde69b80a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/im-done-drinking/id452705683?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "02 August 2011"
-    },
-    {
-      "rank": 13,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1477944755",
-      "name": "Health Export CSV",
-      "developer": "Tomas Parizek",
-      "developerUrl": "https://apps.apple.com/gb/developer/tomas-parizek/id1425394913?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/64/27/e46427ca-95b0-0186-0e45-95684dc781f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/health-export-csv/id1477944755?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "19 September 2019"
-    },
-    {
-      "rank": 14,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6766672524",
-      "name": "HRT Patch Tracker",
-      "developer": "Maryann Wacey",
-      "developerUrl": "https://apps.apple.com/gb/developer/maryann-wacey/id1896313665?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/aa/17/aaaa1799-15bc-3261-f2a4-db8e4710218b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/hrt-patch-tracker/id6766672524?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "06 May 2026"
-    },
-    {
-      "rank": 15,
-      "previousRank": 13,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "352247139",
-      "name": "Calorie Counter PRO MyNetDiary",
-      "developer": "MyNetDiary Inc.",
-      "developerUrl": "https://apps.apple.com/gb/developer/mynetdiary-inc/id287529760?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/29/30/9729308e-7e3c-aef1-0209-21f692faa2fb/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/calorie-counter-pro-mynetdiary/id352247139?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "02 February 2010"
-    },
-    {
-      "rank": 16,
-      "previousRank": 14,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1142095221",
-      "name": "Clock Yourself",
-      "developer": "Next Step Allied Health",
-      "developerUrl": "https://apps.apple.com/gb/developer/next-step-allied-health/id1142095220?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/84/44/fc84440c-05a0-fabf-1284-1fde2cb3796b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/clock-yourself/id1142095221?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "06 September 2016"
-    },
-    {
-      "rank": 17,
-      "previousRank": 15,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "289894882",
-      "name": "White Noise",
-      "developer": "TMSOFT",
-      "developerUrl": "https://apps.apple.com/gb/developer/tmsoft/id288669797?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/ce/e0/f7cee0f6-5740-fb77-c679-87402b428883/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/white-noise/id289894882?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "31 January 2019"
-    },
-    {
-      "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "687421118",
-      "name": "Buddhify: Guided Meditation",
-      "developer": "CELESTIAN GOLDEN APPS",
-      "developerUrl": "https://apps.apple.com/gb/developer/celestian-golden-apps/id1815911753?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/71/1e/c3711e5c-e977-628d-b709-9bbae1b6d46c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/buddhify-guided-meditation/id687421118?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "01 January 2014"
-    },
-    {
-      "rank": 19,
+      "rank": 10,
       "previousRank": 21,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "6761281378",
-      "name": "Styrka - Gym Tracker",
-      "developer": "Miki Piispanen",
-      "developerUrl": "https://apps.apple.com/gb/developer/miki-piispanen/id1888597943?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/b1/19/06b11900-a06e-bc02-1b38-18eff1943bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/styrka-gym-tracker/id6761281378?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "31 March 2026"
-    },
-    {
-      "rank": 20,
-      "previousRank": 25,
-      "rankChange": 5,
-      "isNew": false,
-      "appleId": "1210251567",
-      "name": "SleepTown",
-      "developer": "SEEKRTECH CO., LTD.",
-      "developerUrl": "https://apps.apple.com/gb/developer/seekrtech-co-ltd/id469475888?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/50/34/ce5034be-1495-be81-ba0c-9c80fa8a8710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/sleeptown/id1210251567?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "02 May 2017"
-    },
-    {
-      "rank": 21,
-      "previousRank": 44,
-      "rankChange": 23,
+      "rankChange": 11,
       "isNew": false,
       "appleId": "766098740",
       "name": "PushFit Pro",
@@ -486,16 +244,104 @@
       "releaseDate": "20 January 2014"
     },
     {
-      "rank": 22,
-      "previousRank": 47,
-      "rankChange": 25,
+      "rank": 11,
+      "previousRank": 76,
+      "rankChange": 65,
       "isNew": false,
-      "appleId": "347400507",
-      "name": "Pocket Yoga",
-      "developer": "Rainfrog, LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/rainfrog-llc/id347400510?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/b6/70/eab67086-3fbd-92d2-5086-6a04454d091f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/pocket-yoga/id347400507?uo=2",
+      "appleId": "680170305",
+      "name": "7 Minute Workout Challenge",
+      "developer": "Fitness Guide Inc",
+      "developerUrl": "https://apps.apple.com/gb/developer/fitness-guide-inc/id488540104?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/7-minute-workout-challenge/id680170305?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "30 July 2013"
+    },
+    {
+      "rank": 12,
+      "previousRank": 8,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "686923970",
+      "name": "HRV4Training",
+      "developer": "A.S.M.A. B.V.",
+      "developerUrl": "https://apps.apple.com/gb/developer/a-s-m-a-b-v/id1066843463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/c4/d5/0bc4d550-a6b3-ed7f-cdf8-b53d66b08978/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/hrv4training/id686923970?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "14 August 2013"
+    },
+    {
+      "rank": 13,
+      "previousRank": 9,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "363978811",
+      "name": "Seconds Pro Interval Timer",
+      "developer": "Runloop Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/runloop-ltd/id325563420?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f6/57/acf657ec-895b-2576-dd29-d3f8402e0110/pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/seconds-pro-interval-timer/id363978811?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "GBP",
+        "formatted": "£7.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "13 July 2010"
+    },
+    {
+      "rank": 14,
+      "previousRank": 15,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "352247139",
+      "name": "Calorie Counter PRO MyNetDiary",
+      "developer": "MyNetDiary Inc.",
+      "developerUrl": "https://apps.apple.com/gb/developer/mynetdiary-inc/id287529760?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/29/30/9729308e-7e3c-aef1-0209-21f692faa2fb/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/calorie-counter-pro-mynetdiary/id352247139?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "02 February 2010"
+    },
+    {
+      "rank": 15,
+      "previousRank": 16,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1142095221",
+      "name": "Clock Yourself",
+      "developer": "Next Step Allied Health",
+      "developerUrl": "https://apps.apple.com/gb/developer/next-step-allied-health/id1142095220?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/84/44/fc84440c-05a0-fabf-1284-1fde2cb3796b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/clock-yourself/id1142095221?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "GBP",
@@ -505,12 +351,34 @@
         "id": "6013",
         "name": "Health & Fitness"
       },
-      "releaseDate": "20 March 2010"
+      "releaseDate": "06 September 2016"
     },
     {
-      "rank": 23,
-      "previousRank": 57,
-      "rankChange": 34,
+      "rank": 16,
+      "previousRank": 18,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "687421118",
+      "name": "Buddhify: Guided Meditation",
+      "developer": "CELESTIAN GOLDEN APPS",
+      "developerUrl": "https://apps.apple.com/gb/developer/celestian-golden-apps/id1815911753?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/71/1e/c3711e5c-e977-628d-b709-9bbae1b6d46c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/buddhify-guided-meditation/id687421118?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "01 January 2014"
+    },
+    {
+      "rank": 17,
+      "previousRank": 23,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "590734349",
       "name": "Police Fitness Trainer",
@@ -530,9 +398,9 @@
       "releaseDate": "09 January 2013"
     },
     {
-      "rank": 24,
-      "previousRank": 72,
-      "rankChange": 48,
+      "rank": 18,
+      "previousRank": 24,
+      "rankChange": 6,
       "isNew": false,
       "appleId": "6827594182",
       "name": "UnObey: OCD",
@@ -552,75 +420,9 @@
       "releaseDate": "05 November 2026"
     },
     {
-      "rank": 25,
-      "previousRank": 74,
-      "rankChange": 49,
-      "isNew": false,
-      "appleId": "349630670",
-      "name": "Maybe Baby™ Fertility Tracker",
-      "developer": "BazilSoft",
-      "developerUrl": "https://apps.apple.com/gb/developer/bazilsoft/id349630673?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9a/20/019a20e3-9dc1-1f5c-5283-064752ce0638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/maybe-baby-fertility-tracker/id349630670?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "18 January 2010"
-    },
-    {
-      "rank": 26,
-      "previousRank": 75,
-      "rankChange": 49,
-      "isNew": false,
-      "appleId": "1599604990",
-      "name": "Workout Live - Heart Rate Zone",
-      "developer": "Anh Nguyen",
-      "developerUrl": "https://apps.apple.com/gb/developer/anh-nguyen/id1516242081?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/63/cf/0463cfc3-b7b0-d8c6-8904-4d53d3160c9a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/workout-live-heart-rate-zone/id1599604990?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "11 December 2021"
-    },
-    {
-      "rank": 27,
-      "previousRank": 78,
-      "rankChange": 51,
-      "isNew": false,
-      "appleId": "683984776",
-      "name": "Heart Rate Variability Logger",
-      "developer": "A.S.M.A. B.V.",
-      "developerUrl": "https://apps.apple.com/gb/developer/a-s-m-a-b-v/id1066843463?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/1e/75/e91e752c-4561-1aa6-8fe0-687408c9028c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/heart-rate-variability-logger/id683984776?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "14 August 2013"
-    },
-    {
-      "rank": 28,
-      "previousRank": 81,
-      "rankChange": 53,
+      "rank": 19,
+      "previousRank": 28,
+      "rankChange": 9,
       "isNew": false,
       "appleId": "6759006922",
       "name": "Health Exporter & Shortcuts",
@@ -640,186 +442,10 @@
       "releaseDate": "19 February 2026"
     },
     {
-      "rank": 29,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6758952613",
-      "name": "Klench: Kegel Trainer",
-      "developer": "Autonomee Michal Platek",
-      "developerUrl": "https://apps.apple.com/gb/developer/autonomee-michal-platek/id1844216611?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/28/1d/0c281d94-39c6-7559-5a23-b63d5c95735e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/klench-kegel-trainer/id6758952613?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "12 February 2026"
-    },
-    {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1556134358",
-      "name": "Beep Test Watch",
-      "developer": "Spencer Walden",
-      "developerUrl": "https://apps.apple.com/gb/developer/spencer-walden/id1552608079?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/23/2c/7b232c7b-5e9d-0b91-abb3-93460e0c1182/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/beep-test-watch/id1556134358?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "05 March 2021"
-    },
-    {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1638800836",
-      "name": "ECG EKG Viewer for Polar H10",
-      "developer": "Hvin LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/hvin-llc/id1891478510?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/29/94df2937-4ce8-56b1-4c88-144187de77a5/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/ecg-ekg-viewer-for-polar-h10/id1638800836?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "15 August 2022"
-    },
-    {
-      "rank": 32,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1541093309",
-      "name": "Calm and Confident",
-      "developer": "trauma and pain management services pty ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/trauma-and-pain-management-services-pty-ltd/id647038077?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/8f/ce/488fce07-3919-f058-e46c-7ae32bfe4606/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/calm-and-confident/id1541093309?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "29 December 2020"
-    },
-    {
-      "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6475634754",
-      "name": "BpExtract - for Hilo",
-      "developer": "4puretech Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/4puretech-ltd/id1062989018?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/6b/ec/a36bec4b-db18-d34c-79b9-24c71b5ed639/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/bpextract-for-hilo/id6475634754?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "21 January 2024"
-    },
-    {
-      "rank": 34,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "874789500",
-      "name": "Smolov Squat Calculator",
-      "developer": "Wide Swath Research, LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/wide-swath-research-llc/id874789503?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6b/69/01/6b690105-cf39-f971-8bee-43d66713781a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/smolov-squat-calculator/id874789500?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "06 May 2014"
-    },
-    {
-      "rank": 35,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6755603815",
-      "name": "ROXLAP",
-      "developer": "Rachel McConnell",
-      "developerUrl": "https://apps.apple.com/gb/developer/rachel-mcconnell/id1854808239?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/96/39/9a96392a-3431-ebb8-e395-96389f8c71cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/roxlap/id6755603815?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "03 December 2025"
-    },
-    {
-      "rank": 36,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1122204383",
-      "name": "Pedometer Plus",
-      "developer": "Martin Roeder",
-      "developerUrl": "https://apps.apple.com/gb/developer/martin-roeder/id1036403931?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/1c/fa/f81cfaca-5a70-d1e4-1b9d-0881997e6dbc/AppIcon-0-0-1x_U007epad-0-11-0-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/pedometer-plus/id1122204383?uo=2",
-      "price": {
-        "amount": 0.49,
-        "currency": "GBP",
-        "formatted": "£0.49"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "17 June 2016"
-    },
-    {
-      "rank": 37,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 20,
+      "previousRank": 37,
+      "rankChange": 17,
+      "isNew": false,
       "appleId": "1185234081",
       "name": "Heart Rate Monitor+: Pulse BPM",
       "developer": "Sensonet",
@@ -838,10 +464,1132 @@
       "releaseDate": "13 December 2016"
     },
     {
+      "rank": 21,
+      "previousRank": 51,
+      "rankChange": 30,
+      "isNew": false,
+      "appleId": "493912733",
+      "name": "Adrian James: 6 Pack Abs",
+      "developer": "Adrian James Nutrition Ltd.",
+      "developerUrl": "https://apps.apple.com/gb/developer/adrian-james-nutrition-ltd/id493912736?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/02/60/6a/02606a0d-4154-0977-b012-6f01f3bf1260/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/adrian-james-6-pack-abs/id493912733?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "16 January 2012"
+    },
+    {
+      "rank": 22,
+      "previousRank": 50,
+      "rankChange": 28,
+      "isNew": false,
+      "appleId": "646414918",
+      "name": "RunTempo - Runners Metronome",
+      "developer": "DockMarket LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/dockmarket-llc/id316076698?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8c/47/ec8c47b7-313d-05ab-6246-cab59725ce67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/runtempo-runners-metronome/id646414918?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "24 September 2013"
+    },
+    {
+      "rank": 23,
+      "previousRank": 75,
+      "rankChange": 52,
+      "isNew": false,
+      "appleId": "1062745479",
+      "name": "HeartWatch: Heart Rate Monitor",
+      "developer": "Tantsissa",
+      "developerUrl": "https://apps.apple.com/gb/developer/tantsissa/id861650887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/heartwatch-heart-rate-monitor/id1062745479?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "GBP",
+        "formatted": "£8.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "07 December 2015"
+    },
+    {
+      "rank": 24,
+      "previousRank": 79,
+      "rankChange": 55,
+      "isNew": false,
+      "appleId": "410413185",
+      "name": "Weight Diary",
+      "developer": "CURLYBRACE APPS LTD",
+      "developerUrl": "https://apps.apple.com/gb/developer/curlybrace-apps-ltd/id410413205?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/43/c6/2f43c652-ba3f-28c0-9681-76fa2441ee5f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/weight-diary/id410413185?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "GBP",
+        "formatted": "£7.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "12 January 2011"
+    },
+    {
+      "rank": 25,
+      "previousRank": 82,
+      "rankChange": 57,
+      "isNew": false,
+      "appleId": "6738197422",
+      "name": "Orbi Health",
+      "developer": "Avegen Limited",
+      "developerUrl": "https://apps.apple.com/gb/developer/avegen-limited/id1493383477?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/0e/bf/e50ebf1f-2f2e-91c3-24aa-7b6cbb5202c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/orbi-health/id6738197422?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "01 May 2025"
+    },
+    {
+      "rank": 26,
+      "previousRank": 6,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "362633320",
+      "name": "Deep Sleep by Glenn Harrold, a Self-Hypnosis Meditation for Relaxation",
+      "developer": "Glenn Harrold Publishing Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/glenn-harrold-publishing-ltd/id1893582430?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/e2/8c/49/e28c4969-7878-232d-5b72-a4321c15e8cd/mzl.ttapihuo.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/deep-sleep-by-glenn-harrold-a-self-hypnosis/id362633320?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "06 May 2010"
+    },
+    {
+      "rank": 27,
+      "previousRank": 88,
+      "rankChange": 61,
+      "isNew": false,
+      "appleId": "1577752006",
+      "name": "Soccer Plus: Football Tracker",
+      "developer": "伟伟 李",
+      "developerUrl": "https://apps.apple.com/gb/developer/%E4%BC%9F%E4%BC%9F-%E6%9D%8E/id1525655772?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/de/06/5ade0603-380d-54c1-754f-350af8c37e42/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/soccer-plus-football-tracker/id1577752006?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "01 September 2021"
+    },
+    {
+      "rank": 28,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6812872155",
+      "name": "Inviting You",
+      "developer": "Fly Fearless Unlimited LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/fly-fearless-unlimited-llc/id6812872157?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/85/94/418594ab-59af-47a1-3aab-8c701cf6a552/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/inviting-you/id6812872155?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "30 September 2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1265932217",
+      "name": "IAM Yoga Nidra™",
+      "developer": "Kamini Desai",
+      "developerUrl": "https://apps.apple.com/gb/developer/kamini-desai/id1265932216?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/50/67/c2506759-d1b4-3d91-77a4-dceb3b65464b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/iam-yoga-nidra/id1265932217?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "26 May 2018"
+    },
+    {
+      "rank": 30,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6502762404",
+      "name": "Dyslexia Overlay",
+      "developer": "Applorium Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/applorium-ltd/id1688522804?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/f6/3d/6ef63d7f-b603-d0eb-e7a4-bd347da13ef6/AppIcon-0-0-1x_U007ephone-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/dyslexia-overlay/id6502762404?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "09 June 2024"
+    },
+    {
+      "rank": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6758928120",
+      "name": "Cardiogram",
+      "developer": "JOhn Lyons",
+      "developerUrl": "https://apps.apple.com/gb/developer/john-lyons/id571586394?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/3a/0d/333a0de3-e048-67cf-fdc8-6c0b458f08be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/cardiogram/id6758928120?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "10 February 2026"
+    },
+    {
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1428570992",
+      "name": "Skincare Routine",
+      "developer": "Mento Apps Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/mento-apps-ltd/id1428570991?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/21/e7/5921e737-b8f4-3905-4b7f-efd06dd2d692/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/skincare-routine/id1428570992?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "17 August 2018"
+    },
+    {
+      "rank": 33,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "626271518",
+      "name": "Bleep Test 20m Treadmill",
+      "developer": "Adam Howard",
+      "developerUrl": "https://apps.apple.com/gb/developer/adam-howard/id414278607?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/f3/18/10/f31810cd-3636-8799-72c2-ebea57e3b5bf/mzl.hyskhwxv.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/bleep-test-20m-treadmill/id626271518?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "01 April 2013"
+    },
+    {
+      "rank": 34,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "297105174",
+      "name": "Interval Run",
+      "developer": "Delta Vee",
+      "developerUrl": "https://apps.apple.com/gb/developer/delta-vee/id290586864?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7f/4f/c2/7f4fc2c9-5dac-ed57-4d29-0e31859d66e2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/interval-run/id297105174?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "30 November 2008"
+    },
+    {
+      "rank": 35,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1435819439",
+      "name": "My Last Cigarette PV",
+      "developer": "Mastersoft",
+      "developerUrl": "https://apps.apple.com/gb/developer/mastersoft/id994180799?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/f3/8e/fcf38e8c-84bc-640d-fcc2-cc3c63729dae/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/my-last-cigarette-pv/id1435819439?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "31 October 2018"
+    },
+    {
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1424323835",
+      "name": "Pupillary Distance Meter",
+      "developer": "VisTech.Projects LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/vistech-projects-llc/id620969851?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3b/1f/23/3b1f2337-7dfb-a1fb-eb1d-b2c964c80f6e/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pupillary-distance-meter/id1424323835?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "14 August 2018"
+    },
+    {
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759910078",
+      "name": "Run Receipt",
+      "developer": "冀 黄",
+      "developerUrl": "https://apps.apple.com/gb/developer/%E5%86%80-%E9%BB%84/id1798727465?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/0a/be/8c0abec6-6447-df6f-3fcb-7b15a7a630ef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/run-receipt/id6759910078?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "16 March 2026"
+    },
+    {
       "rank": 38,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
+      "appleId": "1437386558",
+      "name": "Cardiogram - HR Monitor",
+      "developer": "Nicolae Gherasim",
+      "developerUrl": "https://apps.apple.com/gb/developer/nicolae-gherasim/id1437386557?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ff/5c/14ff5ce9-e035-2cb8-6b3d-af1d2ffc22d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/cardiogram-hr-monitor/id1437386558?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "30 November 2018"
+    },
+    {
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1271954104",
+      "name": "Pinnacle Climb Log",
+      "developer": "Nick Romano",
+      "developerUrl": "https://apps.apple.com/gb/developer/nick-romano/id1271954103?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/89/ec/7989ec93-03a1-a907-45c0-598a82dc9040/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pinnacle-climb-log/id1271954104?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "16 September 2017"
+    },
+    {
+      "rank": 40,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1109404544",
+      "name": "wHealth Dashboard",
+      "developer": "Jean-Philippe Reynaud",
+      "developerUrl": "https://apps.apple.com/gb/developer/jean-philippe-reynaud/id1109404543?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/48/da/fa48da4d-fc91-b6fc-98ec-ab25ce8ff190/iPhone_icon-0-0-1x_U007ephone-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/whealth-dashboard/id1109404544?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "GBP",
+        "formatted": "£7.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "17 May 2016"
+    },
+    {
+      "rank": 41,
+      "previousRank": 7,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "1506403512",
+      "name": "Brush · Toothbrush Timer",
+      "developer": "Modum B.V.",
+      "developerUrl": "https://apps.apple.com/gb/developer/modum-b-v/id917457194?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/d8/ed/8bd8ed57-5aba-8855-e734-cff080ccb6bd/AppIcon-1x_U007emarketing-0-13-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/brush-toothbrush-timer/id1506403512?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "07 May 2020"
+    },
+    {
+      "rank": 42,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1175807581",
+      "name": "Periodic Timer + Custom Sounds",
+      "developer": "Vladimir Kelin",
+      "developerUrl": "https://apps.apple.com/gb/developer/vladimir-kelin/id933241655?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/92/91/a4929170-b947-d87c-c5b4-40993296665a/PTP-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/periodic-timer-custom-sounds/id1175807581?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "31 January 2017"
+    },
+    {
+      "rank": 43,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6505014767",
+      "name": "MiniMovers",
+      "developer": "Mini Movers",
+      "developerUrl": "https://apps.apple.com/gb/developer/mini-movers/id1676245587?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9e/0c/4d9e0c06-6020-e329-9a9a-dce961a4acba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/minimovers/id6505014767?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "25 July 2024"
+    },
+    {
+      "rank": 44,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1445509295",
+      "name": "Kelee® Meditation",
+      "developer": "Ron W. Rathbun",
+      "developerUrl": "https://apps.apple.com/gb/developer/ron-w-rathbun/id1445509294?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2c/30/d72c30f4-9b54-7e57-c5f8-2298af2c8e3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/kelee-meditation/id1445509295?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "20 December 2018"
+    },
+    {
+      "rank": 45,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1483524301",
+      "name": "Aura: Mood Tracker for Watch",
+      "developer": "Talkabout Design LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/talkabout-design-llc/id913695621?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/c7/d8/c8c7d877-0786-9daf-0206-f712ff70bd53/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/aura-mood-tracker-for-watch/id1483524301?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "GBP",
+        "formatted": "£3.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "15 October 2019"
+    },
+    {
+      "rank": 46,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759844251",
+      "name": "Calometric - Calorie Tracker",
+      "developer": "Ricardo Dantas Goncalves",
+      "developerUrl": "https://apps.apple.com/gb/developer/ricardo-dantas-goncalves/id1313280346?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/a0/7c/8ba07cf4-d863-f2dc-1ae1-24e9d2179cc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/calometric-calorie-tracker/id6759844251?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "GBP",
+        "formatted": "£14.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "04 March 2026"
+    },
+    {
+      "rank": 47,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6756825085",
+      "name": "Stao: Standing Desk Reminder",
+      "developer": "Torstein Skulbru",
+      "developerUrl": "https://apps.apple.com/gb/developer/torstein-skulbru/id1863103970?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/e8/e0/6be8e02d-b8e8-4bca-49b6-a43c9a9297ee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/stao-standing-desk-reminder/id6756825085?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "23 December 2025"
+    },
+    {
+      "rank": 48,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6797314244",
+      "name": "Glik: Glycaemic Index & Load",
+      "developer": "MATEUSZ WYSZOGRODZKI",
+      "developerUrl": "https://apps.apple.com/gb/developer/mateusz-wyszogrodzki/id1893919125?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ea/72/14ea7272-2b3f-034e-9ab9-91ca5f179a7b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/glik-glycaemic-index-load/id6797314244?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "13 August 2026"
+    },
+    {
+      "rank": 49,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6782334636",
+      "name": "Audio Pacer",
+      "developer": "ALISTAIR GUNN SCOTT",
+      "developerUrl": "https://apps.apple.com/gb/developer/alistair-gunn-scott/id6782334638?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/44/78/024478f0-27d5-ebe7-e6c0-2698ead37bee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/audio-pacer/id6782334636?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "15 July 2026"
+    },
+    {
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6786007038",
+      "name": "Laply",
+      "developer": "Revenant Systems Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/revenant-systems-ltd/id6786007040?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/97/0d/1a970d8c-5a13-d950-b8ce-041bc149cc9a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/laply/id6786007038?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "27 August 2026"
+    },
+    {
+      "rank": 51,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6768003406",
+      "name": "BrutalCoach",
+      "developer": "ATILLA KUSEYRI",
+      "developerUrl": "https://apps.apple.com/gb/developer/atilla-kuseyri/id1884074993?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/9b/dc/b79bdc9b-50cb-d73d-f17b-dc94c3711b8f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/brutalcoach/id6768003406?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "13 May 2026"
+    },
+    {
+      "rank": 52,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6757908166",
+      "name": "Taken Today: Pill Reminder",
+      "developer": "JAMES ALEXANDER KENNEDY",
+      "developerUrl": "https://apps.apple.com/gb/developer/james-alexander-kennedy/id1869535674?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/17/22f31794-18b5-adbc-86c2-4fedc172e095/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/taken-today-pill-reminder/id6757908166?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "21 January 2026"
+    },
+    {
+      "rank": 53,
+      "previousRank": 10,
+      "rankChange": -43,
+      "isNew": false,
+      "appleId": "6753310758",
+      "name": "Nomo Widgets",
+      "developer": "Parker Stech",
+      "developerUrl": "https://apps.apple.com/gb/developer/parker-stech/id535265456?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/8e/4b/cc8e4bed-348d-1503-8206-e11bd6f4bf30/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/nomo-widgets/id6753310758?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "08 October 2025"
+    },
+    {
+      "rank": 54,
+      "previousRank": 13,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "1477944755",
+      "name": "Health Export CSV",
+      "developer": "Tomas Parizek",
+      "developerUrl": "https://apps.apple.com/gb/developer/tomas-parizek/id1425394913?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/64/27/e46427ca-95b0-0186-0e45-95684dc781f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/health-export-csv/id1477944755?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "19 September 2019"
+    },
+    {
+      "rank": 55,
+      "previousRank": 14,
+      "rankChange": -41,
+      "isNew": false,
+      "appleId": "6766672524",
+      "name": "HRT Patch Tracker",
+      "developer": "Maryann Wacey",
+      "developerUrl": "https://apps.apple.com/gb/developer/maryann-wacey/id1896313665?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/aa/17/aaaa1799-15bc-3261-f2a4-db8e4710218b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/hrt-patch-tracker/id6766672524?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "06 May 2026"
+    },
+    {
+      "rank": 56,
+      "previousRank": 12,
+      "rankChange": -44,
+      "isNew": false,
+      "appleId": "452705683",
+      "name": "I'm Done Drinking",
+      "developer": "Gargoyle Development",
+      "developerUrl": "https://apps.apple.com/gb/developer/gargoyle-development/id1778872959?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/42/63/d9426333-b697-c514-b3d3-9dbfde69b80a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/im-done-drinking/id452705683?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "02 August 2011"
+    },
+    {
+      "rank": 57,
+      "previousRank": 17,
+      "rankChange": -40,
+      "isNew": false,
+      "appleId": "289894882",
+      "name": "White Noise",
+      "developer": "TMSOFT",
+      "developerUrl": "https://apps.apple.com/gb/developer/tmsoft/id288669797?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/ce/e0/f7cee0f6-5740-fb77-c679-87402b428883/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/white-noise/id289894882?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "31 January 2019"
+    },
+    {
+      "rank": 58,
+      "previousRank": 19,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "6761281378",
+      "name": "Styrka - Gym Tracker",
+      "developer": "Miki Piispanen",
+      "developerUrl": "https://apps.apple.com/gb/developer/miki-piispanen/id1888597943?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/b1/19/06b11900-a06e-bc02-1b38-18eff1943bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/styrka-gym-tracker/id6761281378?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "31 March 2026"
+    },
+    {
+      "rank": 59,
+      "previousRank": 20,
+      "rankChange": -39,
+      "isNew": false,
+      "appleId": "1210251567",
+      "name": "SleepTown",
+      "developer": "SEEKRTECH CO., LTD.",
+      "developerUrl": "https://apps.apple.com/gb/developer/seekrtech-co-ltd/id469475888?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/50/34/ce5034be-1495-be81-ba0c-9c80fa8a8710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/sleeptown/id1210251567?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "02 May 2017"
+    },
+    {
+      "rank": 60,
+      "previousRank": 22,
+      "rankChange": -38,
+      "isNew": false,
+      "appleId": "347400507",
+      "name": "Pocket Yoga",
+      "developer": "Rainfrog, LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/rainfrog-llc/id347400510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/b6/70/eab67086-3fbd-92d2-5086-6a04454d091f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pocket-yoga/id347400507?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "GBP",
+        "formatted": "£2.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "20 March 2010"
+    },
+    {
+      "rank": 61,
+      "previousRank": 25,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "349630670",
+      "name": "Maybe Baby™ Fertility Tracker",
+      "developer": "BazilSoft",
+      "developerUrl": "https://apps.apple.com/gb/developer/bazilsoft/id349630673?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9a/20/019a20e3-9dc1-1f5c-5283-064752ce0638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/maybe-baby-fertility-tracker/id349630670?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "18 January 2010"
+    },
+    {
+      "rank": 62,
+      "previousRank": 26,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "1599604990",
+      "name": "Workout Live - Heart Rate Zone",
+      "developer": "Anh Nguyen",
+      "developerUrl": "https://apps.apple.com/gb/developer/anh-nguyen/id1516242081?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/63/cf/0463cfc3-b7b0-d8c6-8904-4d53d3160c9a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/workout-live-heart-rate-zone/id1599604990?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "11 December 2021"
+    },
+    {
+      "rank": 63,
+      "previousRank": 27,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "683984776",
+      "name": "Heart Rate Variability Logger",
+      "developer": "A.S.M.A. B.V.",
+      "developerUrl": "https://apps.apple.com/gb/developer/a-s-m-a-b-v/id1066843463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/e1/9f/06e19f2f-5b00-b294-e558-786a0f8b0437/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/heart-rate-variability-logger/id683984776?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "14 August 2013"
+    },
+    {
+      "rank": 64,
+      "previousRank": 29,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "6758952613",
+      "name": "Klench: Kegel Trainer",
+      "developer": "Autonomee Michal Platek",
+      "developerUrl": "https://apps.apple.com/gb/developer/autonomee-michal-platek/id1844216611?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/28/1d/0c281d94-39c6-7559-5a23-b63d5c95735e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/klench-kegel-trainer/id6758952613?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "12 February 2026"
+    },
+    {
+      "rank": 65,
+      "previousRank": 30,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "1556134358",
+      "name": "Beep Test Watch",
+      "developer": "Spencer Walden",
+      "developerUrl": "https://apps.apple.com/gb/developer/spencer-walden/id1552608079?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/23/2c/7b232c7b-5e9d-0b91-abb3-93460e0c1182/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/beep-test-watch/id1556134358?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "05 March 2021"
+    },
+    {
+      "rank": 66,
+      "previousRank": 31,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "1638800836",
+      "name": "ECG EKG Viewer for Polar H10",
+      "developer": "Hvin LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/hvin-llc/id1891478510?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/29/94df2937-4ce8-56b1-4c88-144187de77a5/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/ecg-ekg-viewer-for-polar-h10/id1638800836?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "15 August 2022"
+    },
+    {
+      "rank": 67,
+      "previousRank": 32,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "1541093309",
+      "name": "Calm and Confident",
+      "developer": "trauma and pain management services pty ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/trauma-and-pain-management-services-pty-ltd/id647038077?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/8f/ce/488fce07-3919-f058-e46c-7ae32bfe4606/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/calm-and-confident/id1541093309?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "29 December 2020"
+    },
+    {
+      "rank": 68,
+      "previousRank": 34,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "874789500",
+      "name": "Smolov Squat Calculator",
+      "developer": "Wide Swath Research, LLC",
+      "developerUrl": "https://apps.apple.com/gb/developer/wide-swath-research-llc/id874789503?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6b/69/01/6b690105-cf39-f971-8bee-43d66713781a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/smolov-squat-calculator/id874789500?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "06 May 2014"
+    },
+    {
+      "rank": 69,
+      "previousRank": 33,
+      "rankChange": -36,
+      "isNew": false,
+      "appleId": "6475634754",
+      "name": "BpExtract - for Hilo",
+      "developer": "4puretech Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/4puretech-ltd/id1062989018?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/6b/ec/a36bec4b-db18-d34c-79b9-24c71b5ed639/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/bpextract-for-hilo/id6475634754?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "GBP",
+        "formatted": "£9.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "21 January 2024"
+    },
+    {
+      "rank": 70,
+      "previousRank": 35,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "6755603815",
+      "name": "ROXLAP",
+      "developer": "Rachel McConnell",
+      "developerUrl": "https://apps.apple.com/gb/developer/rachel-mcconnell/id1854808239?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/96/39/9a96392a-3431-ebb8-e395-96389f8c71cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/roxlap/id6755603815?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "GBP",
+        "formatted": "£4.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "03 December 2025"
+    },
+    {
+      "rank": 71,
+      "previousRank": 36,
+      "rankChange": -35,
+      "isNew": false,
+      "appleId": "1122204383",
+      "name": "Pedometer Plus",
+      "developer": "Martin Roeder",
+      "developerUrl": "https://apps.apple.com/gb/developer/martin-roeder/id1036403931?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/1c/fa/f81cfaca-5a70-d1e4-1b9d-0881997e6dbc/AppIcon-0-0-1x_U007epad-0-11-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/pedometer-plus/id1122204383?uo=2",
+      "price": {
+        "amount": 0.49,
+        "currency": "GBP",
+        "formatted": "£0.49"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "17 June 2016"
+    },
+    {
+      "rank": 72,
+      "previousRank": 38,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "901150053",
       "name": "Fibre Counter and Tracker",
       "developer": "First Line Medical Communications Ltd",
@@ -860,10 +1608,10 @@
       "releaseDate": "26 July 2014"
     },
     {
-      "rank": 39,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 73,
+      "previousRank": 39,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "649761691",
       "name": "Stark Bodyweight",
       "developer": "Postra AB",
@@ -882,10 +1630,10 @@
       "releaseDate": "31 May 2013"
     },
     {
-      "rank": 40,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 74,
+      "previousRank": 40,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "1563824453",
       "name": "Activity Rings+",
       "developer": "Brandon Wallace",
@@ -904,10 +1652,10 @@
       "releaseDate": "26 April 2021"
     },
     {
-      "rank": 41,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 75,
+      "previousRank": 41,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "1515451641",
       "name": "Kratos Kegel Workout",
       "developer": "Red Sprite Studios",
@@ -926,10 +1674,32 @@
       "releaseDate": "15 June 2020"
     },
     {
-      "rank": 42,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 76,
+      "previousRank": 44,
+      "rankChange": -32,
+      "isNew": false,
+      "appleId": "6475313748",
+      "name": "GPX Splice",
+      "developer": "Peter Elmers",
+      "developerUrl": "https://apps.apple.com/gb/developer/peter-elmers/id1723882854?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/7f/16/4a7f164c-078d-454a-93e3-9e8cbe49094a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/gpx-splice/id6475313748?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "GBP",
+        "formatted": "£1.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "19 January 2024"
+    },
+    {
+      "rank": 77,
+      "previousRank": 42,
+      "rankChange": -35,
+      "isNew": false,
       "appleId": "6821124504",
       "name": "PulseO2: Blood Oxygen Tracker",
       "developer": "Get Happy, LLC",
@@ -948,8 +1718,8 @@
       "releaseDate": "15 October 2026"
     },
     {
-      "rank": 43,
-      "previousRank": 8,
+      "rank": 78,
+      "previousRank": 43,
       "rankChange": -35,
       "isNew": false,
       "appleId": "6755498703",
@@ -970,32 +1740,10 @@
       "releaseDate": "01 December 2025"
     },
     {
-      "rank": 44,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6475313748",
-      "name": "GPX Splice",
-      "developer": "Peter Elmers",
-      "developerUrl": "https://apps.apple.com/gb/developer/peter-elmers/id1723882854?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/7f/16/4a7f164c-078d-454a-93e3-9e8cbe49094a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/gpx-splice/id6475313748?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "19 January 2024"
-    },
-    {
-      "rank": 45,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 79,
+      "previousRank": 45,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "1519581415",
       "name": "DashDietTracker",
       "developer": "Rick Hutchinson",
@@ -1014,10 +1762,10 @@
       "releaseDate": "22 June 2020"
     },
     {
-      "rank": 46,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 80,
+      "previousRank": 46,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "6821176882",
       "name": "Walklands: Walking Game",
       "developer": "Liam Murray",
@@ -1036,10 +1784,10 @@
       "releaseDate": "12 October 2026"
     },
     {
-      "rank": 47,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 81,
+      "previousRank": 47,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "6817799302",
       "name": "Your Total Calories",
       "developer": "SilentStar Group",
@@ -1058,10 +1806,10 @@
       "releaseDate": "19 October 2026"
     },
     {
-      "rank": 48,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 82,
+      "previousRank": 48,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "6813854695",
       "name": "Bellywise Food & Symptom Diary",
       "developer": "BENJAMIN DAVID BERGER",
@@ -1080,10 +1828,10 @@
       "releaseDate": "30 October 2026"
     },
     {
-      "rank": 49,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 83,
+      "previousRank": 49,
+      "rankChange": -34,
+      "isNew": false,
       "appleId": "6794709986",
       "name": "Enora - Your Calm Corner",
       "developer": "Enora-app ltd",
@@ -1102,53 +1850,9 @@
       "releaseDate": "09 November 2026"
     },
     {
-      "rank": 50,
-      "previousRank": 10,
-      "rankChange": -40,
-      "isNew": false,
-      "appleId": "646414918",
-      "name": "RunTempo - Runners Metronome",
-      "developer": "DockMarket LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/dockmarket-llc/id316076698?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8c/47/ec8c47b7-313d-05ab-6246-cab59725ce67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/runtempo-runners-metronome/id646414918?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "24 September 2013"
-    },
-    {
-      "rank": 51,
-      "previousRank": 11,
-      "rankChange": -40,
-      "isNew": false,
-      "appleId": "493912733",
-      "name": "Adrian James: 6 Pack Abs",
-      "developer": "Adrian James Nutrition Ltd.",
-      "developerUrl": "https://apps.apple.com/gb/developer/adrian-james-nutrition-ltd/id493912736?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/02/60/6a/02606a0d-4154-0977-b012-6f01f3bf1260/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/adrian-james-6-pack-abs/id493912733?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "16 January 2012"
-    },
-    {
-      "rank": 52,
-      "previousRank": 12,
-      "rankChange": -40,
+      "rank": 84,
+      "previousRank": 52,
+      "rankChange": -32,
       "isNew": false,
       "appleId": "410965399",
       "name": "iSmoothRun",
@@ -1168,9 +1872,9 @@
       "releaseDate": "18 March 2011"
     },
     {
-      "rank": 53,
-      "previousRank": 16,
-      "rankChange": -37,
+      "rank": 85,
+      "previousRank": 53,
+      "rankChange": -32,
       "isNew": false,
       "appleId": "307219387",
       "name": "BrainWave™: 40 Binaural Series",
@@ -1190,31 +1894,9 @@
       "releaseDate": "26 March 2009"
     },
     {
-      "rank": 54,
-      "previousRank": 17,
-      "rankChange": -37,
-      "isNew": false,
-      "appleId": "555668038",
-      "name": "Birdsong.fm",
-      "developer": "Radio.co (UK) Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/radio-co-uk-ltd/id1491344556?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/79/84/6d798424-ff96-ed5c-9171-c2910a51ab8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/birdsong-fm/id555668038?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "03 September 2012"
-    },
-    {
-      "rank": 55,
-      "previousRank": 20,
-      "rankChange": -35,
+      "rank": 86,
+      "previousRank": 55,
+      "rankChange": -31,
       "isNew": false,
       "appleId": "443646748",
       "name": "Fitness Buddy+ Gym Workout Log",
@@ -1234,8 +1916,30 @@
       "releaseDate": "15 July 2011"
     },
     {
-      "rank": 56,
-      "previousRank": 24,
+      "rank": 87,
+      "previousRank": 54,
+      "rankChange": -33,
+      "isNew": false,
+      "appleId": "555668038",
+      "name": "Birdsong.fm",
+      "developer": "Radio.co (UK) Ltd",
+      "developerUrl": "https://apps.apple.com/gb/developer/radio-co-uk-ltd/id1491344556?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/79/84/6d798424-ff96-ed5c-9171-c2910a51ab8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/birdsong-fm/id555668038?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "GBP",
+        "formatted": "£0.99"
+      },
+      "primaryCategory": {
+        "id": "6013",
+        "name": "Health & Fitness"
+      },
+      "releaseDate": "03 September 2012"
+    },
+    {
+      "rank": 88,
+      "previousRank": 56,
       "rankChange": -32,
       "isNew": false,
       "appleId": "319043985",
@@ -1256,9 +1960,9 @@
       "releaseDate": "08 July 2009"
     },
     {
-      "rank": 57,
-      "previousRank": 22,
-      "rankChange": -35,
+      "rank": 89,
+      "previousRank": 57,
+      "rankChange": -32,
       "isNew": false,
       "appleId": "988527143",
       "name": "Mind Monitor",
@@ -1278,9 +1982,9 @@
       "releaseDate": "01 July 2015"
     },
     {
-      "rank": 58,
-      "previousRank": 23,
-      "rankChange": -35,
+      "rank": 90,
+      "previousRank": 58,
+      "rankChange": -32,
       "isNew": false,
       "appleId": "6744845513",
       "name": "Grow - Habit Tracker",
@@ -1300,8 +2004,8 @@
       "releaseDate": "20 April 2025"
     },
     {
-      "rank": 59,
-      "previousRank": 27,
+      "rank": 91,
+      "previousRank": 59,
       "rankChange": -32,
       "isNew": false,
       "appleId": "478236798",
@@ -1322,8 +2026,8 @@
       "releaseDate": "08 November 2011"
     },
     {
-      "rank": 60,
-      "previousRank": 28,
+      "rank": 92,
+      "previousRank": 60,
       "rankChange": -32,
       "isNew": false,
       "appleId": "1442742654",
@@ -1344,53 +2048,9 @@
       "releaseDate": "18 February 2019"
     },
     {
-      "rank": 61,
-      "previousRank": 26,
-      "rankChange": -35,
-      "isNew": false,
-      "appleId": "6779501593",
-      "name": "RESET by Sarah Rusbatch",
-      "developer": "Sarah Rusbatch",
-      "developerUrl": "https://apps.apple.com/gb/developer/sarah-rusbatch/id6779501925?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/6b/5e/b06b5efd-8564-6651-95fb-b04e52ed8320/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/reset-by-sarah-rusbatch/id6779501593?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "GBP",
-        "formatted": "£14.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "16 July 2026"
-    },
-    {
-      "rank": 62,
-      "previousRank": 29,
-      "rankChange": -33,
-      "isNew": false,
-      "appleId": "479013889",
-      "name": "DBT Diary Card & Skills Coach",
-      "developer": "Durham DBT, Inc.",
-      "developerUrl": "https://apps.apple.com/gb/developer/durham-dbt-inc/id479013893?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/23/51/a82351c5-bab8-423b-9ac1-4f205f73c621/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/dbt-diary-card-skills-coach/id479013889?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "14 November 2011"
-    },
-    {
-      "rank": 63,
-      "previousRank": 30,
-      "rankChange": -33,
+      "rank": 93,
+      "previousRank": 63,
+      "rankChange": -30,
       "isNew": false,
       "appleId": "1008697836",
       "name": "Starting Strength (Legacy)",
@@ -1410,588 +2070,16 @@
       "releaseDate": "08 September 2015"
     },
     {
-      "rank": 64,
-      "previousRank": 32,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1197485766",
-      "name": "Steps Tracker: Watch Pedometer",
-      "developer": "Drew Westcott",
-      "developerUrl": "https://apps.apple.com/gb/developer/drew-westcott/id1197485765?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/f1/1d/2df11de9-62a1-ccb3-8237-15d8380e2838/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/steps-tracker-watch-pedometer/id1197485766?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "03 July 2017"
-    },
-    {
-      "rank": 65,
-      "previousRank": 33,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1564112103",
-      "name": "Body Fat Calculator Pro",
-      "developer": "Lennard Sommer",
-      "developerUrl": "https://apps.apple.com/gb/developer/lennard-sommer/id1523145952?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/74/9c/d4749c9e-5f7e-02a9-9176-56039fca7e93/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/body-fat-calculator-pro/id1564112103?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "29 April 2021"
-    },
-    {
-      "rank": 66,
-      "previousRank": 34,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1544369502",
-      "name": "XBX and 5BX",
-      "developer": "Kristyn Lovell",
-      "developerUrl": "https://apps.apple.com/gb/developer/kristyn-lovell/id1448981870?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/63/5a/6e/635a6e38-1ff0-45c4-a1e8-673030efebfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/xbx-and-5bx/id1544369502?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "29 December 2020"
-    },
-    {
-      "rank": 67,
-      "previousRank": 35,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1525765625",
-      "name": "Tinnitus Relief: Tonal Therapy",
-      "developer": "Fickle Bits, LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/fickle-bits-llc/id337473128?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1e/80/b51e809e-1cfe-c1cc-8c52-389e07fcdf89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/tinnitus-relief-tonal-therapy/id1525765625?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "GBP",
-        "formatted": "£6.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "25 October 2021"
-    },
-    {
-      "rank": 68,
-      "previousRank": 36,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1526204265",
-      "name": "RO DBT",
-      "developer": "GrowRo",
-      "developerUrl": "https://apps.apple.com/gb/developer/growro/id1526204267?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ac/75/acac7528-2e52-315c-4531-81c3e9df99e8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/ro-dbt/id1526204265?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "GBP",
-        "formatted": "£9.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "15 March 2021"
-    },
-    {
-      "rank": 69,
-      "previousRank": 37,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1517121513",
-      "name": "iOB",
-      "developer": "BrightScreenTV",
-      "developerUrl": "https://apps.apple.com/gb/developer/brightscreentv/id403838583?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/37/2b/0f372b3a-ddff-365b-c8f8-e9d8423c4a30/AppIcon-1-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/iob/id1517121513?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "17 August 2020"
-    },
-    {
-      "rank": 70,
-      "previousRank": 38,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1606552564",
-      "name": "Health Is in Your Hands",
-      "developer": "Upper West Side Philosophers, Inc.",
-      "developerUrl": "https://apps.apple.com/gb/developer/upper-west-side-philosophers-inc/id1606552836?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/36/36/e0/3636e072-78bb-f837-93b9-0c2aad3f3a32/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/health-is-in-your-hands/id1606552564?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "15 June 2022"
-    },
-    {
-      "rank": 71,
-      "previousRank": 39,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "6475244296",
-      "name": "Lablog: Blood Test Tracker",
-      "developer": "WizEyes Tech",
-      "developerUrl": "https://apps.apple.com/gb/developer/wizeyes-tech/id1439521845?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/c4/6a/ebc46a2f-5b01-c5ee-d8dd-86d3b91191da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/lablog-blood-test-tracker/id6475244296?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "07 January 2024"
-    },
-    {
-      "rank": 72,
-      "previousRank": 40,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "6760150004",
-      "name": "Fuse – Merge & Trim Workouts",
-      "developer": "Stoprocent",
-      "developerUrl": "https://apps.apple.com/gb/developer/stoprocent/id449928740?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/22/15/a922158b-eef6-067b-d809-0a8c8442b726/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/fuse-merge-trim-workouts/id6760150004?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "11 March 2026"
-    },
-    {
-      "rank": 73,
-      "previousRank": 41,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "6769501341",
-      "name": "HealthLog - Companion App",
-      "developer": "Marc Bombeck",
-      "developerUrl": "https://apps.apple.com/gb/developer/marc-bombeck/id1896663867?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/0f/88/b30f8893-3af1-b526-153e-7537dc8a296b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/healthlog-companion-app/id6769501341?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "20 September 2026"
-    },
-    {
-      "rank": 74,
-      "previousRank": 42,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "6830366290",
-      "name": "EatNPoo",
-      "developer": "ADAM CHRISTOPHER JAMES ABWAT-JOHNSON",
-      "developerUrl": "https://apps.apple.com/gb/developer/adam-christopher-james-abwat-johnson/id1802904759?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/71/1d/52711da5-0846-0223-47c9-dc4209b4680f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/eatnpoo/id6830366290?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "06 November 2026"
-    },
-    {
-      "rank": 75,
-      "previousRank": 43,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "1062745479",
-      "name": "HeartWatch: Heart Rate Monitor",
-      "developer": "Tantsissa",
-      "developerUrl": "https://apps.apple.com/gb/developer/tantsissa/id861650887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/heartwatch-heart-rate-monitor/id1062745479?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "GBP",
-        "formatted": "£8.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "07 December 2015"
-    },
-    {
-      "rank": 76,
-      "previousRank": 73,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "680170305",
-      "name": "7 Minute Workout Challenge",
-      "developer": "Fitness Guide Inc",
-      "developerUrl": "https://apps.apple.com/gb/developer/fitness-guide-inc/id488540104?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/7-minute-workout-challenge/id680170305?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "30 July 2013"
-    },
-    {
-      "rank": 77,
-      "previousRank": 45,
-      "rankChange": -32,
-      "isNew": false,
-      "appleId": "403230836",
-      "name": "Team Bleep Test",
-      "developer": "Bitworks Design",
-      "developerUrl": "https://apps.apple.com/gb/developer/bitworks-design/id403230839?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/8d/95/e38d9515-89da-c5f0-7ca8-fed76fc655ce/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/team-bleep-test/id403230836?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "01 December 2010"
-    },
-    {
-      "rank": 78,
-      "previousRank": 48,
-      "rankChange": -30,
-      "isNew": false,
-      "appleId": "1044950341",
-      "name": "Streaks Workout",
-      "developer": "Crunchy Bagel",
-      "developerUrl": "https://apps.apple.com/gb/developer/crunchy-bagel/id1084571682?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/44/39/bc44390e-e787-97f6-360d-f11aa1a0314a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/streaks-workout/id1044950341?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "26 October 2015"
-    },
-    {
-      "rank": 79,
-      "previousRank": 50,
-      "rankChange": -29,
-      "isNew": false,
-      "appleId": "410413185",
-      "name": "Weight Diary",
-      "developer": "CURLYBRACE APPS LTD",
-      "developerUrl": "https://apps.apple.com/gb/developer/curlybrace-apps-ltd/id410413205?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/43/c6/2f43c652-ba3f-28c0-9681-76fa2441ee5f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/weight-diary/id410413185?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "GBP",
-        "formatted": "£7.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "12 January 2011"
-    },
-    {
-      "rank": 80,
-      "previousRank": 52,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "337349999",
-      "name": "Deep Sleep with AJ",
-      "developer": "Universal Relaxation Ltd",
-      "developerUrl": "https://apps.apple.com/gb/developer/universal-relaxation-ltd/id960035744?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/4f/32/a14f32d0-0b4e-3a28-7859-4ddd6b1537e2/contsched.pbtecrka.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/deep-sleep-with-aj/id337349999?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "05 November 2009"
-    },
-    {
-      "rank": 81,
-      "previousRank": 53,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "418530908",
-      "name": "Bleep Test Solo",
-      "developer": "Bitworks Design",
-      "developerUrl": "https://apps.apple.com/gb/developer/bitworks-design/id403230839?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/1e/e6/1d1ee689-5ab9-dded-ec8f-885ab6413993/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/bleep-test-solo/id418530908?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "15 February 2011"
-    },
-    {
-      "rank": 82,
-      "previousRank": 51,
-      "rankChange": -31,
-      "isNew": false,
-      "appleId": "6738197422",
-      "name": "Orbi Health",
-      "developer": "Avegen Limited",
-      "developerUrl": "https://apps.apple.com/gb/developer/avegen-limited/id1493383477?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/0e/bf/e50ebf1f-2f2e-91c3-24aa-7b6cbb5202c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/orbi-health/id6738197422?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "01 May 2025"
-    },
-    {
-      "rank": 83,
-      "previousRank": 54,
-      "rankChange": -29,
-      "isNew": false,
-      "appleId": "455901722",
-      "name": "Michael Gannon's Ashtanga Yoga",
-      "developer": "Michael Gannon",
-      "developerUrl": "https://apps.apple.com/gb/developer/michael-gannon/id1848220173?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/f7/ec/8df7ec27-8ba6-304a-7080-84d5bc758f33/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/michael-gannons-ashtanga-yoga/id455901722?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "GBP",
-        "formatted": "£8.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "16 August 2011"
-    },
-    {
-      "rank": 84,
-      "previousRank": 55,
-      "rankChange": -29,
-      "isNew": false,
-      "appleId": "1176374647",
-      "name": "HealthFace",
-      "developer": "Crunchy Bagel",
-      "developerUrl": "https://apps.apple.com/gb/developer/crunchy-bagel/id1084571682?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/07/ba/0b07ba32-30af-930d-6e1e-9192b8281e03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/healthface/id1176374647?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "19 December 2016"
-    },
-    {
-      "rank": 85,
-      "previousRank": 56,
-      "rankChange": -29,
-      "isNew": false,
-      "appleId": "1549126927",
-      "name": "Posture up",
-      "developer": "天津果实科技有限公司",
-      "developerUrl": "https://apps.apple.com/gb/developer/%E5%A4%A9%E6%B4%A5%E6%9E%9C%E5%AE%9E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1066155991?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/de/8c/75de8cdd-190c-b55a-83aa-37b07c56bfe5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/posture-up/id1549126927?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "21 January 2021"
-    },
-    {
-      "rank": 86,
-      "previousRank": 58,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "419606496",
-      "name": "Baby Shusher Sleep Miracle App",
-      "developer": "Baby Shusher LLC",
-      "developerUrl": "https://apps.apple.com/gb/developer/baby-shusher-llc/id419606499?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/19/04/731904d3-03ae-60f1-a578-a563cb1a64d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/baby-shusher-sleep-miracle-app/id419606496?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "GBP",
-        "formatted": "£1.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "28 February 2011"
-    },
-    {
-      "rank": 87,
-      "previousRank": 61,
-      "rankChange": -26,
-      "isNew": false,
-      "appleId": "586891853",
-      "name": "Stark Dumbbell",
-      "developer": "Postra AB",
-      "developerUrl": "https://apps.apple.com/gb/developer/postra-ab/id1807937957?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/07/36/a80736d2-6fa6-2c87-10cf-4b8e1fe95b98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/stark-dumbbell/id586891853?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "GBP",
-        "formatted": "£4.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "21 December 2012"
-    },
-    {
-      "rank": 88,
-      "previousRank": 60,
-      "rankChange": -28,
-      "isNew": false,
-      "appleId": "1577752006",
-      "name": "Soccer Plus: Football Tracker",
-      "developer": "伟伟 李",
-      "developerUrl": "https://apps.apple.com/gb/developer/%E4%BC%9F%E4%BC%9F-%E6%9D%8E/id1525655772?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/de/06/5ade0603-380d-54c1-754f-350af8c37e42/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/soccer-plus-football-tracker/id1577752006?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "GBP",
-        "formatted": "£3.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "01 September 2021"
-    },
-    {
-      "rank": 89,
+      "rank": 94,
       "previousRank": 62,
-      "rankChange": -27,
+      "rankChange": -32,
       "isNew": false,
-      "appleId": "395058532",
-      "name": "Body weight workouts",
-      "developer": "Susnet AB",
-      "developerUrl": "https://apps.apple.com/gb/developer/susnet-ab/id395058535?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a0/82/ffa0824b-a7ea-4b1a-75bf-5e743cce9a31/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/body-weight-workouts/id395058532?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "01 October 2010"
-    },
-    {
-      "rank": 90,
-      "previousRank": 63,
-      "rankChange": -27,
-      "isNew": false,
-      "appleId": "964978685",
-      "name": "Scoliometer by Spiral Spine",
-      "developer": "Spiral Spine",
-      "developerUrl": "https://apps.apple.com/gb/developer/spiral-spine/id964978684?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/07/ea/3807eae8-eeb4-ce51-1679-a54c3617f9dd/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/scoliometer-by-spiral-spine/id964978685?uo=2",
+      "appleId": "479013889",
+      "name": "DBT Diary Card & Skills Coach",
+      "developer": "Durham DBT, Inc.",
+      "developerUrl": "https://apps.apple.com/gb/developer/durham-dbt-inc/id479013893?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/23/51/a82351c5-bab8-423b-9ac1-4f205f73c621/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/dbt-diary-card-skills-coach/id479013889?uo=2",
       "price": {
         "amount": 4.99,
         "currency": "GBP",
@@ -2001,73 +2089,29 @@
         "id": "6013",
         "name": "Health & Fitness"
       },
-      "releaseDate": "24 February 2015"
+      "releaseDate": "14 November 2011"
     },
     {
-      "rank": 91,
-      "previousRank": 64,
-      "rankChange": -27,
+      "rank": 95,
+      "previousRank": 61,
+      "rankChange": -34,
       "isNew": false,
-      "appleId": "6755496044",
-      "name": "LightMyWatts",
-      "developer": "Ulrik Vadstrup Johannessen",
-      "developerUrl": "https://apps.apple.com/gb/developer/ulrik-vadstrup-johannessen/id541439002?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/1e/4c/a31e4c63-451c-92eb-f516-31227fcae688/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/lightmywatts/id6755496044?uo=2",
+      "appleId": "6779501593",
+      "name": "RESET by Sarah Rusbatch",
+      "developer": "Sarah Rusbatch",
+      "developerUrl": "https://apps.apple.com/gb/developer/sarah-rusbatch/id6779501925?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/6b/5e/b06b5efd-8564-6651-95fb-b04e52ed8320/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/gb/app/reset-by-sarah-rusbatch/id6779501593?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 14.99,
         "currency": "GBP",
-        "formatted": "£5.99"
+        "formatted": "£14.99"
       },
       "primaryCategory": {
         "id": "6013",
         "name": "Health & Fitness"
       },
-      "releaseDate": "24 November 2025"
-    },
-    {
-      "rank": 92,
-      "previousRank": 65,
-      "rankChange": -27,
-      "isNew": false,
-      "appleId": "1485278667",
-      "name": "HeartRate++",
-      "developer": "Ahmed Hussein",
-      "developerUrl": "https://apps.apple.com/gb/developer/ahmed-hussein/id884216229?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/89/26/3f892610-61f7-1ad2-ca6c-ad9d27c93f9d/AppIcon-1x_U007emarketing-0-9-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/heartrate/id1485278667?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "GBP",
-        "formatted": "£2.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "04 November 2019"
-    },
-    {
-      "rank": 93,
-      "previousRank": 66,
-      "rankChange": -27,
-      "isNew": false,
-      "appleId": "6695743269",
-      "name": "Tinnitus Ease",
-      "developer": "ROLAND PETER SJOBERG",
-      "developerUrl": "https://apps.apple.com/gb/developer/roland-peter-sjoberg/id1718906195?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/35/a4/6e35a489-bae8-2096-ab3e-02973c5b4de0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/gb/app/tinnitus-ease/id6695743269?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "GBP",
-        "formatted": "£0.99"
-      },
-      "primaryCategory": {
-        "id": "6013",
-        "name": "Health & Fitness"
-      },
-      "releaseDate": "19 September 2024"
+      "releaseDate": "16 July 2026"
     }
   ]
 }
