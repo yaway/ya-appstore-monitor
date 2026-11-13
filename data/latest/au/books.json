@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-12",
-  "collectedAt": "2026-11-12T08:04:33.144Z",
-  "sourceUpdatedAt": "2026-11-12T00:04:32-07:00",
+  "snapshotDate": "2026-11-13",
+  "collectedAt": "2026-11-13T07:42:27.870Z",
+  "sourceUpdatedAt": "2026-11-12T23:42:27-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/au/rss/toppaidapplications/limit=100/genre=6018/json",
   "chartType": "paid",
@@ -17,17 +17,39 @@
     "name": "图书"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 97,
+  "actualCount": 97,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-11",
+  "previousSnapshotDate": "2026-11-12",
   "apps": [
     {
       "rank": 1,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 41,
+      "rankChange": 40,
+      "isNew": false,
+      "appleId": "889580711",
+      "name": "MP3 Audiobook Player Pro",
+      "developer": "Oleg Brailean",
+      "developerUrl": "https://apps.apple.com/au/developer/oleg-brailean/id576182370?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/b3/4b/08b34bd6-1848-4957-ec08-e803e152aa49/AppIcon-pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/mp3-audiobook-player-pro/id889580711?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "28 Jun 2014"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
+      "isNew": false,
       "appleId": "6749500972",
       "name": "哔咔漫岛-二次元日韩耽美漫画大全",
       "developer": "wuhanmanciyuan",
@@ -46,9 +68,9 @@
       "releaseDate": "05 Nov 2025"
     },
     {
-      "rank": 2,
-      "previousRank": 36,
-      "rankChange": 34,
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "394275498",
       "name": "Bluefire Reader",
@@ -68,9 +90,9 @@
       "releaseDate": "09 Oct 2010"
     },
     {
-      "rank": 3,
-      "previousRank": 1,
-      "rankChange": -2,
+      "rank": 4,
+      "previousRank": 3,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "662558935",
       "name": "LibriVox Audiobooks – Ad-Free",
@@ -90,9 +112,9 @@
       "releaseDate": "23 Jun 2013"
     },
     {
-      "rank": 4,
-      "previousRank": 45,
-      "rankChange": 41,
+      "rank": 5,
+      "previousRank": 4,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "526758956",
       "name": "Wicca Spellbook",
@@ -112,31 +134,9 @@
       "releaseDate": "10 Jun 2012"
     },
     {
-      "rank": 5,
-      "previousRank": 2,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6775220909",
-      "name": "Paperback Mobile",
-      "developer": "Ty Gillespie",
-      "developerUrl": "https://apps.apple.com/au/developer/ty-gillespie/id1558608115?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/c4/d6cfc408-64ac-a37d-faeb-07ace2a80f36/AppIcon-0-0-1x_U007epad-0-3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/paperback-mobile/id6775220909?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "28 Oct 2026"
-    },
-    {
       "rank": 6,
-      "previousRank": 3,
-      "rankChange": -3,
+      "previousRank": 6,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "372601049",
       "name": "Learn Tarot",
@@ -157,8 +157,30 @@
     },
     {
       "rank": 7,
-      "previousRank": 4,
-      "rankChange": -3,
+      "previousRank": 5,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "6775220909",
+      "name": "Paperback Mobile",
+      "developer": "Ty Gillespie",
+      "developerUrl": "https://apps.apple.com/au/developer/ty-gillespie/id1558608115?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/c4/d6cfc408-64ac-a37d-faeb-07ace2a80f36/AppIcon-0-0-1x_U007epad-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/paperback-mobile/id6775220909?uo=2",
+      "price": {
+        "amount": 29.99,
+        "currency": "AUD",
+        "formatted": "$29.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "28 Oct 2026"
+    },
+    {
+      "rank": 8,
+      "previousRank": 7,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1512939054",
       "name": "Teach Monster: Reading for Fun",
@@ -178,119 +200,9 @@
       "releaseDate": "21 Jul 2021"
     },
     {
-      "rank": 8,
-      "previousRank": 5,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "662254410",
-      "name": "More Language of Letting Go",
-      "developer": "BookMobile",
-      "developerUrl": "https://apps.apple.com/au/developer/bookmobile/id389029537?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f6/79/87f67984-39ed-f155-5561-a6e5dc379877/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/more-language-of-letting-go/id662254410?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "04 Aug 2013"
-    },
-    {
       "rank": 9,
-      "previousRank": 6,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "363992049",
-      "name": "ComicGlass",
-      "developer": "RR Soft",
-      "developerUrl": "https://apps.apple.com/au/developer/rr-soft/id363992052?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/4c/fe/e94cfe53-73e6-fb63-4d22-c7ff7c3128ae/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/comicglass/id363992049?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "29 Jul 2010"
-    },
-    {
-      "rank": 10,
-      "previousRank": 7,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "988119206",
-      "name": "ArtScroll Smart Siddur סדור",
-      "developer": "ArtScroll Mesorah Publications",
-      "developerUrl": "https://apps.apple.com/au/developer/artscroll-mesorah-publications/id536661412?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/c3/41acc33a-c61c-d824-2f0f-371c50b4fd57/AppIconSiddur-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/artscroll-smart-siddur-%D7%A1%D7%93%D7%95%D7%A8/id988119206?uo=2",
-      "price": {
-        "amount": 14.99,
-        "currency": "AUD",
-        "formatted": "$14.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "21 Jul 2015"
-    },
-    {
-      "rank": 11,
-      "previousRank": 8,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6807289757",
-      "name": "AHAV New Testament Bible",
-      "developer": "AHAV Press LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/ahav-press-llc/id6807289759?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/09/d9/6e09d9f3-d39e-7406-5154-007726c9895e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/ahav-new-testament-bible/id6807289757?uo=2",
-      "price": {
-        "amount": 29.99,
-        "currency": "AUD",
-        "formatted": "$29.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "05 Nov 2026"
-    },
-    {
-      "rank": 12,
-      "previousRank": 9,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1041727137",
-      "name": "Bound - Audiobook Player",
-      "developer": "Deadpan, LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/deadpan-llc/id1521868530?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/bound-audiobook-player/id1041727137?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "16 Dec 2015"
-    },
-    {
-      "rank": 13,
-      "previousRank": 14,
-      "rankChange": 1,
+      "previousRank": 13,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "317776727",
       "name": "Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library",
@@ -310,9 +222,9 @@
       "releaseDate": "19 Jun 2009"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "rank": 10,
+      "previousRank": 14,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "352615816",
       "name": "Audiobooks - 5,239 Classics Ready to Listen",
@@ -332,9 +244,9 @@
       "releaseDate": "05 Feb 2010"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "rank": 11,
+      "previousRank": 15,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "301201602",
       "name": "Self Help Classics .",
@@ -354,9 +266,9 @@
       "releaseDate": "10 Jan 2009"
     },
     {
-      "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "rank": 12,
+      "previousRank": 16,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "387136454",
       "name": "MegaReader",
@@ -376,9 +288,9 @@
       "releaseDate": "28 Aug 2010"
     },
     {
-      "rank": 17,
-      "previousRank": 18,
-      "rankChange": 1,
+      "rank": 13,
+      "previousRank": 17,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "573235547",
       "name": "Audiobooks HQ +",
@@ -398,9 +310,9 @@
       "releaseDate": "10 Dec 2012"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
+      "rank": 14,
+      "previousRank": 18,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "405918513",
       "name": "Tarot & Runes: Wiccan Handbook",
@@ -420,9 +332,9 @@
       "releaseDate": "03 Dec 2010"
     },
     {
-      "rank": 19,
-      "previousRank": 20,
-      "rankChange": 1,
+      "rank": 15,
+      "previousRank": 19,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "409467802",
       "name": "The Monster at the End...",
@@ -442,9 +354,9 @@
       "releaseDate": "21 Dec 2010"
     },
     {
-      "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "rank": 16,
+      "previousRank": 20,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "295866531",
       "name": "Bumblebee Touchbook",
@@ -464,9 +376,9 @@
       "releaseDate": "08 Nov 2008"
     },
     {
-      "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "rank": 17,
+      "previousRank": 21,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "364871348",
       "name": "Jack and the Beanstalk Interactive Storybook",
@@ -486,9 +398,31 @@
       "releaseDate": "06 Apr 2010"
     },
     {
-      "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
+      "rank": 18,
+      "previousRank": 12,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1041727137",
+      "name": "Bound - Audiobook Player",
+      "developer": "Deadpan, LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/deadpan-llc/id1521868530?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/bound-audiobook-player/id1041727137?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "16 Dec 2015"
+    },
+    {
+      "rank": 19,
+      "previousRank": 22,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "335516575",
       "name": "Learn Italian",
@@ -508,9 +442,9 @@
       "releaseDate": "22 Oct 2009"
     },
     {
-      "rank": 23,
-      "previousRank": 24,
-      "rankChange": 1,
+      "rank": 20,
+      "previousRank": 23,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "333345855",
       "name": "Learn French",
@@ -530,9 +464,9 @@
       "releaseDate": "08 Oct 2009"
     },
     {
-      "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "rank": 21,
+      "previousRank": 24,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "395149950",
       "name": "BookBuddy Pro: Book Tracker",
@@ -552,9 +486,9 @@
       "releaseDate": "09 Oct 2010"
     },
     {
-      "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "rank": 22,
+      "previousRank": 25,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "333441801",
       "name": "QuickReader - Speed Reading",
@@ -574,9 +508,9 @@
       "releaseDate": "15 Oct 2009"
     },
     {
-      "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "rank": 23,
+      "previousRank": 26,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "531204555",
       "name": "eBook Search Pro - Book Finder",
@@ -596,15 +530,15 @@
       "releaseDate": "30 Jun 2012"
     },
     {
-      "rank": 27,
-      "previousRank": 28,
-      "rankChange": 1,
+      "rank": 24,
+      "previousRank": 27,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "389029534",
       "name": "Twenty-Four Hours a Day",
       "developer": "BookMobile",
       "developerUrl": "https://apps.apple.com/au/developer/bookmobile/id389029537?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/83/fa/3483faee-6203-4ff7-2b35-1e7b4ec8dd59/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/7f/06/8f7f0606-58e0-6a67-f4b0-9fc06b6c11e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/au/app/twenty-four-hours-a-day/id389029534?uo=2",
       "price": {
         "amount": 12.99,
@@ -618,9 +552,9 @@
       "releaseDate": "30 Aug 2010"
     },
     {
-      "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "rank": 25,
+      "previousRank": 28,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "304517588",
       "name": "Asia Wisdom Collection  - Universal App",
@@ -640,9 +574,9 @@
       "releaseDate": "12 Feb 2009"
     },
     {
-      "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "rank": 26,
+      "previousRank": 29,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "878704422",
       "name": "Transformers Rescue Bots-",
@@ -662,9 +596,9 @@
       "releaseDate": "19 Jun 2014"
     },
     {
-      "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "rank": 27,
+      "previousRank": 30,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1061132313",
       "name": "CHOMP by Christoph Niemann",
@@ -684,9 +618,9 @@
       "releaseDate": "27 Jan 2016"
     },
     {
-      "rank": 31,
-      "previousRank": 32,
-      "rankChange": 1,
+      "rank": 28,
+      "previousRank": 31,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1328558547",
       "name": "Tongan-English Dictionary",
@@ -706,9 +640,9 @@
       "releaseDate": "30 Sep 2019"
     },
     {
-      "rank": 32,
-      "previousRank": 34,
-      "rankChange": 2,
+      "rank": 29,
+      "previousRank": 32,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "961648591",
       "name": "Transformers Rescue Bots: Dino",
@@ -728,9 +662,9 @@
       "releaseDate": "07 May 2015"
     },
     {
-      "rank": 33,
+      "rank": 30,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "841875549",
       "name": "القاعدة النورانية",
@@ -750,9 +684,9 @@
       "releaseDate": "29 Apr 2014"
     },
     {
-      "rank": 34,
-      "previousRank": 35,
-      "rankChange": 1,
+      "rank": 31,
+      "previousRank": 34,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "356411065",
       "name": "Atheist Pocket Debater",
@@ -772,9 +706,9 @@
       "releaseDate": "02 Apr 2010"
     },
     {
-      "rank": 35,
-      "previousRank": 10,
-      "rankChange": -25,
+      "rank": 32,
+      "previousRank": 35,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1114811228",
       "name": "New Star Soccer G-Story",
@@ -794,9 +728,9 @@
       "releaseDate": "25 May 2016"
     },
     {
-      "rank": 36,
-      "previousRank": 37,
-      "rankChange": 1,
+      "rank": 33,
+      "previousRank": 36,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1549608440",
       "name": "MotoJitsu",
@@ -816,9 +750,9 @@
       "releaseDate": "30 Jan 2021"
     },
     {
-      "rank": 37,
-      "previousRank": 38,
-      "rankChange": 1,
+      "rank": 34,
+      "previousRank": 37,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1011479119",
       "name": "Dr. Seuss's ABC - Read & Learn",
@@ -838,9 +772,31 @@
       "releaseDate": "12 Jan 2016"
     },
     {
-      "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
+      "rank": 35,
+      "previousRank": 9,
+      "rankChange": -26,
+      "isNew": false,
+      "appleId": "363992049",
+      "name": "ComicGlass",
+      "developer": "RR Soft",
+      "developerUrl": "https://apps.apple.com/au/developer/rr-soft/id363992052?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d0/c6/40d0c6bf-937b-69fb-d3b5-5069caf0743c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/comicglass/id363992049?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "29 Jul 2010"
+    },
+    {
+      "rank": 36,
+      "previousRank": 38,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "572367360",
       "name": "Livres Audio HQ",
@@ -860,9 +816,9 @@
       "releaseDate": "13 Feb 2013"
     },
     {
-      "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "rank": 37,
+      "previousRank": 39,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "412707650",
       "name": "200+ Islamic Stories (Pro)",
@@ -882,9 +838,9 @@
       "releaseDate": "04 Jan 2011"
     },
     {
-      "rank": 40,
-      "previousRank": 41,
-      "rankChange": 1,
+      "rank": 38,
+      "previousRank": 40,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1011476555",
       "name": "Green Eggs and Ham",
@@ -904,31 +860,9 @@
       "releaseDate": "18 Aug 2015"
     },
     {
-      "rank": 41,
+      "rank": 39,
       "previousRank": 42,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "889580711",
-      "name": "MP3 Audiobook Player Pro",
-      "developer": "Oleg Brailean",
-      "developerUrl": "https://apps.apple.com/au/developer/oleg-brailean/id576182370?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/b3/4b/08b34bd6-1848-4957-ec08-e803e152aa49/AppIcon-pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/mp3-audiobook-player-pro/id889580711?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "28 Jun 2014"
-    },
-    {
-      "rank": 42,
-      "previousRank": 43,
-      "rankChange": 1,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "701084505",
       "name": "My Little Pony Party of One",
@@ -948,9 +882,9 @@
       "releaseDate": "17 Sep 2013"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
-      "rankChange": 1,
+      "rank": 40,
+      "previousRank": 43,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1065623382",
       "name": "Mr. Potato Head: School Rush",
@@ -970,9 +904,9 @@
       "releaseDate": "06 Apr 2016"
     },
     {
-      "rank": 44,
-      "previousRank": 46,
-      "rankChange": 2,
+      "rank": 41,
+      "previousRank": 44,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "448799211",
       "name": "Wisdom of Hidden Realms Oracle",
@@ -992,9 +926,9 @@
       "releaseDate": "19 Jul 2011"
     },
     {
-      "rank": 45,
-      "previousRank": 47,
-      "rankChange": 2,
+      "rank": 42,
+      "previousRank": 45,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "324516521",
       "name": "CHMate+: EPUB & CHM Reader",
@@ -1014,9 +948,9 @@
       "releaseDate": "30 Jul 2009"
     },
     {
-      "rank": 46,
-      "previousRank": 11,
-      "rankChange": -35,
+      "rank": 43,
+      "previousRank": 46,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "397846608",
       "name": "Touchstones",
@@ -1036,9 +970,9 @@
       "releaseDate": "21 Oct 2010"
     },
     {
-      "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "rank": 44,
+      "previousRank": 47,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "418019881",
       "name": "5 Monkeys Jumping on the Bed",
@@ -1058,9 +992,9 @@
       "releaseDate": "15 Feb 2011"
     },
     {
-      "rank": 48,
-      "previousRank": 49,
-      "rankChange": 1,
+      "rank": 45,
+      "previousRank": 48,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1300717402",
       "name": "Nighty Night Forest",
@@ -1080,31 +1014,9 @@
       "releaseDate": "21 Nov 2017"
     },
     {
-      "rank": 49,
+      "rank": 46,
       "previousRank": 50,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "855056309",
-      "name": "Herbs in Magick",
-      "developer": "Lazy Yards",
-      "developerUrl": "https://apps.apple.com/au/developer/lazy-yards/id392506694?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/97/b4/ea97b437-5890-98fc-3334-b913f2bf646a/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/herbs-in-magick/id855056309?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "AUD",
-        "formatted": "$2.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "05 May 2014"
-    },
-    {
-      "rank": 50,
-      "previousRank": 51,
-      "rankChange": 1,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "404678486",
       "name": "Just Grandma and Me",
@@ -1124,9 +1036,31 @@
       "releaseDate": "22 Nov 2010"
     },
     {
-      "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "rank": 47,
+      "previousRank": 49,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "855056309",
+      "name": "Herbs in Magick",
+      "developer": "Lazy Yards",
+      "developerUrl": "https://apps.apple.com/au/developer/lazy-yards/id392506694?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/97/b4/ea97b437-5890-98fc-3334-b913f2bf646a/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/herbs-in-magick/id855056309?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "AUD",
+        "formatted": "$2.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "05 May 2014"
+    },
+    {
+      "rank": 48,
+      "previousRank": 51,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "361225439",
       "name": "eBook: Think and Grow Rich",
@@ -1146,9 +1080,9 @@
       "releaseDate": "15 Mar 2010"
     },
     {
-      "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "rank": 49,
+      "previousRank": 52,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "409177911",
       "name": "Cozmo's Day Off - Storybook",
@@ -1168,9 +1102,9 @@
       "releaseDate": "20 Dec 2010"
     },
     {
-      "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "rank": 50,
+      "previousRank": 53,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "430616332",
       "name": "It's Tyrannosaurus Rex",
@@ -1190,9 +1124,9 @@
       "releaseDate": "19 Apr 2011"
     },
     {
-      "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "rank": 51,
+      "previousRank": 54,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "893619699",
       "name": "My Little Pony: Power Ponies",
@@ -1212,9 +1146,9 @@
       "releaseDate": "17 Jul 2014"
     },
     {
-      "rank": 55,
-      "previousRank": 56,
-      "rankChange": 1,
+      "rank": 52,
+      "previousRank": 55,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1489633019",
       "name": "Equine Anatomy Learning Aid",
@@ -1234,9 +1168,9 @@
       "releaseDate": "03 Dec 2019"
     },
     {
-      "rank": 56,
-      "previousRank": 57,
-      "rankChange": 1,
+      "rank": 53,
+      "previousRank": 56,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1111754263",
       "name": "Cepher",
@@ -1256,8 +1190,30 @@
       "releaseDate": "19 May 2016"
     },
     {
-      "rank": 57,
-      "previousRank": 59,
+      "rank": 54,
+      "previousRank": 8,
+      "rankChange": -46,
+      "isNew": false,
+      "appleId": "662254410",
+      "name": "More Language of Letting Go",
+      "developer": "BookMobile",
+      "developerUrl": "https://apps.apple.com/au/developer/bookmobile/id389029537?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f6/79/87f67984-39ed-f155-5561-a6e5dc379877/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/more-language-of-letting-go/id662254410?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "04 Aug 2013"
+    },
+    {
+      "rank": 55,
+      "previousRank": 57,
       "rankChange": 2,
       "isNew": false,
       "appleId": "327742738",
@@ -1278,9 +1234,9 @@
       "releaseDate": "28 Aug 2009"
     },
     {
-      "rank": 58,
+      "rank": 56,
       "previousRank": 58,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "904565251",
       "name": "Hat Monkey by Chris Haughton",
@@ -1300,9 +1256,9 @@
       "releaseDate": "27 Aug 2014"
     },
     {
-      "rank": 59,
-      "previousRank": 60,
-      "rankChange": 1,
+      "rank": 57,
+      "previousRank": 59,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "731295538",
       "name": "Siddur – Annotated Edition",
@@ -1322,9 +1278,9 @@
       "releaseDate": "04 Jan 2014"
     },
     {
-      "rank": 60,
-      "previousRank": 61,
-      "rankChange": 1,
+      "rank": 58,
+      "previousRank": 60,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "415169792",
       "name": "Pagan Deities",
@@ -1344,9 +1300,9 @@
       "releaseDate": "21 Jan 2011"
     },
     {
-      "rank": 61,
-      "previousRank": 62,
-      "rankChange": 1,
+      "rank": 59,
+      "previousRank": 61,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "992098515",
       "name": "iLovecraft Collection Vol. 1",
@@ -1366,8 +1322,30 @@
       "releaseDate": "14 Oct 2015"
     },
     {
-      "rank": 62,
-      "previousRank": 63,
+      "rank": 60,
+      "previousRank": 10,
+      "rankChange": -50,
+      "isNew": false,
+      "appleId": "988119206",
+      "name": "ArtScroll Smart Siddur סדור",
+      "developer": "ArtScroll Mesorah Publications",
+      "developerUrl": "https://apps.apple.com/au/developer/artscroll-mesorah-publications/id536661412?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/c3/41acc33a-c61c-d824-2f0f-371c50b4fd57/AppIconSiddur-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/artscroll-smart-siddur-%D7%A1%D7%93%D7%95%D7%A8/id988119206?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "AUD",
+        "formatted": "$14.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "21 Jul 2015"
+    },
+    {
+      "rank": 61,
+      "previousRank": 62,
       "rankChange": 1,
       "isNew": false,
       "appleId": "600127635",
@@ -1388,8 +1366,8 @@
       "releaseDate": "15 Feb 2013"
     },
     {
-      "rank": 63,
-      "previousRank": 64,
+      "rank": 62,
+      "previousRank": 63,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1017447032",
@@ -1410,8 +1388,8 @@
       "releaseDate": "01 Nov 2016"
     },
     {
-      "rank": 64,
-      "previousRank": 65,
+      "rank": 63,
+      "previousRank": 64,
       "rankChange": 1,
       "isNew": false,
       "appleId": "397833792",
@@ -1432,8 +1410,8 @@
       "releaseDate": "22 Oct 2010"
     },
     {
-      "rank": 65,
-      "previousRank": 66,
+      "rank": 64,
+      "previousRank": 65,
       "rankChange": 1,
       "isNew": false,
       "appleId": "489506212",
@@ -1454,8 +1432,8 @@
       "releaseDate": "21 Dec 2011"
     },
     {
-      "rank": 66,
-      "previousRank": 67,
+      "rank": 65,
+      "previousRank": 66,
       "rankChange": 1,
       "isNew": false,
       "appleId": "507407813",
@@ -1476,8 +1454,8 @@
       "releaseDate": "26 Mar 2012"
     },
     {
-      "rank": 67,
-      "previousRank": 68,
+      "rank": 66,
+      "previousRank": 67,
       "rankChange": 1,
       "isNew": false,
       "appleId": "397843942",
@@ -1498,9 +1476,9 @@
       "releaseDate": "21 Oct 2010"
     },
     {
-      "rank": 68,
-      "previousRank": 70,
-      "rankChange": 2,
+      "rank": 67,
+      "previousRank": 68,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "336512240",
       "name": "Pocket Vedas",
@@ -1520,31 +1498,9 @@
       "releaseDate": "20 Nov 2009"
     },
     {
-      "rank": 69,
-      "previousRank": 69,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "731295415",
-      "name": "Siddur – Classic Edition",
-      "developer": "Chabad.org Jewish Apps",
-      "developerUrl": "https://apps.apple.com/au/developer/chabad-org-jewish-apps/id1127567978?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ca/3d/faca3d7a-9dd0-aff2-d685-1b10a4307770/ClassicAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/siddur-classic-edition/id731295415?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "AUD",
-        "formatted": "$9.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "04 Jan 2014"
-    },
-    {
-      "rank": 70,
-      "previousRank": 71,
-      "rankChange": 1,
+      "rank": 68,
+      "previousRank": 70,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "583199247",
       "name": "Amelia - Story Book for Kids",
@@ -1564,9 +1520,9 @@
       "releaseDate": "12 Dec 2012"
     },
     {
-      "rank": 71,
-      "previousRank": 72,
-      "rankChange": 1,
+      "rank": 69,
+      "previousRank": 71,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "572357798",
       "name": "Audio Bibles",
@@ -1586,8 +1542,30 @@
       "releaseDate": "23 Jan 2013"
     },
     {
-      "rank": 72,
-      "previousRank": 73,
+      "rank": 70,
+      "previousRank": 69,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "731295415",
+      "name": "Siddur – Classic Edition",
+      "developer": "Chabad.org Jewish Apps",
+      "developerUrl": "https://apps.apple.com/au/developer/chabad-org-jewish-apps/id1127567978?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ca/3d/faca3d7a-9dd0-aff2-d685-1b10a4307770/ClassicAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/siddur-classic-edition/id731295415?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "AUD",
+        "formatted": "$9.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "04 Jan 2014"
+    },
+    {
+      "rank": 71,
+      "previousRank": 72,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1386148836",
@@ -1608,8 +1586,8 @@
       "releaseDate": "23 Jul 2018"
     },
     {
-      "rank": 73,
-      "previousRank": 74,
+      "rank": 72,
+      "previousRank": 73,
       "rankChange": 1,
       "isNew": false,
       "appleId": "418750972",
@@ -1630,8 +1608,8 @@
       "releaseDate": "15 Feb 2011"
     },
     {
-      "rank": 74,
-      "previousRank": 75,
+      "rank": 73,
+      "previousRank": 74,
       "rankChange": 1,
       "isNew": false,
       "appleId": "523366295",
@@ -1652,8 +1630,8 @@
       "releaseDate": "11 May 2012"
     },
     {
-      "rank": 75,
-      "previousRank": 76,
+      "rank": 74,
+      "previousRank": 75,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1447612543",
@@ -1674,8 +1652,8 @@
       "releaseDate": "29 Dec 2018"
     },
     {
-      "rank": 76,
-      "previousRank": 77,
+      "rank": 75,
+      "previousRank": 76,
       "rankChange": 1,
       "isNew": false,
       "appleId": "346447941",
@@ -1696,8 +1674,8 @@
       "releaseDate": "19 Dec 2009"
     },
     {
-      "rank": 77,
-      "previousRank": 78,
+      "rank": 76,
+      "previousRank": 77,
       "rankChange": 1,
       "isNew": false,
       "appleId": "327389387",
@@ -1718,8 +1696,8 @@
       "releaseDate": "29 Aug 2009"
     },
     {
-      "rank": 78,
-      "previousRank": 79,
+      "rank": 77,
+      "previousRank": 78,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1017354785",
@@ -1740,8 +1718,8 @@
       "releaseDate": "14 Oct 2015"
     },
     {
-      "rank": 79,
-      "previousRank": 80,
+      "rank": 78,
+      "previousRank": 79,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1060006458",
@@ -1762,8 +1740,8 @@
       "releaseDate": "25 Dec 2015"
     },
     {
-      "rank": 80,
-      "previousRank": 81,
+      "rank": 79,
+      "previousRank": 80,
       "rankChange": 1,
       "isNew": false,
       "appleId": "797171054",
@@ -1784,8 +1762,8 @@
       "releaseDate": "05 Feb 2014"
     },
     {
-      "rank": 81,
-      "previousRank": 82,
+      "rank": 80,
+      "previousRank": 81,
       "rankChange": 1,
       "isNew": false,
       "appleId": "507097008",
@@ -1806,8 +1784,8 @@
       "releaseDate": "13 Mar 2012"
     },
     {
-      "rank": 82,
-      "previousRank": 83,
+      "rank": 81,
+      "previousRank": 82,
       "rankChange": 1,
       "isNew": false,
       "appleId": "555415515",
@@ -1828,8 +1806,8 @@
       "releaseDate": "01 Nov 2012"
     },
     {
-      "rank": 83,
-      "previousRank": 84,
+      "rank": 82,
+      "previousRank": 83,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1092652588",
@@ -1850,8 +1828,8 @@
       "releaseDate": "10 Jan 2017"
     },
     {
-      "rank": 84,
-      "previousRank": 85,
+      "rank": 83,
+      "previousRank": 84,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1067456521",
@@ -1872,8 +1850,8 @@
       "releaseDate": "03 May 2016"
     },
     {
-      "rank": 85,
-      "previousRank": 86,
+      "rank": 84,
+      "previousRank": 85,
       "rankChange": 1,
       "isNew": false,
       "appleId": "961648076",
@@ -1894,8 +1872,8 @@
       "releaseDate": "02 Apr 2015"
     },
     {
-      "rank": 86,
-      "previousRank": 87,
+      "rank": 85,
+      "previousRank": 86,
       "rankChange": 1,
       "isNew": false,
       "appleId": "571667540",
@@ -1916,9 +1894,9 @@
       "releaseDate": "07 Dec 2012"
     },
     {
-      "rank": 87,
-      "previousRank": 89,
-      "rankChange": 2,
+      "rank": 86,
+      "previousRank": 87,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "939656123",
       "name": "My Little Pony: Twilight",
@@ -1938,9 +1916,9 @@
       "releaseDate": "18 Dec 2014"
     },
     {
-      "rank": 88,
+      "rank": 87,
       "previousRank": 88,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1171440204",
       "name": "Transformers Rescue Bots",
@@ -1960,8 +1938,8 @@
       "releaseDate": "08 Nov 2017"
     },
     {
-      "rank": 89,
-      "previousRank": 90,
+      "rank": 88,
+      "previousRank": 89,
       "rankChange": 1,
       "isNew": false,
       "appleId": "852694885",
@@ -1982,8 +1960,8 @@
       "releaseDate": "22 Apr 2014"
     },
     {
-      "rank": 90,
-      "previousRank": 91,
+      "rank": 89,
+      "previousRank": 90,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1017353772",
@@ -2004,8 +1982,8 @@
       "releaseDate": "27 Aug 2015"
     },
     {
-      "rank": 91,
-      "previousRank": 92,
+      "rank": 90,
+      "previousRank": 91,
       "rankChange": 1,
       "isNew": false,
       "appleId": "738947482",
@@ -2026,9 +2004,31 @@
       "releaseDate": "04 Dec 2013"
     },
     {
-      "rank": 92,
+      "rank": 91,
       "previousRank": 93,
-      "rankChange": 1,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "516047066",
+      "name": "Frankenstein: Interactive",
+      "developer": "inkle",
+      "developerUrl": "https://apps.apple.com/au/developer/inkle/id576695514?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/47/14/7b/47147bc3-00bf-7165-f405-945315352969/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/frankenstein-interactive/id516047066?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "25 Apr 2012"
+    },
+    {
+      "rank": 92,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "663537858",
       "name": "Gutenberg Book Reader",
@@ -2049,30 +2049,30 @@
     },
     {
       "rank": 93,
-      "previousRank": 94,
-      "rankChange": 1,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
-      "appleId": "516047066",
-      "name": "Frankenstein: Interactive",
-      "developer": "inkle",
-      "developerUrl": "https://apps.apple.com/au/developer/inkle/id576695514?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/47/14/7b/47147bc3-00bf-7165-f405-945315352969/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/frankenstein-interactive/id516047066?uo=2",
+      "appleId": "923633032",
+      "name": "NKJV Bible (Audio & Book)",
+      "developer": "莹 李",
+      "developerUrl": "https://apps.apple.com/au/developer/%E8%8E%B9-%E6%9D%8E/id916322092?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/ec/56/beec56a4-c36f-8d84-1551-28b9230cfc41/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/nkjv-bible-audio-book/id923633032?uo=2",
       "price": {
-        "amount": 5.99,
+        "amount": 7.99,
         "currency": "AUD",
-        "formatted": "$5.99"
+        "formatted": "$7.99"
       },
       "primaryCategory": {
         "id": "6018",
         "name": "Books"
       },
-      "releaseDate": "25 Apr 2012"
+      "releaseDate": "09 Oct 2014"
     },
     {
       "rank": 94,
-      "previousRank": 95,
-      "rankChange": 1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "981063067",
       "name": "Stotranidhi",
@@ -2096,28 +2096,6 @@
       "previousRank": 96,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "923633032",
-      "name": "NKJV Bible (Audio & Book)",
-      "developer": "莹 李",
-      "developerUrl": "https://apps.apple.com/au/developer/%E8%8E%B9-%E6%9D%8E/id916322092?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/ec/56/beec56a4-c36f-8d84-1551-28b9230cfc41/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/nkjv-bible-audio-book/id923633032?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "09 Oct 2014"
-    },
-    {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "392186848",
       "name": "Berenstain Bears - Golden Rule",
       "developer": "Oceanhouse Media",
@@ -2134,6 +2112,50 @@
         "name": "Books"
       },
       "releaseDate": "21 Sep 2010"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "335582395",
+      "name": "聖經 (繁體 和合本 真人朗讀發聲)(Cantonese)(粵語)",
+      "developer": "清芳 张",
+      "developerUrl": "https://apps.apple.com/au/developer/%E6%B8%85%E8%8A%B3-%E5%BC%A0/id325323343?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/b2/9b/32/b29b32af-c300-b84e-c1de-fe47fe7e9f93/mzl.ppdguvbh.jpg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/%E8%81%96%E7%B6%93-%E7%B9%81%E9%AB%94-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%9C%9F%E4%BA%BA%E6%9C%97%E8%AE%80%E7%99%BC%E8%81%B2-cantonese-%E7%B2%B5%E8%AA%9E/id335582395?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "21 Oct 2009"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "418102178",
+      "name": "iBunkoS",
+      "developer": "DWANGO Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/au/developer/dwango-co-ltd/id297539595?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/83/4a/30834a60-cce6-ab19-44f1-fcf337a2818c/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/ibunkos/id418102178?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "25 Feb 2011"
     }
   ]
 }
