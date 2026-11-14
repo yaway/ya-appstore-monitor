@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-13",
-  "collectedAt": "2026-11-13T07:42:49.480Z",
-  "sourceUpdatedAt": "2026-11-12T23:42:48-07:00",
+  "snapshotDate": "2026-11-14",
+  "collectedAt": "2026-11-14T07:29:25.788Z",
+  "sourceUpdatedAt": "2026-11-13T23:29:25-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/vn/rss/toppaidapplications/limit=100/genre=6020/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "医疗"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 97,
+  "actualCount": 97,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-12",
+  "previousSnapshotDate": "2026-11-13",
   "apps": [
     {
       "rank": 1,
       "previousRank": 3,
       "rankChange": 2,
+      "isNew": false,
+      "appleId": "596684220",
+      "name": "Essential Anatomy 5",
+      "developer": "3D4Medical from Elsevier",
+      "developerUrl": "https://apps.apple.com/vn/developer/3d4medical-from-elsevier/id315902958?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/46/2c/08462c1c-e385-fe46-b1ab-8a063855f766/AppIconEA-1x_U007emarketing-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/essential-anatomy-5/id596684220?uo=2",
+      "price": {
+        "amount": 599000,
+        "currency": "VND",
+        "formatted": "599.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "14 February 2013"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1117998129",
       "name": "Human Anatomy Atlas 2027",
@@ -46,8 +68,8 @@
       "releaseDate": "27 July 2016"
     },
     {
-      "rank": 2,
-      "previousRank": 1,
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "348867501",
@@ -66,28 +88,6 @@
         "name": "Medical"
       },
       "releaseDate": "05 January 2010"
-    },
-    {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "596684220",
-      "name": "Essential Anatomy 5",
-      "developer": "3D4Medical from Elsevier",
-      "developerUrl": "https://apps.apple.com/vn/developer/3d4medical-from-elsevier/id315902958?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/46/2c/08462c1c-e385-fe46-b1ab-8a063855f766/AppIconEA-1x_U007emarketing-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/essential-anatomy-5/id596684220?uo=2",
-      "price": {
-        "amount": 599000,
-        "currency": "VND",
-        "formatted": "599.000đ"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "14 February 2013"
     },
     {
       "rank": 4,
@@ -311,8 +311,8 @@
     },
     {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "453210774",
       "name": "Blood Pressure Companion Pro",
@@ -333,8 +333,8 @@
     },
     {
       "rank": 15,
-      "previousRank": 14,
-      "rankChange": -1,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1498550832",
       "name": "ASCCP Management Guidelines",
@@ -399,9 +399,9 @@
     },
     {
       "rank": 18,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 18,
+      "rankChange": 0,
+      "isNew": false,
       "appleId": "1039735782",
       "name": "ICD-10 Dictionary",
       "developer": "WINDY HEALTH COMPANY LIMITED",
@@ -421,8 +421,8 @@
     },
     {
       "rank": 19,
-      "previousRank": 18,
-      "rankChange": -1,
+      "previousRank": 19,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6746705608",
       "name": "AutoSnore: Snoring Recorder",
@@ -443,8 +443,8 @@
     },
     {
       "rank": 20,
-      "previousRank": 19,
-      "rankChange": -1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "337974028",
       "name": "Drugs & Medications",
@@ -465,8 +465,8 @@
     },
     {
       "rank": 21,
-      "previousRank": 20,
-      "rankChange": -1,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "468314731",
       "name": "Grays Anatomy Premium Edition",
@@ -487,8 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 21,
-      "rankChange": -1,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "301316540",
       "name": "PubMed On Tap",
@@ -509,8 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 22,
-      "rankChange": -1,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "533299240",
       "name": "Glucose Buddy+ for Diabetes",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 23,
-      "rankChange": -1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "510119487",
       "name": "AnatomyMapp",
@@ -553,8 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "364894966",
       "name": "Learn Muscles: Anatomy",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 24,
-      "rankChange": -2,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6443982747",
       "name": "BiliAAP",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "649380964",
       "name": "Scoliometer: Scoliosis Test",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 32,
-      "rankChange": 1,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1447509164",
       "name": "Freya • Surge Timer",
@@ -707,52 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 30,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "929618748",
-      "name": "Squeezy Men",
-      "developer": "Living With Ltd",
-      "developerUrl": "https://apps.apple.com/vn/developer/living-with-ltd/id1407197501?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/squeezy-men/id929618748?uo=2",
-      "price": {
-        "amount": 119000,
-        "currency": "VND",
-        "formatted": "119.000đ"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "18 November 2014"
-    },
-    {
-      "rank": 33,
-      "previousRank": 33,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "293656711",
-      "name": "Perfect OB Wheel",
-      "developer": "Evan Schoenberg",
-      "developerUrl": "https://apps.apple.com/vn/developer/evan-schoenberg/id289039917?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/7a/10/3c7a1083-6a8f-dcf7-2837-9dabd2db66e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/perfect-ob-wheel/id293656711?uo=2",
-      "price": {
-        "amount": 59000,
-        "currency": "VND",
-        "formatted": "59.000đ"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "16 October 2008"
-    },
-    {
-      "rank": 34,
-      "previousRank": 35,
-      "rankChange": 1,
+      "previousRank": 34,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "428465331",
       "name": "Dr. Reichel's IQ Test",
@@ -772,9 +728,9 @@
       "releaseDate": "05 April 2011"
     },
     {
-      "rank": 35,
-      "previousRank": 36,
-      "rankChange": 1,
+      "rank": 33,
+      "previousRank": 35,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "363470500",
       "name": "Chemical Maze - Shopping Companion",
@@ -794,8 +750,30 @@
       "releaseDate": "29 March 2010"
     },
     {
-      "rank": 36,
-      "previousRank": 37,
+      "rank": 34,
+      "previousRank": 33,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "293656711",
+      "name": "Perfect OB Wheel",
+      "developer": "Evan Schoenberg",
+      "developerUrl": "https://apps.apple.com/vn/developer/evan-schoenberg/id289039917?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/7a/10/3c7a1083-6a8f-dcf7-2837-9dabd2db66e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/perfect-ob-wheel/id293656711?uo=2",
+      "price": {
+        "amount": 59000,
+        "currency": "VND",
+        "formatted": "59.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "16 October 2008"
+    },
+    {
+      "rank": 35,
+      "previousRank": 36,
       "rankChange": 1,
       "isNew": false,
       "appleId": "491299921",
@@ -816,9 +794,31 @@
       "releaseDate": "03 January 2012"
     },
     {
+      "rank": 36,
+      "previousRank": 32,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "929618748",
+      "name": "Squeezy Men",
+      "developer": "Living With Ltd",
+      "developerUrl": "https://apps.apple.com/vn/developer/living-with-ltd/id1407197501?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/squeezy-men/id929618748?uo=2",
+      "price": {
+        "amount": 119000,
+        "currency": "VND",
+        "formatted": "119.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "18 November 2014"
+    },
+    {
       "rank": 37,
-      "previousRank": 38,
-      "rankChange": 1,
+      "previousRank": 37,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1610995316",
       "name": "Biomechanics of the Spine Lite",
@@ -839,8 +839,8 @@
     },
     {
       "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
+      "previousRank": 38,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1518762761",
       "name": "IV Dosage and Rate Calculator",
@@ -861,8 +861,8 @@
     },
     {
       "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "previousRank": 39,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1499108380",
       "name": "Critical Care – Perfusion Calc",
@@ -883,8 +883,8 @@
     },
     {
       "rank": 40,
-      "previousRank": 41,
-      "rankChange": 1,
+      "previousRank": 40,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "533088021",
       "name": "StudyMyTremor",
@@ -905,8 +905,8 @@
     },
     {
       "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
+      "previousRank": 41,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "403219522",
       "name": "NEJM Image Challenge",
@@ -927,30 +927,8 @@
     },
     {
       "rank": 42,
-      "previousRank": 34,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "1082941708",
-      "name": "Recognise Back",
-      "developer": "noigroup",
-      "developerUrl": "https://apps.apple.com/vn/developer/noigroup/id470824375?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/8d/b8/8d8db8ee-ad12-02f6-4d5c-c6b586a37126/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/recognise-back/id1082941708?uo=2",
-      "price": {
-        "amount": 199000,
-        "currency": "VND",
-        "formatted": "199.000đ"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "23 February 2016"
-    },
-    {
-      "rank": 43,
       "previousRank": 43,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1661526326",
       "name": "PediaTools",
@@ -970,9 +948,9 @@
       "releaseDate": "31 December 2022"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "previousRank": 44,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1115737125",
       "name": "Feevy – Fever Tracker",
@@ -992,9 +970,9 @@
       "releaseDate": "08 June 2016"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "previousRank": 45,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "700740791",
       "name": "Squeezy",
@@ -1014,9 +992,9 @@
       "releaseDate": "13 November 2014"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "previousRank": 46,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "574231795",
       "name": "EP Mobile",
@@ -1036,9 +1014,9 @@
       "releaseDate": "06 November 2012"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "previousRank": 47,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "303058840",
       "name": "MedAbbreviations",
@@ -1058,9 +1036,9 @@
       "releaseDate": "23 January 2009"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6468917523",
       "name": "EasyIV Infusion Calculator",
@@ -1080,9 +1058,9 @@
       "releaseDate": "13 October 2023"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1229120577",
       "name": "Baby & Infant - Growth Log",
@@ -1102,9 +1080,9 @@
       "releaseDate": "14 September 2017"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "662603264",
       "name": "Dog Anatomy: Canine 3D",
@@ -1124,9 +1102,9 @@
       "releaseDate": "24 June 2013"
     },
     {
-      "rank": 51,
+      "rank": 50,
       "previousRank": 51,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "335713639",
       "name": "Medical Prefixes & Suffixes",
@@ -1146,9 +1124,9 @@
       "releaseDate": "26 October 2009"
     },
     {
-      "rank": 52,
+      "rank": 51,
       "previousRank": 52,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "311408394",
       "name": "TCM Clinic Aid",
@@ -1166,6 +1144,28 @@
         "name": "Medical"
       },
       "releaseDate": "05 June 2009"
+    },
+    {
+      "rank": 52,
+      "previousRank": 42,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "1082941708",
+      "name": "Recognise Back",
+      "developer": "noigroup",
+      "developerUrl": "https://apps.apple.com/vn/developer/noigroup/id470824375?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/8d/b8/8d8db8ee-ad12-02f6-4d5c-c6b586a37126/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/recognise-back/id1082941708?uo=2",
+      "price": {
+        "amount": 199000,
+        "currency": "VND",
+        "formatted": "199.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "23 February 2016"
     },
     {
       "rank": 53,
@@ -1440,7 +1440,7 @@
       "name": "Lung Heart Sounds",
       "developer": "WINDY HEALTH COMPANY LIMITED",
       "developerUrl": "https://apps.apple.com/vn/developer/windy-health-company-limited/id1011368789?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/7f/45/f67f4546-0b3d-b2d0-15f2-c3d45a69b9bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/59/dd/cb59dd8f-c7ec-56b9-0a98-1fbdaf5412b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/vn/app/lung-heart-sounds/id6477601947?uo=2",
       "price": {
         "amount": 149000,
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 81,
-      "rankChange": 1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1618309189",
       "name": "2021 CDC STI (STD) Guidelines",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 82,
-      "rankChange": 1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1354878768",
       "name": "My Muscle Anatomy",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 83,
-      "rankChange": 1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1214341414",
       "name": "my pregnancy beats - prenatal listener",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 84,
-      "rankChange": 1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1178687026",
       "name": "ABX Dosage",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 85,
-      "rankChange": 1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1037346872",
       "name": "Acupuncture Quiz - Point Locations",
@@ -1873,14 +1873,14 @@
     },
     {
       "rank": 85,
-      "previousRank": 86,
-      "rankChange": 1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "845657206",
       "name": "Baby Tracker Pro - Newborn Log",
       "developer": "Nighp Software LLC",
       "developerUrl": "https://apps.apple.com/vn/developer/nighp-software-llc/id779656560?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/88/65/798865dc-ec95-58e0-270c-ca8a7d1bd514/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e2/3f/96e23f60-fcae-5201-cafa-8e26d3480331/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/vn/app/baby-tracker-pro-newborn-log/id845657206?uo=2",
       "price": {
         "amount": 149000,
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 87,
-      "rankChange": 1,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "730081554",
       "name": "The OB Wheel Pro 7",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 88,
-      "rankChange": 1,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "551550612",
       "name": "I.C.U. RenalCalc",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 89,
-      "rankChange": 1,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "532460804",
       "name": "EchoSource",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 90,
-      "rankChange": 1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "513529073",
       "name": "ColorDeBlind",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 91,
-      "rankChange": 1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "423175333",
       "name": "Blood Pressure Monitor - Pro",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 92,
-      "rankChange": 1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "359022779",
       "name": "Audiphone, Mic & Loudspeaker",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 93,
-      "rankChange": 1,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "343091870",
       "name": "Physical Exam Essentials",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 94,
-      "rankChange": 1,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "306526794",
       "name": "iBP Blood Pressure",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 95,
-      "rankChange": 1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "295806778",
       "name": "Anatomy Atlas",
@@ -2093,30 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 80,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "6751543728",
-      "name": "Knee Biomechanics",
-      "developer": "Anatomy Standard",
-      "developerUrl": "https://apps.apple.com/vn/developer/anatomy-standard/id1598573476?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/70/2e/ad702eb0-0fb7-9f8b-3156-7ab56abd42e3/AppIcon-1x_U007emarketing-0-4-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/vn/app/knee-biomechanics/id6751543728?uo=2",
-      "price": {
-        "amount": 499000,
-        "currency": "VND",
-        "formatted": "499.000đ"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medical"
-      },
-      "releaseDate": "28 August 2025"
-    },
-    {
-      "rank": 96,
       "previousRank": 96,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1524716004",
       "name": "RapidASCVD: PREVENT ASCVD Risk",
@@ -2134,6 +2112,50 @@
         "name": "Medical"
       },
       "releaseDate": "05 August 2020"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1389860262",
+      "name": "ECG Reader",
+      "developer": "Muhammet Bilgi",
+      "developerUrl": "https://apps.apple.com/vn/developer/muhammet-bilgi/id1315364469?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f4/1b/b9/f41bb927-5248-ab19-624c-063dc9215a90/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/ecg-reader/id1389860262?uo=2",
+      "price": {
+        "amount": 29000,
+        "currency": "VND",
+        "formatted": "29.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "25 June 2018"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1364480176",
+      "name": "Radiology - Head&Neck Anatomy",
+      "developer": "BestApps BV",
+      "developerUrl": "https://apps.apple.com/vn/developer/bestapps-bv/id329677410?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cd/2c/54/cd2c547f-8214-f4dc-5d53-e443499a3363/AppIconHN-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/vn/app/radiology-head-neck-anatomy/id1364480176?uo=2",
+      "price": {
+        "amount": 299000,
+        "currency": "VND",
+        "formatted": "299.000đ"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medical"
+      },
+      "releaseDate": "02 December 2019"
     }
   ]
 }
