@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-16",
-  "collectedAt": "2026-11-16T07:46:57.325Z",
-  "sourceUpdatedAt": "2026-11-15T23:46:56-07:00",
+  "snapshotDate": "2026-11-17",
+  "collectedAt": "2026-11-17T08:56:17.104Z",
+  "sourceUpdatedAt": "2026-11-17T00:56:16-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/br/rss/toppaidapplications/limit=100/genre=6018/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "图书"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 95,
+  "actualCount": 95,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-15",
+  "previousSnapshotDate": "2026-11-16",
   "apps": [
     {
       "rank": 1,
+      "previousRank": 16,
+      "rankChange": 15,
+      "isNew": false,
+      "appleId": "1529926946",
+      "name": "Casas de Paz Oficial",
+      "developer": "Selah Produções",
+      "developerUrl": "https://apps.apple.com/br/developer/selah-produ%C3%A7%C3%B5es/id1529926948?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e4/25/91e4257e-5cac-0a9f-0eaf-8506ea6e9ce1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/casas-de-paz-oficial/id1529926946?uo=2",
+      "price": {
+        "amount": 19.9,
+        "currency": "BRL",
+        "formatted": "R$ 19,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "04/09/2020"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1237186593",
       "name": "Biblia de Jerusalem Portoghese",
@@ -46,9 +68,9 @@
       "releaseDate": "22/05/2017"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1609713170",
       "name": "Controle de Leitura da Bíblia",
@@ -68,9 +90,9 @@
       "releaseDate": "21/02/2022"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6769465049",
       "name": "Septuaginta LXX em Portugues",
@@ -90,74 +112,8 @@
       "releaseDate": "15/05/2026"
     },
     {
-      "rank": 4,
-      "previousRank": 4,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "925110974",
-      "name": "Harpa Cristã +",
-      "developer": "Gabriel Moraes",
-      "developerUrl": "https://apps.apple.com/br/developer/gabriel-moraes/id868987086?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9b/e1/199be16f-53ba-9ca3-8394-dec256272490/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/harpa-crist%C3%A3/id925110974?uo=2",
-      "price": {
-        "amount": 149.9,
-        "currency": "BRL",
-        "formatted": "R$ 149,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "14/10/2014"
-    },
-    {
       "rank": 5,
-      "previousRank": 5,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "388052700",
-      "name": "Constituição Federal",
-      "developer": "F&E System Apps",
-      "developerUrl": "https://apps.apple.com/br/developer/f-e-system-apps/id371919430?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2a/14/fb2a1480-1ce6-87c2-7808-eabf265ed1bd/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/constitui%C3%A7%C3%A3o-federal/id388052700?uo=2",
-      "price": {
-        "amount": 19.9,
-        "currency": "BRL",
-        "formatted": "R$ 19,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "25/08/2010"
-    },
-    {
-      "rank": 6,
-      "previousRank": 6,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1041727137",
-      "name": "Bound - Audiobook Player",
-      "developer": "Deadpan, LLC",
-      "developerUrl": "https://apps.apple.com/br/developer/deadpan-llc/id1521868530?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/bound-audiobook-player/id1041727137?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "16/12/2015"
-    },
-    {
-      "rank": 7,
-      "previousRank": 9,
+      "previousRank": 7,
       "rankChange": 2,
       "isNew": false,
       "appleId": "383267699",
@@ -178,8 +134,8 @@
       "releaseDate": "03/08/2010"
     },
     {
-      "rank": 8,
-      "previousRank": 10,
+      "rank": 6,
+      "previousRank": 8,
       "rankChange": 2,
       "isNew": false,
       "appleId": "386551839",
@@ -200,9 +156,31 @@
       "releaseDate": "17/08/2010"
     },
     {
-      "rank": 9,
-      "previousRank": 11,
-      "rankChange": 2,
+      "rank": 7,
+      "previousRank": 5,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "388052700",
+      "name": "Constituição Federal",
+      "developer": "F&E System Apps",
+      "developerUrl": "https://apps.apple.com/br/developer/f-e-system-apps/id371919430?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2a/14/fb2a1480-1ce6-87c2-7808-eabf265ed1bd/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/constitui%C3%A7%C3%A3o-federal/id388052700?uo=2",
+      "price": {
+        "amount": 19.9,
+        "currency": "BRL",
+        "formatted": "R$ 19,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "25/08/2010"
+    },
+    {
+      "rank": 8,
+      "previousRank": 9,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "421620053",
       "name": "Pocket Biblia - Bíblia Católica",
@@ -222,9 +200,9 @@
       "releaseDate": "28/02/2011"
     },
     {
-      "rank": 10,
-      "previousRank": 12,
-      "rankChange": 2,
+      "rank": 9,
+      "previousRank": 10,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "573235547",
       "name": "Audiobooks HQ audiolivros",
@@ -244,9 +222,9 @@
       "releaseDate": "10/12/2012"
     },
     {
-      "rank": 11,
-      "previousRank": 13,
-      "rankChange": 2,
+      "rank": 10,
+      "previousRank": 11,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "388806541",
       "name": "O Livro dos Médiuns",
@@ -266,9 +244,31 @@
       "releaseDate": "31/08/2010"
     },
     {
+      "rank": 11,
+      "previousRank": 4,
+      "rankChange": -7,
+      "isNew": false,
+      "appleId": "925110974",
+      "name": "Harpa Cristã +",
+      "developer": "Gabriel Moraes",
+      "developerUrl": "https://apps.apple.com/br/developer/gabriel-moraes/id868987086?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9b/e1/199be16f-53ba-9ca3-8394-dec256272490/AppIconPro-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/harpa-crist%C3%A3/id925110974?uo=2",
+      "price": {
+        "amount": 149.9,
+        "currency": "BRL",
+        "formatted": "R$ 149,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "14/10/2014"
+    },
+    {
       "rank": 12,
-      "previousRank": 14,
-      "rankChange": 2,
+      "previousRank": 12,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "387136454",
       "name": "MegaReader",
@@ -289,8 +289,8 @@
     },
     {
       "rank": 13,
-      "previousRank": 15,
-      "rankChange": 2,
+      "previousRank": 13,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "388892239",
       "name": "O Céu e o Inferno",
@@ -311,8 +311,8 @@
     },
     {
       "rank": 14,
-      "previousRank": 16,
-      "rankChange": 2,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "386696459",
       "name": "A Gênese",
@@ -333,8 +333,8 @@
     },
     {
       "rank": 15,
-      "previousRank": 17,
-      "rankChange": 2,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "531204555",
       "name": "eBook Search Pro",
@@ -355,29 +355,7 @@
     },
     {
       "rank": 16,
-      "previousRank": 8,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "1529926946",
-      "name": "Casas de Paz Oficial",
-      "developer": "Selah Produções",
-      "developerUrl": "https://apps.apple.com/br/developer/selah-produ%C3%A7%C3%B5es/id1529926948?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e4/25/91e4257e-5cac-0a9f-0eaf-8506ea6e9ce1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/casas-de-paz-oficial/id1529926946?uo=2",
-      "price": {
-        "amount": 19.9,
-        "currency": "BRL",
-        "formatted": "R$ 19,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "04/09/2020"
-    },
-    {
-      "rank": 17,
-      "previousRank": 18,
+      "previousRank": 17,
       "rankChange": 1,
       "isNew": false,
       "appleId": "389444075",
@@ -398,8 +376,8 @@
       "releaseDate": "31/08/2010"
     },
     {
-      "rank": 18,
-      "previousRank": 19,
+      "rank": 17,
+      "previousRank": 18,
       "rankChange": 1,
       "isNew": false,
       "appleId": "389476794",
@@ -420,9 +398,9 @@
       "releaseDate": "31/08/2010"
     },
     {
-      "rank": 19,
-      "previousRank": 7,
-      "rankChange": -12,
+      "rank": 18,
+      "previousRank": 19,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "327389387",
       "name": "Dialing God",
@@ -442,9 +420,9 @@
       "releaseDate": "26/08/2009"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "395406143",
       "name": "A Arte da Prudência",
@@ -464,9 +442,9 @@
       "releaseDate": "07/10/2010"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "395149950",
       "name": "BookBuddy Pro: Lista de Livros",
@@ -486,9 +464,9 @@
       "releaseDate": "09/10/2010"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "317776727",
       "name": "Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library",
@@ -508,9 +486,9 @@
       "releaseDate": "19/06/2009"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "previousRank": 23,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "333441801",
       "name": "QuickReader - Leitura Dinâmica",
@@ -530,8 +508,8 @@
       "releaseDate": "15/10/2009"
     },
     {
-      "rank": 24,
-      "previousRank": 25,
+      "rank": 23,
+      "previousRank": 24,
       "rankChange": 1,
       "isNew": false,
       "appleId": "333345855",
@@ -552,9 +530,9 @@
       "releaseDate": "08/10/2009"
     },
     {
-      "rank": 25,
-      "previousRank": 24,
-      "rankChange": -1,
+      "rank": 24,
+      "previousRank": 25,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "878704422",
       "name": "Transformers Rescue Bots-",
@@ -574,9 +552,9 @@
       "releaseDate": "19/06/2014"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "previousRank": 26,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "398928915",
       "name": "Revista Espírita Ed. 1858",
@@ -596,9 +574,9 @@
       "releaseDate": "25/10/2010"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "previousRank": 27,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1061132313",
       "name": "CHOMP by Christoph Niemann",
@@ -618,9 +596,9 @@
       "releaseDate": "27/01/2016"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "previousRank": 28,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "961648591",
       "name": "Transformers Rescue Bots --",
@@ -640,9 +618,9 @@
       "releaseDate": "07/05/2015"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "previousRank": 29,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "893619699",
       "name": "My Little Pony: Superpôneis",
@@ -662,9 +640,9 @@
       "releaseDate": "17/07/2014"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "previousRank": 30,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "396170570",
       "name": "O Príncipe de Maquiavel",
@@ -684,9 +662,9 @@
       "releaseDate": "08/10/2010"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "396372616",
       "name": "A Arte da Guerra Sun Tzu",
@@ -706,9 +684,9 @@
       "releaseDate": "12/10/2010"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "394275498",
       "name": "Bluefire Reader",
@@ -728,9 +706,9 @@
       "releaseDate": "09/10/2010"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "352615816",
       "name": "Audiobooks - 5,239 Classics Ready to Listen",
@@ -750,9 +728,9 @@
       "releaseDate": "05/02/2010"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "507407813",
       "name": "iPoe Vol. 1 - Edgar Allan Poe",
@@ -772,9 +750,9 @@
       "releaseDate": "26/03/2012"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "335516575",
       "name": "Learn Italian",
@@ -794,9 +772,9 @@
       "releaseDate": "22/10/2009"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1300717402",
       "name": "Boa Noitinha Floresta",
@@ -816,9 +794,9 @@
       "releaseDate": "21/11/2017"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "previousRank": 37,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "324516521",
       "name": "CHMate+: Leitor de EPUB e CHM",
@@ -838,9 +816,9 @@
       "releaseDate": "30/07/2009"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "previousRank": 38,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1065623382",
       "name": "MR. POTATO HEAD:",
@@ -860,9 +838,9 @@
       "releaseDate": "06/04/2016"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "previousRank": 39,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "463474316",
       "name": "Os tres porquinhos",
@@ -882,9 +860,9 @@
       "releaseDate": "02/10/2011"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "previousRank": 40,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "430616332",
       "name": "It's Tyrannosaurus Rex",
@@ -902,6 +880,28 @@
         "name": "Livros"
       },
       "releaseDate": "19/04/2011"
+    },
+    {
+      "rank": 40,
+      "previousRank": 6,
+      "rankChange": -34,
+      "isNew": false,
+      "appleId": "1041727137",
+      "name": "Bound - Audiobook Player",
+      "developer": "Deadpan, LLC",
+      "developerUrl": "https://apps.apple.com/br/developer/deadpan-llc/id1521868530?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ba/f7/67baf763-ae61-ec91-fe97-b0acf22f3bdb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/bound-audiobook-player/id1041727137?uo=2",
+      "price": {
+        "amount": 29.9,
+        "currency": "BRL",
+        "formatted": "R$ 29,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "16/12/2015"
     },
     {
       "rank": 41,
@@ -949,30 +949,8 @@
     },
     {
       "rank": 43,
-      "previousRank": 43,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "363992049",
-      "name": "ComicGlass",
-      "developer": "RR Soft",
-      "developerUrl": "https://apps.apple.com/br/developer/rr-soft/id363992052?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d0/c6/40d0c6bf-937b-69fb-d3b5-5069caf0743c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/comicglass/id363992049?uo=2",
-      "price": {
-        "amount": 24.9,
-        "currency": "BRL",
-        "formatted": "R$ 24,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "29/07/2010"
-    },
-    {
-      "rank": 44,
       "previousRank": 44,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "572367360",
       "name": "Livres Audio HQ",
@@ -990,6 +968,28 @@
         "name": "Livros"
       },
       "releaseDate": "13/02/2013"
+    },
+    {
+      "rank": 44,
+      "previousRank": 43,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "363992049",
+      "name": "ComicGlass",
+      "developer": "RR Soft",
+      "developerUrl": "https://apps.apple.com/br/developer/rr-soft/id363992052?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d0/c6/40d0c6bf-937b-69fb-d3b5-5069caf0743c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/comicglass/id363992049?uo=2",
+      "price": {
+        "amount": 24.9,
+        "currency": "BRL",
+        "formatted": "R$ 24,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "29/07/2010"
     },
     {
       "rank": 45,
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 61,
-      "rankChange": 1,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "852694885",
       "name": "My Little Pony: Fluttershy",
@@ -1345,8 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 62,
-      "rankChange": 1,
+      "previousRank": 61,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "441521818",
       "name": "ChmPlus Pro: CHM/EPUB Reader",
@@ -1367,8 +1367,8 @@
     },
     {
       "rank": 62,
-      "previousRank": 60,
-      "rankChange": -2,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017354785",
       "name": "Littlest Pet Shop: Estilo Pet",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 77,
-      "rankChange": 1,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "399656504",
       "name": "The Gospel According Spiritism",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 78,
-      "rankChange": 1,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "572357798",
       "name": "Audio Bibles",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 79,
-      "rankChange": 1,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "356411065",
       "name": "Atheist Pocket Debater",
@@ -1741,30 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 76,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "465644407",
-      "name": "Canti",
-      "developer": "EDITRICE NUOVO MONDO srl",
-      "developerUrl": "https://apps.apple.com/br/developer/editrice-nuovo-mondo-srl/id452952407?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/15/04/db/1504db71-d2a3-9a9b-c975-9c48111adffd/AppIcon-0-1x_U007emarketing-0-0-0-85-220-0-10.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/canti/id465644407?uo=2",
-      "price": {
-        "amount": 12.9,
-        "currency": "BRL",
-        "formatted": "R$ 12,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "30/09/2011"
-    },
-    {
-      "rank": 80,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "855056309",
       "name": "Herbs in Magick",
@@ -1782,6 +1760,28 @@
         "name": "Livros"
       },
       "releaseDate": "05/05/2014"
+    },
+    {
+      "rank": 80,
+      "previousRank": 79,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "465644407",
+      "name": "Canti",
+      "developer": "EDITRICE NUOVO MONDO srl",
+      "developerUrl": "https://apps.apple.com/br/developer/editrice-nuovo-mondo-srl/id452952407?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/15/04/db/1504db71-d2a3-9a9b-c975-9c48111adffd/AppIcon-0-1x_U007emarketing-0-0-0-85-220-0-10.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/br/app/canti/id465644407?uo=2",
+      "price": {
+        "amount": 12.9,
+        "currency": "BRL",
+        "formatted": "R$ 12,90"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Livros"
+      },
+      "releaseDate": "30/09/2011"
     },
     {
       "rank": 81,
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 88,
-      "rankChange": 1,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1336017474",
       "name": "Dra. McWheelie: Londres",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 89,
-      "rankChange": 1,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "974147505",
       "name": "iPoe Vol. 3  – Edgar Allan Poe",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 90,
-      "rankChange": 1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "404678486",
       "name": "Just Grandma and Me",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 91,
-      "rankChange": 1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1111754263",
       "name": "Cepher",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 92,
-      "rankChange": 1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "393407852",
       "name": "Esh Mishna Berura",
@@ -2027,30 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 87,
-      "rankChange": -5,
-      "isNew": false,
-      "appleId": "1072470996",
-      "name": "Esh Halaca Berura",
-      "developer": "Elyahu Sheetrit",
-      "developerUrl": "https://apps.apple.com/br/developer/elyahu-sheetrit/id371517586?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/c3/62/aac362e6-fa15-6b1b-43dd-be025fbed349/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/br/app/esh-halaca-berura/id1072470996?uo=2",
-      "price": {
-        "amount": 29.9,
-        "currency": "BRL",
-        "formatted": "R$ 29,90"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Livros"
-      },
-      "releaseDate": "13/01/2016"
-    },
-    {
-      "rank": 93,
       "previousRank": 93,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "396574672",
       "name": "O Crime do Padre Amaro",
@@ -2070,9 +2048,9 @@
       "releaseDate": "14/10/2010"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "previousRank": 94,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1011479119",
       "name": "Dr. Seuss's ABC - Read & Learn",
@@ -2092,9 +2070,9 @@
       "releaseDate": "12/01/2016"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "previousRank": 95,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "924058967",
       "name": "Meu pequeno pônei: eclipse da Luna",
@@ -2114,9 +2092,9 @@
       "releaseDate": "15/10/2014"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "previousRank": 96,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "368784454",
       "name": "Philosophie (Anthologie de la)",

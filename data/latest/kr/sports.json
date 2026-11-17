@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-16",
-  "collectedAt": "2026-11-16T07:46:50.150Z",
-  "sourceUpdatedAt": "2026-11-15T23:46:49-07:00",
+  "snapshotDate": "2026-11-17",
+  "collectedAt": "2026-11-17T08:56:10.289Z",
+  "sourceUpdatedAt": "2026-11-17T00:56:09-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/kr/rss/toppaidapplications/limit=100/genre=6004/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "体育"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 98,
+  "actualCount": 98,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-15",
+  "previousSnapshotDate": "2026-11-16",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 3,
-      "rankChange": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6782022149",
+      "name": "BJJ 점수판 2026",
+      "developer": "Nanjing Yunxiaochuang Technology Co., Ltd",
+      "developerUrl": "https://apps.apple.com/kr/developer/nanjing-yunxiaochuang-technology-co-ltd/id1454457703?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/34/67/d334672a-7340-3066-fc93-9bb3a06206bf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/bjj-%EC%A0%90%EC%88%98%ED%8C%90-2026/id6782022149?uo=2",
+      "price": {
+        "amount": 500,
+        "currency": "KRW",
+        "formatted": "￦500"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "스포츠"
+      },
+      "releaseDate": "2026.06.23"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "329937776",
       "name": "Tour Tempo",
@@ -46,8 +68,8 @@
       "releaseDate": "2009.09.15"
     },
     {
-      "rank": 2,
-      "previousRank": 1,
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1129429340",
@@ -68,31 +90,9 @@
       "releaseDate": "2017.03.02"
     },
     {
-      "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1543684531",
-      "name": "QZ Fitness",
-      "developer": "Roberto Viola",
-      "developerUrl": "https://apps.apple.com/kr/developer/roberto-viola/id951920407?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/70/37/187037f4-14fc-6d56-206f-42c882ef26da/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/qz-fitness/id1543684531?uo=2",
-      "price": {
-        "amount": 11000,
-        "currency": "KRW",
-        "formatted": "￦11,000"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2020.12.10"
-    },
-    {
       "rank": 4,
-      "previousRank": 5,
-      "rankChange": 1,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "347706593",
       "name": "Sports Car Engines",
@@ -113,8 +113,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 6,
-      "rankChange": 1,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "794841332",
       "name": "JB4 Mobile",
@@ -135,8 +135,8 @@
     },
     {
       "rank": 6,
-      "previousRank": 7,
-      "rankChange": 1,
+      "previousRank": 6,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "321293183",
       "name": "DashCommand - OBD-II Gauges",
@@ -157,8 +157,8 @@
     },
     {
       "rank": 7,
-      "previousRank": 8,
-      "rankChange": 1,
+      "previousRank": 7,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "935559685",
       "name": "Clipstro Golf",
@@ -179,8 +179,8 @@
     },
     {
       "rank": 8,
-      "previousRank": 9,
-      "rankChange": 1,
+      "previousRank": 8,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "338257907",
       "name": "Harry's LapTimer Petrolhead",
@@ -201,8 +201,8 @@
     },
     {
       "rank": 9,
-      "previousRank": 10,
-      "rankChange": 1,
+      "previousRank": 9,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "363556704",
       "name": "Harry's LapTimer Grand Prix",
@@ -223,8 +223,8 @@
     },
     {
       "rank": 10,
-      "previousRank": 11,
-      "rankChange": 1,
+      "previousRank": 10,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "365729342",
       "name": "RacquetTune - String Tension",
@@ -248,28 +248,6 @@
       "previousRank": 12,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "321926476",
-      "name": "Baseball Speed",
-      "developer": "George Wolanin",
-      "developerUrl": "https://apps.apple.com/kr/developer/george-wolanin/id321926479?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/13/c0/9713c099-c937-f3ff-b5f4-65716dceb386/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/baseball-speed/id321926476?uo=2",
-      "price": {
-        "amount": 1100,
-        "currency": "KRW",
-        "formatted": "￦1,100"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2009.07.11"
-    },
-    {
-      "rank": 12,
-      "previousRank": 13,
-      "rankChange": 1,
-      "isNew": false,
       "appleId": "1033424283",
       "name": "투어 템포 골프",
       "developer": "Tour Tempo",
@@ -288,8 +266,8 @@
       "releaseDate": "2022.05.05"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
+      "rank": 12,
+      "previousRank": 13,
       "rankChange": 1,
       "isNew": false,
       "appleId": "307688598",
@@ -310,9 +288,31 @@
       "releaseDate": "2009.03.26"
     },
     {
+      "rank": 13,
+      "previousRank": 3,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "1543684531",
+      "name": "QZ Fitness",
+      "developer": "Roberto Viola",
+      "developerUrl": "https://apps.apple.com/kr/developer/roberto-viola/id951920407?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/70/37/187037f4-14fc-6d56-206f-42c882ef26da/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/qz-fitness/id1543684531?uo=2",
+      "price": {
+        "amount": 11000,
+        "currency": "KRW",
+        "formatted": "￦11,000"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "스포츠"
+      },
+      "releaseDate": "2020.12.10"
+    },
+    {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "497880658",
       "name": "J23 - Release Dates & Restocks",
@@ -333,14 +333,14 @@
     },
     {
       "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1453327924",
       "name": "골프 점수 카운터",
       "developer": "takuya kimura",
       "developerUrl": "https://apps.apple.com/kr/developer/takuya-kimura/id982728568?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/b6/a7/e4b6a720-b016-6acb-3242-09cb8781cb3f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/83/3e/4e833e6c-bb59-3593-6417-a1dc501e91eb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/kr/app/%EA%B3%A8%ED%94%84-%EC%A0%90%EC%88%98-%EC%B9%B4%EC%9A%B4%ED%84%B0/id1453327924?uo=2",
       "price": {
         "amount": 4400,
@@ -355,8 +355,8 @@
     },
     {
       "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "406320443",
       "name": "민물낚시터 백과 (경기·강원)",
@@ -377,8 +377,8 @@
     },
     {
       "rank": 17,
-      "previousRank": 18,
-      "rankChange": 1,
+      "previousRank": 17,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "717601887",
       "name": "ContiSystem",
@@ -399,8 +399,8 @@
     },
     {
       "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
+      "previousRank": 18,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "358183415",
       "name": "SizeMyBike",
@@ -424,28 +424,6 @@
       "previousRank": 20,
       "rankChange": 1,
       "isNew": false,
-      "appleId": "304464483",
-      "name": "Baltic Deco Planner",
-      "developer": "Eskil Olsen",
-      "developerUrl": "https://apps.apple.com/kr/developer/eskil-olsen/id304464486?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f6/11/e4/f611e42c-397d-4251-eba6-af652b4e0a69/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/baltic-deco-planner/id304464483?uo=2",
-      "price": {
-        "amount": 33000,
-        "currency": "KRW",
-        "formatted": "￦33,000"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2009.02.09"
-    },
-    {
-      "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
-      "isNew": false,
       "appleId": "834813598",
       "name": "축구 감독 전술 보드++",
       "developer": "BLUELINDEN",
@@ -464,9 +442,31 @@
       "releaseDate": "2014.03.27"
     },
     {
+      "rank": 20,
+      "previousRank": 19,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "304464483",
+      "name": "Baltic Deco Planner",
+      "developer": "Eskil Olsen",
+      "developerUrl": "https://apps.apple.com/kr/developer/eskil-olsen/id304464486?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f6/11/e4/f611e42c-397d-4251-eba6-af652b4e0a69/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/baltic-deco-planner/id304464483?uo=2",
+      "price": {
+        "amount": 33000,
+        "currency": "KRW",
+        "formatted": "￦33,000"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "스포츠"
+      },
+      "releaseDate": "2009.02.09"
+    },
+    {
       "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1465601144",
       "name": "Putt Vision",
@@ -487,8 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 23,
-      "rankChange": 1,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "398335225",
       "name": "Table Score",
@@ -509,8 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 24,
-      "rankChange": 1,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1214066028",
       "name": "CCR Mixer",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "394636307",
       "name": "Ski School Intermediate",
@@ -553,8 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "394636845",
       "name": "Ski School Advanced",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "505896404",
       "name": "스톱워치%",
@@ -597,25 +597,25 @@
     },
     {
       "rank": 27,
-      "previousRank": 4,
-      "rankChange": -23,
+      "previousRank": 29,
+      "rankChange": 2,
       "isNew": false,
-      "appleId": "492003219",
-      "name": "Whistle Blow",
-      "developer": "Daniel Asto",
-      "developerUrl": "https://apps.apple.com/kr/developer/daniel-asto/id813484166?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/20/9c/36209c28-1f68-258a-eaa7-883884296121/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/whistle-blow/id492003219?uo=2",
+      "appleId": "287193619",
+      "name": "G FORCE",
+      "developer": "Y Lau",
+      "developerUrl": "https://apps.apple.com/kr/developer/y-lau/id284938424?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/cc/62/4fcc6211-b8c0-1eae-c327-eeda8249ec93/mzl.ngjzeopk.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/g-force/id287193619?uo=2",
       "price": {
-        "amount": 1100,
+        "amount": 4400,
         "currency": "KRW",
-        "formatted": "￦1,100"
+        "formatted": "￦4,400"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "스포츠"
       },
-      "releaseDate": "2012.02.09"
+      "releaseDate": "2019.02.12"
     },
     {
       "rank": 28,
@@ -641,52 +641,30 @@
     },
     {
       "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "previousRank": 27,
+      "rankChange": -2,
       "isNew": false,
-      "appleId": "287193619",
-      "name": "G FORCE",
-      "developer": "Y Lau",
-      "developerUrl": "https://apps.apple.com/kr/developer/y-lau/id284938424?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/cc/62/4fcc6211-b8c0-1eae-c327-eeda8249ec93/mzl.ngjzeopk.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/g-force/id287193619?uo=2",
+      "appleId": "492003219",
+      "name": "Whistle Blow",
+      "developer": "Daniel Asto",
+      "developerUrl": "https://apps.apple.com/kr/developer/daniel-asto/id813484166?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/20/9c/36209c28-1f68-258a-eaa7-883884296121/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/whistle-blow/id492003219?uo=2",
       "price": {
-        "amount": 4400,
+        "amount": 1100,
         "currency": "KRW",
-        "formatted": "￦4,400"
+        "formatted": "￦1,100"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "스포츠"
       },
-      "releaseDate": "2019.02.12"
+      "releaseDate": "2012.02.09"
     },
     {
       "rank": 30,
-      "previousRank": 29,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "430807521",
-      "name": "SprintTimer - Photo Finish",
-      "developer": "Sten Kaiser",
-      "developerUrl": "https://apps.apple.com/kr/developer/sten-kaiser/id309325742?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/0b/79/170b79a3-0c93-e969-0bea-a8d0b3af9970/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/sprinttimer-photo-finish/id430807521?uo=2",
-      "price": {
-        "amount": 7700,
-        "currency": "KRW",
-        "formatted": "￦7,700"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2011.04.14"
-    },
-    {
-      "rank": 31,
       "previousRank": 31,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "322197864",
       "name": "Pro-Knot",
@@ -706,9 +684,9 @@
       "releaseDate": "2009.07.11"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "321817464",
       "name": "PinPal",
@@ -728,9 +706,9 @@
       "releaseDate": "2009.07.25"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "301049600",
       "name": "Dive Log",
@@ -748,6 +726,28 @@
         "name": "스포츠"
       },
       "releaseDate": "2009.01.02"
+    },
+    {
+      "rank": 33,
+      "previousRank": 30,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "430807521",
+      "name": "SprintTimer - Photo Finish",
+      "developer": "Sten Kaiser",
+      "developerUrl": "https://apps.apple.com/kr/developer/sten-kaiser/id309325742?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/0b/79/170b79a3-0c93-e969-0bea-a8d0b3af9970/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/sprinttimer-photo-finish/id430807521?uo=2",
+      "price": {
+        "amount": 7700,
+        "currency": "KRW",
+        "formatted": "￦7,700"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "스포츠"
+      },
+      "releaseDate": "2011.04.14"
     },
     {
       "rank": 34,
@@ -1521,30 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 69,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "396029913",
-      "name": "Golf Swing Check - Slow Movie",
-      "developer": "IK Software",
-      "developerUrl": "https://apps.apple.com/kr/developer/ik-software/id368549828?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/6c/ba/516cba5d-ac94-5109-6c90-eb819f8c73a1/AppIcon-2-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/golf-swing-check-slow-movie/id396029913?uo=2",
-      "price": {
-        "amount": 1100,
-        "currency": "KRW",
-        "formatted": "￦1,100"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2010.10.23"
-    },
-    {
-      "rank": 70,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "353522322",
       "name": "FEI EquiTests 3 - Dressage",
@@ -1564,9 +1542,9 @@
       "releaseDate": "2010.02.19"
     },
     {
-      "rank": 71,
+      "rank": 70,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "691114189",
       "name": "LapTracker - Auto Timer",
@@ -1586,8 +1564,8 @@
       "releaseDate": "2013.08.27"
     },
     {
-      "rank": 72,
-      "previousRank": 73,
+      "rank": 71,
+      "previousRank": 72,
       "rankChange": 1,
       "isNew": false,
       "appleId": "873542614",
@@ -1608,8 +1586,8 @@
       "releaseDate": "2014.05.08"
     },
     {
-      "rank": 73,
-      "previousRank": 74,
+      "rank": 72,
+      "previousRank": 73,
       "rankChange": 1,
       "isNew": false,
       "appleId": "562897263",
@@ -1630,8 +1608,8 @@
       "releaseDate": "2012.10.06"
     },
     {
-      "rank": 74,
-      "previousRank": 75,
+      "rank": 73,
+      "previousRank": 74,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1483886821",
@@ -1652,8 +1630,8 @@
       "releaseDate": "2019.10.18"
     },
     {
-      "rank": 75,
-      "previousRank": 76,
+      "rank": 74,
+      "previousRank": 75,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1116159086",
@@ -1674,8 +1652,8 @@
       "releaseDate": "2016.05.23"
     },
     {
-      "rank": 76,
-      "previousRank": 77,
+      "rank": 75,
+      "previousRank": 76,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1155913669",
@@ -1696,8 +1674,8 @@
       "releaseDate": "2016.10.06"
     },
     {
-      "rank": 77,
-      "previousRank": 78,
+      "rank": 76,
+      "previousRank": 77,
       "rankChange": 1,
       "isNew": false,
       "appleId": "968925225",
@@ -1718,9 +1696,9 @@
       "releaseDate": "2015.03.30"
     },
     {
-      "rank": 78,
-      "previousRank": 81,
-      "rankChange": 3,
+      "rank": 77,
+      "previousRank": 78,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1482172285",
       "name": "LineupMovie for Baseball",
@@ -1740,9 +1718,9 @@
       "releaseDate": "2019.11.12"
     },
     {
-      "rank": 79,
-      "previousRank": 82,
-      "rankChange": 3,
+      "rank": 78,
+      "previousRank": 79,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1460664010",
       "name": "eMaxMobileApp",
@@ -1762,9 +1740,9 @@
       "releaseDate": "2019.04.25"
     },
     {
-      "rank": 80,
-      "previousRank": 83,
-      "rankChange": 3,
+      "rank": 79,
+      "previousRank": 80,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "997989448",
       "name": "My Sprint",
@@ -1784,9 +1762,9 @@
       "releaseDate": "2015.11.27"
     },
     {
-      "rank": 81,
-      "previousRank": 84,
-      "rankChange": 3,
+      "rank": 80,
+      "previousRank": 81,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "737665687",
       "name": "CMV Pro: Frame-Frame Video Analysis - CoachMyVideo",
@@ -1806,9 +1784,9 @@
       "releaseDate": "2013.11.18"
     },
     {
-      "rank": 82,
-      "previousRank": 85,
-      "rankChange": 3,
+      "rank": 81,
+      "previousRank": 82,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "297093432",
       "name": "iSnipe",
@@ -1828,37 +1806,15 @@
       "releaseDate": "2008.11.24"
     },
     {
-      "rank": 83,
-      "previousRank": 72,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6782709004",
-      "name": "Tennis Score Wizard",
-      "developer": "Mikhail Zhirnov",
-      "developerUrl": "https://apps.apple.com/kr/developer/mikhail-zhirnov/id6782709096?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/82/63/d382633c-c704-8928-0f24-ee13c2dba319/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/tennis-score-wizard/id6782709004?uo=2",
-      "price": {
-        "amount": 7700,
-        "currency": "KRW",
-        "formatted": "￦7,700"
-      },
-      "primaryCategory": {
-        "id": "6004",
-        "name": "스포츠"
-      },
-      "releaseDate": "2026.07.01"
-    },
-    {
-      "rank": 84,
-      "previousRank": 86,
+      "rank": 82,
+      "previousRank": 84,
       "rankChange": 2,
       "isNew": false,
       "appleId": "1293644903",
       "name": "BLEvo - For Smart Turbo Levo",
       "developer": "Paolo Dozio",
       "developerUrl": "https://apps.apple.com/kr/developer/paolo-dozio/id1293644902?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/f1/28/16f128c0-1656-834b-b599-a6b02a79f979/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ff/5d/84ff5d6f-8bdd-9dad-0ff4-6be821ace195/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/kr/app/blevo-for-smart-turbo-levo/id1293644903?uo=2",
       "price": {
         "amount": 15000,
@@ -1872,8 +1828,8 @@
       "releaseDate": "2018.01.15"
     },
     {
-      "rank": 85,
-      "previousRank": 87,
+      "rank": 83,
+      "previousRank": 85,
       "rankChange": 2,
       "isNew": false,
       "appleId": "608288950",
@@ -1894,8 +1850,8 @@
       "releaseDate": "2013.03.02"
     },
     {
-      "rank": 86,
-      "previousRank": 88,
+      "rank": 84,
+      "previousRank": 86,
       "rankChange": 2,
       "isNew": false,
       "appleId": "881078625",
@@ -1916,8 +1872,8 @@
       "releaseDate": "2014.05.28"
     },
     {
-      "rank": 87,
-      "previousRank": 89,
+      "rank": 85,
+      "previousRank": 87,
       "rankChange": 2,
       "isNew": false,
       "appleId": "496853771",
@@ -1938,8 +1894,8 @@
       "releaseDate": "2012.02.05"
     },
     {
-      "rank": 88,
-      "previousRank": 90,
+      "rank": 86,
+      "previousRank": 88,
       "rankChange": 2,
       "isNew": false,
       "appleId": "490135959",
@@ -1960,8 +1916,8 @@
       "releaseDate": "2011.12.21"
     },
     {
-      "rank": 89,
-      "previousRank": 91,
+      "rank": 87,
+      "previousRank": 89,
       "rankChange": 2,
       "isNew": false,
       "appleId": "1582984812",
@@ -1982,8 +1938,8 @@
       "releaseDate": "2021.08.27"
     },
     {
-      "rank": 90,
-      "previousRank": 92,
+      "rank": 88,
+      "previousRank": 90,
       "rankChange": 2,
       "isNew": false,
       "appleId": "472438128",
@@ -2004,31 +1960,31 @@
       "releaseDate": "2011.10.18"
     },
     {
-      "rank": 91,
-      "previousRank": 80,
-      "rankChange": -11,
+      "rank": 89,
+      "previousRank": 83,
+      "rankChange": -6,
       "isNew": false,
-      "appleId": "510333747",
-      "name": "어디서나 맨몸 운동",
-      "developer": "Appsolute LLC",
-      "developerUrl": "https://apps.apple.com/kr/developer/appsolute-llc/id604712076?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/96/63/6896631f-b36f-0e91-22e8-619260641446/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/kr/app/%EC%96%B4%EB%94%94%EC%84%9C%EB%82%98-%EB%A7%A8%EB%AA%B8-%EC%9A%B4%EB%8F%99/id510333747?uo=2",
+      "appleId": "6782709004",
+      "name": "Tennis Score Wizard",
+      "developer": "Mikhail Zhirnov",
+      "developerUrl": "https://apps.apple.com/kr/developer/mikhail-zhirnov/id6782709096?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/82/63/d382633c-c704-8928-0f24-ee13c2dba319/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/tennis-score-wizard/id6782709004?uo=2",
       "price": {
-        "amount": 1100,
+        "amount": 7700,
         "currency": "KRW",
-        "formatted": "￦1,100"
+        "formatted": "￦7,700"
       },
       "primaryCategory": {
         "id": "6004",
         "name": "스포츠"
       },
-      "releaseDate": "2012.03.20"
+      "releaseDate": "2026.07.01"
     },
     {
-      "rank": 92,
-      "previousRank": 93,
-      "rankChange": 1,
+      "rank": 90,
+      "previousRank": 92,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1527509385",
       "name": "Football Today - Top matches",
@@ -2048,9 +2004,9 @@
       "releaseDate": "2020.08.15"
     },
     {
-      "rank": 93,
-      "previousRank": 94,
-      "rankChange": 1,
+      "rank": 91,
+      "previousRank": 93,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1062494205",
       "name": "MacDive",
@@ -2070,9 +2026,9 @@
       "releaseDate": "2015.12.07"
     },
     {
-      "rank": 94,
-      "previousRank": 95,
-      "rankChange": 1,
+      "rank": 92,
+      "previousRank": 94,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "477164819",
       "name": "Freeskate",
@@ -2092,9 +2048,9 @@
       "releaseDate": "2011.11.09"
     },
     {
-      "rank": 95,
-      "previousRank": 79,
-      "rankChange": -16,
+      "rank": 93,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "377851554",
       "name": "n01",
@@ -2114,9 +2070,9 @@
       "releaseDate": "2010.06.17"
     },
     {
-      "rank": 96,
+      "rank": 94,
       "previousRank": 96,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "562516957",
       "name": "바둑의눈",
@@ -2125,9 +2081,9 @@
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c2/f7/f4c2f732-9c2b-5e36-c4f3-0524bd036cd5/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/kr/app/%EB%B0%94%EB%91%91%EC%9D%98%EB%88%88/id562516957?uo=2",
       "price": {
-        "amount": 17000,
+        "amount": 33000,
         "currency": "KRW",
-        "formatted": "￦17,000"
+        "formatted": "￦33,000"
       },
       "primaryCategory": {
         "id": "6004",
@@ -2136,9 +2092,9 @@
       "releaseDate": "2012.09.25"
     },
     {
-      "rank": 97,
+      "rank": 95,
       "previousRank": 97,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "379378287",
       "name": "No Gi Essentials",
@@ -2158,9 +2114,31 @@
       "releaseDate": "2010.07.02"
     },
     {
-      "rank": 98,
+      "rank": 96,
+      "previousRank": 91,
+      "rankChange": -5,
+      "isNew": false,
+      "appleId": "510333747",
+      "name": "어디서나 맨몸 운동",
+      "developer": "Appsolute LLC",
+      "developerUrl": "https://apps.apple.com/kr/developer/appsolute-llc/id604712076?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/96/63/6896631f-b36f-0e91-22e8-619260641446/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/kr/app/%EC%96%B4%EB%94%94%EC%84%9C%EB%82%98-%EB%A7%A8%EB%AA%B8-%EC%9A%B4%EB%8F%99/id510333747?uo=2",
+      "price": {
+        "amount": 1100,
+        "currency": "KRW",
+        "formatted": "￦1,100"
+      },
+      "primaryCategory": {
+        "id": "6004",
+        "name": "스포츠"
+      },
+      "releaseDate": "2012.03.20"
+    },
+    {
+      "rank": 97,
       "previousRank": 98,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1441335342",
       "name": "Ballistic X",
@@ -2180,9 +2158,9 @@
       "releaseDate": "2019.01.27"
     },
     {
-      "rank": 99,
+      "rank": 98,
       "previousRank": 99,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "867291367",
       "name": "My Archery Pro",
