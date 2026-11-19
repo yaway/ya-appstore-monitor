@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-18",
-  "collectedAt": "2026-11-18T08:20:50.070Z",
-  "sourceUpdatedAt": "2026-11-18T00:20:49-07:00",
+  "snapshotDate": "2026-11-19",
+  "collectedAt": "2026-11-19T08:32:30.121Z",
+  "sourceUpdatedAt": "2026-11-19T00:32:29-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6015/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "财务"
   },
   "requestedLimit": 100,
-  "expectedCount": 98,
-  "actualCount": 98,
+  "expectedCount": 97,
+  "actualCount": 97,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-17",
+  "previousSnapshotDate": "2026-11-18",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 3,
-      "rankChange": 2,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6825677063",
+      "name": "Lohn Brutto-Netto",
+      "developer": "Dirk Kerpen",
+      "developerUrl": "https://apps.apple.com/de/developer/dirk-kerpen/id667532855?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/f9/13/25f913ab-541f-ff46-0288-4a6e72731fb7/AppIcon-Lohn-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/lohn-brutto-netto/id6825677063?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "18.11.2026"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "564730202",
       "name": "Money Manager (Remove Ads)",
@@ -46,9 +68,9 @@
       "releaseDate": "03.10.2012"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "previousRank": 2,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "508439497",
       "name": "Banking4 Home",
@@ -68,9 +90,31 @@
       "releaseDate": "18.04.2012"
     },
     {
-      "rank": 3,
-      "previousRank": 5,
-      "rankChange": 2,
+      "rank": 4,
+      "previousRank": 8,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6463803539",
+      "name": "Finanzrechner MarkMoney3",
+      "developer": "Thomas Mark",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-mark/id345090689?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/5b/78/c55b780a-eb86-f555-d4b3-24aa36988c17/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/finanzrechner-markmoney3/id6463803539?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "11.09.2023"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1125952051",
       "name": "Das Kassenbuch",
@@ -90,31 +134,9 @@
       "releaseDate": "04.07.2016"
     },
     {
-      "rank": 4,
-      "previousRank": 7,
-      "rankChange": 3,
-      "isNew": false,
-      "appleId": "488892606",
-      "name": "Mein Haushaltsbuch",
-      "developer": "Christian Drapatz",
-      "developerUrl": "https://apps.apple.com/de/developer/christian-drapatz/id408258686?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/90/9b/e1909b8a-4a29-0fe7-97e6-b6a82ddb04a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mein-haushaltsbuch/id488892606?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "09.02.2012"
-    },
-    {
-      "rank": 5,
-      "previousRank": 35,
-      "rankChange": 30,
+      "rank": 6,
+      "previousRank": 5,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "525997288",
       "name": "CalcTape Taschenrechner",
@@ -134,31 +156,9 @@
       "releaseDate": "16.05.2012"
     },
     {
-      "rank": 6,
-      "previousRank": 6,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1333174950",
-      "name": "Haushaltsbuch MoneyStats Pro",
-      "developer": "Tom Tennstedt",
-      "developerUrl": "https://apps.apple.com/de/developer/tom-tennstedt/id1065357282?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/bf/09/76bf09cf-2616-2d8a-d9c4-a6f075d27920/IconAssetPro_v1-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/haushaltsbuch-moneystats-pro/id1333174950?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "14.01.2018"
-    },
-    {
       "rank": 7,
-      "previousRank": 1,
-      "rankChange": -6,
+      "previousRank": 7,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6766085390",
       "name": "ContractLife: Verträge & Abos",
@@ -179,229 +179,9 @@
     },
     {
       "rank": 8,
-      "previousRank": 8,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6463803539",
-      "name": "Finanzrechner MarkMoney3",
-      "developer": "Thomas Mark",
-      "developerUrl": "https://apps.apple.com/de/developer/thomas-mark/id345090689?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/5b/78/c55b780a-eb86-f555-d4b3-24aa36988c17/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/finanzrechner-markmoney3/id6463803539?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "11.09.2023"
-    },
-    {
-      "rank": 9,
       "previousRank": 18,
-      "rankChange": 9,
+      "rankChange": 10,
       "isNew": false,
-      "appleId": "1553233995",
-      "name": "MeineVersicherungen Manager",
-      "developer": "Marco Taubert",
-      "developerUrl": "https://apps.apple.com/de/developer/marco-taubert/id1553233997?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/7a/ff/e47affcb-a215-66fb-bf8d-566955566221/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/meineversicherungen-manager/id1553233995?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "22.02.2021"
-    },
-    {
-      "rank": 10,
-      "previousRank": 19,
-      "rankChange": 9,
-      "isNew": false,
-      "appleId": "6745961146",
-      "name": "EÜR & EAR Einfach Buchhaltung",
-      "developer": "CHRISTOPH BOTTCHER",
-      "developerUrl": "https://apps.apple.com/de/developer/christoph-bottcher/id1789125956?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/33/97/e8339737-39f1-57eb-0821-19dba03a6b5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/e%C3%BCr-ear-einfach-buchhaltung/id6745961146?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "19.05.2025"
-    },
-    {
-      "rank": 11,
-      "previousRank": 27,
-      "rankChange": 16,
-      "isNew": false,
-      "appleId": "592962356",
-      "name": "DataMan - Data Usage Widget",
-      "developer": "Johnny Ixe",
-      "developerUrl": "https://apps.apple.com/de/developer/johnny-ixe/id326568233?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/be/bc/e0bebc5e-888c-285b-5b92-24d2f6a33e36/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dataman-data-usage-widget/id592962356?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "17.01.2013"
-    },
-    {
-      "rank": 12,
-      "previousRank": 41,
-      "rankChange": 29,
-      "isNew": false,
-      "appleId": "6443707329",
-      "name": "ETF Rechner Pro - Sparplan",
-      "developer": "Toni Dominik Hoffmann",
-      "developerUrl": "https://apps.apple.com/de/developer/toni-dominik-hoffmann/id1545228558?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/09/c1/b809c1d4-4511-5da5-3e5e-ae4a7f79689a/AppIcon-Calculator-Pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/etf-rechner-pro-sparplan/id6443707329?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "06.10.2022"
-    },
-    {
-      "rank": 13,
-      "previousRank": 39,
-      "rankChange": 26,
-      "isNew": false,
-      "appleId": "505542552",
-      "name": "Finanzrechner Prof",
-      "developer": "Anatoly Weinstein",
-      "developerUrl": "https://apps.apple.com/de/developer/anatoly-weinstein/id385589772?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/eb/22/f4eb22ef-d32c-d713-0ee5-81afa5497dc7/AppIconPro-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/finanzrechner-prof/id505542552?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "22.03.2012"
-    },
-    {
-      "rank": 14,
-      "previousRank": 46,
-      "rankChange": 32,
-      "isNew": false,
-      "appleId": "1551692394",
-      "name": "ZvgScout - Zwangsversteigerung",
-      "developer": "Tell Tobler",
-      "developerUrl": "https://apps.apple.com/de/developer/tell-tobler/id1478616857?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/6c/5b/d36c5b4e-d31a-7323-7c3f-d4bd87371ecf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/zvgscout-zwangsversteigerung/id1551692394?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "18.03.2021"
-    },
-    {
-      "rank": 15,
-      "previousRank": 54,
-      "rankChange": 39,
-      "isNew": false,
-      "appleId": "680266439",
-      "name": "DER Rechner NEXT",
-      "developer": "Alexander Genosko",
-      "developerUrl": "https://apps.apple.com/de/developer/alexander-genosko/id1778707828?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/a0/19/19a01902-c3c3-b16a-e2a2-57d45ac4249b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/der-rechner-next/id680266439?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "07.08.2013"
-    },
-    {
-      "rank": 16,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6762511332",
-      "name": "Pocket: Ausgaben-Tracker",
-      "developer": "Mustafa Bhatkar",
-      "developerUrl": "https://apps.apple.com/de/developer/mustafa-bhatkar/id1499268853?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d0/6c/87d06cc9-9700-c331-56f4-11da9b8478e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/pocket-ausgaben-tracker/id6762511332?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "30.04.2026"
-    },
-    {
-      "rank": 17,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6800222312",
-      "name": "EasySEPA: SEPA QR Code",
-      "developer": "Felix Brix",
-      "developerUrl": "https://apps.apple.com/de/developer/felix-brix/id1334750391?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ea/34/a2ea346c-fe2d-62c9-deec-c5f01f9384cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/easysepa-sepa-qr-code/id6800222312?uo=2",
-      "price": {
-        "amount": 6.99,
-        "currency": "EUR",
-        "formatted": "6,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "26.08.2026"
-    },
-    {
-      "rank": 18,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "6831401523",
       "name": "Zettelwerk",
       "developer": "eventum-pharma GmbH",
@@ -420,53 +200,9 @@
       "releaseDate": "09.11.2026"
     },
     {
-      "rank": 19,
-      "previousRank": 4,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "973460116",
-      "name": "Bruno Pro",
-      "developer": "Supershift GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/supershift-gmbh/id956081909?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/41/d3/e641d3a6-ce04-e1f5-d177-fd568a908db4/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bruno-pro/id973460116?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "03.07.2015"
-    },
-    {
-      "rank": 20,
-      "previousRank": 9,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6761332365",
-      "name": "Rechnung Direkt: E-Rechnung",
-      "developer": "Michael Welzel",
-      "developerUrl": "https://apps.apple.com/de/developer/michael-welzel/id1636424419?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/ee/ca/98eecabd-644a-ba93-93e0-dfd200ab7b64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/rechnung-direkt-e-rechnung/id6761332365?uo=2",
-      "price": {
-        "amount": 49.99,
-        "currency": "EUR",
-        "formatted": "49,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "02.04.2026"
-    },
-    {
-      "rank": 21,
-      "previousRank": 10,
-      "rankChange": -11,
+      "rank": 9,
+      "previousRank": 21,
+      "rankChange": 12,
       "isNew": false,
       "appleId": "1498045251",
       "name": "Banking4 Business",
@@ -486,9 +222,427 @@
       "releaseDate": "10.08.2020"
     },
     {
-      "rank": 22,
-      "previousRank": 11,
+      "rank": 10,
+      "previousRank": 57,
+      "rankChange": 47,
+      "isNew": false,
+      "appleId": "1500241909",
+      "name": "iFinance 5",
+      "developer": "Synium Software GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/synium-software-gmbh/id284959715?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/56/cb/c456cbf0-36e3-f8ae-328c-00db18af85dc/iFinance-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ifinance-5/id1500241909?uo=2",
+      "price": {
+        "amount": 19.99,
+        "currency": "EUR",
+        "formatted": "19,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "18.07.2022"
+    },
+    {
+      "rank": 11,
+      "previousRank": 66,
+      "rankChange": 55,
+      "isNew": false,
+      "appleId": "961048437",
+      "name": "Income OK - income & expenses",
+      "developer": "Mobion OOO",
+      "developerUrl": "https://apps.apple.com/de/developer/mobion-ooo/id433262741?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d5/9a/8bd59a86-fb13-1575-3f57-5c365805275f/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/income-ok-income-expenses/id961048437?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "03.02.2015"
+    },
+    {
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1625837835",
+      "name": "AmadeusVerify",
+      "developer": "Gastro-MIS GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/gastro-mis-gmbh/id1625837837?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c5/38/c6c538f4-a14e-dc85-8d43-11e1ba3214f4/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/amadeusverify/id1625837835?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "EUR",
+        "formatted": "12,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "28.10.2022"
+    },
+    {
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759450121",
+      "name": "Avrupa Altın",
+      "developer": "Avrupa Altın",
+      "developerUrl": "https://apps.apple.com/de/developer/avrupa-alt%C4%B1n/id1878664740?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/00/6d/ab006d62-006f-457c-9475-e71c787b15e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/avrupa-alt%C4%B1n/id6759450121?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "23.03.2026"
+    },
+    {
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6759177346",
+      "name": "Patte-Finanzen & Split",
+      "developer": "Sebastian Kratschmer",
+      "developerUrl": "https://apps.apple.com/de/developer/sebastian-kratschmer/id1865950317?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/71/2d/ac712dcf-699f-1044-9a7a-3c0a0794645e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/patte-finanzen-split/id6759177346?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "23.02.2026"
+    },
+    {
+      "rank": 15,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1622807732",
+      "name": "DCAvg: Investing Tracker",
+      "developer": "James Chang",
+      "developerUrl": "https://apps.apple.com/de/developer/james-chang/id1567386633?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/6f/16/e66f1621-6dd1-a2be-6be5-eae78a3e14db/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dcavg-investing-tracker/id1622807732?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "07.05.2022"
+    },
+    {
+      "rank": 16,
+      "previousRank": 4,
+      "rankChange": -12,
+      "isNew": false,
+      "appleId": "488892606",
+      "name": "Mein Haushaltsbuch",
+      "developer": "Christian Drapatz",
+      "developerUrl": "https://apps.apple.com/de/developer/christian-drapatz/id408258686?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/90/9b/e1909b8a-4a29-0fe7-97e6-b6a82ddb04a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mein-haushaltsbuch/id488892606?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "09.02.2012"
+    },
+    {
+      "rank": 17,
+      "previousRank": 6,
       "rankChange": -11,
+      "isNew": false,
+      "appleId": "1333174950",
+      "name": "Haushaltsbuch MoneyStats Pro",
+      "developer": "Tom Tennstedt",
+      "developerUrl": "https://apps.apple.com/de/developer/tom-tennstedt/id1065357282?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/bf/09/76bf09cf-2616-2d8a-d9c4-a6f075d27920/IconAssetPro_v1-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/haushaltsbuch-moneystats-pro/id1333174950?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "14.01.2018"
+    },
+    {
+      "rank": 18,
+      "previousRank": 9,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "1553233995",
+      "name": "MeineVersicherungen Manager",
+      "developer": "Marco Taubert",
+      "developerUrl": "https://apps.apple.com/de/developer/marco-taubert/id1553233997?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/7a/ff/e47affcb-a215-66fb-bf8d-566955566221/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/meineversicherungen-manager/id1553233995?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "22.02.2021"
+    },
+    {
+      "rank": 19,
+      "previousRank": 10,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "6745961146",
+      "name": "EÜR & EAR Einfach Buchhaltung",
+      "developer": "CHRISTOPH BOTTCHER",
+      "developerUrl": "https://apps.apple.com/de/developer/christoph-bottcher/id1789125956?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/33/97/e8339737-39f1-57eb-0821-19dba03a6b5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/e%C3%BCr-ear-einfach-buchhaltung/id6745961146?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "19.05.2025"
+    },
+    {
+      "rank": 20,
+      "previousRank": 11,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "592962356",
+      "name": "DataMan - Data Usage Widget",
+      "developer": "Johnny Ixe",
+      "developerUrl": "https://apps.apple.com/de/developer/johnny-ixe/id326568233?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/be/bc/e0bebc5e-888c-285b-5b92-24d2f6a33e36/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dataman-data-usage-widget/id592962356?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "17.01.2013"
+    },
+    {
+      "rank": 21,
+      "previousRank": 12,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "6443707329",
+      "name": "ETF Rechner Pro - Sparplan",
+      "developer": "Toni Dominik Hoffmann",
+      "developerUrl": "https://apps.apple.com/de/developer/toni-dominik-hoffmann/id1545228558?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/09/c1/b809c1d4-4511-5da5-3e5e-ae4a7f79689a/AppIcon-Calculator-Pro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/etf-rechner-pro-sparplan/id6443707329?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "06.10.2022"
+    },
+    {
+      "rank": 22,
+      "previousRank": 13,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "505542552",
+      "name": "Finanzrechner Prof",
+      "developer": "Anatoly Weinstein",
+      "developerUrl": "https://apps.apple.com/de/developer/anatoly-weinstein/id385589772?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/eb/22/f4eb22ef-d32c-d713-0ee5-81afa5497dc7/AppIconPro-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/finanzrechner-prof/id505542552?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "22.03.2012"
+    },
+    {
+      "rank": 23,
+      "previousRank": 14,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "1551692394",
+      "name": "ZvgScout - Zwangsversteigerung",
+      "developer": "Tell Tobler",
+      "developerUrl": "https://apps.apple.com/de/developer/tell-tobler/id1478616857?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/6c/5b/d36c5b4e-d31a-7323-7c3f-d4bd87371ecf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/zvgscout-zwangsversteigerung/id1551692394?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "18.03.2021"
+    },
+    {
+      "rank": 24,
+      "previousRank": 15,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "680266439",
+      "name": "DER Rechner NEXT",
+      "developer": "Alexander Genosko",
+      "developerUrl": "https://apps.apple.com/de/developer/alexander-genosko/id1778707828?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/a0/19/19a01902-c3c3-b16a-e2a2-57d45ac4249b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/der-rechner-next/id680266439?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "07.08.2013"
+    },
+    {
+      "rank": 25,
+      "previousRank": 16,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "6762511332",
+      "name": "Pocket: Ausgaben-Tracker",
+      "developer": "Mustafa Bhatkar",
+      "developerUrl": "https://apps.apple.com/de/developer/mustafa-bhatkar/id1499268853?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b1/7f/f4b17f6d-a1e0-36b8-dcff-dd270762da68/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pocket-ausgaben-tracker/id6762511332?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "30.04.2026"
+    },
+    {
+      "rank": 26,
+      "previousRank": 17,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "6800222312",
+      "name": "EasySEPA: SEPA QR Code",
+      "developer": "Felix Brix",
+      "developerUrl": "https://apps.apple.com/de/developer/felix-brix/id1334750391?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ea/34/a2ea346c-fe2d-62c9-deec-c5f01f9384cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/easysepa-sepa-qr-code/id6800222312?uo=2",
+      "price": {
+        "amount": 6.99,
+        "currency": "EUR",
+        "formatted": "6,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "26.08.2026"
+    },
+    {
+      "rank": 27,
+      "previousRank": 19,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "973460116",
+      "name": "Bruno Pro",
+      "developer": "Supershift GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/supershift-gmbh/id956081909?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/41/d3/e641d3a6-ce04-e1f5-d177-fd568a908db4/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/bruno-pro/id973460116?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "03.07.2015"
+    },
+    {
+      "rank": 28,
+      "previousRank": 20,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "6761332365",
+      "name": "Rechnung Direkt: E-Rechnung",
+      "developer": "Michael Welzel",
+      "developerUrl": "https://apps.apple.com/de/developer/michael-welzel/id1636424419?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/ee/ca/98eecabd-644a-ba93-93e0-dfd200ab7b64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/rechnung-direkt-e-rechnung/id6761332365?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR",
+        "formatted": "49,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "02.04.2026"
+    },
+    {
+      "rank": 29,
+      "previousRank": 22,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "1535080893",
       "name": "CryptoWatch - Complication",
@@ -508,9 +662,9 @@
       "releaseDate": "18.10.2020"
     },
     {
-      "rank": 23,
-      "previousRank": 12,
-      "rankChange": -11,
+      "rank": 30,
+      "previousRank": 23,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "305709452",
       "name": "Finanzmathematischer Taschen",
@@ -530,31 +684,9 @@
       "releaseDate": "21.02.2009"
     },
     {
-      "rank": 24,
-      "previousRank": 13,
-      "rankChange": -11,
-      "isNew": false,
-      "appleId": "6795237687",
-      "name": "Nettolohn 2026 Pocket",
-      "developer": "Thomas Boldt",
-      "developerUrl": "https://apps.apple.com/de/developer/thomas-boldt/id491910331?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2a/e8/cf2ae8ac-2724-0f27-3cab-b05d256ffe04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nettolohn-2026-pocket/id6795237687?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "05.08.2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 14,
-      "rankChange": -11,
+      "rank": 31,
+      "previousRank": 25,
+      "rankChange": -6,
       "isNew": false,
       "appleId": "1671458192",
       "name": "Auto Finanzen",
@@ -574,9 +706,31 @@
       "releaseDate": "20.02.2023"
     },
     {
-      "rank": 26,
-      "previousRank": 15,
-      "rankChange": -11,
+      "rank": 32,
+      "previousRank": 24,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "6795237687",
+      "name": "Nettolohn 2026 Pocket",
+      "developer": "Thomas Boldt",
+      "developerUrl": "https://apps.apple.com/de/developer/thomas-boldt/id491910331?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2a/e8/cf2ae8ac-2724-0f27-3cab-b05d256ffe04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nettolohn-2026-pocket/id6795237687?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "05.08.2026"
+    },
+    {
+      "rank": 33,
+      "previousRank": 26,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "6711333214",
       "name": "Notargebühren",
@@ -596,9 +750,9 @@
       "releaseDate": "24.09.2024"
     },
     {
-      "rank": 27,
-      "previousRank": 16,
-      "rankChange": -11,
+      "rank": 34,
+      "previousRank": 27,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "1496737806",
       "name": "Währungsrechner Pro",
@@ -618,9 +772,9 @@
       "releaseDate": "28.01.2020"
     },
     {
-      "rank": 28,
-      "previousRank": 17,
-      "rankChange": -11,
+      "rank": 35,
+      "previousRank": 28,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "6742040639",
       "name": "Cart AI: Einkaufsbudget",
@@ -640,15 +794,15 @@
       "releaseDate": "16.04.2025"
     },
     {
-      "rank": 29,
-      "previousRank": 20,
-      "rankChange": -9,
+      "rank": 36,
+      "previousRank": 29,
+      "rankChange": -7,
       "isNew": false,
       "appleId": "358228999",
       "name": "Meine Ausgaben",
       "developer": "Block21 AB",
       "developerUrl": "https://apps.apple.com/de/developer/block21-ab/id358229002?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/f9/48/e7f94801-fbfc-6918-13a3-d4d84b0041c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/14/5c/3f145c3e-abbf-413b-0663-69663ed21aa2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/meine-ausgaben/id358228999?uo=2",
       "price": {
         "amount": 1.99,
@@ -662,185 +816,9 @@
       "releaseDate": "02.03.2010"
     },
     {
-      "rank": 30,
-      "previousRank": 21,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1437561855",
-      "name": "Hypothekenrechner HypoPlaner",
-      "developer": "Marcus Allmer",
-      "developerUrl": "https://apps.apple.com/de/developer/marcus-allmer/id1437561854?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/84/26/a88426c0-e232-15b3-058a-f0919b8164b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/hypothekenrechner-hypoplaner/id1437561855?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "04.11.2018"
-    },
-    {
-      "rank": 31,
-      "previousRank": 22,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1481719060",
-      "name": "BA Financial Calculator (PRO)",
-      "developer": "Angel Montana",
-      "developerUrl": "https://apps.apple.com/de/developer/angel-montana/id1479219211?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/38/06/37380601-e4a0-4837-9fbc-c788f90426c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ba-financial-calculator-pro/id1481719060?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "05.10.2019"
-    },
-    {
-      "rank": 32,
-      "previousRank": 23,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "1204742867",
-      "name": "Echtzeit Bitcoin Ticker",
-      "developer": "MoneyCoach UG",
-      "developerUrl": "https://apps.apple.com/de/developer/moneycoach-ug/id1170891449?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/64/72/f56472fa-9656-c3a7-c972-4a5ab9fde494/AppIcon-1x_U007epad-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/echtzeit-bitcoin-ticker/id1204742867?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "17.02.2017"
-    },
-    {
-      "rank": 33,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "473206441",
-      "name": "Stocks Live + Aktien Tracker",
-      "developer": "Cinnamon Mobile LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/cinnamon-mobile-llc/id473206444?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/fd/76/eafd7633-e4f2-d863-da6c-6861605fb3ef/NewAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/stocks-live-aktien-tracker/id473206441?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "22.11.2011"
-    },
-    {
-      "rank": 34,
-      "previousRank": 24,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1501886634",
-      "name": "Meine Kleinausgaben",
-      "developer": "Daniel Furrer",
-      "developerUrl": "https://apps.apple.com/de/developer/daniel-furrer/id1241932900?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/71/ae/8871ae48-c100-9856-1531-ade763d7f95a/CashSpendings-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/meine-kleinausgaben/id1501886634?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "08.04.2020"
-    },
-    {
-      "rank": 35,
-      "previousRank": 25,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6759450894",
-      "name": "FixBudget",
-      "developer": "Patrick Lochthowe",
-      "developerUrl": "https://apps.apple.com/de/developer/patrick-lochthowe/id1858915788?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/e2/02/78e2026e-709d-8486-e27d-7968a44c66ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fixbudget/id6759450894?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "23.02.2026"
-    },
-    {
-      "rank": 36,
-      "previousRank": 26,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6777379376",
-      "name": "Bon Dossier",
-      "developer": "ROSE",
-      "developerUrl": "https://apps.apple.com/de/developer/rose/id349851453?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/7d/06/807d06a7-80d6-611e-61f2-71f23385d417/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bon-dossier/id6777379376?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "12.08.2026"
-    },
-    {
       "rank": 37,
-      "previousRank": 28,
-      "rankChange": -9,
-      "isNew": false,
-      "appleId": "918609651",
-      "name": "Money Pro: Personal Finance AR",
-      "developer": "iBear LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/ibear-llc/id347886453?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/8d/29/408d29e9-0545-77bf-3a58-d56d7fb8cbb1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/money-pro-personal-finance-ar/id918609651?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "22.10.2014"
-    },
-    {
-      "rank": 38,
-      "previousRank": 33,
-      "rankChange": -5,
+      "previousRank": 38,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "284947174",
       "name": "iXpenseIt Pro: Finanzen",
@@ -860,9 +838,31 @@
       "releaseDate": "12.02.2019"
     },
     {
+      "rank": 38,
+      "previousRank": 37,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "918609651",
+      "name": "Money Pro: Personal Finance AR",
+      "developer": "iBear LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/ibear-llc/id347886453?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/8d/29/408d29e9-0545-77bf-3a58-d56d7fb8cbb1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/money-pro-personal-finance-ar/id918609651?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "22.10.2014"
+    },
+    {
       "rank": 39,
-      "previousRank": 34,
-      "rankChange": -5,
+      "previousRank": 39,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "298398207",
       "name": "Road Trip MPG",
@@ -883,8 +883,8 @@
     },
     {
       "rank": 40,
-      "previousRank": 36,
-      "rankChange": -4,
+      "previousRank": 40,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "747794925",
       "name": "Daily Budget Original Pro",
@@ -905,8 +905,8 @@
     },
     {
       "rank": 41,
-      "previousRank": 32,
-      "rankChange": -9,
+      "previousRank": 41,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1107519108",
       "name": "DOC%ZINS",
@@ -927,8 +927,8 @@
     },
     {
       "rank": 42,
-      "previousRank": 37,
-      "rankChange": -5,
+      "previousRank": 42,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "306257910",
       "name": "HomeBudget with Sync",
@@ -949,8 +949,8 @@
     },
     {
       "rank": 43,
-      "previousRank": 38,
-      "rankChange": -5,
+      "previousRank": 43,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "529090535",
       "name": "Download Meter für WLAN &  mobiles Internet (3G/4G/LTE/EDGE/Wi-Fi)- behalten Sie Ihren Datentarif im Auge!",
@@ -971,8 +971,8 @@
     },
     {
       "rank": 44,
-      "previousRank": 40,
-      "rankChange": -4,
+      "previousRank": 44,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "352650025",
       "name": "KfzSteuer+",
@@ -993,8 +993,8 @@
     },
     {
       "rank": 45,
-      "previousRank": 42,
-      "rankChange": -3,
+      "previousRank": 45,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "302334852",
       "name": "futureMillionaire",
@@ -1015,8 +1015,8 @@
     },
     {
       "rank": 46,
-      "previousRank": 43,
-      "rankChange": -3,
+      "previousRank": 46,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "443693213",
       "name": "SpritProtokoll",
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 44,
-      "rankChange": -3,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "679044544",
       "name": "AndroMoney",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 45,
-      "rankChange": -3,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1224988685",
       "name": "SayMoney Pro - Finanzen",
@@ -1081,8 +1081,8 @@
     },
     {
       "rank": 49,
-      "previousRank": 47,
-      "rankChange": -2,
+      "previousRank": 49,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "441683476",
       "name": "Weple Money Pro",
@@ -1103,8 +1103,8 @@
     },
     {
       "rank": 50,
-      "previousRank": 48,
-      "rankChange": -2,
+      "previousRank": 50,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "611717629",
       "name": "Mein Geld Deluxe",
@@ -1125,8 +1125,8 @@
     },
     {
       "rank": 51,
-      "previousRank": 49,
-      "rankChange": -2,
+      "previousRank": 51,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "290874373",
       "name": "XpenseTracker",
@@ -1147,8 +1147,8 @@
     },
     {
       "rank": 52,
-      "previousRank": 50,
-      "rankChange": -2,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "719162125",
       "name": "Currenzy",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 51,
-      "rankChange": -2,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "427714758",
       "name": "Currency+ (Currency Converter)",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 52,
-      "rankChange": -2,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "420224323",
       "name": "CalConvert: Pro Rechner $",
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 53,
-      "rankChange": -2,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "662715855",
       "name": "Rollenpapier Taschenrechner Flat",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "694047660",
       "name": "Budget ~ Persönliche Finanzen",
@@ -1260,27 +1260,27 @@
       "previousRank": 30,
       "rankChange": -27,
       "isNew": false,
-      "appleId": "1500241909",
-      "name": "iFinance 5",
-      "developer": "Synium Software GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/synium-software-gmbh/id284959715?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/56/cb/c456cbf0-36e3-f8ae-328c-00db18af85dc/iFinance-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ifinance-5/id1500241909?uo=2",
+      "appleId": "1437561855",
+      "name": "Hypothekenrechner HypoPlaner",
+      "developer": "Marcus Allmer",
+      "developerUrl": "https://apps.apple.com/de/developer/marcus-allmer/id1437561854?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/84/26/a88426c0-e232-15b3-058a-f0919b8164b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/hypothekenrechner-hypoplaner/id1437561855?uo=2",
       "price": {
-        "amount": 19.99,
+        "amount": 0.99,
         "currency": "EUR",
-        "formatted": "19,99 €"
+        "formatted": "0,99 €"
       },
       "primaryCategory": {
         "id": "6015",
         "name": "Finanzen"
       },
-      "releaseDate": "18.07.2022"
+      "releaseDate": "04.11.2018"
     },
     {
       "rank": 58,
-      "previousRank": 56,
-      "rankChange": -2,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "503641946",
       "name": "HP 12c Financial Calculator",
@@ -1301,8 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 57,
-      "rankChange": -2,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "329739750",
       "name": "BA II Plus™ Financial Calc",
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 58,
-      "rankChange": -2,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "847686147",
       "name": "Zwangsversteigerung",
@@ -1345,8 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 59,
-      "rankChange": -2,
+      "previousRank": 61,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "482380860",
       "name": "Währungsrechner & Wechselkurse",
@@ -1367,8 +1367,8 @@
     },
     {
       "rank": 62,
-      "previousRank": 60,
-      "rankChange": -2,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "957335241",
       "name": "Haushaltsbuch to go",
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 61,
-      "rankChange": -2,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "360256797",
       "name": "10bii Financial Calculator",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 62,
-      "rankChange": -2,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1481937302",
       "name": "Bank X Mobile 4",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 63,
-      "rankChange": -2,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "299621048",
       "name": "Benzinverbrauch",
@@ -1455,30 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 64,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "961048437",
-      "name": "Income OK - income & expenses",
-      "developer": "Mobion OOO",
-      "developerUrl": "https://apps.apple.com/de/developer/mobion-ooo/id433262741?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d5/9a/8bd59a86-fb13-1575-3f57-5c365805275f/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/income-ok-income-expenses/id961048437?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "03.02.2015"
-    },
-    {
-      "rank": 67,
-      "previousRank": 65,
-      "rankChange": -2,
+      "previousRank": 67,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "293047420",
       "name": "Share-a-bill",
@@ -1498,9 +1476,9 @@
       "releaseDate": "13.10.2008"
     },
     {
-      "rank": 68,
-      "previousRank": 66,
-      "rankChange": -2,
+      "rank": 67,
+      "previousRank": 68,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "316520188",
       "name": "Poker Income Bankroll Tracker",
@@ -1520,9 +1498,9 @@
       "releaseDate": "22.05.2009"
     },
     {
-      "rank": 69,
-      "previousRank": 67,
-      "rankChange": -2,
+      "rank": 68,
+      "previousRank": 69,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6451002788",
       "name": "Finanzrechner - MarkMoneyPro3",
@@ -1542,9 +1520,9 @@
       "releaseDate": "11.12.2023"
     },
     {
-      "rank": 70,
-      "previousRank": 68,
-      "rankChange": -2,
+      "rank": 69,
+      "previousRank": 70,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "328224790",
       "name": "HP 12C Platinum Calculator",
@@ -1564,9 +1542,9 @@
       "releaseDate": "29.08.2009"
     },
     {
-      "rank": 71,
-      "previousRank": 69,
-      "rankChange": -2,
+      "rank": 70,
+      "previousRank": 71,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "293670532",
       "name": "Zinsrechner",
@@ -1586,9 +1564,9 @@
       "releaseDate": "17.10.2008"
     },
     {
-      "rank": 72,
-      "previousRank": 70,
-      "rankChange": -2,
+      "rank": 71,
+      "previousRank": 72,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "315627512",
       "name": "Rates",
@@ -1608,9 +1586,9 @@
       "releaseDate": "21.05.2009"
     },
     {
-      "rank": 73,
-      "previousRank": 71,
-      "rankChange": -2,
+      "rank": 72,
+      "previousRank": 73,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "457169003",
       "name": "MwSt Rechner IOS",
@@ -1630,9 +1608,9 @@
       "releaseDate": "17.08.2011"
     },
     {
-      "rank": 74,
-      "previousRank": 72,
-      "rankChange": -2,
+      "rank": 73,
+      "previousRank": 74,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "500639700",
       "name": "Leasing 1x1",
@@ -1652,9 +1630,9 @@
       "releaseDate": "13.02.2012"
     },
     {
-      "rank": 75,
-      "previousRank": 73,
-      "rankChange": -2,
+      "rank": 74,
+      "previousRank": 75,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "417467663",
       "name": "GoldRatio",
@@ -1674,9 +1652,9 @@
       "releaseDate": "03.02.2011"
     },
     {
-      "rank": 76,
-      "previousRank": 74,
-      "rankChange": -2,
+      "rank": 75,
+      "previousRank": 76,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "913748514",
       "name": "Kraftstoffverbrauch",
@@ -1696,9 +1674,9 @@
       "releaseDate": "08.09.2014"
     },
     {
-      "rank": 77,
-      "previousRank": 75,
-      "rankChange": -2,
+      "rank": 76,
+      "previousRank": 77,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "299806961",
       "name": "Kredit Rechner, Tilgungsplan für Auto & Immobilien",
@@ -1718,31 +1696,9 @@
       "releaseDate": "15.12.2008"
     },
     {
-      "rank": 78,
-      "previousRank": 76,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "1437054263",
-      "name": "Gem - Money tracker",
-      "developer": "Oz Pinhas",
-      "developerUrl": "https://apps.apple.com/de/developer/oz-pinhas/id1437054262?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/15/72c815bd-5e8b-ce84-c8d5-f2da084e0a6f/AppIcon-0-0-1x_U007ephone-0-3-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/gem-money-tracker/id1437054263?uo=2",
-      "price": {
-        "amount": 0.49,
-        "currency": "EUR",
-        "formatted": "0,49 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "15.02.2021"
-    },
-    {
-      "rank": 79,
-      "previousRank": 77,
-      "rankChange": -2,
+      "rank": 77,
+      "previousRank": 79,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "395153197",
       "name": "Easy Household Classic",
@@ -1762,9 +1718,9 @@
       "releaseDate": "05.10.2010"
     },
     {
-      "rank": 80,
-      "previousRank": 78,
-      "rankChange": -2,
+      "rank": 78,
+      "previousRank": 80,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "820210381",
       "name": "Zahlungserinnerung",
@@ -1784,9 +1740,9 @@
       "releaseDate": "20.02.2014"
     },
     {
-      "rank": 81,
-      "previousRank": 79,
-      "rankChange": -2,
+      "rank": 79,
+      "previousRank": 81,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "525680913",
       "name": "Loan Calculator with Extras",
@@ -1806,9 +1762,9 @@
       "releaseDate": "31.07.2012"
     },
     {
-      "rank": 82,
-      "previousRank": 80,
-      "rankChange": -2,
+      "rank": 80,
+      "previousRank": 82,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "440993724",
       "name": "EUR/USD Exchange Rate Live",
@@ -1828,9 +1784,9 @@
       "releaseDate": "06.06.2011"
     },
     {
-      "rank": 83,
-      "previousRank": 81,
-      "rankChange": -2,
+      "rank": 81,
+      "previousRank": 83,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1168043234",
       "name": "MetaCanvas - Business Design",
@@ -1850,9 +1806,9 @@
       "releaseDate": "25.01.2017"
     },
     {
-      "rank": 84,
-      "previousRank": 82,
-      "rankChange": -2,
+      "rank": 82,
+      "previousRank": 84,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "436402486",
       "name": "Gold - Live Badge Price",
@@ -1872,9 +1828,9 @@
       "releaseDate": "13.05.2011"
     },
     {
-      "rank": 85,
-      "previousRank": 83,
-      "rankChange": -2,
+      "rank": 83,
+      "previousRank": 85,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1054634018",
       "name": "WifiMan from DataMan",
@@ -1894,9 +1850,9 @@
       "releaseDate": "08.11.2015"
     },
     {
-      "rank": 86,
-      "previousRank": 84,
-      "rankChange": -2,
+      "rank": 84,
+      "previousRank": 86,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1038175626",
       "name": "WalletApp",
@@ -1916,9 +1872,9 @@
       "releaseDate": "21.09.2015"
     },
     {
-      "rank": 87,
-      "previousRank": 85,
-      "rankChange": -2,
+      "rank": 85,
+      "previousRank": 87,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1059668188",
       "name": "Mein Rechner (inkl. Währungen)",
@@ -1938,9 +1894,9 @@
       "releaseDate": "02.12.2015"
     },
     {
-      "rank": 88,
-      "previousRank": 86,
-      "rankChange": -2,
+      "rank": 86,
+      "previousRank": 88,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "757904915",
       "name": "Finanzmathematik Rechner",
@@ -1960,31 +1916,9 @@
       "releaseDate": "22.11.2013"
     },
     {
-      "rank": 89,
-      "previousRank": 87,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "336200559",
-      "name": "BruttoNetto – Gehaltsrechner",
-      "developer": "Mag. Herwig Ranger",
-      "developerUrl": "https://apps.apple.com/de/developer/mag-herwig-ranger/id336200562?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ed/d7/a4edd734-1994-4417-23fd-3d73455bfb4f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bruttonetto-gehaltsrechner/id336200559?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6015",
-        "name": "Finanzen"
-      },
-      "releaseDate": "31.10.2009"
-    },
-    {
-      "rank": 90,
-      "previousRank": 88,
-      "rankChange": -2,
+      "rank": 87,
+      "previousRank": 90,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "386493543",
       "name": "iQIF",
@@ -2004,9 +1938,31 @@
       "releaseDate": "17.08.2010"
     },
     {
-      "rank": 91,
+      "rank": 88,
       "previousRank": 89,
-      "rankChange": -2,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "336200559",
+      "name": "BruttoNetto – Gehaltsrechner",
+      "developer": "Mag. Herwig Ranger",
+      "developerUrl": "https://apps.apple.com/de/developer/mag-herwig-ranger/id336200562?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ed/d7/a4edd734-1994-4417-23fd-3d73455bfb4f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/bruttonetto-gehaltsrechner/id336200559?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "31.10.2009"
+    },
+    {
+      "rank": 89,
+      "previousRank": 91,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "338971047",
       "name": "BA Financial Calculator Pro",
@@ -2026,9 +1982,9 @@
       "releaseDate": "20.11.2009"
     },
     {
-      "rank": 92,
-      "previousRank": 90,
-      "rankChange": -2,
+      "rank": 90,
+      "previousRank": 92,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6447632255",
       "name": "14 28",
@@ -2048,9 +2004,9 @@
       "releaseDate": "21.04.2023"
     },
     {
-      "rank": 93,
-      "previousRank": 91,
-      "rankChange": -2,
+      "rank": 91,
+      "previousRank": 93,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "926076608",
       "name": "1SecMoney",
@@ -2070,9 +2026,9 @@
       "releaseDate": "02.11.2014"
     },
     {
-      "rank": 94,
-      "previousRank": 92,
-      "rankChange": -2,
+      "rank": 92,
+      "previousRank": 94,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "400147868",
       "name": "Vicinno Financial Calculator",
@@ -2092,9 +2048,9 @@
       "releaseDate": "01.11.2010"
     },
     {
-      "rank": 95,
-      "previousRank": 93,
-      "rankChange": -2,
+      "rank": 93,
+      "previousRank": 95,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "293653078",
       "name": "MathU RPN Calc",
@@ -2114,9 +2070,9 @@
       "releaseDate": "17.10.2008"
     },
     {
-      "rank": 96,
-      "previousRank": 94,
-      "rankChange": -2,
+      "rank": 94,
+      "previousRank": 96,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "437238261",
       "name": "Easy Spending Budget",
@@ -2136,9 +2092,9 @@
       "releaseDate": "20.07.2011"
     },
     {
-      "rank": 97,
-      "previousRank": 96,
-      "rankChange": -1,
+      "rank": 95,
+      "previousRank": 97,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "734187686",
       "name": "10bii+ Financial Calculator",
@@ -2158,9 +2114,9 @@
       "releaseDate": "05.11.2013"
     },
     {
-      "rank": 98,
-      "previousRank": 95,
-      "rankChange": -3,
+      "rank": 96,
+      "previousRank": 98,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1035430719",
       "name": "My Currency Converter Pro",
@@ -2178,6 +2134,28 @@
         "name": "Finanzen"
       },
       "releaseDate": "16.09.2015"
+    },
+    {
+      "rank": 97,
+      "previousRank": 31,
+      "rankChange": -66,
+      "isNew": false,
+      "appleId": "1481719060",
+      "name": "BA Financial Calculator (PRO)",
+      "developer": "Angel Montana",
+      "developerUrl": "https://apps.apple.com/de/developer/angel-montana/id1479219211?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/38/06/37380601-e4a0-4837-9fbc-c788f90426c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ba-financial-calculator-pro/id1481719060?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6015",
+        "name": "Finanzen"
+      },
+      "releaseDate": "05.10.2019"
     }
   ]
 }

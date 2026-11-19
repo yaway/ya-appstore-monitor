@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-17",
-  "collectedAt": "2026-11-17T08:56:25.779Z",
-  "sourceUpdatedAt": "2026-11-17T00:56:25-07:00",
+  "snapshotDate": "2026-11-19",
+  "collectedAt": "2026-11-19T08:33:06.414Z",
+  "sourceUpdatedAt": "2026-11-19T00:33:05-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/in/rss/toppaidapplications/limit=100/genre=6026/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "开发工具"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-16",
+  "previousSnapshotDate": "2026-11-17",
   "apps": [
     {
       "rank": 1,
@@ -47,15 +47,15 @@
     },
     {
       "rank": 2,
-      "previousRank": 23,
-      "rankChange": 21,
+      "previousRank": 90,
+      "rankChange": 88,
       "isNew": false,
-      "appleId": "1582439659",
-      "name": "Harbour - Docker Manager",
-      "developer": "Kacper Kaczmarzyk",
-      "developerUrl": "https://apps.apple.com/in/developer/kacper-kaczmarzyk/id1582439661?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ff/35/b1ff35ac-e768-66e4-b284-8c373e78bf7e/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/harbour-docker-manager/id1582439659?uo=2",
+      "appleId": "6802766546",
+      "name": "Modbus Poll Mobile",
+      "developer": "Muh Syafiudin",
+      "developerUrl": "https://apps.apple.com/in/developer/muh-syafiudin/id1858135516?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/c0/2d/62c02dba-f153-d187-c8c1-fb227bd568f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/modbus-poll-mobile/id6802766546?uo=2",
       "price": {
         "amount": 299,
         "currency": "INR",
@@ -65,34 +65,12 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "06 April 2024"
+      "releaseDate": "04 September 2026"
     },
     {
       "rank": 3,
-      "previousRank": 2,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6446419487",
-      "name": "Tanuki for GitLab",
-      "developer": "Felix Schindler",
-      "developerUrl": "https://apps.apple.com/in/developer/felix-schindler/id1677876382?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/06/0e/b5060e87-be2c-7365-bb67-b42d94f17ac5/TanukiIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/tanuki-for-gitlab/id6446419487?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "INR",
-        "formatted": "₹ 99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "22 March 2023"
-    },
-    {
-      "rank": 4,
-      "previousRank": 3,
-      "rankChange": -1,
+      "previousRank": 4,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6787238415",
       "name": "Nextpad++",
@@ -112,9 +90,31 @@
       "releaseDate": "11 November 2026"
     },
     {
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1582439659",
+      "name": "Harbour - Docker Manager",
+      "developer": "Kacper Kaczmarzyk",
+      "developerUrl": "https://apps.apple.com/in/developer/kacper-kaczmarzyk/id1582439661?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ff/35/b1ff35ac-e768-66e4-b284-8c373e78bf7e/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/harbour-docker-manager/id1582439659?uo=2",
+      "price": {
+        "amount": 299,
+        "currency": "INR",
+        "formatted": "₹ 299"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "06 April 2024"
+    },
+    {
       "rank": 5,
-      "previousRank": 7,
-      "rankChange": 2,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6758669847",
       "name": "Echo - SSH + Mosh Client",
@@ -135,8 +135,8 @@
     },
     {
       "rank": 6,
-      "previousRank": 8,
-      "rankChange": 2,
+      "previousRank": 6,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1512938504",
       "name": "Code App",
@@ -157,51 +157,7 @@
     },
     {
       "rank": 7,
-      "previousRank": 4,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6805699104",
-      "name": "HAPI: vibe coding anywhere",
-      "developer": "HongKong Infoturge Technologies Limited",
-      "developerUrl": "https://apps.apple.com/in/developer/hongkong-infoturge-technologies-limited/id6805699106?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/cb/2b/26cb2bd9-53d4-9001-ebf5-03b3b9f8229c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/hapi-vibe-coding-anywhere/id6805699104?uo=2",
-      "price": {
-        "amount": 999,
-        "currency": "INR",
-        "formatted": "₹ 999"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "16 September 2026"
-    },
-    {
-      "rank": 8,
       "previousRank": 9,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "6443893597",
-      "name": "Simple Server: HTTP Server",
-      "developer": "Bitsbaker LLC.",
-      "developerUrl": "https://apps.apple.com/in/developer/bitsbaker-llc/id1631721150?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/aa/1f/22aa1fa5-6650-5d5c-727a-bc387412c05e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/simple-server-http-server/id6443893597?uo=2",
-      "price": {
-        "amount": 399,
-        "currency": "INR",
-        "formatted": "₹ 399"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "18 October 2022"
-    },
-    {
-      "rank": 9,
-      "previousRank": 11,
       "rankChange": 2,
       "isNew": false,
       "appleId": "1470146079",
@@ -220,6 +176,50 @@
         "name": "Developer Tools"
       },
       "releaseDate": "19 September 2019"
+    },
+    {
+      "rank": 8,
+      "previousRank": 11,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "1481149807",
+      "name": "OpenTerm",
+      "developer": "CHENGDU MIAOZHI TECHNOLOGY CO., LTD.",
+      "developerUrl": "https://apps.apple.com/in/developer/chengdu-miaozhi-technology-co-ltd/id1465440799?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/14/19/101419e9-9b57-839b-9460-5ec1062a5e45/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/openterm/id1481149807?uo=2",
+      "price": {
+        "amount": 499,
+        "currency": "INR",
+        "formatted": "₹ 499"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "15 December 2019"
+    },
+    {
+      "rank": 9,
+      "previousRank": 8,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "6443893597",
+      "name": "Simple Server: HTTP Server",
+      "developer": "Bitsbaker LLC.",
+      "developerUrl": "https://apps.apple.com/in/developer/bitsbaker-llc/id1631721150?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/aa/1f/22aa1fa5-6650-5d5c-727a-bc387412c05e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/simple-server-http-server/id6443893597?uo=2",
+      "price": {
+        "amount": 399,
+        "currency": "INR",
+        "formatted": "₹ 399"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "18 October 2022"
     },
     {
       "rank": 10,
@@ -245,37 +245,37 @@
     },
     {
       "rank": 11,
-      "previousRank": 12,
-      "rankChange": 1,
+      "previousRank": 7,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "1481149807",
-      "name": "OpenTerm",
-      "developer": "CHENGDU MIAOZHI TECHNOLOGY CO., LTD.",
-      "developerUrl": "https://apps.apple.com/in/developer/chengdu-miaozhi-technology-co-ltd/id1465440799?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/14/19/101419e9-9b57-839b-9460-5ec1062a5e45/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/openterm/id1481149807?uo=2",
+      "appleId": "6805699104",
+      "name": "HAPI: vibe coding anywhere",
+      "developer": "HongKong Infoturge Technologies Limited",
+      "developerUrl": "https://apps.apple.com/in/developer/hongkong-infoturge-technologies-limited/id6805699106?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/06/bc/7806bcc0-c9b3-ec64-e7cc-f03955d58f4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/hapi-vibe-coding-anywhere/id6805699104?uo=2",
       "price": {
-        "amount": 499,
+        "amount": 999,
         "currency": "INR",
-        "formatted": "₹ 499"
+        "formatted": "₹ 999"
       },
       "primaryCategory": {
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "15 December 2019"
+      "releaseDate": "16 September 2026"
     },
     {
       "rank": 12,
-      "previousRank": 5,
-      "rankChange": -7,
+      "previousRank": 3,
+      "rankChange": -9,
       "isNew": false,
-      "appleId": "6477325566",
-      "name": "SQL Sheep",
-      "developer": "Ciwei Tech",
-      "developerUrl": "https://apps.apple.com/in/developer/ciwei-tech/id1728982551?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/93/8e/bd938ea6-5b2a-b470-447b-25a647def7e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/sql-sheep/id6477325566?uo=2",
+      "appleId": "6446419487",
+      "name": "Tanuki for GitLab",
+      "developer": "Felix Schindler",
+      "developerUrl": "https://apps.apple.com/in/developer/felix-schindler/id1677876382?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/06/0e/b5060e87-be2c-7365-bb67-b42d94f17ac5/TanukiIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/tanuki-for-gitlab/id6446419487?uo=2",
       "price": {
         "amount": 99,
         "currency": "INR",
@@ -285,34 +285,12 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "21 February 2024"
+      "releaseDate": "22 March 2023"
     },
     {
       "rank": 13,
-      "previousRank": 6,
-      "rankChange": -7,
-      "isNew": false,
-      "appleId": "6477147390",
-      "name": "Python Manual",
-      "developer": "Hua Yang",
-      "developerUrl": "https://apps.apple.com/in/developer/hua-yang/id1497666891?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/53/23/865323c9-5686-2271-b733-05cc49a9e133/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/python-manual/id6477147390?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "INR",
-        "formatted": "₹ 99"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "01 February 2024"
-    },
-    {
-      "rank": 14,
-      "previousRank": 13,
-      "rankChange": -1,
+      "previousRank": 14,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1567601472",
       "name": "ESP32 BLE Terminal",
@@ -332,9 +310,9 @@
       "releaseDate": "01 June 2021"
     },
     {
-      "rank": 15,
-      "previousRank": 14,
-      "rankChange": -1,
+      "rank": 14,
+      "previousRank": 15,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1203594958",
       "name": "Inspect Browser",
@@ -354,9 +332,9 @@
       "releaseDate": "06 June 2017"
     },
     {
-      "rank": 16,
-      "previousRank": 15,
-      "rankChange": -1,
+      "rank": 15,
+      "previousRank": 16,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1532669250",
       "name": "Scarlet",
@@ -376,9 +354,9 @@
       "releaseDate": "02 June 2021"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "previousRank": 17,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1260223542",
       "name": "SSH Tunnel: VPN & SOCKS5 proxy",
@@ -398,9 +376,9 @@
       "releaseDate": "24 July 2017"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "previousRank": 18,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1252988123",
       "name": "RegEx Lab: Regular Expressions",
@@ -420,9 +398,9 @@
       "releaseDate": "26 July 2017"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "previousRank": 19,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1237825358",
       "name": "MongoLime - manage databases",
@@ -442,9 +420,9 @@
       "releaseDate": "17 August 2017"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "previousRank": 20,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "475312085",
       "name": "SQLed - SQL Database Manager",
@@ -464,9 +442,9 @@
       "releaseDate": "15 November 2011"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "previousRank": 21,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "932296259",
       "name": "websta$-learn html css and js",
@@ -486,9 +464,9 @@
       "releaseDate": "12 November 2014"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "previousRank": 22,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1558236648",
       "name": "Packet Sender - UDP/TCP/HTTP",
@@ -508,16 +486,16 @@
       "releaseDate": "20 March 2021"
     },
     {
-      "rank": 23,
-      "previousRank": 16,
-      "rankChange": -7,
+      "rank": 22,
+      "previousRank": 12,
+      "rankChange": -10,
       "isNew": false,
-      "appleId": "6825199165",
-      "name": "Vozta SFTP",
-      "developer": "Nitesh Goyal",
-      "developerUrl": "https://apps.apple.com/in/developer/nitesh-goyal/id6825199167?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a5/c5/2da5c5a3-fd69-12bb-df1f-c52ee8ba2736/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/vozta-sftp/id6825199165?uo=2",
+      "appleId": "6477325566",
+      "name": "SQL Sheep",
+      "developer": "Ciwei Tech",
+      "developerUrl": "https://apps.apple.com/in/developer/ciwei-tech/id1728982551?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/93/8e/bd938ea6-5b2a-b470-447b-25a647def7e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/sql-sheep/id6477325566?uo=2",
       "price": {
         "amount": 99,
         "currency": "INR",
@@ -527,7 +505,29 @@
         "id": "6026",
         "name": "Developer Tools"
       },
-      "releaseDate": "10 November 2026"
+      "releaseDate": "21 February 2024"
+    },
+    {
+      "rank": 23,
+      "previousRank": 13,
+      "rankChange": -10,
+      "isNew": false,
+      "appleId": "6477147390",
+      "name": "Python Manual",
+      "developer": "Hua Yang",
+      "developerUrl": "https://apps.apple.com/in/developer/hua-yang/id1497666891?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/53/23/865323c9-5686-2271-b733-05cc49a9e133/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/python-manual/id6477147390?uo=2",
+      "price": {
+        "amount": 99,
+        "currency": "INR",
+        "formatted": "₹ 99"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "01 February 2024"
     },
     {
       "rank": 24,
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1581312955",
       "name": "MermaidEditor",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1095213378",
       "name": "Continuous .NET C# and F# IDE",
@@ -685,30 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 29,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6811290737",
-      "name": "Shell Keyboard",
-      "developer": "Nguyen Nguyen",
-      "developerUrl": "https://apps.apple.com/in/developer/nguyen-nguyen/id1071455830?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/32/e2/cd32e272-0268-ab0c-f34d-f825bfc1e6dc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/shell-keyboard/id6811290737?uo=2",
-      "price": {
-        "amount": 199,
-        "currency": "INR",
-        "formatted": "₹ 199"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "16 September 2026"
-    },
-    {
-      "rank": 32,
       "previousRank": 32,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "386737169",
       "name": "LadderTouch",
@@ -728,9 +706,9 @@
       "releaseDate": "30 October 2010"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1611554653",
       "name": "Logger for Shortcuts",
@@ -750,9 +728,9 @@
       "releaseDate": "10 March 2022"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "previousRank": 34,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1561778761",
       "name": "MQTT Home Automation",
@@ -772,9 +750,9 @@
       "releaseDate": "15 May 2021"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1474606532",
       "name": "Haptics - Test Haptic Feedback",
@@ -792,6 +770,28 @@
         "name": "Developer Tools"
       },
       "releaseDate": "19 September 2019"
+    },
+    {
+      "rank": 35,
+      "previousRank": 31,
+      "rankChange": -4,
+      "isNew": false,
+      "appleId": "6811290737",
+      "name": "Shell Keyboard",
+      "developer": "Nguyen Nguyen",
+      "developerUrl": "https://apps.apple.com/in/developer/nguyen-nguyen/id1071455830?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/32/e2/cd32e272-0268-ab0c-f34d-f825bfc1e6dc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/in/app/shell-keyboard/id6811290737?uo=2",
+      "price": {
+        "amount": 199,
+        "currency": "INR",
+        "formatted": "₹ 199"
+      },
+      "primaryCategory": {
+        "id": "6026",
+        "name": "Developer Tools"
+      },
+      "releaseDate": "16 September 2026"
     },
     {
       "rank": 36,
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6762105412",
       "name": "OSINT Trace Suite",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 49,
-      "rankChange": 1,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6553999598",
       "name": "iDepth NDI",
@@ -1081,8 +1081,8 @@
     },
     {
       "rank": 49,
-      "previousRank": 50,
-      "rankChange": 1,
+      "previousRank": 49,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1525322870",
       "name": "Netdata server monitoring",
@@ -1103,8 +1103,8 @@
     },
     {
       "rank": 50,
-      "previousRank": 51,
-      "rankChange": 1,
+      "previousRank": 50,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1490043916",
       "name": "Http Traffic pro - sniffer",
@@ -1125,8 +1125,8 @@
     },
     {
       "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "previousRank": 51,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1463315864",
       "name": "iHTTP Tracker -Network monitor",
@@ -1147,8 +1147,8 @@
     },
     {
       "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1425213172",
       "name": "View Source Premier",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1661684144",
       "name": "Bee - Cookie Editor For Safari",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1583770274",
       "name": "Matplotlib教程",
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 56,
-      "rankChange": 1,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1535337134",
       "name": "Haptique - Haptic Explorer",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 57,
-      "rankChange": 1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1503486606",
       "name": "C Code Develop",
@@ -1257,8 +1257,8 @@
     },
     {
       "rank": 57,
-      "previousRank": 58,
-      "rankChange": 1,
+      "previousRank": 57,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1347743213",
       "name": "SSL Checker",
@@ -1279,8 +1279,8 @@
     },
     {
       "rank": 58,
-      "previousRank": 59,
-      "rankChange": 1,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1314212521",
       "name": "PPHub For GitHub - Developer",
@@ -1301,8 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 60,
-      "rankChange": 1,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6737473973",
       "name": "FileToHash",
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 61,
-      "rankChange": 1,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6596729064",
       "name": "Nezha Mobile",
@@ -1345,8 +1345,8 @@
     },
     {
       "rank": 61,
-      "previousRank": 62,
-      "rankChange": 1,
+      "previousRank": 61,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6474695786",
       "name": "iPulse - Monitor Your Device",
@@ -1367,8 +1367,8 @@
     },
     {
       "rank": 62,
-      "previousRank": 63,
-      "rankChange": 1,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1643868615",
       "name": "TFLite LiteRT TensorFlow Test",
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 64,
-      "rankChange": 1,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1601338771",
       "name": "Sweet SWOT",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 65,
-      "rankChange": 1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1551344923",
       "name": "UCoW - Ultimate Code Wrapper",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 66,
-      "rankChange": 1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1534485108",
       "name": "Nan - Packet Capture",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 67,
-      "rankChange": 1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1191488320",
       "name": "PasteMe - Pastebin Client",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 68,
-      "rankChange": 1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1061486140",
       "name": "Code Recipes Pro",
@@ -1499,8 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 69,
-      "rankChange": 1,
+      "previousRank": 68,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "845986938",
       "name": "php$ - programming language",
@@ -1521,8 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 70,
-      "rankChange": 1,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "593757593",
       "name": "DraftCode for PHP IDE",
@@ -1543,8 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 71,
-      "rankChange": 1,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "511639148",
       "name": "Source Code Reader",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 72,
-      "rankChange": 1,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6762788059",
       "name": "Openrouter Tracker",
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 73,
-      "rankChange": 1,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6759809062",
       "name": "CodeMan - VSCode",
@@ -1609,8 +1609,8 @@
     },
     {
       "rank": 73,
-      "previousRank": 75,
-      "rankChange": 2,
+      "previousRank": 73,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6746725511",
       "name": "Web Inspector for Safari",
@@ -1631,8 +1631,8 @@
     },
     {
       "rank": 74,
-      "previousRank": 76,
-      "rankChange": 2,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6444493151",
       "name": "VSCoW - Code Wrapper",
@@ -1653,8 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 77,
-      "rankChange": 2,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1662190389",
       "name": "BlueSim: Bluetooth Simulator",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 78,
-      "rankChange": 2,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1661026537",
       "name": "HTMLSource",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 79,
-      "rankChange": 2,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1626025800",
       "name": "Preview App - Store Simulator",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 80,
-      "rankChange": 2,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1574609188",
       "name": "Golang Recipes Pro",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 81,
-      "rankChange": 2,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1547278785",
       "name": "SSL Toolkit",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 82,
-      "rankChange": 2,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1526081216",
       "name": "JSON Tools: Viewer & Formatter",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 83,
-      "rankChange": 2,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1517211662",
       "name": "TinyServer",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 84,
-      "rankChange": 2,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1511763524",
       "name": "RegEx+",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 85,
-      "rankChange": 2,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1439354562",
       "name": "Face Mesh",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 86,
-      "rankChange": 2,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1433898888",
       "name": "Kodika - No Code App Builder",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 87,
-      "rankChange": 2,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1288339266",
       "name": "Pixel Resizer: Custom Metadata",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 88,
-      "rankChange": 2,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1278736469",
       "name": "Arduino Voice",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 89,
-      "rankChange": 2,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1253599389",
       "name": "App Icon Generator",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 90,
-      "rankChange": 2,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1123855886",
       "name": "Colourdrop: Colour Picker",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 91,
-      "rankChange": 2,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "585637688",
       "name": "python3$",
@@ -1983,30 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 92,
-      "rankChange": 2,
-      "isNew": false,
-      "appleId": "6802766546",
-      "name": "Modbus Poll Mobile",
-      "developer": "Muh Syafiudin",
-      "developerUrl": "https://apps.apple.com/in/developer/muh-syafiudin/id1858135516?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/c0/2d/62c02dba-f153-d187-c8c1-fb227bd568f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/in/app/modbus-poll-mobile/id6802766546?uo=2",
-      "price": {
-        "amount": 299,
-        "currency": "INR",
-        "formatted": "₹ 299"
-      },
-      "primaryCategory": {
-        "id": "6026",
-        "name": "Developer Tools"
-      },
-      "releaseDate": "04 September 2026"
-    },
-    {
-      "rank": 91,
-      "previousRank": 47,
-      "rankChange": -44,
+      "previousRank": 91,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6801086179",
       "name": "Claude Remote Control",
@@ -2026,8 +2004,8 @@
       "releaseDate": "07 September 2026"
     },
     {
-      "rank": 92,
-      "previousRank": 93,
+      "rank": 91,
+      "previousRank": 92,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6764783164",
@@ -2048,8 +2026,8 @@
       "releaseDate": "30 April 2026"
     },
     {
-      "rank": 93,
-      "previousRank": 94,
+      "rank": 92,
+      "previousRank": 93,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6761951280",
@@ -2070,8 +2048,8 @@
       "releaseDate": "13 April 2026"
     },
     {
-      "rank": 94,
-      "previousRank": 95,
+      "rank": 93,
+      "previousRank": 94,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6760011289",
@@ -2092,8 +2070,8 @@
       "releaseDate": "25 March 2026"
     },
     {
-      "rank": 95,
-      "previousRank": 96,
+      "rank": 94,
+      "previousRank": 95,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6756200055",
@@ -2114,8 +2092,8 @@
       "releaseDate": "11 January 2026"
     },
     {
-      "rank": 96,
-      "previousRank": 97,
+      "rank": 95,
+      "previousRank": 96,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6749065478",
@@ -2136,8 +2114,8 @@
       "releaseDate": "28 July 2025"
     },
     {
-      "rank": 97,
-      "previousRank": 98,
+      "rank": 96,
+      "previousRank": 97,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6747953285",
@@ -2158,8 +2136,8 @@
       "releaseDate": "10 July 2025"
     },
     {
-      "rank": 98,
-      "previousRank": 99,
+      "rank": 97,
+      "previousRank": 98,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6745445528",
@@ -2180,8 +2158,8 @@
       "releaseDate": "05 May 2025"
     },
     {
-      "rank": 99,
-      "previousRank": 100,
+      "rank": 98,
+      "previousRank": 99,
       "rankChange": 1,
       "isNew": false,
       "appleId": "6740705541",
@@ -2202,10 +2180,10 @@
       "releaseDate": "19 January 2025"
     },
     {
-      "rank": 100,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 99,
+      "previousRank": 100,
+      "rankChange": 1,
+      "isNew": false,
       "appleId": "6738126761",
       "name": "PyPocket",
       "developer": "Dor Pascal",
