@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-18",
-  "collectedAt": "2026-11-18T08:21:17.297Z",
-  "sourceUpdatedAt": "2026-11-18T00:21:16-07:00",
+  "snapshotDate": "2026-11-20",
+  "collectedAt": "2026-11-20T08:15:00.148Z",
+  "sourceUpdatedAt": "2026-11-20T00:14:59-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/mx/rss/toppaidapplications/limit=100/genre=6020/json",
   "chartType": "paid",
@@ -17,37 +17,59 @@
     "name": "医疗"
   },
   "requestedLimit": 100,
-  "expectedCount": 100,
-  "actualCount": 100,
+  "expectedCount": 99,
+  "actualCount": 99,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-17",
+  "previousSnapshotDate": "2026-11-18",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 2,
-      "rankChange": 1,
+      "previousRank": 5,
+      "rankChange": 4,
       "isNew": false,
-      "appleId": "1587798742",
-      "name": "Presión Arterial Pediátrica",
+      "appleId": "6443982747",
+      "name": "BiliAAP",
       "developer": "Gerson Rodriguez",
       "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/b0/b0/70b0b0e9-48fd-3af1-9804-783362426ab9/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/presi%C3%B3n-arterial-pedi%C3%A1trica/id1587798742?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/71/5d/c9715dde-d101-70c1-0cc3-e3ec712fa27b/iconopp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/biliaap/id6443982747?uo=2",
       "price": {
-        "amount": 69,
+        "amount": 89,
         "currency": "MXN",
-        "formatted": "$69.00"
+        "formatted": "$89.00"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "29/09/2021"
+      "releaseDate": "01/11/2022"
     },
     {
       "rank": 2,
-      "previousRank": 1,
+      "previousRank": 4,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "1588172373",
+      "name": "OMS AnthroP",
+      "developer": "Gerson Rodriguez",
+      "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/51/00/fb5100bf-00f6-6f39-bf58-11a41bbd66a0/iconopp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/oms-anthrop/id1588172373?uo=2",
+      "price": {
+        "amount": 99,
+        "currency": "MXN",
+        "formatted": "$99.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "30/09/2021"
+    },
+    {
+      "rank": 3,
+      "previousRank": 2,
       "rankChange": -1,
       "isNew": false,
       "appleId": "1661526326",
@@ -68,15 +90,15 @@
       "releaseDate": "31/12/2022"
     },
     {
-      "rank": 3,
-      "previousRank": 7,
-      "rankChange": 4,
+      "rank": 4,
+      "previousRank": 3,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "586149216",
       "name": "Monash FODMAP Diet",
       "developer": "Monash University",
       "developerUrl": "https://apps.apple.com/mx/developer/monash-university/id427380448?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/36/ea/5e36eaf6-f62d-1604-ed67-33070bfeb4a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/63/e5/e863e589-410f-debe-9c95-10116c64e95f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
       "storeUrl": "https://apps.apple.com/mx/app/monash-fodmap-diet/id586149216?uo=2",
       "price": {
         "amount": 179,
@@ -90,82 +112,60 @@
       "releaseDate": "17/12/2012"
     },
     {
-      "rank": 4,
-      "previousRank": 3,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1588172373",
-      "name": "OMS AnthroP",
-      "developer": "Gerson Rodriguez",
-      "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/51/00/fb5100bf-00f6-6f39-bf58-11a41bbd66a0/iconopp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/oms-anthrop/id1588172373?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "30/09/2021"
-    },
-    {
       "rank": 5,
-      "previousRank": 4,
-      "rankChange": -1,
+      "previousRank": 1,
+      "rankChange": -4,
       "isNew": false,
-      "appleId": "6443982747",
-      "name": "BiliAAP",
+      "appleId": "1587798742",
+      "name": "Presión Arterial Pediátrica",
       "developer": "Gerson Rodriguez",
       "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/71/5d/c9715dde-d101-70c1-0cc3-e3ec712fa27b/iconopp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/biliaap/id6443982747?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/b0/b0/70b0b0e9-48fd-3af1-9804-783362426ab9/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/presi%C3%B3n-arterial-pedi%C3%A1trica/id1587798742?uo=2",
       "price": {
-        "amount": 89,
+        "amount": 69,
         "currency": "MXN",
-        "formatted": "$89.00"
+        "formatted": "$69.00"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "01/11/2022"
+      "releaseDate": "29/09/2021"
     },
     {
       "rank": 6,
-      "previousRank": 16,
-      "rankChange": 10,
-      "isNew": false,
-      "appleId": "1498550832",
-      "name": "ASCCP Management Guidelines",
-      "developer": "American Society for Colposcopy and Cervical Pathology Inc",
-      "developerUrl": "https://apps.apple.com/mx/developer/american-society-for-colposcopy-and-cervical/id615585562?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ad/dd/d6adddda-c8a2-98e8-2acc-6905fa0d1ab1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/asccp-management-guidelines/id1498550832?uo=2",
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6478836305",
+      "name": "Endoscope App",
+      "developer": "My Call Bag LLC",
+      "developerUrl": "https://apps.apple.com/mx/developer/my-call-bag-llc/id1243282862?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/13/2e/cc132e30-67c2-f2c3-928d-b3b1b0222680/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/endoscope-app/id6478836305?uo=2",
       "price": {
-        "amount": 299,
+        "amount": 39,
         "currency": "MXN",
-        "formatted": "$299.00"
+        "formatted": "$39.00"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "05/06/2020"
+      "releaseDate": "06/03/2024"
     },
     {
       "rank": 7,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "459376323",
-      "name": "Double Lumen",
-      "developer": "Crystal Clear Solutions",
-      "developerUrl": "https://apps.apple.com/mx/developer/crystal-clear-solutions/id444062170?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/2f/4d/c42f4d97-c7e1-c2db-5f3d-904b5fd6e2c8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/double-lumen/id459376323?uo=2",
+      "previousRank": 37,
+      "rankChange": 30,
+      "isNew": false,
+      "appleId": "348867501",
+      "name": "Puntos Musculares",
+      "developer": "Real Bodywork",
+      "developerUrl": "https://apps.apple.com/mx/developer/real-bodywork/id348867504?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/2c/50/5b2c507c-0ee4-2cd4-785e-bf59a535f5bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/puntos-musculares/id348867501?uo=2",
       "price": {
         "amount": 99,
         "currency": "MXN",
@@ -175,107 +175,19 @@
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "02/09/2011"
+      "releaseDate": "05/01/2010"
     },
     {
       "rank": 8,
-      "previousRank": 5,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1117998129",
-      "name": "Atlas de anatomía humana 2027",
-      "developer": "Visible Body Apps",
-      "developerUrl": "https://apps.apple.com/mx/developer/visible-body-apps/id1828268894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/atlas-de-anatom%C3%ADa-humana-2027/id1117998129?uo=2",
-      "price": {
-        "amount": 399,
-        "currency": "MXN",
-        "formatted": "$399.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "27/07/2016"
-    },
-    {
-      "rank": 9,
-      "previousRank": 8,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "6829585122",
-      "name": "Cardio Score",
-      "developer": "Gionny Milton Sandoval Martinez",
-      "developerUrl": "https://apps.apple.com/mx/developer/gionny-milton-sandoval-martinez/id6829585124?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/e4/3b/aee43b12-78f3-b2e0-3619-a8c39b2ac152/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/cardio-score/id6829585122?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "10/11/2026"
-    },
-    {
-      "rank": 10,
-      "previousRank": 6,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "504001448",
-      "name": "Músculos & Kinesiología",
-      "developer": "Visible Body Apps",
-      "developerUrl": "https://apps.apple.com/mx/developer/visible-body-apps/id1828268894?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/96/e8/ba96e8b7-4592-2dc9-a010-79cf9008e286/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/m%C3%BAsculos-kinesiolog%C3%ADa/id504001448?uo=2",
-      "price": {
-        "amount": 499,
-        "currency": "MXN",
-        "formatted": "$499.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "28/02/2012"
-    },
-    {
-      "rank": 11,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "1662246485",
-      "name": "Orthofixar Orthopedic Surgery",
-      "developer": "Mohammed Alhariri",
-      "developerUrl": "https://apps.apple.com/mx/developer/mohammed-alhariri/id6824619748?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ff/a1/14ffa135-75cf-3467-85cd-4dd83112a36f/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/orthofixar-orthopedic-surgery/id1662246485?uo=2",
-      "price": {
-        "amount": 999,
-        "currency": "MXN",
-        "formatted": "$999.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "11/02/2023"
-    },
-    {
-      "rank": 12,
-      "previousRank": 9,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6746705608",
-      "name": "AutoSnore: Grabador ronquido",
-      "developer": "Tantsissa",
-      "developerUrl": "https://apps.apple.com/mx/developer/tantsissa/id861650887?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/autosnore-grabador-ronquido/id6746705608?uo=2",
+      "appleId": "6779777262",
+      "name": "PICUCalc: Cálculos Pediátricos",
+      "developer": "Carlos Sarta",
+      "developerUrl": "https://apps.apple.com/mx/developer/carlos-sarta/id6779777264?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/9c/17/4b9c17f7-b42a-c280-a2ee-d0e3d0f0a239/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/picucalc-c%C3%A1lculos-pedi%C3%A1tricos/id6779777262?uo=2",
       "price": {
         "amount": 99,
         "currency": "MXN",
@@ -285,210 +197,12 @@
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "02/11/2025"
+      "releaseDate": "13/07/2026"
     },
     {
-      "rank": 13,
-      "previousRank": 10,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1233005779",
-      "name": "Ruidos Cardíacos: Auscultación",
-      "developer": "Martha Luz Rodriguez Leal",
-      "developerUrl": "https://apps.apple.com/mx/developer/martha-luz-rodriguez-leal/id464339275?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/c0/32/26c032fb-2698-b7cb-61db-98fce29fda87/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/ruidos-card%C3%ADacos-auscultaci%C3%B3n/id1233005779?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "07/05/2017"
-    },
-    {
-      "rank": 14,
-      "previousRank": 11,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1544785818",
-      "name": "E-burn Premium",
-      "developer": "Alkemiga",
-      "developerUrl": "https://apps.apple.com/mx/developer/alkemiga/id889659304?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/26/b5/f326b5f8-e68c-15b2-3114-5bc8fed6e803/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/e-burn-premium/id1544785818?uo=2",
-      "price": {
-        "amount": 39,
-        "currency": "MXN",
-        "formatted": "$39.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "30/03/2021"
-    },
-    {
-      "rank": 15,
-      "previousRank": 12,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "491299921",
-      "name": "DAF Pro: Tartamudez, Parkinson",
-      "developer": "Speechtools Ltd",
-      "developerUrl": "https://apps.apple.com/mx/developer/speechtools-ltd/id940679564?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3d/15/533d1542-a4ea-aff4-e254-5be6f3f9f889/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/daf-pro-tartamudez-parkinson/id491299921?uo=2",
-      "price": {
-        "amount": 39,
-        "currency": "MXN",
-        "formatted": "$39.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "03/01/2012"
-    },
-    {
-      "rank": 16,
-      "previousRank": 13,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "1086509942",
-      "name": "Farmacología Pediátrica",
-      "developer": "Martha Luz Rodriguez Leal",
-      "developerUrl": "https://apps.apple.com/mx/developer/martha-luz-rodriguez-leal/id464339275?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d4/2c/d0/d42cd012-58b2-b8bd-305e-ea0cb5854d47/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/farmacolog%C3%ADa-pedi%C3%A1trica/id1086509942?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "26/02/2016"
-    },
-    {
-      "rank": 17,
-      "previousRank": 14,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6802018865",
-      "name": "DengueApp",
-      "developer": "Gerson Rodriguez",
-      "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/18/e0/b718e04f-6cb1-9403-0b97-ff768f8319c9/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/dengueapp/id6802018865?uo=2",
-      "price": {
-        "amount": 69,
-        "currency": "MXN",
-        "formatted": "$69.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "28/08/2026"
-    },
-    {
-      "rank": 18,
-      "previousRank": 15,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6749370840",
-      "name": "VitalCount",
-      "developer": "Gerson Rodriguez",
-      "developerUrl": "https://apps.apple.com/mx/developer/gerson-rodriguez/id1587778389?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/e4/bb/a2e4bb57-96c7-814a-0884-ffbf93502044/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/vitalcount/id6749370840?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "08/08/2025"
-    },
-    {
-      "rank": 19,
-      "previousRank": 17,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6446802331",
-      "name": "Infusion Calculator (WH)",
-      "developer": "WINDY HEALTH COMPANY LIMITED",
-      "developerUrl": "https://apps.apple.com/mx/developer/windy-health-company-limited/id1011368789?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a1/04/3ba104d5-398f-7bc5-d211-00be3fd34bbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/infusion-calculator-wh/id6446802331?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "28/03/2023"
-    },
-    {
-      "rank": 20,
-      "previousRank": 18,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "6784536108",
-      "name": "ABG Lab",
-      "developer": "长贵 周",
-      "developerUrl": "https://apps.apple.com/mx/developer/%E9%95%BF%E8%B4%B5-%E5%91%A8/id6779968395?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/be/0d/1cbe0d51-5285-eef5-149d-2712f464356d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/abg-lab/id6784536108?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "02/07/2026"
-    },
-    {
-      "rank": 21,
-      "previousRank": 25,
-      "rankChange": 4,
-      "isNew": false,
-      "appleId": "1046480662",
-      "name": "Pocket Glasses PRO",
-      "developer": "Aexol Studio",
-      "developerUrl": "https://apps.apple.com/mx/developer/aexol-studio/id1711767918?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/f5/00/a5f500cd-4835-37ca-e21e-09e7784e092e/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/pocket-glasses-pro/id1046480662?uo=2",
-      "price": {
-        "amount": 69,
-        "currency": "MXN",
-        "formatted": "$69.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "29/10/2015"
-    },
-    {
-      "rank": 22,
-      "previousRank": 26,
-      "rankChange": 4,
+      "rank": 9,
+      "previousRank": 22,
+      "rankChange": 13,
       "isNew": false,
       "appleId": "1132442892",
       "name": "MIP Calendario",
@@ -508,9 +222,251 @@
       "releaseDate": "11/07/2016"
     },
     {
-      "rank": 23,
+      "rank": 10,
+      "previousRank": 70,
+      "rankChange": 60,
+      "isNew": false,
+      "appleId": "494844989",
+      "name": "Cardio Z",
+      "developer": "UBQO Limited",
+      "developerUrl": "https://apps.apple.com/mx/developer/ubqo-limited/id415663348?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/df/e2/95dfe28b-f41a-46ef-7da9-702f28639692/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/cardio-z/id494844989?uo=2",
+      "price": {
+        "amount": 149,
+        "currency": "MXN",
+        "formatted": "$149.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "31/05/2012"
+    },
+    {
+      "rank": 11,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6804949362",
+      "name": "Guía RCP: LifeGuide",
+      "developer": "云开 薄",
+      "developerUrl": "https://apps.apple.com/mx/developer/%E4%BA%91%E5%BC%80-%E8%96%84/id1896745722?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/86/31/96863114-5a35-7bf8-4f89-27dadd5e341d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/gu%C3%ADa-rcp-lifeguide/id6804949362?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "30/09/2026"
+    },
+    {
+      "rank": 12,
+      "previousRank": 6,
+      "rankChange": -6,
+      "isNew": false,
+      "appleId": "1498550832",
+      "name": "ASCCP Management Guidelines",
+      "developer": "American Society for Colposcopy and Cervical Pathology Inc",
+      "developerUrl": "https://apps.apple.com/mx/developer/american-society-for-colposcopy-and-cervical/id615585562?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ad/dd/d6adddda-c8a2-98e8-2acc-6905fa0d1ab1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/asccp-management-guidelines/id1498550832?uo=2",
+      "price": {
+        "amount": 299,
+        "currency": "MXN",
+        "formatted": "$299.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "05/06/2020"
+    },
+    {
+      "rank": 13,
+      "previousRank": 97,
+      "rankChange": 84,
+      "isNew": false,
+      "appleId": "486618688",
+      "name": "anesthesia infusion calculator",
+      "developer": "Crystal Clear Solutions",
+      "developerUrl": "https://apps.apple.com/mx/developer/crystal-clear-solutions/id444062170?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/6e/1a/a56e1a59-7d3e-8380-56b3-2db45b58ad9a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/anesthesia-infusion-calculator/id486618688?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "10/12/2011"
+    },
+    {
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "591093604",
+      "name": "Health Test - The iridology app",
+      "developer": "Jaroszlav Zseleznov",
+      "developerUrl": "https://apps.apple.com/mx/developer/jaroszlav-zseleznov/id470219865?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/1c/1e/57/1c1e57a1-8576-bafc-332d-9e5e9ecd634a/mzl.mtwouihj.jpg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/health-test-the-iridology-app/id591093604?uo=2",
+      "price": {
+        "amount": 89,
+        "currency": "MXN",
+        "formatted": "$89.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "13/01/2013"
+    },
+    {
+      "rank": 15,
+      "previousRank": 7,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "459376323",
+      "name": "Double Lumen",
+      "developer": "Crystal Clear Solutions",
+      "developerUrl": "https://apps.apple.com/mx/developer/crystal-clear-solutions/id444062170?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/2f/4d/c42f4d97-c7e1-c2db-5f3d-904b5fd6e2c8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/double-lumen/id459376323?uo=2",
+      "price": {
+        "amount": 99,
+        "currency": "MXN",
+        "formatted": "$99.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "02/09/2011"
+    },
+    {
+      "rank": 16,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1032767378",
+      "name": "The eFACE",
+      "developer": "Massachusetts Eye and Ear Infirmary",
+      "developerUrl": "https://apps.apple.com/mx/developer/massachusetts-eye-and-ear-infirmary/id691435684?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/69/c8/8169c805-5cc0-23a0-b7e9-acf3967451b4/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/the-eface/id1032767378?uo=2",
+      "price": {
+        "amount": 199,
+        "currency": "MXN",
+        "formatted": "$199.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "04/09/2015"
+    },
+    {
+      "rank": 17,
+      "previousRank": 8,
+      "rankChange": -9,
+      "isNew": false,
+      "appleId": "1117998129",
+      "name": "Atlas de anatomía humana 2027",
+      "developer": "Visible Body Apps",
+      "developerUrl": "https://apps.apple.com/mx/developer/visible-body-apps/id1828268894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/atlas-de-anatom%C3%ADa-humana-2027/id1117998129?uo=2",
+      "price": {
+        "amount": 399,
+        "currency": "MXN",
+        "formatted": "$399.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "27/07/2016"
+    },
+    {
+      "rank": 18,
+      "previousRank": 10,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "504001448",
+      "name": "Músculos & Kinesiología",
+      "developer": "Visible Body Apps",
+      "developerUrl": "https://apps.apple.com/mx/developer/visible-body-apps/id1828268894?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/96/e8/ba96e8b7-4592-2dc9-a010-79cf9008e286/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/m%C3%BAsculos-kinesiolog%C3%ADa/id504001448?uo=2",
+      "price": {
+        "amount": 499,
+        "currency": "MXN",
+        "formatted": "$499.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "28/02/2012"
+    },
+    {
+      "rank": 19,
+      "previousRank": 11,
+      "rankChange": -8,
+      "isNew": false,
+      "appleId": "1662246485",
+      "name": "Orthofixar Orthopedic Surgery",
+      "developer": "Mohammed Alhariri",
+      "developerUrl": "https://apps.apple.com/mx/developer/mohammed-alhariri/id6824619748?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ff/a1/14ffa135-75cf-3467-85cd-4dd83112a36f/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/orthofixar-orthopedic-surgery/id1662246485?uo=2",
+      "price": {
+        "amount": 999,
+        "currency": "MXN",
+        "formatted": "$999.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "11/02/2023"
+    },
+    {
+      "rank": 20,
       "previousRank": 21,
-      "rankChange": -2,
+      "rankChange": 1,
+      "isNew": false,
+      "appleId": "1046480662",
+      "name": "Pocket Glasses PRO",
+      "developer": "Aexol Studio",
+      "developerUrl": "https://apps.apple.com/mx/developer/aexol-studio/id1711767918?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/f5/00/a5f500cd-4835-37ca-e21e-09e7784e092e/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/pocket-glasses-pro/id1046480662?uo=2",
+      "price": {
+        "amount": 69,
+        "currency": "MXN",
+        "formatted": "$69.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "29/10/2015"
+    },
+    {
+      "rank": 21,
+      "previousRank": 23,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "464339272",
       "name": "EKG Clínico",
@@ -530,9 +486,9 @@
       "releaseDate": "14/09/2011"
     },
     {
-      "rank": 24,
-      "previousRank": 27,
-      "rankChange": 3,
+      "rank": 22,
+      "previousRank": 24,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "427255979",
       "name": "Valores de Referencia",
@@ -552,9 +508,9 @@
       "releaseDate": "25/03/2011"
     },
     {
-      "rank": 25,
-      "previousRank": 22,
-      "rankChange": -3,
+      "rank": 23,
+      "previousRank": 25,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "507672551",
       "name": "Farmacología Clínica",
@@ -574,8 +530,8 @@
       "releaseDate": "21/03/2012"
     },
     {
-      "rank": 26,
-      "previousRank": 28,
+      "rank": 24,
+      "previousRank": 26,
       "rankChange": 2,
       "isNew": false,
       "appleId": "438643169",
@@ -596,8 +552,8 @@
       "releaseDate": "25/05/2011"
     },
     {
-      "rank": 27,
-      "previousRank": 29,
+      "rank": 25,
+      "previousRank": 27,
       "rankChange": 2,
       "isNew": false,
       "appleId": "301027070",
@@ -618,8 +574,8 @@
       "releaseDate": "31/12/2008"
     },
     {
-      "rank": 28,
-      "previousRank": 30,
+      "rank": 26,
+      "previousRank": 28,
       "rankChange": 2,
       "isNew": false,
       "appleId": "596684220",
@@ -640,8 +596,8 @@
       "releaseDate": "14/02/2013"
     },
     {
-      "rank": 29,
-      "previousRank": 31,
+      "rank": 27,
+      "previousRank": 29,
       "rankChange": 2,
       "isNew": false,
       "appleId": "541448708",
@@ -662,8 +618,8 @@
       "releaseDate": "03/08/2012"
     },
     {
-      "rank": 30,
-      "previousRank": 32,
+      "rank": 28,
+      "previousRank": 30,
       "rankChange": 2,
       "isNew": false,
       "appleId": "417367089",
@@ -684,8 +640,8 @@
       "releaseDate": "10/02/2011"
     },
     {
-      "rank": 31,
-      "previousRank": 33,
+      "rank": 29,
+      "previousRank": 31,
       "rankChange": 2,
       "isNew": false,
       "appleId": "327963391",
@@ -706,8 +662,8 @@
       "releaseDate": "28/08/2009"
     },
     {
-      "rank": 32,
-      "previousRank": 34,
+      "rank": 30,
+      "previousRank": 32,
       "rankChange": 2,
       "isNew": false,
       "appleId": "429680650",
@@ -728,8 +684,8 @@
       "releaseDate": "08/04/2011"
     },
     {
-      "rank": 33,
-      "previousRank": 35,
+      "rank": 31,
+      "previousRank": 33,
       "rankChange": 2,
       "isNew": false,
       "appleId": "545140730",
@@ -750,8 +706,8 @@
       "releaseDate": "20/09/2012"
     },
     {
-      "rank": 34,
-      "previousRank": 36,
+      "rank": 32,
+      "previousRank": 34,
       "rankChange": 2,
       "isNew": false,
       "appleId": "306526794",
@@ -772,8 +728,8 @@
       "releaseDate": "02/03/2009"
     },
     {
-      "rank": 35,
-      "previousRank": 37,
+      "rank": 33,
+      "previousRank": 35,
       "rankChange": 2,
       "isNew": false,
       "appleId": "301316540",
@@ -794,8 +750,8 @@
       "releaseDate": "10/01/2009"
     },
     {
-      "rank": 36,
-      "previousRank": 38,
+      "rank": 34,
+      "previousRank": 36,
       "rankChange": 2,
       "isNew": false,
       "appleId": "332636983",
@@ -816,31 +772,9 @@
       "releaseDate": "12/10/2009"
     },
     {
-      "rank": 37,
-      "previousRank": 23,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "348867501",
-      "name": "Puntos Musculares",
-      "developer": "Real Bodywork",
-      "developerUrl": "https://apps.apple.com/mx/developer/real-bodywork/id348867504?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/2c/50/5b2c507c-0ee4-2cd4-785e-bf59a535f5bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/puntos-musculares/id348867501?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "05/01/2010"
-    },
-    {
-      "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
+      "rank": 35,
+      "previousRank": 38,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "286022402",
       "name": "Eponyms",
@@ -860,9 +794,9 @@
       "releaseDate": "12/02/2019"
     },
     {
-      "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "rank": 36,
+      "previousRank": 39,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "371093098",
       "name": "Dermatomes",
@@ -882,9 +816,9 @@
       "releaseDate": "12/05/2010"
     },
     {
-      "rank": 40,
-      "previousRank": 41,
-      "rankChange": 1,
+      "rank": 37,
+      "previousRank": 40,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "293656711",
       "name": "Perfect OB Wheel",
@@ -904,9 +838,9 @@
       "releaseDate": "16/10/2008"
     },
     {
-      "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
+      "rank": 38,
+      "previousRank": 41,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "468314731",
       "name": "Grays Anatomy Premium Edition",
@@ -926,9 +860,9 @@
       "releaseDate": "04/10/2011"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
-      "rankChange": 1,
+      "rank": 39,
+      "previousRank": 42,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "612383468",
       "name": "Presión Arterial Asistente",
@@ -948,9 +882,9 @@
       "releaseDate": "09/03/2013"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
-      "rankChange": 1,
+      "rank": 40,
+      "previousRank": 43,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1477240784",
       "name": "Fisiología & Patología",
@@ -970,9 +904,9 @@
       "releaseDate": "22/10/2019"
     },
     {
-      "rank": 44,
-      "previousRank": 45,
-      "rankChange": 1,
+      "rank": 41,
+      "previousRank": 44,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "525134660",
       "name": "Patología Clínica",
@@ -992,9 +926,9 @@
       "releaseDate": "11/05/2012"
     },
     {
-      "rank": 45,
-      "previousRank": 46,
-      "rankChange": 1,
+      "rank": 42,
+      "previousRank": 45,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "453210774",
       "name": "Tensión Arterial Compañero Pro",
@@ -1014,9 +948,9 @@
       "releaseDate": "03/08/2011"
     },
     {
-      "rank": 46,
-      "previousRank": 47,
-      "rankChange": 1,
+      "rank": 43,
+      "previousRank": 46,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "289039914",
       "name": "MediMath Medical Calculator",
@@ -1036,9 +970,9 @@
       "releaseDate": "12/02/2019"
     },
     {
-      "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "rank": 44,
+      "previousRank": 47,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "403219522",
       "name": "NEJM Image Challenge",
@@ -1058,9 +992,9 @@
       "releaseDate": "06/12/2010"
     },
     {
-      "rank": 48,
-      "previousRank": 49,
-      "rankChange": 1,
+      "rank": 45,
+      "previousRank": 48,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "567631128",
       "name": "aritMédica",
@@ -1080,9 +1014,9 @@
       "releaseDate": "11/10/2012"
     },
     {
-      "rank": 49,
-      "previousRank": 51,
-      "rankChange": 2,
+      "rank": 46,
+      "previousRank": 49,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "353427309",
       "name": "EBMcalc Complete",
@@ -1102,9 +1036,9 @@
       "releaseDate": "03/02/2010"
     },
     {
-      "rank": 50,
+      "rank": 47,
       "previousRank": 50,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "534227095",
       "name": "ICU Trials by ClinCalc",
@@ -1124,9 +1058,9 @@
       "releaseDate": "16/06/2012"
     },
     {
-      "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "rank": 48,
+      "previousRank": 51,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "1174536386",
       "name": "VeinSeek Pro",
@@ -1146,9 +1080,9 @@
       "releaseDate": "17/11/2016"
     },
     {
-      "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "rank": 49,
+      "previousRank": 52,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "512153051",
       "name": "Journal Club: Medicine",
@@ -1168,9 +1102,9 @@
       "releaseDate": "24/04/2012"
     },
     {
-      "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "rank": 50,
+      "previousRank": 53,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "573215712",
       "name": "NefroCalc™",
@@ -1190,9 +1124,9 @@
       "releaseDate": "27/11/2012"
     },
     {
-      "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "rank": 51,
+      "previousRank": 54,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "328711340",
       "name": "Med Mnemonics",
@@ -1212,31 +1146,9 @@
       "releaseDate": "01/09/2009"
     },
     {
-      "rank": 55,
-      "previousRank": 24,
-      "rankChange": -31,
-      "isNew": false,
-      "appleId": "632535184",
-      "name": "Estrategias en Urgencias",
-      "developer": "Go Space Solutions S.L.",
-      "developerUrl": "https://apps.apple.com/mx/developer/go-space-solutions-s-l/id576878872?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/01/58/4f/01584f2b-b641-6823-ce3c-39710fb37347/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/estrategias-en-urgencias/id632535184?uo=2",
-      "price": {
-        "amount": 199,
-        "currency": "MXN",
-        "formatted": "$199.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "12/04/2013"
-    },
-    {
-      "rank": 56,
+      "rank": 52,
       "previousRank": 56,
-      "rankChange": 0,
+      "rankChange": 4,
       "isNew": false,
       "appleId": "920133658",
       "name": "Anatomía & Fisiología",
@@ -1256,9 +1168,31 @@
       "releaseDate": "01/10/2014"
     },
     {
-      "rank": 57,
+      "rank": 53,
+      "previousRank": 55,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "632535184",
+      "name": "Estrategias en Urgencias",
+      "developer": "Go Space Solutions S.L.",
+      "developerUrl": "https://apps.apple.com/mx/developer/go-space-solutions-s-l/id576878872?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/01/58/4f/01584f2b-b641-6823-ce3c-39710fb37347/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/estrategias-en-urgencias/id632535184?uo=2",
+      "price": {
+        "amount": 199,
+        "currency": "MXN",
+        "formatted": "$199.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "12/04/2013"
+    },
+    {
+      "rank": 54,
       "previousRank": 57,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "432749899",
       "name": "BiliCalc",
@@ -1278,31 +1212,31 @@
       "releaseDate": "25/04/2011"
     },
     {
-      "rank": 58,
-      "previousRank": 58,
-      "rankChange": 0,
+      "rank": 55,
+      "previousRank": 12,
+      "rankChange": -43,
       "isNew": false,
-      "appleId": "1519418407",
-      "name": "Instrumental en quirófano",
-      "developer": "Jose Juan Quesada",
-      "developerUrl": "https://apps.apple.com/mx/developer/jose-juan-quesada/id1479308307?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/53/da/7e53da7d-03fb-7dc3-2211-74ffff326305/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/instrumental-en-quir%C3%B3fano/id1519418407?uo=2",
+      "appleId": "6746705608",
+      "name": "AutoSnore: Grabador ronquido",
+      "developer": "Tantsissa",
+      "developerUrl": "https://apps.apple.com/mx/developer/tantsissa/id861650887?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/autosnore-grabador-ronquido/id6746705608?uo=2",
       "price": {
-        "amount": 39,
+        "amount": 99,
         "currency": "MXN",
-        "formatted": "$39.00"
+        "formatted": "$99.00"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "08/07/2020"
+      "releaseDate": "02/11/2025"
     },
     {
-      "rank": 59,
+      "rank": 56,
       "previousRank": 59,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "614620054",
       "name": "Clini-Data™",
@@ -1322,9 +1256,9 @@
       "releaseDate": "24/06/2013"
     },
     {
-      "rank": 60,
+      "rank": 57,
       "previousRank": 60,
-      "rankChange": 0,
+      "rankChange": 3,
       "isNew": false,
       "appleId": "730081554",
       "name": "The OB Wheel Pro 7",
@@ -1342,6 +1276,72 @@
         "name": "Medicina"
       },
       "releaseDate": "28/10/2013"
+    },
+    {
+      "rank": 58,
+      "previousRank": 16,
+      "rankChange": -42,
+      "isNew": false,
+      "appleId": "1086509942",
+      "name": "Farmacología Pediátrica",
+      "developer": "Martha Luz Rodriguez Leal",
+      "developerUrl": "https://apps.apple.com/mx/developer/martha-luz-rodriguez-leal/id464339275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d4/2c/d0/d42cd012-58b2-b8bd-305e-ea0cb5854d47/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/farmacolog%C3%ADa-pedi%C3%A1trica/id1086509942?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "26/02/2016"
+    },
+    {
+      "rank": 59,
+      "previousRank": 58,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1519418407",
+      "name": "Instrumental en quirófano",
+      "developer": "Jose Juan Quesada",
+      "developerUrl": "https://apps.apple.com/mx/developer/jose-juan-quesada/id1479308307?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/53/da/7e53da7d-03fb-7dc3-2211-74ffff326305/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/instrumental-en-quir%C3%B3fano/id1519418407?uo=2",
+      "price": {
+        "amount": 39,
+        "currency": "MXN",
+        "formatted": "$39.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "08/07/2020"
+    },
+    {
+      "rank": 60,
+      "previousRank": 13,
+      "rankChange": -47,
+      "isNew": false,
+      "appleId": "1233005779",
+      "name": "Ruidos Cardíacos: Auscultación",
+      "developer": "Martha Luz Rodriguez Leal",
+      "developerUrl": "https://apps.apple.com/mx/developer/martha-luz-rodriguez-leal/id464339275?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/c0/32/26c032fb-2698-b7cb-61db-98fce29fda87/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/ruidos-card%C3%ADacos-auscultaci%C3%B3n/id1233005779?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "07/05/2017"
     },
     {
       "rank": 61,
@@ -1521,14 +1521,14 @@
     },
     {
       "rank": 69,
-      "previousRank": 70,
-      "rankChange": 1,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "358073020",
       "name": "Goteo Infusión",
       "developer": "iLeaf",
       "developerUrl": "https://apps.apple.com/mx/developer/ileaf/id358073023?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/0f/df/1f0fdf0c-70dd-25f5-0a3d-9aee73ecb95f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/2f/2a/c32f2ad2-fc6b-b6e1-9d8a-07dce6c3a96b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/mx/app/goteo-infusi%C3%B3n/id358073020?uo=2",
       "price": {
         "amount": 39,
@@ -1543,30 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "494844989",
-      "name": "Cardio Z",
-      "developer": "UBQO Limited",
-      "developerUrl": "https://apps.apple.com/mx/developer/ubqo-limited/id415663348?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/df/e2/95dfe28b-f41a-46ef-7da9-702f28639692/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/cardio-z/id494844989?uo=2",
-      "price": {
-        "amount": 149,
-        "currency": "MXN",
-        "formatted": "$149.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "31/05/2012"
-    },
-    {
-      "rank": 71,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "423175333",
       "name": "Presión Arterial Monitor - Pro",
@@ -1586,9 +1564,9 @@
       "releaseDate": "08/03/2011"
     },
     {
-      "rank": 72,
+      "rank": 71,
       "previousRank": 72,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "324256792",
       "name": "Anatomía Concurso",
@@ -1608,9 +1586,9 @@
       "releaseDate": "27/07/2009"
     },
     {
-      "rank": 73,
+      "rank": 72,
       "previousRank": 73,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1456825257",
       "name": "US Fetal",
@@ -1630,9 +1608,31 @@
       "releaseDate": "03/04/2019"
     },
     {
-      "rank": 74,
+      "rank": 73,
       "previousRank": 75,
-      "rankChange": 1,
+      "rankChange": 2,
+      "isNew": false,
+      "appleId": "581826761",
+      "name": "Perfect OB Tracker",
+      "developer": "Evan Schoenberg",
+      "developerUrl": "https://apps.apple.com/mx/developer/evan-schoenberg/id289039917?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9d/41/3e9d4103-e511-359e-d024-1b9f5e0564fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/perfect-ob-tracker/id581826761?uo=2",
+      "price": {
+        "amount": 149,
+        "currency": "MXN",
+        "formatted": "$149.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "30/11/2012"
+    },
+    {
+      "rank": 74,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "695187101",
       "name": "3D Anatomy",
@@ -1653,30 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "581826761",
-      "name": "Perfect OB Tracker",
-      "developer": "Evan Schoenberg",
-      "developerUrl": "https://apps.apple.com/mx/developer/evan-schoenberg/id289039917?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9d/41/3e9d4103-e511-359e-d024-1b9f5e0564fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/perfect-ob-tracker/id581826761?uo=2",
-      "price": {
-        "amount": 149,
-        "currency": "MXN",
-        "formatted": "$149.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "30/11/2012"
-    },
-    {
-      "rank": 76,
       "previousRank": 76,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "456218638",
       "name": "Glucosa Compañero Pro",
@@ -1696,9 +1674,9 @@
       "releaseDate": "16/08/2011"
     },
     {
-      "rank": 77,
+      "rank": 76,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "390555459",
       "name": "Sleep Sounds: Nature Mixer",
@@ -1718,9 +1696,9 @@
       "releaseDate": "14/09/2010"
     },
     {
-      "rank": 78,
+      "rank": 77,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "510911823",
       "name": "Generador de frecuencias Pro",
@@ -1740,9 +1718,9 @@
       "releaseDate": "27/03/2012"
     },
     {
-      "rank": 79,
+      "rank": 78,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "533299240",
       "name": "Glucose Buddy+: Diabetes",
@@ -1760,6 +1738,28 @@
         "name": "Medicina"
       },
       "releaseDate": "10/06/2012"
+    },
+    {
+      "rank": 79,
+      "previousRank": 14,
+      "rankChange": -65,
+      "isNew": false,
+      "appleId": "1544785818",
+      "name": "E-burn Premium",
+      "developer": "Alkemiga",
+      "developerUrl": "https://apps.apple.com/mx/developer/alkemiga/id889659304?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/26/b5/f326b5f8-e68c-15b2-3114-5bc8fed6e803/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/e-burn-premium/id1544785818?uo=2",
+      "price": {
+        "amount": 39,
+        "currency": "MXN",
+        "formatted": "$39.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "30/03/2021"
     },
     {
       "rank": 80,
@@ -1873,30 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 20,
-      "rankChange": -65,
-      "isNew": false,
-      "appleId": "1640636826",
-      "name": "Código Azul – Timer RCP y ACLS",
-      "developer": "Michael Mattesco Horta",
-      "developerUrl": "https://apps.apple.com/mx/developer/michael-mattesco-horta/id1640636828?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/9f/5a/d49f5a6f-cd4e-c00e-ed2e-1fd0016e8f8a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/c%C3%B3digo-azul-timer-rcp-y-acls/id1640636826?uo=2",
-      "price": {
-        "amount": 99,
-        "currency": "MXN",
-        "formatted": "$99.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "15/11/2022"
-    },
-    {
-      "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "previousRank": 86,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "450201372",
       "name": "Lab Values+ Medical Reference",
@@ -1916,31 +1894,31 @@
       "releaseDate": "24/07/2011"
     },
     {
-      "rank": 87,
-      "previousRank": 19,
-      "rankChange": -68,
+      "rank": 86,
+      "previousRank": 85,
+      "rankChange": -1,
       "isNew": false,
-      "appleId": "6468917523",
-      "name": "EasyIV Infusion Calculator",
+      "appleId": "1640636826",
+      "name": "Código Azul – Timer RCP y ACLS",
       "developer": "Michael Mattesco Horta",
       "developerUrl": "https://apps.apple.com/mx/developer/michael-mattesco-horta/id1640636828?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/36/0d/ab360df7-67f2-092b-56d0-68831ae0c470/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/easyiv-infusion-calculator/id6468917523?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/9f/5a/d49f5a6f-cd4e-c00e-ed2e-1fd0016e8f8a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/c%C3%B3digo-azul-timer-rcp-y-acls/id1640636826?uo=2",
       "price": {
-        "amount": 19,
+        "amount": 99,
         "currency": "MXN",
-        "formatted": "$19.00"
+        "formatted": "$99.00"
       },
       "primaryCategory": {
         "id": "6020",
         "name": "Medicina"
       },
-      "releaseDate": "13/10/2023"
+      "releaseDate": "15/11/2022"
     },
     {
-      "rank": 88,
-      "previousRank": 86,
-      "rankChange": -2,
+      "rank": 87,
+      "previousRank": 88,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "348005792",
       "name": "Fiebre",
@@ -1960,9 +1938,9 @@
       "releaseDate": "28/12/2009"
     },
     {
-      "rank": 89,
-      "previousRank": 87,
-      "rankChange": -2,
+      "rank": 88,
+      "previousRank": 89,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "374981098",
       "name": "OptoDrum",
@@ -1982,9 +1960,9 @@
       "releaseDate": "05/06/2010"
     },
     {
-      "rank": 90,
-      "previousRank": 88,
-      "rankChange": -2,
+      "rank": 89,
+      "previousRank": 90,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1328976834",
       "name": "Gestograma",
@@ -2004,9 +1982,31 @@
       "releaseDate": "29/12/2017"
     },
     {
+      "rank": 90,
+      "previousRank": 87,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6468917523",
+      "name": "EasyIV Infusion Calculator",
+      "developer": "Michael Mattesco Horta",
+      "developerUrl": "https://apps.apple.com/mx/developer/michael-mattesco-horta/id1640636828?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/36/0d/ab360df7-67f2-092b-56d0-68831ae0c470/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/mx/app/easyiv-infusion-calculator/id6468917523?uo=2",
+      "price": {
+        "amount": 19,
+        "currency": "MXN",
+        "formatted": "$19.00"
+      },
+      "primaryCategory": {
+        "id": "6020",
+        "name": "Medicina"
+      },
+      "releaseDate": "13/10/2023"
+    },
+    {
       "rank": 91,
-      "previousRank": 89,
-      "rankChange": -2,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "514350557",
       "name": "ACLS Rhythms and Quiz",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 90,
-      "rankChange": -2,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "744733904",
       "name": "ECVAS Riesgo",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 91,
-      "rankChange": -2,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "574231795",
       "name": "EP Mobile",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 92,
-      "rankChange": -2,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "356492875",
       "name": "EBMcalc Pediatrics",
@@ -2093,8 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 93,
-      "rankChange": -2,
+      "previousRank": 95,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "401631074",
       "name": "RH Medical Labs",
@@ -2115,8 +2115,8 @@
     },
     {
       "rank": 96,
-      "previousRank": 94,
-      "rankChange": -2,
+      "previousRank": 96,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "427460805",
       "name": "EchoLab",
@@ -2137,30 +2137,8 @@
     },
     {
       "rank": 97,
-      "previousRank": 95,
-      "rankChange": -2,
-      "isNew": false,
-      "appleId": "486618688",
-      "name": "anesthesia infusion calculator",
-      "developer": "Crystal Clear Solutions",
-      "developerUrl": "https://apps.apple.com/mx/developer/crystal-clear-solutions/id444062170?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/6e/1a/a56e1a59-7d3e-8380-56b3-2db45b58ad9a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/mx/app/anesthesia-infusion-calculator/id486618688?uo=2",
-      "price": {
-        "amount": 19,
-        "currency": "MXN",
-        "formatted": "$19.00"
-      },
-      "primaryCategory": {
-        "id": "6020",
-        "name": "Medicina"
-      },
-      "releaseDate": "10/12/2011"
-    },
-    {
-      "rank": 98,
-      "previousRank": 96,
-      "rankChange": -2,
+      "previousRank": 98,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "845657206",
       "name": "Baby Tracker Pro: Diario bebé",
@@ -2180,9 +2158,9 @@
       "releaseDate": "02/05/2014"
     },
     {
-      "rank": 99,
-      "previousRank": 97,
-      "rankChange": -2,
+      "rank": 98,
+      "previousRank": 99,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "966981091",
       "name": "Ciencia del Sueño HQ",
@@ -2202,9 +2180,9 @@
       "releaseDate": "19/05/2015"
     },
     {
-      "rank": 100,
-      "previousRank": 98,
-      "rankChange": -2,
+      "rank": 99,
+      "previousRank": 100,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "364894966",
       "name": "Learn Muscles: Anatomy",
