@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-21",
-  "collectedAt": "2026-11-21T08:07:55.236Z",
-  "sourceUpdatedAt": "2026-11-21T00:07:55-07:00",
+  "snapshotDate": "2026-11-24",
+  "collectedAt": "2026-11-24T10:46:34.585Z",
+  "sourceUpdatedAt": "2026-11-24T02:46:34-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/sg/rss/toppaidapplications/limit=100/genre=6021/json",
   "chartType": "paid",
@@ -17,18 +17,40 @@
     "name": "报刊杂志"
   },
   "requestedLimit": 100,
-  "expectedCount": 13,
-  "actualCount": 13,
+  "expectedCount": 14,
+  "actualCount": 14,
   "status": "partial",
   "issues": [
     "short_chart"
   ],
-  "previousSnapshotDate": "2026-11-19",
+  "previousSnapshotDate": "2026-11-21",
   "apps": [
     {
       "rank": 1,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6775220909",
+      "name": "Paperback Mobile",
+      "developer": "Ty Gillespie",
+      "developerUrl": "https://apps.apple.com/sg/developer/ty-gillespie/id1558608115?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/cf/c4/d6cfc408-64ac-a37d-faeb-07ace2a80f36/AppIcon-0-0-1x_U007epad-0-3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/paperback-mobile/id6775220909?uo=2",
+      "price": {
+        "amount": 29.98,
+        "currency": "SGD",
+        "formatted": "S$ 29.98"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "28 October 2026"
+    },
+    {
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "428498721",
       "name": "B&W Photography Magazine",
@@ -46,28 +68,6 @@
         "name": "Photo & Video"
       },
       "releaseDate": "29 March 2011"
-    },
-    {
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "6758548229",
-      "name": "Dark Mode: Web Themes",
-      "developer": "Paran",
-      "developerUrl": "https://apps.apple.com/sg/developer/paran/id1698510581?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/41/57/c24157de-0d2a-6e38-e4b2-fa648ca38548/DarkMode-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/sg/app/dark-mode-web-themes/id6758548229?uo=2",
-      "price": {
-        "amount": 0.98,
-        "currency": "SGD",
-        "formatted": "S$ 0.98"
-      },
-      "primaryCategory": {
-        "id": "6002",
-        "name": "Utilities"
-      },
-      "releaseDate": "03 February 2026"
     },
     {
       "rank": 3,
@@ -115,8 +115,30 @@
     },
     {
       "rank": 5,
+      "previousRank": 2,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6758548229",
+      "name": "Dark Mode: Web Themes",
+      "developer": "Paran",
+      "developerUrl": "https://apps.apple.com/sg/developer/paran/id1698510581?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/41/57/c24157de-0d2a-6e38-e4b2-fa648ca38548/DarkMode-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/sg/app/dark-mode-web-themes/id6758548229?uo=2",
+      "price": {
+        "amount": 0.98,
+        "currency": "SGD",
+        "formatted": "S$ 0.98"
+      },
+      "primaryCategory": {
+        "id": "6002",
+        "name": "Utilities"
+      },
+      "releaseDate": "03 February 2026"
+    },
+    {
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "428912452",
       "name": "Outdoor Photography Magazine",
@@ -136,9 +158,9 @@
       "releaseDate": "29 March 2011"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "previousRank": 6,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6737512463",
       "name": "怦然心动的瞬间-轻科幻真人互动恋爱影游",
@@ -158,9 +180,9 @@
       "releaseDate": "09 February 2025"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "437204539",
       "name": "Woodcarving Magazine",
@@ -180,9 +202,9 @@
       "releaseDate": "16 May 2011"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "previousRank": 8,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "428503818",
       "name": "Knitting Magazine",
@@ -202,9 +224,9 @@
       "releaseDate": "29 March 2011"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "previousRank": 9,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "530088968",
       "name": "Prehistoric Times Magazine",
@@ -224,9 +246,9 @@
       "releaseDate": "10 June 2012"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "437194402",
       "name": "Furniture & Cabinetmaking",
@@ -246,9 +268,9 @@
       "releaseDate": "16 May 2011"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "previousRank": 11,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "429886769",
       "name": "Woodworking Crafts Magazine",
@@ -268,9 +290,9 @@
       "releaseDate": "07 April 2011"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "previousRank": 12,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1586151492",
       "name": "V9九宫格",
@@ -290,9 +312,9 @@
       "releaseDate": "09 October 2021"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "previousRank": 13,
-      "rankChange": 0,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "636377390",
       "name": "Hoofbeats Magazine",
