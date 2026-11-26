@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-25",
-  "collectedAt": "2026-11-25T09:42:12.479Z",
-  "sourceUpdatedAt": "2026-11-25T01:42:11-07:00",
+  "snapshotDate": "2026-11-26",
+  "collectedAt": "2026-11-26T09:16:36.670Z",
+  "sourceUpdatedAt": "2026-11-26T01:16:36-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/au/rss/toppaidapplications/limit=100/genre=6018/json",
   "chartType": "paid",
@@ -17,16 +17,38 @@
     "name": "图书"
   },
   "requestedLimit": 100,
-  "expectedCount": 96,
-  "actualCount": 96,
+  "expectedCount": 95,
+  "actualCount": 95,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-24",
+  "previousSnapshotDate": "2026-11-25",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 17,
-      "rankChange": 16,
+      "previousRank": 9,
+      "rankChange": 8,
+      "isNew": false,
+      "appleId": "6829520007",
+      "name": "Berry eReader",
+      "developer": "Geoform LLC",
+      "developerUrl": "https://apps.apple.com/au/developer/geoform-llc/id6816729855?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6d/3c/da6d3c8b-7c32-ba61-51ec-fba99cbfd78b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/berry-ereader/id6829520007?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "AUD",
+        "formatted": "$5.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "19 Nov 2026"
+    },
+    {
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "573235547",
       "name": "Audiobooks HQ +",
@@ -46,10 +68,10 @@
       "releaseDate": "10 Dec 2012"
     },
     {
-      "rank": 2,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 3,
+      "previousRank": 2,
+      "rankChange": -1,
+      "isNew": false,
       "appleId": "6787127118",
       "name": "ShelfBee",
       "developer": "SCOTT TIMOTHY DENNIS",
@@ -57,9 +79,9 @@
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/3e/32/e53e32d4-4d70-af69-7dc6-252a852fd5fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/au/app/shelfbee/id6787127118?uo=2",
       "price": {
-        "amount": 2.99,
+        "amount": 1.99,
         "currency": "AUD",
-        "formatted": "$2.99"
+        "formatted": "$1.99"
       },
       "primaryCategory": {
         "id": "6018",
@@ -68,31 +90,9 @@
       "releaseDate": "13 Aug 2026"
     },
     {
-      "rank": 3,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6832929779",
-      "name": "MangaDuo Reader",
-      "developer": "arcion Inc.",
-      "developerUrl": "https://apps.apple.com/au/developer/arcion-inc/id1889141132?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f5/c3/b7f5c3f7-12ef-2fad-a42c-3536e73677f5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/mangaduo-reader/id6832929779?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "AUD",
-        "formatted": "$4.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "10 Nov 2026"
-    },
-    {
       "rank": 4,
-      "previousRank": 1,
-      "rankChange": -3,
+      "previousRank": 4,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1549608440",
       "name": "MotoJitsu",
@@ -113,8 +113,8 @@
     },
     {
       "rank": 5,
-      "previousRank": 42,
-      "rankChange": 37,
+      "previousRank": 5,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1011476555",
       "name": "Green Eggs and Ham",
@@ -135,8 +135,30 @@
     },
     {
       "rank": 6,
-      "previousRank": 2,
-      "rankChange": -4,
+      "previousRank": 3,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "6832929779",
+      "name": "MangaDuo Reader",
+      "developer": "arcion Inc.",
+      "developerUrl": "https://apps.apple.com/au/developer/arcion-inc/id1889141132?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f5/c3/b7f5c3f7-12ef-2fad-a42c-3536e73677f5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/mangaduo-reader/id6832929779?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "AUD",
+        "formatted": "$4.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "10 Nov 2026"
+    },
+    {
+      "rank": 7,
+      "previousRank": 6,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6479989211",
       "name": "BookyTrack",
@@ -156,9 +178,9 @@
       "releaseDate": "27 Mar 2024"
     },
     {
-      "rank": 7,
-      "previousRank": 3,
-      "rankChange": -4,
+      "rank": 8,
+      "previousRank": 7,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1041727137",
       "name": "Bound - Audiobook Player",
@@ -178,9 +200,9 @@
       "releaseDate": "16 Dec 2015"
     },
     {
-      "rank": 8,
-      "previousRank": 4,
-      "rankChange": -4,
+      "rank": 9,
+      "previousRank": 8,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1490688435",
       "name": "Mezgebe Haymanot",
@@ -200,75 +222,9 @@
       "releaseDate": "11 Mar 2020"
     },
     {
-      "rank": 9,
-      "previousRank": 5,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "6829520007",
-      "name": "Berry eReader",
-      "developer": "Geoform LLC",
-      "developerUrl": "https://apps.apple.com/au/developer/geoform-llc/id6816729855?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/b7/f3/1ab7f36f-532b-9b0c-e573-6828e7b28fd4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/berry-ereader/id6829520007?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "AUD",
-        "formatted": "$5.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "19 Nov 2026"
-    },
-    {
       "rank": 10,
-      "previousRank": 6,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1512939054",
-      "name": "Teach Monster: Reading for Fun",
-      "developer": "Teach Your Monster",
-      "developerUrl": "https://apps.apple.com/au/developer/teach-your-monster/id828392049?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/4d/46/3a4d469d-4a4c-b26a-d639-183cbf8bdc08/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/teach-monster-reading-for-fun/id1512939054?uo=2",
-      "price": {
-        "amount": 12.99,
-        "currency": "AUD",
-        "formatted": "$12.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "21 Jul 2021"
-    },
-    {
-      "rank": 11,
-      "previousRank": 7,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "600127635",
-      "name": "Lai Siangtho",
-      "developer": "Khen Solomon Lethil",
-      "developerUrl": "https://apps.apple.com/au/developer/khen-solomon-lethil/id600127638?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/76/fc/6a76fc85-ecf9-d2f5-1cff-12665291eeed/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/lai-siangtho/id600127635?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "15 Feb 2013"
-    },
-    {
-      "rank": 12,
-      "previousRank": 13,
-      "rankChange": 1,
+      "previousRank": 12,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "317776727",
       "name": "Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library",
@@ -288,9 +244,9 @@
       "releaseDate": "19 Jun 2009"
     },
     {
-      "rank": 13,
-      "previousRank": 14,
-      "rankChange": 1,
+      "rank": 11,
+      "previousRank": 13,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "352615816",
       "name": "Audiobooks - 5,239 Classics Ready to Listen",
@@ -310,9 +266,9 @@
       "releaseDate": "05 Feb 2010"
     },
     {
-      "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "rank": 12,
+      "previousRank": 14,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "301201602",
       "name": "Self Help Classics .",
@@ -332,9 +288,9 @@
       "releaseDate": "10 Jan 2009"
     },
     {
-      "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "rank": 13,
+      "previousRank": 15,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "387136454",
       "name": "MegaReader",
@@ -354,8 +310,8 @@
       "releaseDate": "28 Aug 2010"
     },
     {
-      "rank": 16,
-      "previousRank": 18,
+      "rank": 14,
+      "previousRank": 16,
       "rankChange": 2,
       "isNew": false,
       "appleId": "405918513",
@@ -376,8 +332,8 @@
       "releaseDate": "03 Dec 2010"
     },
     {
-      "rank": 17,
-      "previousRank": 19,
+      "rank": 15,
+      "previousRank": 17,
       "rankChange": 2,
       "isNew": false,
       "appleId": "409467802",
@@ -398,8 +354,8 @@
       "releaseDate": "21 Dec 2010"
     },
     {
-      "rank": 18,
-      "previousRank": 20,
+      "rank": 16,
+      "previousRank": 18,
       "rankChange": 2,
       "isNew": false,
       "appleId": "295866531",
@@ -420,8 +376,8 @@
       "releaseDate": "08 Nov 2008"
     },
     {
-      "rank": 19,
-      "previousRank": 21,
+      "rank": 17,
+      "previousRank": 19,
       "rankChange": 2,
       "isNew": false,
       "appleId": "364871348",
@@ -442,8 +398,8 @@
       "releaseDate": "06 Apr 2010"
     },
     {
-      "rank": 20,
-      "previousRank": 22,
+      "rank": 18,
+      "previousRank": 20,
       "rankChange": 2,
       "isNew": false,
       "appleId": "335516575",
@@ -464,8 +420,8 @@
       "releaseDate": "22 Oct 2009"
     },
     {
-      "rank": 21,
-      "previousRank": 23,
+      "rank": 19,
+      "previousRank": 21,
       "rankChange": 2,
       "isNew": false,
       "appleId": "333345855",
@@ -486,9 +442,9 @@
       "releaseDate": "08 Oct 2009"
     },
     {
-      "rank": 22,
-      "previousRank": 8,
-      "rankChange": -14,
+      "rank": 20,
+      "previousRank": 22,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "395149950",
       "name": "BookBuddy Pro: Book Tracker",
@@ -508,9 +464,9 @@
       "releaseDate": "09 Oct 2010"
     },
     {
-      "rank": 23,
-      "previousRank": 24,
-      "rankChange": 1,
+      "rank": 21,
+      "previousRank": 23,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "333441801",
       "name": "QuickReader - Speed Reading",
@@ -530,9 +486,9 @@
       "releaseDate": "15 Oct 2009"
     },
     {
-      "rank": 24,
-      "previousRank": 25,
-      "rankChange": 1,
+      "rank": 22,
+      "previousRank": 24,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "531204555",
       "name": "eBook Search Pro - Book Finder",
@@ -552,9 +508,9 @@
       "releaseDate": "30 Jun 2012"
     },
     {
-      "rank": 25,
-      "previousRank": 26,
-      "rankChange": 1,
+      "rank": 23,
+      "previousRank": 25,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "389029534",
       "name": "Twenty-Four Hours a Day",
@@ -574,9 +530,9 @@
       "releaseDate": "30 Aug 2010"
     },
     {
-      "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "rank": 24,
+      "previousRank": 26,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "304517588",
       "name": "Asia Wisdom Collection  - Universal App",
@@ -596,9 +552,9 @@
       "releaseDate": "12 Feb 2009"
     },
     {
-      "rank": 27,
-      "previousRank": 28,
-      "rankChange": 1,
+      "rank": 25,
+      "previousRank": 27,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "878704422",
       "name": "Transformers Rescue Bots-",
@@ -618,9 +574,9 @@
       "releaseDate": "19 Jun 2014"
     },
     {
-      "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "rank": 26,
+      "previousRank": 28,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1061132313",
       "name": "CHOMP by Christoph Niemann",
@@ -640,9 +596,9 @@
       "releaseDate": "27 Jan 2016"
     },
     {
-      "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "rank": 27,
+      "previousRank": 29,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1328558547",
       "name": "Tongan-English Dictionary",
@@ -662,9 +618,9 @@
       "releaseDate": "30 Sep 2019"
     },
     {
-      "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "rank": 28,
+      "previousRank": 30,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "961648591",
       "name": "Transformers Rescue Bots: Dino",
@@ -684,9 +640,9 @@
       "releaseDate": "07 May 2015"
     },
     {
-      "rank": 31,
-      "previousRank": 32,
-      "rankChange": 1,
+      "rank": 29,
+      "previousRank": 31,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "841875549",
       "name": "القاعدة النورانية",
@@ -706,8 +662,8 @@
       "releaseDate": "29 Apr 2014"
     },
     {
-      "rank": 32,
-      "previousRank": 34,
+      "rank": 30,
+      "previousRank": 32,
       "rankChange": 2,
       "isNew": false,
       "appleId": "356411065",
@@ -728,9 +684,9 @@
       "releaseDate": "02 Apr 2010"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "previousRank": 33,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "394275498",
       "name": "Bluefire Reader",
@@ -750,9 +706,9 @@
       "releaseDate": "09 Oct 2010"
     },
     {
-      "rank": 34,
-      "previousRank": 9,
-      "rankChange": -25,
+      "rank": 32,
+      "previousRank": 34,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1114811228",
       "name": "New Star Soccer G-Story",
@@ -772,9 +728,9 @@
       "releaseDate": "25 May 2016"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "previousRank": 35,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "372601049",
       "name": "Learn Tarot",
@@ -794,9 +750,9 @@
       "releaseDate": "26 May 2010"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "previousRank": 36,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1011479119",
       "name": "Dr. Seuss's ABC - Read & Learn",
@@ -816,9 +772,9 @@
       "releaseDate": "12 Jan 2016"
     },
     {
-      "rank": 37,
-      "previousRank": 38,
-      "rankChange": 1,
+      "rank": 35,
+      "previousRank": 37,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "572367360",
       "name": "Livres Audio HQ",
@@ -838,9 +794,9 @@
       "releaseDate": "13 Feb 2013"
     },
     {
-      "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
+      "rank": 36,
+      "previousRank": 38,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "412707650",
       "name": "200+ Islamic Stories (Pro)",
@@ -860,9 +816,9 @@
       "releaseDate": "04 Jan 2011"
     },
     {
-      "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "rank": 37,
+      "previousRank": 39,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "363992049",
       "name": "ComicGlass",
@@ -882,9 +838,9 @@
       "releaseDate": "29 Jul 2010"
     },
     {
-      "rank": 40,
-      "previousRank": 37,
-      "rankChange": -3,
+      "rank": 38,
+      "previousRank": 40,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "662558935",
       "name": "LibriVox Audiobooks – Ad-Free",
@@ -904,9 +860,9 @@
       "releaseDate": "23 Jun 2013"
     },
     {
-      "rank": 41,
+      "rank": 39,
       "previousRank": 41,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "889580711",
       "name": "MP3 Audiobook Player Pro",
@@ -926,9 +882,9 @@
       "releaseDate": "28 Jun 2014"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
-      "rankChange": 1,
+      "rank": 40,
+      "previousRank": 42,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "701084505",
       "name": "My Little Pony Party of One",
@@ -948,9 +904,9 @@
       "releaseDate": "17 Sep 2013"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
-      "rankChange": 1,
+      "rank": 41,
+      "previousRank": 43,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1065623382",
       "name": "Mr. Potato Head: School Rush",
@@ -970,9 +926,9 @@
       "releaseDate": "06 Apr 2016"
     },
     {
-      "rank": 44,
-      "previousRank": 45,
-      "rankChange": 1,
+      "rank": 42,
+      "previousRank": 44,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "526758956",
       "name": "Wicca Spellbook",
@@ -992,9 +948,9 @@
       "releaseDate": "10 Jun 2012"
     },
     {
-      "rank": 45,
-      "previousRank": 46,
-      "rankChange": 1,
+      "rank": 43,
+      "previousRank": 45,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "448799211",
       "name": "Wisdom of Hidden Realms Oracle",
@@ -1014,15 +970,15 @@
       "releaseDate": "19 Jul 2011"
     },
     {
-      "rank": 46,
-      "previousRank": 47,
-      "rankChange": 1,
+      "rank": 44,
+      "previousRank": 46,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "324516521",
       "name": "Awhile Read (formerly CHMate+)",
       "developer": "贤安 陈",
       "developerUrl": "https://apps.apple.com/au/developer/%E8%B4%A4%E5%AE%89-%E9%99%88/id318015371?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a1/d4/99a1d4cc-5721-ba2f-dc8b-e9398c0d6803/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/4d/32/0d4d3202-1246-12b7-43dc-1baf8630cc69/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/au/app/awhile-read-formerly-chmate/id324516521?uo=2",
       "price": {
         "amount": 14.99,
@@ -1036,9 +992,9 @@
       "releaseDate": "30 Jul 2009"
     },
     {
-      "rank": 47,
-      "previousRank": 12,
-      "rankChange": -35,
+      "rank": 45,
+      "previousRank": 47,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1300717402",
       "name": "Nighty Night Forest",
@@ -1058,9 +1014,9 @@
       "releaseDate": "21 Nov 2017"
     },
     {
-      "rank": 48,
+      "rank": 46,
       "previousRank": 48,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "418019881",
       "name": "5 Monkeys Jumping on the Bed",
@@ -1080,9 +1036,9 @@
       "releaseDate": "15 Feb 2011"
     },
     {
-      "rank": 49,
+      "rank": 47,
       "previousRank": 49,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "397846608",
       "name": "Touchstones",
@@ -1102,9 +1058,9 @@
       "releaseDate": "21 Oct 2010"
     },
     {
-      "rank": 50,
-      "previousRank": 10,
-      "rankChange": -40,
+      "rank": 48,
+      "previousRank": 50,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "361225439",
       "name": "eBook: Think and Grow Rich",
@@ -1124,9 +1080,9 @@
       "releaseDate": "15 Mar 2010"
     },
     {
-      "rank": 51,
-      "previousRank": 50,
-      "rankChange": -1,
+      "rank": 49,
+      "previousRank": 51,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "404678486",
       "name": "Just Grandma and Me",
@@ -1146,9 +1102,9 @@
       "releaseDate": "22 Nov 2010"
     },
     {
-      "rank": 52,
-      "previousRank": 51,
-      "rankChange": -1,
+      "rank": 50,
+      "previousRank": 52,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "855056309",
       "name": "Herbs in Magick",
@@ -1168,9 +1124,9 @@
       "releaseDate": "05 May 2014"
     },
     {
-      "rank": 53,
-      "previousRank": 52,
-      "rankChange": -1,
+      "rank": 51,
+      "previousRank": 53,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "409177911",
       "name": "Cozmo's Day Off - Storybook",
@@ -1190,9 +1146,9 @@
       "releaseDate": "20 Dec 2010"
     },
     {
-      "rank": 54,
-      "previousRank": 53,
-      "rankChange": -1,
+      "rank": 52,
+      "previousRank": 54,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "430616332",
       "name": "It's Tyrannosaurus Rex",
@@ -1212,9 +1168,9 @@
       "releaseDate": "19 Apr 2011"
     },
     {
-      "rank": 55,
-      "previousRank": 54,
-      "rankChange": -1,
+      "rank": 53,
+      "previousRank": 55,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "893619699",
       "name": "My Little Pony: Power Ponies",
@@ -1234,9 +1190,9 @@
       "releaseDate": "17 Jul 2014"
     },
     {
-      "rank": 56,
-      "previousRank": 55,
-      "rankChange": -1,
+      "rank": 54,
+      "previousRank": 56,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1489633019",
       "name": "Equine Anatomy Learning Aid",
@@ -1256,9 +1212,9 @@
       "releaseDate": "03 Dec 2019"
     },
     {
-      "rank": 57,
-      "previousRank": 56,
-      "rankChange": -1,
+      "rank": 55,
+      "previousRank": 57,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "1111754263",
       "name": "Cepher",
@@ -1278,9 +1234,31 @@
       "releaseDate": "19 May 2016"
     },
     {
-      "rank": 58,
-      "previousRank": 57,
-      "rankChange": -1,
+      "rank": 56,
+      "previousRank": 10,
+      "rankChange": -46,
+      "isNew": false,
+      "appleId": "1512939054",
+      "name": "Teach Monster: Reading for Fun",
+      "developer": "Teach Your Monster",
+      "developerUrl": "https://apps.apple.com/au/developer/teach-your-monster/id828392049?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/4d/46/3a4d469d-4a4c-b26a-d639-183cbf8bdc08/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/teach-monster-reading-for-fun/id1512939054?uo=2",
+      "price": {
+        "amount": 12.99,
+        "currency": "AUD",
+        "formatted": "$12.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "21 Jul 2021"
+    },
+    {
+      "rank": 57,
+      "previousRank": 58,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "327742738",
       "name": "聖經(和合本)(繁體中英對照)",
@@ -1300,9 +1278,9 @@
       "releaseDate": "28 Aug 2009"
     },
     {
-      "rank": 59,
-      "previousRank": 58,
-      "rankChange": -1,
+      "rank": 58,
+      "previousRank": 59,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "731295538",
       "name": "Siddur – Annotated Edition",
@@ -1322,9 +1300,9 @@
       "releaseDate": "04 Jan 2014"
     },
     {
-      "rank": 60,
-      "previousRank": 59,
-      "rankChange": -1,
+      "rank": 59,
+      "previousRank": 60,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "904565251",
       "name": "Hat Monkey by Chris Haughton",
@@ -1344,9 +1322,9 @@
       "releaseDate": "27 Aug 2014"
     },
     {
-      "rank": 61,
-      "previousRank": 60,
-      "rankChange": -1,
+      "rank": 60,
+      "previousRank": 61,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "415169792",
       "name": "Pagan Deities",
@@ -1366,9 +1344,31 @@
       "releaseDate": "21 Jan 2011"
     },
     {
+      "rank": 61,
+      "previousRank": 11,
+      "rankChange": -50,
+      "isNew": false,
+      "appleId": "600127635",
+      "name": "Lai Siangtho",
+      "developer": "Khen Solomon Lethil",
+      "developerUrl": "https://apps.apple.com/au/developer/khen-solomon-lethil/id600127638?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/76/fc/6a76fc85-ecf9-d2f5-1cff-12665291eeed/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/au/app/lai-siangtho/id600127635?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "AUD",
+        "formatted": "$7.99"
+      },
+      "primaryCategory": {
+        "id": "6018",
+        "name": "Books"
+      },
+      "releaseDate": "15 Feb 2013"
+    },
+    {
       "rank": 62,
-      "previousRank": 61,
-      "rankChange": -1,
+      "previousRank": 62,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "662254410",
       "name": "More Language of Letting Go",
@@ -1389,8 +1389,8 @@
     },
     {
       "rank": 63,
-      "previousRank": 62,
-      "rankChange": -1,
+      "previousRank": 63,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "992098515",
       "name": "iLovecraft Collection Vol. 1",
@@ -1411,8 +1411,8 @@
     },
     {
       "rank": 64,
-      "previousRank": 63,
-      "rankChange": -1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017447032",
       "name": "Transformers Rescue Bots:",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 64,
-      "rankChange": -1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "397833792",
       "name": "A Day at a Time Meditations",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 65,
-      "rankChange": -1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "988119206",
       "name": "ArtScroll Smart Siddur סדור",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 66,
-      "rankChange": -1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "489506212",
       "name": "point it App",
@@ -1499,8 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 67,
-      "rankChange": -1,
+      "previousRank": 68,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "507407813",
       "name": "iPoe Vol. 1 - Edgar Allan Poe",
@@ -1521,8 +1521,8 @@
     },
     {
       "rank": 69,
-      "previousRank": 68,
-      "rankChange": -1,
+      "previousRank": 69,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "397843942",
       "name": "Food for Thought Meditations",
@@ -1543,8 +1543,8 @@
     },
     {
       "rank": 70,
-      "previousRank": 69,
-      "rankChange": -1,
+      "previousRank": 70,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "336512240",
       "name": "Pocket Vedas",
@@ -1565,8 +1565,8 @@
     },
     {
       "rank": 71,
-      "previousRank": 70,
-      "rankChange": -1,
+      "previousRank": 71,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "583199247",
       "name": "Amelia - Story Book for Kids",
@@ -1587,8 +1587,8 @@
     },
     {
       "rank": 72,
-      "previousRank": 71,
-      "rankChange": -1,
+      "previousRank": 72,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "572357798",
       "name": "Audio Bibles",
@@ -1631,8 +1631,8 @@
     },
     {
       "rank": 74,
-      "previousRank": 72,
-      "rankChange": -2,
+      "previousRank": 74,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1447612543",
       "name": "Mirror Study Bible",
@@ -1653,8 +1653,8 @@
     },
     {
       "rank": 75,
-      "previousRank": 74,
-      "rankChange": -1,
+      "previousRank": 75,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "418750972",
       "name": "두란노 성경&사전",
@@ -1675,8 +1675,8 @@
     },
     {
       "rank": 76,
-      "previousRank": 75,
-      "rankChange": -1,
+      "previousRank": 76,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "523366295",
       "name": "Angels Of Atlantis Oracle Cards",
@@ -1697,8 +1697,8 @@
     },
     {
       "rank": 77,
-      "previousRank": 76,
-      "rankChange": -1,
+      "previousRank": 77,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1386148836",
       "name": "Interlinear Bible",
@@ -1719,8 +1719,8 @@
     },
     {
       "rank": 78,
-      "previousRank": 77,
-      "rankChange": -1,
+      "previousRank": 78,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "346447941",
       "name": "eBook: The Art of War",
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 79,
-      "previousRank": 78,
-      "rankChange": -1,
+      "previousRank": 79,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "327389387",
       "name": "Dialing God",
@@ -1763,8 +1763,8 @@
     },
     {
       "rank": 80,
-      "previousRank": 79,
-      "rankChange": -1,
+      "previousRank": 80,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017354785",
       "name": "Littlest Pet Shop: Pet Style",
@@ -1785,8 +1785,8 @@
     },
     {
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": -1,
+      "previousRank": 81,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1060006458",
       "name": "MBA智库（专业版）—让管理者职行力得到提升的在线教育软件",
@@ -1807,8 +1807,8 @@
     },
     {
       "rank": 82,
-      "previousRank": 81,
-      "rankChange": -1,
+      "previousRank": 82,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "797171054",
       "name": "My Little Pony:Hearts & Hooves",
@@ -1829,8 +1829,8 @@
     },
     {
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": -1,
+      "previousRank": 83,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "507097008",
       "name": "Stones in Magick",
@@ -1851,8 +1851,8 @@
     },
     {
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": -1,
+      "previousRank": 84,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "555415515",
       "name": "Trucks - Byron Barton",
@@ -1873,8 +1873,8 @@
     },
     {
       "rank": 85,
-      "previousRank": 84,
-      "rankChange": -1,
+      "previousRank": 85,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1092652588",
       "name": "Hop on Pop by Dr. Seuss",
@@ -1895,8 +1895,8 @@
     },
     {
       "rank": 86,
-      "previousRank": 85,
-      "rankChange": -1,
+      "previousRank": 86,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1067456521",
       "name": "Oh, the Places You'll Go!",
@@ -1917,8 +1917,8 @@
     },
     {
       "rank": 87,
-      "previousRank": 86,
-      "rankChange": -1,
+      "previousRank": 87,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "961648076",
       "name": "My Little Pony: Pinkie Pie's Sister",
@@ -1939,8 +1939,8 @@
     },
     {
       "rank": 88,
-      "previousRank": 87,
-      "rankChange": -1,
+      "previousRank": 88,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "571667540",
       "name": "iPoe Vol. 2 - Edgar Allan Poe",
@@ -1961,8 +1961,8 @@
     },
     {
       "rank": 89,
-      "previousRank": 88,
-      "rankChange": -1,
+      "previousRank": 89,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "939656123",
       "name": "My Little Pony: Twilight",
@@ -1983,8 +1983,8 @@
     },
     {
       "rank": 90,
-      "previousRank": 89,
-      "rankChange": -1,
+      "previousRank": 90,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "852694885",
       "name": "My Little Pony: Fluttershy",
@@ -2005,8 +2005,8 @@
     },
     {
       "rank": 91,
-      "previousRank": 90,
-      "rankChange": -1,
+      "previousRank": 91,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1017353772",
       "name": "My Little Pony: Rarity Chic",
@@ -2027,8 +2027,8 @@
     },
     {
       "rank": 92,
-      "previousRank": 91,
-      "rankChange": -1,
+      "previousRank": 92,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "738947482",
       "name": "TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader",
@@ -2049,8 +2049,8 @@
     },
     {
       "rank": 93,
-      "previousRank": 92,
-      "rankChange": -1,
+      "previousRank": 93,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1171440204",
       "name": "Transformers Rescue Bots",
@@ -2071,8 +2071,8 @@
     },
     {
       "rank": 94,
-      "previousRank": 93,
-      "rankChange": -1,
+      "previousRank": 94,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "516047066",
       "name": "Frankenstein: Interactive",
@@ -2093,30 +2093,8 @@
     },
     {
       "rank": 95,
-      "previousRank": 95,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "923633032",
-      "name": "NKJV Bible (Audio & Book)",
-      "developer": "莹 李",
-      "developerUrl": "https://apps.apple.com/au/developer/%E8%8E%B9-%E6%9D%8E/id916322092?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/ec/56/beec56a4-c36f-8d84-1551-28b9230cfc41/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/au/app/nkjv-bible-audio-book/id923633032?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "AUD",
-        "formatted": "$7.99"
-      },
-      "primaryCategory": {
-        "id": "6018",
-        "name": "Books"
-      },
-      "releaseDate": "09 Oct 2014"
-    },
-    {
-      "rank": 96,
       "previousRank": 96,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "392186848",
       "name": "Berenstain Bears - Golden Rule",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-25",
-  "collectedAt": "2026-11-25T09:42:00.002Z",
-  "sourceUpdatedAt": "2026-11-25T01:41:59-07:00",
+  "snapshotDate": "2026-11-26",
+  "collectedAt": "2026-11-26T09:16:24.515Z",
+  "sourceUpdatedAt": "2026-11-26T01:16:23-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/de/rss/toppaidapplications/limit=100/genre=6016/json",
   "chartType": "paid",
@@ -17,11 +17,11 @@
     "name": "娱乐"
   },
   "requestedLimit": 100,
-  "expectedCount": 99,
-  "actualCount": 99,
+  "expectedCount": 100,
+  "actualCount": 100,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-24",
+  "previousSnapshotDate": "2026-11-25",
   "apps": [
     {
       "rank": 1,
@@ -47,8 +47,8 @@
     },
     {
       "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
+      "previousRank": 2,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "6443923265",
       "name": "GSE SMART IPTV PRO",
@@ -69,8 +69,8 @@
     },
     {
       "rank": 3,
-      "previousRank": 8,
-      "rankChange": 5,
+      "previousRank": 3,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "978458576",
       "name": "SmartRace für Carrera Digital",
@@ -91,8 +91,30 @@
     },
     {
       "rank": 4,
-      "previousRank": 6,
-      "rankChange": 2,
+      "previousRank": 8,
+      "rankChange": 4,
+      "isNew": false,
+      "appleId": "6835833333",
+      "name": "GrainDie2 - Granular Lab",
+      "developer": "Diego Capoccitti",
+      "developerUrl": "https://apps.apple.com/de/developer/diego-capoccitti/id1650005470?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4f/13/294f1316-94e3-79a7-0023-ea1037bde03a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/graindie2-granular-lab/id6835833333?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "23.11.2026"
+    },
+    {
+      "rank": 5,
+      "previousRank": 4,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6748243845",
       "name": "Cozmo Robot",
@@ -112,9 +134,9 @@
       "releaseDate": "17.07.2025"
     },
     {
-      "rank": 5,
-      "previousRank": 2,
-      "rankChange": -3,
+      "rank": 6,
+      "previousRank": 5,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6821710782",
       "name": "Satisfy: ASMR Fidget Toys",
@@ -134,16 +156,38 @@
       "releaseDate": "04.11.2026"
     },
     {
-      "rank": 6,
-      "previousRank": 19,
-      "rankChange": 13,
+      "rank": 7,
+      "previousRank": 17,
+      "rankChange": 10,
       "isNew": false,
-      "appleId": "6498623389",
-      "name": "Folium",
-      "developer": "Jarrod Norwell",
-      "developerUrl": "https://apps.apple.com/de/developer/jarrod-norwell/id1449237747?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/folium/id6498623389?uo=2",
+      "appleId": "311658127",
+      "name": "Radio - Receiver",
+      "developer": "appsolute GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/appsolute-gmbh/id284444551?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0f/23/560f233d-6119-7de4-de31-924927021fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/radio-receiver/id311658127?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "16.04.2009"
+    },
+    {
+      "rank": 8,
+      "previousRank": 90,
+      "rankChange": 82,
+      "isNew": false,
+      "appleId": "1534413888",
+      "name": "ARSpiders.com Spinne im Face",
+      "developer": "Linda Schnetzinger",
+      "developerUrl": "https://apps.apple.com/de/developer/linda-schnetzinger/id1479825448?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/34/f7/6034f78d-e3d3-10f0-2bad-f356402c7f6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/arspiders-com-spinne-im-face/id1534413888?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -153,41 +197,19 @@
         "id": "6016",
         "name": "Unterhaltung"
       },
-      "releaseDate": "31.05.2024"
+      "releaseDate": "08.12.2020"
     },
     {
-      "rank": 7,
-      "previousRank": 97,
-      "rankChange": 90,
-      "isNew": false,
-      "appleId": "925169973",
-      "name": "Paranormal Ghost EVP Radio",
-      "developer": "Exelerus",
-      "developerUrl": "https://apps.apple.com/de/developer/exelerus/id909163085?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/76/a7/5776a7e0-8940-36fc-b572-02cd460102a4/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/paranormal-ghost-evp-radio/id925169973?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "16.10.2014"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "previousRank": null,
       "rankChange": null,
       "isNew": true,
-      "appleId": "6835833333",
-      "name": "GrainDie2 - Granular Lab",
-      "developer": "Diego Capoccitti",
-      "developerUrl": "https://apps.apple.com/de/developer/diego-capoccitti/id1650005470?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4f/13/294f1316-94e3-79a7-0023-ea1037bde03a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/graindie2-granular-lab/id6835833333?uo=2",
+      "appleId": "1259097826",
+      "name": "Goxel 3D Voxel Editor",
+      "developer": "Noctua Software Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/noctua-software-ltd/id629435881?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/c9/4d/eec94d1b-eae9-910d-c1ad-5fd1d4943d73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/goxel-3d-voxel-editor/id1259097826?uo=2",
       "price": {
         "amount": 5.99,
         "currency": "EUR",
@@ -197,12 +219,56 @@
         "id": "6016",
         "name": "Unterhaltung"
       },
-      "releaseDate": "23.11.2026"
+      "releaseDate": "30.07.2017"
     },
     {
-      "rank": 9,
-      "previousRank": 58,
-      "rankChange": 49,
+      "rank": 10,
+      "previousRank": 60,
+      "rankChange": 50,
+      "isNew": false,
+      "appleId": "1497473331",
+      "name": "iSTB",
+      "developer": "Nihal Ahmed",
+      "developerUrl": "https://apps.apple.com/de/developer/nihal-ahmed/id1497473330?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fc/f3/b6fcf3c0-7942-9cd4-87c4-c2b71316e170/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/istb/id1497473331?uo=2",
+      "price": {
+        "amount": 17.99,
+        "currency": "EUR",
+        "formatted": "17,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "14.02.2020"
+    },
+    {
+      "rank": 11,
+      "previousRank": 22,
+      "rankChange": 11,
+      "isNew": false,
+      "appleId": "6444409103",
+      "name": "Würfel Pro",
+      "developer": "Lukas Lubbe",
+      "developerUrl": "https://apps.apple.com/de/developer/lukas-lubbe/id357370470?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/c0/68/09c068c0-ca5e-84f4-f122-7b10832c60a3/AppIcon-0-1x_U007epad-0-5-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/w%C3%BCrfel-pro/id6444409103?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "15.11.2022"
+    },
+    {
+      "rank": 12,
+      "previousRank": 9,
+      "rankChange": -3,
       "isNew": false,
       "appleId": "1116905928",
       "name": "nPlayer",
@@ -222,53 +288,9 @@
       "releaseDate": "20.07.2016"
     },
     {
-      "rank": 10,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "322275101",
-      "name": "iStrobo",
-      "developer": "Sebastien BUET",
-      "developerUrl": "https://apps.apple.com/de/developer/sebastien-buet/id321941181?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/50/0f/47500f23-3445-e557-e429-e7a14caab40a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/istrobo/id322275101?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "14.07.2009"
-    },
-    {
-      "rank": 11,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6502768372",
-      "name": "DFB X (Digital Force Bag X)",
-      "developer": "Marc Kerstein",
-      "developerUrl": "https://apps.apple.com/de/developer/marc-kerstein/id821255617?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/80/dfbe8048-2aa1-ed29-65ca-66a0090274b4/DFB_X_icon_Liquid_Glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/dfb-x-digital-force-bag-x/id6502768372?uo=2",
-      "price": {
-        "amount": 129,
-        "currency": "EUR",
-        "formatted": "129,00 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "19.06.2024"
-    },
-    {
-      "rank": 12,
-      "previousRank": 3,
-      "rankChange": -9,
+      "rank": 13,
+      "previousRank": 12,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "6822738484",
       "name": "Face Witness",
@@ -288,31 +310,9 @@
       "releaseDate": "19.11.2026"
     },
     {
-      "rank": 13,
-      "previousRank": 9,
-      "rankChange": -4,
-      "isNew": false,
-      "appleId": "1602119871",
-      "name": "Number Puzzle Games 4 Watch",
-      "developer": "长金 胡",
-      "developerUrl": "https://apps.apple.com/de/developer/%E9%95%BF%E9%87%91-%E8%83%A1/id1528253434?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a4/28/cba42812-d3f4-f879-af23-68ebab3bd812/AppIcon-1x_U007ewatch-0-1-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/number-puzzle-games-4-watch/id1602119871?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "06.01.2022"
-    },
-    {
       "rank": 14,
-      "previousRank": 5,
-      "rankChange": -9,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1556671822",
       "name": "Merge Watermelon for watch",
@@ -333,30 +333,8 @@
     },
     {
       "rank": 15,
-      "previousRank": 12,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "6797739846",
-      "name": "Nomi - KI-Begleiter & Chat",
-      "developer": "丽娜 姜",
-      "developerUrl": "https://apps.apple.com/de/developer/%E4%B8%BD%E5%A8%9C-%E5%A7%9C/id6797281238?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/a0/59/53a059dc-337b-8cf6-f0b8-edd657172357/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/nomi-ki-begleiter-chat/id6797739846?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "27.08.2026"
-    },
-    {
-      "rank": 16,
-      "previousRank": 13,
-      "rankChange": -3,
+      "previousRank": 16,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "434756152",
       "name": "Schlaf Gut!",
@@ -376,31 +354,9 @@
       "releaseDate": "06.05.2011"
     },
     {
-      "rank": 17,
-      "previousRank": 14,
-      "rankChange": -3,
-      "isNew": false,
-      "appleId": "311658127",
-      "name": "Radio - Receiver",
-      "developer": "appsolute GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/appsolute-gmbh/id284444551?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0f/23/560f233d-6119-7de4-de31-924927021fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/radio-receiver/id311658127?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "16.04.2009"
-    },
-    {
-      "rank": 18,
-      "previousRank": 17,
-      "rankChange": -1,
+      "rank": 16,
+      "previousRank": 18,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "539397400",
       "name": "nPlayer Plus",
@@ -420,9 +376,9 @@
       "releaseDate": "23.07.2012"
     },
     {
-      "rank": 19,
-      "previousRank": 27,
-      "rankChange": 8,
+      "rank": 17,
+      "previousRank": 19,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "415007304",
       "name": "Sexy Maria",
@@ -442,9 +398,9 @@
       "releaseDate": "21.01.2011"
     },
     {
-      "rank": 20,
-      "previousRank": 43,
-      "rankChange": 23,
+      "rank": 18,
+      "previousRank": 20,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6754315964",
       "name": "Plezy: Media Server Client",
@@ -464,16 +420,16 @@
       "releaseDate": "30.10.2025"
     },
     {
-      "rank": 21,
-      "previousRank": 45,
-      "rankChange": 24,
+      "rank": 19,
+      "previousRank": 6,
+      "rankChange": -13,
       "isNew": false,
-      "appleId": "1369537286",
-      "name": "Fake Funny Whats Chat",
-      "developer": "kishan italiya",
-      "developerUrl": "https://apps.apple.com/de/developer/kishan-italiya/id1326603624?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/fb/12/aa/fb12aaf6-b969-5469-929e-cc2077b9a092/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fake-funny-whats-chat/id1369537286?uo=2",
+      "appleId": "6498623389",
+      "name": "Folium",
+      "developer": "Jarrod Norwell",
+      "developerUrl": "https://apps.apple.com/de/developer/jarrod-norwell/id1449237747?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/folium/id6498623389?uo=2",
       "price": {
         "amount": 2.99,
         "currency": "EUR",
@@ -483,145 +439,13 @@
         "id": "6016",
         "name": "Unterhaltung"
       },
-      "releaseDate": "23.04.2018"
+      "releaseDate": "31.05.2024"
     },
     {
-      "rank": 22,
-      "previousRank": 46,
-      "rankChange": 24,
+      "rank": 20,
+      "previousRank": 28,
+      "rankChange": 8,
       "isNew": false,
-      "appleId": "6444409103",
-      "name": "Würfel Pro",
-      "developer": "Lukas Lubbe",
-      "developerUrl": "https://apps.apple.com/de/developer/lukas-lubbe/id357370470?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/c0/68/09c068c0-ca5e-84f4-f122-7b10832c60a3/AppIcon-0-1x_U007epad-0-5-0-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/w%C3%BCrfel-pro/id6444409103?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "15.11.2022"
-    },
-    {
-      "rank": 23,
-      "previousRank": 7,
-      "rankChange": -16,
-      "isNew": false,
-      "appleId": "581258186",
-      "name": "Hue Disco",
-      "developer": "iMakeStuff",
-      "developerUrl": "https://apps.apple.com/de/developer/imakestuff/id317796293?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/14/6f/1b146f65-e1ff-7f8d-bcdd-3d46db9a510b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/hue-disco/id581258186?uo=2",
-      "price": {
-        "amount": 8.99,
-        "currency": "EUR",
-        "formatted": "8,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "13.12.2012"
-    },
-    {
-      "rank": 24,
-      "previousRank": 60,
-      "rankChange": 36,
-      "isNew": false,
-      "appleId": "6758916803",
-      "name": "1 Euro: Funny Quotes & Jokes",
-      "developer": "Rexhino Kovaci",
-      "developerUrl": "https://apps.apple.com/de/developer/rexhino-kovaci/id1872995440?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/7f/14/cb7f1425-028c-0bae-4152-d6c7c9d11d71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/1-euro-funny-quotes-jokes/id6758916803?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "31.03.2026"
-    },
-    {
-      "rank": 25,
-      "previousRank": 61,
-      "rankChange": 36,
-      "isNew": false,
-      "appleId": "6648776878",
-      "name": "Vidi · Media Center",
-      "developer": "Plata o Plomo AB",
-      "developerUrl": "https://apps.apple.com/de/developer/plata-o-plomo-ab/id1557914713?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/80/50/5a805033-1fd4-1609-1f2c-ad843277e6e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vidi-media-center/id6648776878?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "22.08.2024"
-    },
-    {
-      "rank": 26,
-      "previousRank": 84,
-      "rankChange": 58,
-      "isNew": false,
-      "appleId": "1576697316",
-      "name": "BABY born®",
-      "developer": "Blue Ocean Entertainment AG",
-      "developerUrl": "https://apps.apple.com/de/developer/blue-ocean-entertainment-ag/id716580965?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/cf/88/f3cf8814-a2fd-9301-3c82-f8c139038218/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/baby-born/id1576697316?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "04.11.2021"
-    },
-    {
-      "rank": 27,
-      "previousRank": 90,
-      "rankChange": 63,
-      "isNew": false,
-      "appleId": "928891816",
-      "name": "Ovilus",
-      "developer": "Ghost Stop LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/ghost-stop-llc/id1031416667?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/32/90/d43290a6-defa-13c2-86d7-a6281ac6da8f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ovilus/id928891816?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "18.01.2023"
-    },
-    {
-      "rank": 28,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
       "appleId": "1043729482",
       "name": "Magic Fireplace",
       "developer": "Jetson Creative LLC",
@@ -640,141 +464,9 @@
       "releaseDate": "30.10.2015"
     },
     {
-      "rank": 29,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1546222063",
-      "name": "Wichtel App Wichtelmeister Pro",
-      "developer": "Lukas Denker",
-      "developerUrl": "https://apps.apple.com/de/developer/lukas-denker/id1191486606?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/72/64/db7264a0-4f8b-7e77-6e3d-c4238cc21370/AppIconPro-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/wichtel-app-wichtelmeister-pro/id1546222063?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "02.01.2021"
-    },
-    {
-      "rank": 30,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "284288607",
-      "name": "Bubbles",
-      "developer": "Jesse Grosjean",
-      "developerUrl": "https://apps.apple.com/de/developer/jesse-grosjean/id284288610?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/a4/e4/05a4e41d-7d21-90aa-ac85-1ac00988bce2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/bubbles/id284288607?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "12.02.2019"
-    },
-    {
-      "rank": 31,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "1308013418",
-      "name": "Mi Televisión Premium",
-      "developer": "Salva Nadal",
-      "developerUrl": "https://apps.apple.com/de/developer/salva-nadal/id547669328?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/70/3c/bf703c33-f843-da20-8b2e-9a1492809963/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mi-televisi%C3%B3n-premium/id1308013418?uo=2",
-      "price": {
-        "amount": 7.99,
-        "currency": "EUR",
-        "formatted": "7,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "13.11.2017"
-    },
-    {
-      "rank": 32,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "6758199132",
-      "name": "Tarot Decks: Karten scannen",
-      "developer": "Hojate",
-      "developerUrl": "https://apps.apple.com/de/developer/hojate/id1871264360?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/c5/00/25c50040-6d0f-4df5-34ce-2d0d665f6ba9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tarot-decks-karten-scannen/id6758199132?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "26.01.2026"
-    },
-    {
-      "rank": 33,
-      "previousRank": 10,
-      "rankChange": -23,
-      "isNew": false,
-      "appleId": "316770635",
-      "name": "Classic Cartoon Sound Effects and Noises",
-      "developer": "Stephen Folkes",
-      "developerUrl": "https://apps.apple.com/de/developer/stephen-folkes/id316068096?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/1a/52/4f/1a524fd2-97f4-e602-17c2-67467ee04bce/mzl.aniimgfp.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/classic-cartoon-sound-effects-and-noises/id316770635?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "04.06.2009"
-    },
-    {
-      "rank": 34,
-      "previousRank": 11,
-      "rankChange": -23,
-      "isNew": false,
-      "appleId": "335047892",
-      "name": "DeRemote for Denon and Marantz",
-      "developer": "Frans Bouwmeester",
-      "developerUrl": "https://apps.apple.com/de/developer/frans-bouwmeester/id335047895?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/2c/96/ea/2c96ea2a-6c69-8078-4df7-7fa4a6167865/mzl.hvrvxaja.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/deremote-for-denon-and-marantz/id335047892?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "11.11.2009"
-    },
-    {
-      "rank": 35,
-      "previousRank": 15,
-      "rankChange": -20,
+      "rank": 21,
+      "previousRank": 35,
+      "rankChange": 14,
       "isNew": false,
       "appleId": "553145544",
       "name": "FlashFace Full",
@@ -794,75 +486,9 @@
       "releaseDate": "28.08.2012"
     },
     {
-      "rank": 36,
-      "previousRank": 16,
-      "rankChange": -20,
-      "isNew": false,
-      "appleId": "6738590491",
-      "name": "KennysGifs",
-      "developer": "KED, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/ked-llc/id1168348820?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/8b/43/528b43b2-7e6f-8c85-aa18-19de5f4e1ae0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/kennysgifs/id6738590491?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "10.01.2025"
-    },
-    {
-      "rank": 37,
-      "previousRank": 18,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "1564403188",
-      "name": "StbEmuTV (Pro)",
-      "developer": "Junaid Muhammad",
-      "developerUrl": "https://apps.apple.com/de/developer/junaid-muhammad/id618092948?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/5f/fe/ef5ffeac-0b30-c7a1-ee5b-b423eb821372/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/stbemutv-pro/id1564403188?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "30.04.2021"
-    },
-    {
-      "rank": 38,
-      "previousRank": 20,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "1065311870",
-      "name": "VRPlayer Pro : 2D 3D 360°Video",
-      "developer": "LEE DONG WON",
-      "developerUrl": "https://apps.apple.com/de/developer/lee-dong-won/id666182402?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/c8/e1/5ec8e17d-5dcc-2482-9355-525053d584bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/vrplayer-pro-2d-3d-360-video/id1065311870?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "17.12.2015"
-    },
-    {
-      "rank": 39,
-      "previousRank": 21,
-      "rankChange": -18,
+      "rank": 22,
+      "previousRank": 39,
+      "rankChange": 17,
       "isNew": false,
       "appleId": "425688070",
       "name": "iPiepser - Feuerwehr Piepser",
@@ -882,9 +508,779 @@
       "releaseDate": "18.03.2011"
     },
     {
+      "rank": 23,
+      "previousRank": 53,
+      "rankChange": 30,
+      "isNew": false,
+      "appleId": "6747754330",
+      "name": "OmniReveal PRO",
+      "developer": "Nelson Suarez Arteaga",
+      "developerUrl": "https://apps.apple.com/de/developer/nelson-suarez-arteaga/id1692733605?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/49/75/b14975e0-5170-0723-0de3-f1566d94367f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/omnireveal-pro/id6747754330?uo=2",
+      "price": {
+        "amount": 250,
+        "currency": "EUR",
+        "formatted": "250,00 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "31.10.2025"
+    },
+    {
+      "rank": 24,
+      "previousRank": 62,
+      "rankChange": 38,
+      "isNew": false,
+      "appleId": "284700702",
+      "name": "iRetroPhone - Wählscheibe",
+      "developer": "ObjectGraph LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/objectgraph-llc/id284700705?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/df/5a/9adf5a94-5e47-1b00-a24d-d82bb5d0cb8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iretrophone-w%C3%A4hlscheibe/id284700702?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "08.04.2024"
+    },
+    {
+      "rank": 25,
+      "previousRank": 69,
+      "rankChange": 44,
+      "isNew": false,
+      "appleId": "6831071919",
+      "name": "One Million Coins",
+      "developer": "Miles Trent",
+      "developerUrl": "https://apps.apple.com/de/developer/miles-trent/id6831071921?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f8/b6/98f8b657-fe7d-cc76-9240-c2d5ca8bedfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/one-million-coins/id6831071919?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "13.11.2026"
+    },
+    {
+      "rank": 26,
+      "previousRank": 86,
+      "rankChange": 60,
+      "isNew": false,
+      "appleId": "1632953327",
+      "name": "Tivimax IPTV Player (Premium)",
+      "developer": "AFIFA CHAUHDARY",
+      "developerUrl": "https://apps.apple.com/de/developer/afifa-chauhdary/id1614111035?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d0/6f/c3d06f6e-1481-f186-5872-032ab0e76af2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tivimax-iptv-player-premium/id1632953327?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "06.07.2022"
+    },
+    {
+      "rank": 27,
+      "previousRank": 89,
+      "rankChange": 62,
+      "isNew": false,
+      "appleId": "6456886656",
+      "name": "Layla",
+      "developer": "Layla Network Pty Ltd",
+      "developerUrl": "https://apps.apple.com/de/developer/layla-network-pty-ltd/id1700641179?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/de/67/a3de6775-38aa-8d92-5621-778f47395bec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/layla/id6456886656?uo=2",
+      "price": {
+        "amount": 22.99,
+        "currency": "EUR",
+        "formatted": "22,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "09.08.2023"
+    },
+    {
+      "rank": 28,
+      "previousRank": 7,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "925169973",
+      "name": "Paranormal Ghost EVP Radio",
+      "developer": "Exelerus",
+      "developerUrl": "https://apps.apple.com/de/developer/exelerus/id909163085?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/76/a7/5776a7e0-8940-36fc-b572-02cd460102a4/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/paranormal-ghost-evp-radio/id925169973?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "16.10.2014"
+    },
+    {
+      "rank": 29,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6833090768",
+      "name": "Phantombild: Gesicht erstellen",
+      "developer": "Dmytro Shaniuk",
+      "developerUrl": "https://apps.apple.com/de/developer/dmytro-shaniuk/id1534336629?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/13/ae/0a13ae43-952e-1d68-66d5-dc3af611be1d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/phantombild-gesicht-erstellen/id6833090768?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "12.11.2026"
+    },
+    {
+      "rank": 30,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6584512882",
+      "name": "Potenza Drive: Engine Sounds",
+      "developer": "Miguel Dias",
+      "developerUrl": "https://apps.apple.com/de/developer/miguel-dias/id1759765440?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ef/47/aaef47a9-c9c5-2469-7240-bb4aadb342b8/AppIcon-0-1x_U007epad-0-1-sRGB-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/potenza-drive-engine-sounds/id6584512882?uo=2",
+      "price": {
+        "amount": 14.99,
+        "currency": "EUR",
+        "formatted": "14,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "01.11.2024"
+    },
+    {
+      "rank": 31,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "298654660",
+      "name": "Quadcorder",
+      "developer": "Adam McElhaney",
+      "developerUrl": "https://apps.apple.com/de/developer/adam-mcelhaney/id298654663?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/e9/6d/ed/e96ded2d-3dd0-302d-6064-fed8ebe2296f/mzl.sqajigzf.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/quadcorder/id298654660?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "15.12.2008"
+    },
+    {
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1474422612",
+      "name": "TimeLine - Travel back in time",
+      "developer": "Patrick Kunvatanagarn",
+      "developerUrl": "https://apps.apple.com/de/developer/patrick-kunvatanagarn/id1474422611?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/85/a6/c385a602-3a0a-1e9f-be79-a84cf425fadc/icon_old-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/timeline-travel-back-in-time/id1474422612?uo=2",
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR",
+        "formatted": "49,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "16.08.2019"
+    },
+    {
+      "rank": 33,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "590225172",
+      "name": "Kamin ©",
+      "developer": "KISSAPP, S.L.",
+      "developerUrl": "https://apps.apple.com/de/developer/kissapp-s-l/id552812711?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/c5/dd/26c5dd98-24d9-f641-2809-56c201a57165/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/kamin/id590225172?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "14.01.2013"
+    },
+    {
+      "rank": 34,
+      "previousRank": 10,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "322275101",
+      "name": "iStrobo",
+      "developer": "Sebastien BUET",
+      "developerUrl": "https://apps.apple.com/de/developer/sebastien-buet/id321941181?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/50/0f/47500f23-3445-e557-e429-e7a14caab40a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/istrobo/id322275101?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "14.07.2009"
+    },
+    {
+      "rank": 35,
+      "previousRank": 11,
+      "rankChange": -24,
+      "isNew": false,
+      "appleId": "6502768372",
+      "name": "DFB X (Digital Force Bag X)",
+      "developer": "Marc Kerstein",
+      "developerUrl": "https://apps.apple.com/de/developer/marc-kerstein/id821255617?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/80/dfbe8048-2aa1-ed29-65ca-66a0090274b4/DFB_X_icon_Liquid_Glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/dfb-x-digital-force-bag-x/id6502768372?uo=2",
+      "price": {
+        "amount": 129,
+        "currency": "EUR",
+        "formatted": "129,00 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "19.06.2024"
+    },
+    {
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6563153040",
+      "name": "Sarah's Scribbles",
+      "developer": "KED, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/ked-llc/id1168348820?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/87/cd/fd87cd1c-e433-d2b6-1efa-a7381b9a49ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/sarahs-scribbles/id6563153040?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "15.09.2024"
+    },
+    {
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6752215916",
+      "name": "AYTO-Rechner",
+      "developer": "KATHARINA ANITA PORSCHKE",
+      "developerUrl": "https://apps.apple.com/de/developer/katharina-anita-porschke/id1838267791?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/19/74/20197484-62bb-4e69-e804-058bc457ca19/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ayto-rechner/id6752215916?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "09.09.2025"
+    },
+    {
+      "rank": 38,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1442306286",
+      "name": "FrogRadio",
+      "developer": "Shy Frog Productions LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/shy-frog-productions-llc/id1436648500?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/7d/ca/db7dca9e-85cf-ba1d-0705-211650f992c9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/frogradio/id1442306286?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "21.12.2018"
+    },
+    {
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6806241270",
+      "name": "Parlor: Retro-Emulator",
+      "developer": "DBL Studio",
+      "developerUrl": "https://apps.apple.com/de/developer/dbl-studio/id1771399423?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/76/c9/1276c939-a793-9ccd-1e76-2debe6b42ebd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/parlor-retro-emulator/id6806241270?uo=2",
+      "price": {
+        "amount": 0.49,
+        "currency": "EUR",
+        "formatted": "0,49 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "24.09.2026"
+    },
+    {
       "rank": 40,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "6742056420",
+      "name": "Morse Code Practice Tools",
+      "developer": "云峰 林",
+      "developerUrl": "https://apps.apple.com/de/developer/%E4%BA%91%E5%B3%B0-%E6%9E%97/id1740866485?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/63/cf/7763cffa-98ea-3cbd-0e92-929e6f79ca14/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/morse-code-practice-tools/id6742056420?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "17.02.2025"
+    },
+    {
+      "rank": 41,
+      "previousRank": 13,
+      "rankChange": -28,
+      "isNew": false,
+      "appleId": "1602119871",
+      "name": "Number Puzzle Games 4 Watch",
+      "developer": "长金 胡",
+      "developerUrl": "https://apps.apple.com/de/developer/%E9%95%BF%E9%87%91-%E8%83%A1/id1528253434?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a4/28/cba42812-d3f4-f879-af23-68ebab3bd812/AppIcon-1x_U007ewatch-0-1-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/number-puzzle-games-4-watch/id1602119871?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "06.01.2022"
+    },
+    {
+      "rank": 42,
+      "previousRank": 15,
+      "rankChange": -27,
+      "isNew": false,
+      "appleId": "6797739846",
+      "name": "Nomi - KI-Begleiter & Chat",
+      "developer": "丽娜 姜",
+      "developerUrl": "https://apps.apple.com/de/developer/%E4%B8%BD%E5%A8%9C-%E5%A7%9C/id6797281238?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/a0/59/53a059dc-337b-8cf6-f0b8-edd657172357/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/nomi-ki-begleiter-chat/id6797739846?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "27.08.2026"
+    },
+    {
+      "rank": 43,
+      "previousRank": 21,
+      "rankChange": -22,
+      "isNew": false,
+      "appleId": "1369537286",
+      "name": "Fake Funny Whats Chat",
+      "developer": "kishan italiya",
+      "developerUrl": "https://apps.apple.com/de/developer/kishan-italiya/id1326603624?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/fb/12/aa/fb12aaf6-b969-5469-929e-cc2077b9a092/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/fake-funny-whats-chat/id1369537286?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "23.04.2018"
+    },
+    {
+      "rank": 44,
       "previousRank": 23,
-      "rankChange": -17,
+      "rankChange": -21,
+      "isNew": false,
+      "appleId": "581258186",
+      "name": "Hue Disco",
+      "developer": "iMakeStuff",
+      "developerUrl": "https://apps.apple.com/de/developer/imakestuff/id317796293?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/14/6f/1b146f65-e1ff-7f8d-bcdd-3d46db9a510b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/hue-disco/id581258186?uo=2",
+      "price": {
+        "amount": 8.99,
+        "currency": "EUR",
+        "formatted": "8,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "13.12.2012"
+    },
+    {
+      "rank": 45,
+      "previousRank": 25,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "6648776878",
+      "name": "Vidi · Media Center",
+      "developer": "Plata o Plomo AB",
+      "developerUrl": "https://apps.apple.com/de/developer/plata-o-plomo-ab/id1557914713?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/80/50/5a805033-1fd4-1609-1f2c-ad843277e6e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vidi-media-center/id6648776878?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "22.08.2024"
+    },
+    {
+      "rank": 46,
+      "previousRank": 26,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "1576697316",
+      "name": "BABY born®",
+      "developer": "Blue Ocean Entertainment AG",
+      "developerUrl": "https://apps.apple.com/de/developer/blue-ocean-entertainment-ag/id716580965?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/cf/88/f3cf8814-a2fd-9301-3c82-f8c139038218/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/baby-born/id1576697316?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "04.11.2021"
+    },
+    {
+      "rank": 47,
+      "previousRank": 27,
+      "rankChange": -20,
+      "isNew": false,
+      "appleId": "928891816",
+      "name": "Ovilus",
+      "developer": "Ghost Stop LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/ghost-stop-llc/id1031416667?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/32/90/d43290a6-defa-13c2-86d7-a6281ac6da8f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ovilus/id928891816?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "18.01.2023"
+    },
+    {
+      "rank": 48,
+      "previousRank": 29,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "1546222063",
+      "name": "Wichtel App Wichtelmeister Pro",
+      "developer": "Lukas Denker",
+      "developerUrl": "https://apps.apple.com/de/developer/lukas-denker/id1191486606?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/72/64/db7264a0-4f8b-7e77-6e3d-c4238cc21370/AppIconPro-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/wichtel-app-wichtelmeister-pro/id1546222063?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "02.01.2021"
+    },
+    {
+      "rank": 49,
+      "previousRank": 30,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "284288607",
+      "name": "Bubbles",
+      "developer": "Jesse Grosjean",
+      "developerUrl": "https://apps.apple.com/de/developer/jesse-grosjean/id284288610?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/a4/e4/05a4e41d-7d21-90aa-ac85-1ac00988bce2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/bubbles/id284288607?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "12.02.2019"
+    },
+    {
+      "rank": 50,
+      "previousRank": 31,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "1308013418",
+      "name": "Mi Televisión Premium",
+      "developer": "Salva Nadal",
+      "developerUrl": "https://apps.apple.com/de/developer/salva-nadal/id547669328?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/70/3c/bf703c33-f843-da20-8b2e-9a1492809963/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/mi-televisi%C3%B3n-premium/id1308013418?uo=2",
+      "price": {
+        "amount": 7.99,
+        "currency": "EUR",
+        "formatted": "7,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "13.11.2017"
+    },
+    {
+      "rank": 51,
+      "previousRank": 32,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "6758199132",
+      "name": "Tarot Decks: Karten scannen",
+      "developer": "Hojate",
+      "developerUrl": "https://apps.apple.com/de/developer/hojate/id1871264360?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/c5/00/25c50040-6d0f-4df5-34ce-2d0d665f6ba9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tarot-decks-karten-scannen/id6758199132?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "26.01.2026"
+    },
+    {
+      "rank": 52,
+      "previousRank": 33,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "316770635",
+      "name": "Classic Cartoon Sound Effects and Noises",
+      "developer": "Stephen Folkes",
+      "developerUrl": "https://apps.apple.com/de/developer/stephen-folkes/id316068096?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/1a/52/4f/1a524fd2-97f4-e602-17c2-67467ee04bce/mzl.aniimgfp.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/classic-cartoon-sound-effects-and-noises/id316770635?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "04.06.2009"
+    },
+    {
+      "rank": 53,
+      "previousRank": 34,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "335047892",
+      "name": "DeRemote for Denon and Marantz",
+      "developer": "Frans Bouwmeester",
+      "developerUrl": "https://apps.apple.com/de/developer/frans-bouwmeester/id335047895?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/2c/96/ea/2c96ea2a-6c69-8078-4df7-7fa4a6167865/mzl.hvrvxaja.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/deremote-for-denon-and-marantz/id335047892?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "11.11.2009"
+    },
+    {
+      "rank": 54,
+      "previousRank": 36,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "6738590491",
+      "name": "KennysGifs",
+      "developer": "KED, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/ked-llc/id1168348820?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/8b/43/528b43b2-7e6f-8c85-aa18-19de5f4e1ae0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/kennysgifs/id6738590491?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "10.01.2025"
+    },
+    {
+      "rank": 55,
+      "previousRank": 37,
+      "rankChange": -18,
+      "isNew": false,
+      "appleId": "1564403188",
+      "name": "StbEmuTV (Pro)",
+      "developer": "Junaid Muhammad",
+      "developerUrl": "https://apps.apple.com/de/developer/junaid-muhammad/id618092948?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/5f/fe/ef5ffeac-0b30-c7a1-ee5b-b423eb821372/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/stbemutv-pro/id1564403188?uo=2",
+      "price": {
+        "amount": 9.99,
+        "currency": "EUR",
+        "formatted": "9,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "30.04.2021"
+    },
+    {
+      "rank": 56,
+      "previousRank": 61,
+      "rankChange": 5,
+      "isNew": false,
+      "appleId": "484090401",
+      "name": "Akinator VIP",
+      "developer": "Elokence",
+      "developerUrl": "https://apps.apple.com/de/developer/elokence/id484090404?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ac/e4/c7ace4f2-5085-3db2-1103-70e7e8943b1e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/akinator-vip/id484090401?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "07.12.2011"
+    },
+    {
+      "rank": 57,
+      "previousRank": 38,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "1065311870",
+      "name": "VRPlayer Pro : 2D 3D 360°Video",
+      "developer": "LEE DONG WON",
+      "developerUrl": "https://apps.apple.com/de/developer/lee-dong-won/id666182402?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/72/37/23723714-b49c-07ce-2d85-6d3a64fb04ec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/vrplayer-pro-2d-3d-360-video/id1065311870?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "17.12.2015"
+    },
+    {
+      "rank": 58,
+      "previousRank": 40,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "335862325",
       "name": "Blower",
@@ -904,30 +1300,8 @@
       "releaseDate": "14.11.2009"
     },
     {
-      "rank": 41,
-      "previousRank": 22,
-      "rankChange": -19,
-      "isNew": false,
-      "appleId": "1564402672",
-      "name": "MiniSigns® Babygebärden",
-      "developer": "Einfach Eltern",
-      "developerUrl": "https://apps.apple.com/de/developer/einfach-eltern/id1564402674?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/dd/49/6add4954-e788-b7d3-89d4-6eafe4a6d164/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/minisigns-babygeb%C3%A4rden/id1564402672?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "10.05.2021"
-    },
-    {
-      "rank": 42,
-      "previousRank": 25,
+      "rank": 59,
+      "previousRank": 42,
       "rankChange": -17,
       "isNew": false,
       "appleId": "410031728",
@@ -948,9 +1322,31 @@
       "releaseDate": "21.12.2010"
     },
     {
-      "rank": 43,
-      "previousRank": 24,
+      "rank": 60,
+      "previousRank": 41,
       "rankChange": -19,
+      "isNew": false,
+      "appleId": "1564402672",
+      "name": "MiniSigns® Babygebärden",
+      "developer": "Einfach Eltern",
+      "developerUrl": "https://apps.apple.com/de/developer/einfach-eltern/id1564402674?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/dd/49/6add4954-e788-b7d3-89d4-6eafe4a6d164/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/minisigns-babygeb%C3%A4rden/id1564402672?uo=2",
+      "price": {
+        "amount": 3.99,
+        "currency": "EUR",
+        "formatted": "3,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "10.05.2021"
+    },
+    {
+      "rank": 61,
+      "previousRank": 43,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "1205943057",
       "name": "Cezve Pro Coffee Oracle",
@@ -970,30 +1366,8 @@
       "releaseDate": "15.02.2017"
     },
     {
-      "rank": 44,
-      "previousRank": 26,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6478398981",
-      "name": "IPTV Smart - Live Übertragung",
-      "developer": "Mehmet Akif Saroglu",
-      "developerUrl": "https://apps.apple.com/de/developer/mehmet-akif-saroglu/id1732697117?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a4/72/74a4723f-f194-4295-ed19-ebeb99528404/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iptv-smart-live-%C3%BCbertragung/id6478398981?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "28.03.2024"
-    },
-    {
-      "rank": 45,
-      "previousRank": 28,
+      "rank": 62,
+      "previousRank": 45,
       "rankChange": -17,
       "isNew": false,
       "appleId": "441478010",
@@ -1014,9 +1388,31 @@
       "releaseDate": "09.06.2011"
     },
     {
-      "rank": 46,
-      "previousRank": 29,
-      "rankChange": -17,
+      "rank": 63,
+      "previousRank": 44,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "6478398981",
+      "name": "IPTV Smart - Live Übertragung",
+      "developer": "Mehmet Akif Saroglu",
+      "developerUrl": "https://apps.apple.com/de/developer/mehmet-akif-saroglu/id1732697117?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a4/72/74a4723f-f194-4295-ed19-ebeb99528404/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/iptv-smart-live-%C3%BCbertragung/id6478398981?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "28.03.2024"
+    },
+    {
+      "rank": 64,
+      "previousRank": 46,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "358824534",
       "name": "abcdefghijklmnopqrstuvwxyz",
@@ -1036,9 +1432,9 @@
       "releaseDate": "04.03.2010"
     },
     {
-      "rank": 47,
-      "previousRank": 31,
-      "rankChange": -16,
+      "rank": 65,
+      "previousRank": 47,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "1437510558",
       "name": "Magic Fluids: visual art & fun",
@@ -1058,30 +1454,8 @@
       "releaseDate": "06.11.2018"
     },
     {
-      "rank": 48,
-      "previousRank": 30,
-      "rankChange": -18,
-      "isNew": false,
-      "appleId": "6776187423",
-      "name": "Voxbend: Voice Changer",
-      "developer": "Robert Corbin",
-      "developerUrl": "https://apps.apple.com/de/developer/robert-corbin/id1890247992?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/ee/29/feee29e7-c610-2e03-0909-6c1915f095e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/voxbend-voice-changer/id6776187423?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "09.06.2026"
-    },
-    {
-      "rank": 49,
-      "previousRank": 32,
+      "rank": 66,
+      "previousRank": 49,
       "rankChange": -17,
       "isNew": false,
       "appleId": "1540527984",
@@ -1102,9 +1476,31 @@
       "releaseDate": "16.11.2020"
     },
     {
-      "rank": 50,
-      "previousRank": 33,
-      "rankChange": -17,
+      "rank": 67,
+      "previousRank": 48,
+      "rankChange": -19,
+      "isNew": false,
+      "appleId": "6776187423",
+      "name": "Voxbend: Voice Changer",
+      "developer": "Robert Corbin",
+      "developerUrl": "https://apps.apple.com/de/developer/robert-corbin/id1890247992?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/ee/29/feee29e7-c610-2e03-0909-6c1915f095e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/voxbend-voice-changer/id6776187423?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "09.06.2026"
+    },
+    {
+      "rank": 68,
+      "previousRank": 50,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6446994228",
       "name": "Bruce Concerts",
@@ -1124,9 +1520,9 @@
       "releaseDate": "01.04.2023"
     },
     {
-      "rank": 51,
-      "previousRank": 34,
-      "rankChange": -17,
+      "rank": 69,
+      "previousRank": 51,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6770823399",
       "name": "Vion",
@@ -1146,9 +1542,9 @@
       "releaseDate": "17.06.2026"
     },
     {
-      "rank": 52,
-      "previousRank": 35,
-      "rankChange": -17,
+      "rank": 70,
+      "previousRank": 52,
+      "rankChange": -18,
       "isNew": false,
       "appleId": "6760157431",
       "name": "Production 02074",
@@ -1168,30 +1564,8 @@
       "releaseDate": "20.06.2026"
     },
     {
-      "rank": 53,
-      "previousRank": 36,
-      "rankChange": -17,
-      "isNew": false,
-      "appleId": "6747754330",
-      "name": "OmniReveal PRO",
-      "developer": "Nelson Suarez Arteaga",
-      "developerUrl": "https://apps.apple.com/de/developer/nelson-suarez-arteaga/id1692733605?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/49/75/b14975e0-5170-0723-0de3-f1566d94367f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/omnireveal-pro/id6747754330?uo=2",
-      "price": {
-        "amount": 250,
-        "currency": "EUR",
-        "formatted": "250,00 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "31.10.2025"
-    },
-    {
-      "rank": 54,
-      "previousRank": 37,
+      "rank": 71,
+      "previousRank": 54,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6837646730",
@@ -1212,8 +1586,8 @@
       "releaseDate": "21.11.2026"
     },
     {
-      "rank": 55,
-      "previousRank": 38,
+      "rank": 72,
+      "previousRank": 55,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6836664058",
@@ -1234,8 +1608,8 @@
       "releaseDate": "20.11.2026"
     },
     {
-      "rank": 56,
-      "previousRank": 39,
+      "rank": 73,
+      "previousRank": 56,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6836381482",
@@ -1256,8 +1630,8 @@
       "releaseDate": "18.11.2026"
     },
     {
-      "rank": 57,
-      "previousRank": 40,
+      "rank": 74,
+      "previousRank": 57,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6832350940",
@@ -1278,15 +1652,15 @@
       "releaseDate": "09.11.2026"
     },
     {
-      "rank": 58,
-      "previousRank": 41,
+      "rank": 75,
+      "previousRank": 58,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6822716612",
       "name": "Subpoena Season",
       "developer": "Oliver Markus Mueller",
       "developerUrl": "https://apps.apple.com/de/developer/oliver-markus-mueller/id1896262267?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/9a/c3/269ac34a-eb12-98d6-d614-61b2d7567eec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/ec/16/69ec16b3-3cba-ec84-de49-6694c3aec040/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/subpoena-season/id6822716612?uo=2",
       "price": {
         "amount": 5.99,
@@ -1300,8 +1674,8 @@
       "releaseDate": "16.11.2026"
     },
     {
-      "rank": 59,
-      "previousRank": 42,
+      "rank": 76,
+      "previousRank": 59,
       "rankChange": -17,
       "isNew": false,
       "appleId": "6758990878",
@@ -1322,75 +1696,9 @@
       "releaseDate": "09.03.2026"
     },
     {
-      "rank": 60,
-      "previousRank": 44,
-      "rankChange": -16,
-      "isNew": false,
-      "appleId": "1497473331",
-      "name": "iSTB",
-      "developer": "Nihal Ahmed",
-      "developerUrl": "https://apps.apple.com/de/developer/nihal-ahmed/id1497473330?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fc/f3/b6fcf3c0-7942-9cd4-87c4-c2b71316e170/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/istb/id1497473331?uo=2",
-      "price": {
-        "amount": 17.99,
-        "currency": "EUR",
-        "formatted": "17,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "14.02.2020"
-    },
-    {
-      "rank": 61,
-      "previousRank": 51,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "484090401",
-      "name": "Akinator VIP",
-      "developer": "Elokence",
-      "developerUrl": "https://apps.apple.com/de/developer/elokence/id484090404?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ac/e4/c7ace4f2-5085-3db2-1103-70e7e8943b1e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/akinator-vip/id484090401?uo=2",
-      "price": {
-        "amount": 3.99,
-        "currency": "EUR",
-        "formatted": "3,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "07.12.2011"
-    },
-    {
-      "rank": 62,
-      "previousRank": 47,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "284700702",
-      "name": "iRetroPhone - Wählscheibe",
-      "developer": "ObjectGraph LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/objectgraph-llc/id284700705?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/df/5a/9adf5a94-5e47-1b00-a24d-d82bb5d0cb8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iretrophone-w%C3%A4hlscheibe/id284700702?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "08.04.2024"
-    },
-    {
-      "rank": 63,
-      "previousRank": 48,
-      "rankChange": -15,
+      "rank": 77,
+      "previousRank": 63,
+      "rankChange": -14,
       "isNew": false,
       "appleId": "1360656789",
       "name": "Ghost Science M3",
@@ -1410,9 +1718,9 @@
       "releaseDate": "28.03.2018"
     },
     {
-      "rank": 64,
-      "previousRank": 49,
-      "rankChange": -15,
+      "rank": 78,
+      "previousRank": 64,
+      "rankChange": -14,
       "isNew": false,
       "appleId": "1540387087",
       "name": "Inertia Pro",
@@ -1432,9 +1740,9 @@
       "releaseDate": "26.03.2021"
     },
     {
-      "rank": 65,
-      "previousRank": 50,
-      "rankChange": -15,
+      "rank": 79,
+      "previousRank": 65,
+      "rankChange": -14,
       "isNew": false,
       "appleId": "6763616488",
       "name": "Surume - PS4 PS3 PS2 VITA XBOX",
@@ -1454,59 +1762,15 @@
       "releaseDate": "18.05.2026"
     },
     {
-      "rank": 66,
-      "previousRank": 52,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "938082827",
-      "name": "Pony Style Box",
-      "developer": "Fox and Sheep GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/fox-and-sheep-gmbh/id666759463?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/12/c5/5e12c5a9-11ea-0e7c-a513-34a424776e5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/pony-style-box/id938082827?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "10.12.2014"
-    },
-    {
-      "rank": 67,
-      "previousRank": 53,
-      "rankChange": -14,
-      "isNew": false,
-      "appleId": "1065946198",
-      "name": "MoonCrest",
-      "developer": "Ivan Cerra de Castro",
-      "developerUrl": "https://apps.apple.com/de/developer/ivan-cerra-de-castro/id321270638?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/3f/a2/ab3fa22b-1422-8779-d641-1ab0c5f4cc45/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mooncrest/id1065946198?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "14.12.2015"
-    },
-    {
-      "rank": 68,
-      "previousRank": 56,
+      "rank": 80,
+      "previousRank": 68,
       "rankChange": -12,
       "isNew": false,
       "appleId": "647275629",
       "name": "Live TV Fernsehen IP TV",
       "developer": "Live TV GmbH",
       "developerUrl": "https://apps.apple.com/de/developer/live-tv-gmbh/id647275632?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/c2/e7/61c2e772-157f-e44b-ee11-3eccb158c992/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.jpeg/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/cc/71/f9cc714e-d1d2-ab86-0195-40b1fd7fdb11/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.jpeg/100x100bb.png",
       "storeUrl": "https://apps.apple.com/de/app/live-tv-fernsehen-ip-tv/id647275629?uo=2",
       "price": {
         "amount": 2.99,
@@ -1520,515 +1784,9 @@
       "releaseDate": "23.05.2013"
     },
     {
-      "rank": 69,
-      "previousRank": 54,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "6831071919",
-      "name": "One Million Coins",
-      "developer": "Miles Trent",
-      "developerUrl": "https://apps.apple.com/de/developer/miles-trent/id6831071921?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f8/b6/98f8b657-fe7d-cc76-9240-c2d5ca8bedfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/one-million-coins/id6831071919?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "13.11.2026"
-    },
-    {
-      "rank": 70,
-      "previousRank": 55,
-      "rankChange": -15,
-      "isNew": false,
-      "appleId": "329233299",
-      "name": "Universe Splitter",
-      "developer": "Aerfish LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/aerfish-llc/id329233302?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/30/49/1930490e-1c17-ab43-7493-cb5dcfc91236/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/universe-splitter/id329233299?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "06.10.2009"
-    },
-    {
-      "rank": 71,
-      "previousRank": 59,
-      "rankChange": -12,
-      "isNew": false,
-      "appleId": "344784375",
-      "name": "OPlayer - video player",
-      "developer": "Suzhou Totoro Network Technology Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/de/developer/suzhou-totoro-network-technology-co-ltd/id344784378?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/73/0b/dd730bff-1c2b-c31e-9948-c0a472d8e180/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/oplayer-video-player/id344784375?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "14.01.2010"
-    },
-    {
-      "rank": 72,
-      "previousRank": 62,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "534529876",
-      "name": "iOrnament: Kunst der Symmetrie",
-      "developer": "science-to-touch",
-      "developerUrl": "https://apps.apple.com/de/developer/science-to-touch/id534529879?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e2/35/8f/e2358f4c-5d9a-96ba-7a98-462fcf7a4ae4/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/iornament-kunst-der-symmetrie/id534529876?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "16.06.2012"
-    },
-    {
-      "rank": 73,
-      "previousRank": 63,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "464510291",
-      "name": "Mensch-Katze-Übersetzer Deluxe",
-      "developer": "Electric French Fries",
-      "developerUrl": "https://apps.apple.com/de/developer/electric-french-fries/id388195968?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/ba/e9/e1bae99e-e99d-5d0f-b871-41fafa7e681e/AppIcon_paid-0-0-1x_U007epad-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/mensch-katze-%C3%BCbersetzer-deluxe/id464510291?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "15.09.2011"
-    },
-    {
-      "rank": 74,
-      "previousRank": 64,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "965644953",
-      "name": "MovieBuddy Pro: Filme & TV",
-      "developer": "Kimico, Ltd.",
-      "developerUrl": "https://apps.apple.com/de/developer/kimico-ltd/id395149953?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/20/df/9020dfb3-2f62-e698-1e3d-bb0edd39331e/AppIcon-Pro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/moviebuddy-pro-filme-tv/id965644953?uo=2",
-      "price": {
-        "amount": 9.99,
-        "currency": "EUR",
-        "formatted": "9,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "25.06.2015"
-    },
-    {
-      "rank": 75,
-      "previousRank": 65,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "635717885",
-      "name": "YACReader - Comic Reader",
-      "developer": "Luis Ángel San Martín",
-      "developerUrl": "https://apps.apple.com/de/developer/luis-%C3%A1ngel-san-mart%C3%ADn/id635717888?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/4f/ede44f3a-689a-ee64-9f3d-f43fb60c752e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/yacreader-comic-reader/id635717885?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "27.04.2013"
-    },
-    {
-      "rank": 76,
-      "previousRank": 66,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1218897499",
-      "name": "Little Friends Dance Studio AR",
-      "developer": "Fox and Sheep GmbH",
-      "developerUrl": "https://apps.apple.com/de/developer/fox-and-sheep-gmbh/id666759463?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/d2/80/edd280f1-e598-8045-bbe8-95bd0726ddab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/little-friends-dance-studio-ar/id1218897499?uo=2",
-      "price": {
-        "amount": 4.99,
-        "currency": "EUR",
-        "formatted": "4,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "13.09.2017"
-    },
-    {
-      "rank": 77,
-      "previousRank": 67,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "383453608",
-      "name": "Galaxia",
-      "developer": "Ivan Cerra de Castro",
-      "developerUrl": "https://apps.apple.com/de/developer/ivan-cerra-de-castro/id321270638?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5d/24/50/5d24505d-a17d-c649-fc80-a2e3e04df3c4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/galaxia/id383453608?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "27.08.2010"
-    },
-    {
-      "rank": 78,
-      "previousRank": 68,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1260605436",
-      "name": "Blaze: Obstacle Course",
-      "developer": "Nickelodeon",
-      "developerUrl": "https://apps.apple.com/de/developer/nickelodeon/id304682075?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1f/0d/b1/1f0db1cb-d36b-f98d-8016-bcd13fd9c161/mzl.xvndtltu.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/blaze-obstacle-course/id1260605436?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "03.11.2017"
-    },
-    {
-      "rank": 79,
-      "previousRank": 69,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1256626606",
-      "name": "iTHUMP/Toxic+",
-      "developer": "Ian Pidgeon",
-      "developerUrl": "https://apps.apple.com/de/developer/ian-pidgeon/id578230586?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/be/14/75be149b-17e2-3fd0-5414-e29aa1c5af89/AppIcon-1x_U007epad-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/ithump-toxic/id1256626606?uo=2",
-      "price": {
-        "amount": 69.99,
-        "currency": "EUR",
-        "formatted": "69,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "13.07.2017"
-    },
-    {
-      "rank": 80,
-      "previousRank": 70,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6760894350",
-      "name": "Police Lights: Led Strobe",
-      "developer": "Mustafa Kulac",
-      "developerUrl": "https://apps.apple.com/de/developer/mustafa-kulac/id1782678392?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/e3/51/53e35142-dce6-f28e-acb3-9925c39030f5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/police-lights-led-strobe/id6760894350?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "24.03.2026"
-    },
-    {
       "rank": 81,
-      "previousRank": 71,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6755395866",
-      "name": "Infuse: Enterprise",
-      "developer": "Firecore, LLC",
-      "developerUrl": "https://apps.apple.com/de/developer/firecore-llc/id577130089?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/5a/52/345a5297-c743-339e-bc90-4409ea02914f/AppIconEnterprise-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/infuse-enterprise/id6755395866?uo=2",
-      "price": {
-        "amount": 99.99,
-        "currency": "EUR",
-        "formatted": "99,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "16.02.2026"
-    },
-    {
-      "rank": 82,
-      "previousRank": 72,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6818644922",
-      "name": "TV Jr. – Live TV on HomeView",
-      "developer": "Ben Markowitz",
-      "developerUrl": "https://apps.apple.com/de/developer/ben-markowitz/id1146679453?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/6b/0f/dd6b0fe5-2f24-25a1-f44f-ed9c714ea24e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tv-jr-live-tv-on-homeview/id6818644922?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "18.11.2026"
-    },
-    {
-      "rank": 83,
-      "previousRank": 73,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6784956088",
-      "name": "HoroClock",
-      "developer": "charapla",
-      "developerUrl": "https://apps.apple.com/de/developer/charapla/id765338912?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/df/79/bedf7905-bede-c9a8-724f-4ed907bea397/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/horoclock/id6784956088?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "04.07.2026"
-    },
-    {
-      "rank": 84,
-      "previousRank": 74,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6761790050",
-      "name": "FluxMotion",
-      "developer": "Ryan Laseter",
-      "developerUrl": "https://apps.apple.com/de/developer/ryan-laseter/id1759207877?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/52/f8/8c52f8ca-0049-4bdb-4541-93fef907a065/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/fluxmotion/id6761790050?uo=2",
-      "price": {
-        "amount": 5.99,
-        "currency": "EUR",
-        "formatted": "5,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "21.05.2026"
-    },
-    {
-      "rank": 85,
-      "previousRank": 75,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "486085869",
-      "name": "I Never Party",
-      "developer": "Sirob OU",
-      "developerUrl": "https://apps.apple.com/de/developer/sirob-ou/id1260455186?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/f3/5b/90f35b25-00c5-2ca1-885e-be7f5729c57a/AppIcon-0-1x_U007emarketing-0-0-85-220-7.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/i-never-party/id486085869?uo=2",
-      "price": {
-        "amount": 1.99,
-        "currency": "EUR",
-        "formatted": "1,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "08.12.2011"
-    },
-    {
-      "rank": 86,
-      "previousRank": 76,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1632953327",
-      "name": "Tivimax IPTV Player (Premium)",
-      "developer": "AFIFA CHAUHDARY",
-      "developerUrl": "https://apps.apple.com/de/developer/afifa-chauhdary/id1614111035?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d0/6f/c3d06f6e-1481-f186-5872-032ab0e76af2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/tivimax-iptv-player-premium/id1632953327?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "06.07.2022"
-    },
-    {
-      "rank": 87,
-      "previousRank": 77,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1050339928",
-      "name": "Silk 2 – Generative Art",
-      "developer": "Yuri Vishnevsky",
-      "developerUrl": "https://apps.apple.com/de/developer/yuri-vishnevsky/id416618312?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/d9/ae/b3d9aec6-a8a6-1d8b-20d7-508ee8ce52cd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/silk-2-generative-art/id1050339928?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "01.02.2016"
-    },
-    {
-      "rank": 88,
-      "previousRank": 78,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1081486684",
-      "name": "Diverter",
-      "developer": "Marc Kerstein",
-      "developerUrl": "https://apps.apple.com/de/developer/marc-kerstein/id821255617?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/6c/6c/de6c6cbf-6634-b09b-2129-429fb6336139/2026Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/diverter/id1081486684?uo=2",
-      "price": {
-        "amount": 49.99,
-        "currency": "EUR",
-        "formatted": "49,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "06.05.2016"
-    },
-    {
-      "rank": 89,
-      "previousRank": 79,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6456886656",
-      "name": "Layla",
-      "developer": "Layla Network Pty Ltd",
-      "developerUrl": "https://apps.apple.com/de/developer/layla-network-pty-ltd/id1700641179?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/de/67/a3de6775-38aa-8d92-5621-778f47395bec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/layla/id6456886656?uo=2",
-      "price": {
-        "amount": 22.99,
-        "currency": "EUR",
-        "formatted": "22,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "09.08.2023"
-    },
-    {
-      "rank": 90,
-      "previousRank": 80,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "1534413888",
-      "name": "ARSpiders.com Spinne im Face",
-      "developer": "Linda Schnetzinger",
-      "developerUrl": "https://apps.apple.com/de/developer/linda-schnetzinger/id1479825448?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/34/f7/6034f78d-e3d3-10f0-2bad-f356402c7f6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/arspiders-com-spinne-im-face/id1534413888?uo=2",
-      "price": {
-        "amount": 2.99,
-        "currency": "EUR",
-        "formatted": "2,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "08.12.2020"
-    },
-    {
-      "rank": 91,
-      "previousRank": 81,
-      "rankChange": -10,
-      "isNew": false,
-      "appleId": "6749780361",
-      "name": "WITZ-BLITZ",
-      "developer": "neureif UG (haftungsbeschränkt)",
-      "developerUrl": "https://apps.apple.com/de/developer/neureif-ug-haftungsbeschr%C3%A4nkt/id1832049017?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/aa/ea/78aaea07-15e1-1484-8f8a-16b3ebe10a56/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/de/app/witz-blitz/id6749780361?uo=2",
-      "price": {
-        "amount": 0.99,
-        "currency": "EUR",
-        "formatted": "0,99 €"
-      },
-      "primaryCategory": {
-        "id": "6016",
-        "name": "Unterhaltung"
-      },
-      "releaseDate": "29.08.2025"
-    },
-    {
-      "rank": 92,
-      "previousRank": 98,
-      "rankChange": 6,
+      "previousRank": 92,
+      "rankChange": 11,
       "isNew": false,
       "appleId": "329886711",
       "name": "EyeTV",
@@ -2048,9 +1806,31 @@
       "releaseDate": "28.09.2009"
     },
     {
-      "rank": 93,
-      "previousRank": 99,
-      "rankChange": 6,
+      "rank": 82,
+      "previousRank": 85,
+      "rankChange": 3,
+      "isNew": false,
+      "appleId": "486085869",
+      "name": "I Never Party",
+      "developer": "Sirob OU",
+      "developerUrl": "https://apps.apple.com/de/developer/sirob-ou/id1260455186?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/f3/5b/90f35b25-00c5-2ca1-885e-be7f5729c57a/AppIcon-0-1x_U007emarketing-0-0-85-220-7.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/i-never-party/id486085869?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "08.12.2011"
+    },
+    {
+      "rank": 83,
+      "previousRank": 93,
+      "rankChange": 10,
       "isNew": false,
       "appleId": "320171764",
       "name": "1500 Klingeltöne Unlimited - Best iPhone Ringtones",
@@ -2070,9 +1850,9 @@
       "releaseDate": "09.07.2009"
     },
     {
-      "rank": 94,
-      "previousRank": 57,
-      "rankChange": -37,
+      "rank": 84,
+      "previousRank": 94,
+      "rankChange": 10,
       "isNew": false,
       "appleId": "569371565",
       "name": "Countdown Star (Keine Werbung)",
@@ -2092,10 +1872,10 @@
       "releaseDate": "20.11.2012"
     },
     {
-      "rank": 95,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 85,
+      "previousRank": 95,
+      "rankChange": 10,
+      "isNew": false,
       "appleId": "297244048",
       "name": "VLC Remote Pro!",
       "developer": "Hobbyist Software Limited",
@@ -2114,10 +1894,10 @@
       "releaseDate": "28.11.2008"
     },
     {
-      "rank": 96,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 86,
+      "previousRank": 96,
+      "rankChange": 10,
+      "isNew": false,
       "appleId": "395680819",
       "name": "AVPlayer",
       "developer": "EPLAYWORKS",
@@ -2136,10 +1916,32 @@
       "releaseDate": "15.11.2010"
     },
     {
-      "rank": 97,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 87,
+      "previousRank": 71,
+      "rankChange": -16,
+      "isNew": false,
+      "appleId": "344784375",
+      "name": "OPlayer - video player",
+      "developer": "Suzhou Totoro Network Technology Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/de/developer/suzhou-totoro-network-technology-co-ltd/id344784378?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/73/0b/dd730bff-1c2b-c31e-9948-c0a472d8e180/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/oplayer-video-player/id344784375?uo=2",
+      "price": {
+        "amount": 2.99,
+        "currency": "EUR",
+        "formatted": "2,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "14.01.2010"
+    },
+    {
+      "rank": 88,
+      "previousRank": 97,
+      "rankChange": 9,
+      "isNew": false,
       "appleId": "289468215",
       "name": "Banner",
       "developer": "Masayuki Akamatsu",
@@ -2158,10 +1960,10 @@
       "releaseDate": "03.02.2019"
     },
     {
-      "rank": 98,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 89,
+      "previousRank": 98,
+      "rankChange": 9,
+      "isNew": false,
       "appleId": "294415285",
       "name": "Fake-A-Call",
       "developer": "Excelltech Inc.",
@@ -2180,10 +1982,10 @@
       "releaseDate": "09.11.2008"
     },
     {
-      "rank": 99,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "rank": 90,
+      "previousRank": 99,
+      "rankChange": 9,
+      "isNew": false,
       "appleId": "301027080",
       "name": "iLoveFireworks",
       "developer": "Fireworks Games",
@@ -2200,6 +2002,226 @@
         "name": "Unterhaltung"
       },
       "releaseDate": "06.01.2009"
+    },
+    {
+      "rank": 91,
+      "previousRank": 66,
+      "rankChange": -25,
+      "isNew": false,
+      "appleId": "938082827",
+      "name": "Pony Style Box",
+      "developer": "Fox and Sheep GmbH",
+      "developerUrl": "https://apps.apple.com/de/developer/fox-and-sheep-gmbh/id666759463?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/12/c5/5e12c5a9-11ea-0e7c-a513-34a424776e5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/pony-style-box/id938082827?uo=2",
+      "price": {
+        "amount": 4.99,
+        "currency": "EUR",
+        "formatted": "4,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "10.12.2014"
+    },
+    {
+      "rank": 92,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "383718755",
+      "name": "Decide Now! Glücksrad drehen",
+      "developer": "Catforce Studio",
+      "developerUrl": "https://apps.apple.com/de/developer/catforce-studio/id383718758?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c5/f6/e4c5f603-b5be-3312-1021-550b214cd470/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/decide-now-gl%C3%BCcksrad-drehen/id383718755?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "30.07.2010"
+    },
+    {
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "329506639",
+      "name": "iSpy Cameras",
+      "developer": "SKJM, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/skjm-llc/id292563691?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5e/e5/ab/5ee5ab79-13ff-a9cb-e4a3-5079915da461/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ispy-cameras/id329506639?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "10.09.2009"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "323283939",
+      "name": "Animation Creator",
+      "developer": "miSoft",
+      "developerUrl": "https://apps.apple.com/de/developer/misoft/id362411241?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/39/df/8239dfa7-03ef-4af3-f474-5de8f018c58b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/animation-creator/id323283939?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "27.07.2009"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "730873197",
+      "name": "Toca Hair Salon Me",
+      "developer": "Toca Boca AB",
+      "developerUrl": "https://apps.apple.com/de/developer/toca-boca-ab/id419103351?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6a/66/d4/6a66d45d-e229-f4aa-ddae-e344c02b770f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/toca-hair-salon-me/id730873197?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "27.11.2013"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "380090605",
+      "name": "Let's create! Pottery HD",
+      "developer": "Infinite Dreams Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/infinite-dreams-inc/id306712040?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3f/c9/1d/3fc91df5-1758-4304-d159-158221907a92/AppIcon-0-1x_U007emarketing-0-85-220-9.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/lets-create-pottery-hd/id380090605?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "16.07.2010"
+    },
+    {
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "417373312",
+      "name": "Talking Carl",
+      "developer": "Tayasui.com",
+      "developerUrl": "https://apps.apple.com/de/developer/tayasui-com/id359375853?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b6/37/91b6379f-3cb7-2cf3-c02c-652478ec4ce1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/talking-carl/id417373312?uo=2",
+      "price": {
+        "amount": 0.99,
+        "currency": "EUR",
+        "formatted": "0,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "06.03.2011"
+    },
+    {
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "506486124",
+      "name": "XLR8",
+      "developer": "2XL Games, Inc.",
+      "developerUrl": "https://apps.apple.com/de/developer/2xl-games-inc/id310951785?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/57/07/9c5707d4-eb49-9017-b4b6-f182dcfc0ea4/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/xlr8/id506486124?uo=2",
+      "price": {
+        "amount": 5.99,
+        "currency": "EUR",
+        "formatted": "5,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "05.04.2012"
+    },
+    {
+      "rank": 99,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "395767185",
+      "name": "Tesla Toy",
+      "developer": "PDJ Apps",
+      "developerUrl": "https://apps.apple.com/de/developer/pdj-apps/id290231771?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/60/29/25602996-c563-1b78-c399-1d0f05c23e9e/AppIcon-1x_U007emarketing-85-220-0-5.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/tesla-toy/id395767185?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "07.10.2010"
+    },
+    {
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "293760823",
+      "name": "iFart - Fart Sounds App",
+      "developer": "iFart, LLC",
+      "developerUrl": "https://apps.apple.com/de/developer/ifart-llc/id1796460626?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/4c/49/474c490c-aa68-743d-c124-e1f9d1cb333f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/de/app/ifart-fart-sounds-app/id293760823?uo=2",
+      "price": {
+        "amount": 1.99,
+        "currency": "EUR",
+        "formatted": "1,99 €"
+      },
+      "primaryCategory": {
+        "id": "6016",
+        "name": "Unterhaltung"
+      },
+      "releaseDate": "12.12.2008"
     }
   ]
 }
