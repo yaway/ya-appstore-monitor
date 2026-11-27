@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-11-26",
-  "collectedAt": "2026-11-26T09:16:13.736Z",
-  "sourceUpdatedAt": "2026-11-26T01:16:13-07:00",
+  "snapshotDate": "2026-11-27",
+  "collectedAt": "2026-11-27T09:31:51.089Z",
+  "sourceUpdatedAt": "2026-11-27T01:31:50-07:00",
   "source": "Apple iTunes RSS",
   "sourceUrl": "https://itunes.apple.com/jp/rss/toppaidapplications/limit=100/genre=6001/json",
   "chartType": "paid",
@@ -17,38 +17,16 @@
     "name": "天气"
   },
   "requestedLimit": 100,
-  "expectedCount": 95,
-  "actualCount": 95,
+  "expectedCount": 96,
+  "actualCount": 96,
   "status": "complete",
   "issues": [],
-  "previousSnapshotDate": "2026-11-25",
+  "previousSnapshotDate": "2026-11-26",
   "apps": [
     {
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "366975354",
-      "name": "月読君",
-      "developer": "sorakaze Inc.",
-      "developerUrl": "https://apps.apple.com/jp/developer/sorakaze-inc/id1046448101?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9a/44/e29a44a3-31b3-fae1-8765-066c0ed8d7f9/AppIcon-0-1x_U007ephone-0-7-0-85-220-0.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E6%9C%88%E8%AA%AD%E5%90%9B/id366975354?uo=2",
-      "price": {
-        "amount": 400,
-        "currency": "JPY",
-        "formatted": "¥400"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2010年4月19日"
-    },
-    {
-      "rank": 2,
-      "previousRank": 4,
-      "rankChange": 2,
+      "previousRank": 2,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "378120971",
       "name": "AeroWeather Pro",
@@ -68,10 +46,76 @@
       "releaseDate": "2010年6月30日"
     },
     {
+      "rank": 2,
+      "previousRank": 43,
+      "rankChange": 41,
+      "isNew": false,
+      "appleId": "1608949422",
+      "name": "Metar-Taf",
+      "developer": "Eveline van den Boom",
+      "developerUrl": "https://apps.apple.com/jp/developer/eveline-van-den-boom/id1603980774?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/4a/9a/cb4a9a4f-c3d5-9f26-00db-9afa52b476e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/metar-taf/id1608949422?uo=2",
+      "price": {
+        "amount": 1000,
+        "currency": "JPY",
+        "formatted": "¥1,000"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2022年2月8日"
+    },
+    {
       "rank": 3,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
+      "previousRank": 74,
+      "rankChange": 71,
+      "isNew": false,
+      "appleId": "6766528041",
+      "name": "BaroWatch Barometer",
+      "developer": "Alf Hellmund",
+      "developerUrl": "https://apps.apple.com/jp/developer/alf-hellmund/id1896299707?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/70/07/057007c5-3f8a-256b-8acd-148c5176eeed/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/barowatch-barometer/id6766528041?uo=2",
+      "price": {
+        "amount": 150,
+        "currency": "JPY",
+        "formatted": "¥150"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2026年5月9日"
+    },
+    {
+      "rank": 4,
+      "previousRank": 1,
+      "rankChange": -3,
+      "isNew": false,
+      "appleId": "366975354",
+      "name": "月読君",
+      "developer": "sorakaze Inc.",
+      "developerUrl": "https://apps.apple.com/jp/developer/sorakaze-inc/id1046448101?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9a/44/e29a44a3-31b3-fae1-8765-066c0ed8d7f9/AppIcon-0-1x_U007ephone-0-7-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/%E6%9C%88%E8%AA%AD%E5%90%9B/id366975354?uo=2",
+      "price": {
+        "amount": 400,
+        "currency": "JPY",
+        "formatted": "¥400"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2010年4月19日"
+    },
+    {
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": -2,
+      "isNew": false,
       "appleId": "6757248966",
       "name": "Moondot",
       "developer": "James Buell Jr",
@@ -90,8 +134,8 @@
       "releaseDate": "2026年1月6日"
     },
     {
-      "rank": 4,
-      "previousRank": 2,
+      "rank": 6,
+      "previousRank": 4,
       "rankChange": -2,
       "isNew": false,
       "appleId": "410014375",
@@ -112,8 +156,8 @@
       "releaseDate": "2010年12月30日"
     },
     {
-      "rank": 5,
-      "previousRank": 3,
+      "rank": 7,
+      "previousRank": 5,
       "rankChange": -2,
       "isNew": false,
       "appleId": "1604134494",
@@ -134,74 +178,8 @@
       "releaseDate": "2022年1月16日"
     },
     {
-      "rank": 6,
-      "previousRank": 5,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "1075462280",
-      "name": "My Aurora Forecast Pro",
-      "developer": "JRustonApps B.V.",
-      "developerUrl": "https://apps.apple.com/jp/developer/jrustonapps-b-v/id549019599?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e0/ab/7fe0ab54-4671-587c-bc75-f394712e9d52/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/my-aurora-forecast-pro/id1075462280?uo=2",
-      "price": {
-        "amount": 600,
-        "currency": "JPY",
-        "formatted": "¥600"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2016年1月26日"
-    },
-    {
-      "rank": 7,
-      "previousRank": 6,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "879946294",
-      "name": "UV 指数：安全な日差し",
-      "developer": "LionsApp di Nallbati Elton",
-      "developerUrl": "https://apps.apple.com/jp/developer/lionsapp-di-nallbati-elton/id432915499?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/33/70/2233703e-3ca8-2676-89b8-8c2ee27fa776/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/uv-%E6%8C%87%E6%95%B0-%E5%AE%89%E5%85%A8%E3%81%AA%E6%97%A5%E5%B7%AE%E3%81%97/id879946294?uo=2",
-      "price": {
-        "amount": 500,
-        "currency": "JPY",
-        "formatted": "¥500"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2014年6月28日"
-    },
-    {
       "rank": 8,
-      "previousRank": 7,
-      "rankChange": -1,
-      "isNew": false,
-      "appleId": "495546638",
-      "name": "温湿度計 (体感温度,気圧計,不快指数)",
-      "developer": "MORETHAN APPS",
-      "developerUrl": "https://apps.apple.com/jp/developer/morethan-apps/id473001840?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/33/b6/2d33b67f-b456-9143-4f10-6ca1abccf231/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%A8%88-%E4%BD%93%E6%84%9F%E6%B8%A9%E5%BA%A6-%E6%B0%97%E5%9C%A7%E8%A8%88-%E4%B8%8D%E5%BF%AB%E6%8C%87%E6%95%B0/id495546638?uo=2",
-      "price": {
-        "amount": 600,
-        "currency": "JPY",
-        "formatted": "¥600"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2012年1月25日"
-    },
-    {
-      "rank": 9,
-      "previousRank": 10,
+      "previousRank": 9,
       "rankChange": 1,
       "isNew": false,
       "appleId": "379869627",
@@ -222,8 +200,8 @@
       "releaseDate": "2010年8月17日"
     },
     {
-      "rank": 10,
-      "previousRank": 11,
+      "rank": 9,
+      "previousRank": 10,
       "rankChange": 1,
       "isNew": false,
       "appleId": "401533966",
@@ -244,9 +222,31 @@
       "releaseDate": "2010年11月10日"
     },
     {
+      "rank": 10,
+      "previousRank": 8,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "495546638",
+      "name": "温湿度計 (体感温度,気圧計,不快指数)",
+      "developer": "MORETHAN APPS",
+      "developerUrl": "https://apps.apple.com/jp/developer/morethan-apps/id473001840?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/33/b6/2d33b67f-b456-9143-4f10-6ca1abccf231/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%A8%88-%E4%BD%93%E6%84%9F%E6%B8%A9%E5%BA%A6-%E6%B0%97%E5%9C%A7%E8%A8%88-%E4%B8%8D%E5%BF%AB%E6%8C%87%E6%95%B0/id495546638?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2012年1月25日"
+    },
+    {
       "rank": 11,
-      "previousRank": 12,
-      "rankChange": 1,
+      "previousRank": 11,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "608515289",
       "name": "ウェザーメートプロ - レーダーマップ",
@@ -267,8 +267,8 @@
     },
     {
       "rank": 12,
-      "previousRank": 13,
-      "rankChange": 1,
+      "previousRank": 12,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "384043853",
       "name": "お天気時計",
@@ -289,8 +289,8 @@
     },
     {
       "rank": 13,
-      "previousRank": 14,
-      "rankChange": 1,
+      "previousRank": 13,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "888227320",
       "name": "レーダー・ナウキャスト(台風経路図・気象・降水・雨雲・衛星)",
@@ -311,8 +311,8 @@
     },
     {
       "rank": 14,
-      "previousRank": 15,
-      "rankChange": 1,
+      "previousRank": 14,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "321340608",
       "name": "天気図ブラウザ",
@@ -333,8 +333,8 @@
     },
     {
       "rank": 15,
-      "previousRank": 16,
-      "rankChange": 1,
+      "previousRank": 15,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "471629622",
       "name": "WeatherMap+",
@@ -355,8 +355,8 @@
     },
     {
       "rank": 16,
-      "previousRank": 17,
-      "rankChange": 1,
+      "previousRank": 16,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "325683306",
       "name": "MyRadar Pro",
@@ -377,8 +377,8 @@
     },
     {
       "rank": 17,
-      "previousRank": 18,
-      "rankChange": 1,
+      "previousRank": 17,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "485251405",
       "name": "Fishing Deluxe",
@@ -399,8 +399,8 @@
     },
     {
       "rank": 18,
-      "previousRank": 19,
-      "rankChange": 1,
+      "previousRank": 18,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "606193225",
       "name": "YoWindow 天候",
@@ -421,8 +421,8 @@
     },
     {
       "rank": 19,
-      "previousRank": 20,
-      "rankChange": 1,
+      "previousRank": 19,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "492037412",
       "name": "地震観測情報(+BGM)  全国のリアルタイム地震状況",
@@ -443,8 +443,8 @@
     },
     {
       "rank": 20,
-      "previousRank": 21,
-      "rankChange": 1,
+      "previousRank": 20,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "912237070",
       "name": "風速計: 風速",
@@ -465,8 +465,8 @@
     },
     {
       "rank": 21,
-      "previousRank": 22,
-      "rankChange": 1,
+      "previousRank": 21,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "336901296",
       "name": "Windfinder Pro: 風と天気の予測マップ",
@@ -487,8 +487,8 @@
     },
     {
       "rank": 22,
-      "previousRank": 24,
-      "rankChange": 2,
+      "previousRank": 22,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "700330781",
       "name": "そら気温",
@@ -509,8 +509,8 @@
     },
     {
       "rank": 23,
-      "previousRank": 25,
-      "rankChange": 2,
+      "previousRank": 23,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "294631159",
       "name": "WeatherPro",
@@ -531,8 +531,8 @@
     },
     {
       "rank": 24,
-      "previousRank": 26,
-      "rankChange": 2,
+      "previousRank": 24,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "778023098",
       "name": "Rain Info",
@@ -553,8 +553,8 @@
     },
     {
       "rank": 25,
-      "previousRank": 9,
-      "rankChange": -16,
+      "previousRank": 25,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1566088405",
       "name": "天気図Viewer",
@@ -575,8 +575,8 @@
     },
     {
       "rank": 26,
-      "previousRank": 27,
-      "rankChange": 1,
+      "previousRank": 26,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "769602146",
       "name": "気圧計 - 気圧",
@@ -597,8 +597,8 @@
     },
     {
       "rank": 27,
-      "previousRank": 28,
-      "rankChange": 1,
+      "previousRank": 27,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "839923054",
       "name": "10日間天気予報 Pro",
@@ -619,8 +619,8 @@
     },
     {
       "rank": 28,
-      "previousRank": 29,
-      "rankChange": 1,
+      "previousRank": 28,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "513879979",
       "name": "世界の天候",
@@ -641,8 +641,8 @@
     },
     {
       "rank": 29,
-      "previousRank": 30,
-      "rankChange": 1,
+      "previousRank": 29,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1016528618",
       "name": "Tides PRO - Tide Times",
@@ -663,8 +663,8 @@
     },
     {
       "rank": 30,
-      "previousRank": 31,
-      "rankChange": 1,
+      "previousRank": 30,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "294937581",
       "name": "Sun n Moon",
@@ -685,8 +685,8 @@
     },
     {
       "rank": 31,
-      "previousRank": 32,
-      "rankChange": 1,
+      "previousRank": 31,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "908649054",
       "name": "widget weather",
@@ -695,9 +695,9 @@
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/a1/78/dba17877-49ee-dae4-ca71-d6ce83b0e3b1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/jp/app/widget-weather/id908649054?uo=2",
       "price": {
-        "amount": 600,
+        "amount": 300,
         "currency": "JPY",
-        "formatted": "¥600"
+        "formatted": "¥300"
       },
       "primaryCategory": {
         "id": "6001",
@@ -707,8 +707,8 @@
     },
     {
       "rank": 32,
-      "previousRank": 33,
-      "rankChange": 1,
+      "previousRank": 32,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1032783648",
       "name": "カレンダー月の段階で、夜空に映像",
@@ -729,8 +729,8 @@
     },
     {
       "rank": 33,
-      "previousRank": 34,
-      "rankChange": 1,
+      "previousRank": 33,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "558257741",
       "name": "Orbit: 太陽の位置",
@@ -751,8 +751,8 @@
     },
     {
       "rank": 34,
-      "previousRank": 35,
-      "rankChange": 1,
+      "previousRank": 34,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "639101137",
       "name": "気象HD +",
@@ -773,8 +773,8 @@
     },
     {
       "rank": 35,
-      "previousRank": 36,
-      "rankChange": 1,
+      "previousRank": 35,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "970644763",
       "name": "天気駅",
@@ -795,8 +795,30 @@
     },
     {
       "rank": 36,
-      "previousRank": 37,
-      "rankChange": 1,
+      "previousRank": 7,
+      "rankChange": -29,
+      "isNew": false,
+      "appleId": "879946294",
+      "name": "UV 指数：安全な日差し",
+      "developer": "LionsApp di Nallbati Elton",
+      "developerUrl": "https://apps.apple.com/jp/developer/lionsapp-di-nallbati-elton/id432915499?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/33/70/2233703e-3ca8-2676-89b8-8c2ee27fa776/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/uv-%E6%8C%87%E6%95%B0-%E5%AE%89%E5%85%A8%E3%81%AA%E6%97%A5%E5%B7%AE%E3%81%97/id879946294?uo=2",
+      "price": {
+        "amount": 500,
+        "currency": "JPY",
+        "formatted": "¥500"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2014年6月28日"
+    },
+    {
+      "rank": 37,
+      "previousRank": 36,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "987177926",
       "name": "気象予報士（実技）受験対策　用語集",
@@ -816,9 +838,9 @@
       "releaseDate": "2015年6月13日"
     },
     {
-      "rank": 37,
-      "previousRank": 38,
-      "rankChange": 1,
+      "rank": 38,
+      "previousRank": 37,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "716023568",
       "name": "湿度計 - 空気湿度",
@@ -838,9 +860,31 @@
       "releaseDate": "2013年10月16日"
     },
     {
-      "rank": 38,
-      "previousRank": 39,
-      "rankChange": 1,
+      "rank": 39,
+      "previousRank": 6,
+      "rankChange": -33,
+      "isNew": false,
+      "appleId": "1075462280",
+      "name": "My Aurora Forecast Pro",
+      "developer": "JRustonApps B.V.",
+      "developerUrl": "https://apps.apple.com/jp/developer/jrustonapps-b-v/id549019599?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e0/ab/7fe0ab54-4671-587c-bc75-f394712e9d52/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/my-aurora-forecast-pro/id1075462280?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2016年1月26日"
+    },
+    {
+      "rank": 40,
+      "previousRank": 38,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "637415171",
       "name": "露点温度計",
@@ -860,9 +904,9 @@
       "releaseDate": "2013年4月25日"
     },
     {
-      "rank": 39,
-      "previousRank": 40,
-      "rankChange": 1,
+      "rank": 41,
+      "previousRank": 39,
+      "rankChange": -2,
       "isNew": false,
       "appleId": "1174281818",
       "name": "バロメーターPlus - 高度計と気圧計 PRO",
@@ -882,31 +926,9 @@
       "releaseDate": "2016年11月10日"
     },
     {
-      "rank": 40,
-      "previousRank": null,
-      "rankChange": null,
-      "isNew": true,
-      "appleId": "488674899",
-      "name": "雨雲レーダー天気予報 - Rain Radar Pro",
-      "developer": "DeluxeWare",
-      "developerUrl": "https://apps.apple.com/jp/developer/deluxeware/id302677215?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/c0/71/d7c071ab-5436-0659-cec6-f29fc53ac0a2/AppIcon-Full-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E9%9B%A8%E9%9B%B2%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1-rain-radar-pro/id488674899?uo=2",
-      "price": {
-        "amount": 3000,
-        "currency": "JPY",
-        "formatted": "¥3,000"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2011年12月21日"
-    },
-    {
-      "rank": 41,
-      "previousRank": 42,
-      "rankChange": 1,
+      "rank": 42,
+      "previousRank": 41,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "1341392811",
       "name": "InstantWeather: Local Forecast",
@@ -926,9 +948,9 @@
       "releaseDate": "2018年1月31日"
     },
     {
-      "rank": 42,
-      "previousRank": 43,
-      "rankChange": 1,
+      "rank": 43,
+      "previousRank": 42,
+      "rankChange": -1,
       "isNew": false,
       "appleId": "508064644",
       "name": "地震情報!",
@@ -948,31 +970,9 @@
       "releaseDate": "2012年3月19日"
     },
     {
-      "rank": 43,
-      "previousRank": 44,
-      "rankChange": 1,
-      "isNew": false,
-      "appleId": "1608949422",
-      "name": "Metar-Taf",
-      "developer": "Eveline van den Boom",
-      "developerUrl": "https://apps.apple.com/jp/developer/eveline-van-den-boom/id1603980774?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/4a/9a/cb4a9a4f-c3d5-9f26-00db-9afa52b476e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/metar-taf/id1608949422?uo=2",
-      "price": {
-        "amount": 1000,
-        "currency": "JPY",
-        "formatted": "¥1,000"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2022年2月8日"
-    },
-    {
       "rank": 44,
-      "previousRank": 45,
-      "rankChange": 1,
+      "previousRank": 44,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1133083101",
       "name": "天気予報Pro - 地震 花粉 气压",
@@ -993,8 +993,8 @@
     },
     {
       "rank": 45,
-      "previousRank": 46,
-      "rankChange": 1,
+      "previousRank": 45,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1080118736",
       "name": "Golden Hour One",
@@ -1015,8 +1015,8 @@
     },
     {
       "rank": 46,
-      "previousRank": 47,
-      "rankChange": 1,
+      "previousRank": 46,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "593270419",
       "name": "日の出、月の入X",
@@ -1037,8 +1037,8 @@
     },
     {
       "rank": 47,
-      "previousRank": 48,
-      "rankChange": 1,
+      "previousRank": 47,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "473165402",
       "name": "Mooncast",
@@ -1059,8 +1059,8 @@
     },
     {
       "rank": 48,
-      "previousRank": 50,
-      "rankChange": 2,
+      "previousRank": 48,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "366765248",
       "name": "Wind Seeker",
@@ -1081,29 +1081,7 @@
     },
     {
       "rank": 49,
-      "previousRank": 49,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1067198688",
-      "name": "彩云天气Pro",
-      "developer": "Beijing ColorfulClouds Technology Co., Ltd.",
-      "developerUrl": "https://apps.apple.com/jp/developer/beijing-colorfulclouds-technology-co-ltd/id1019385517?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/2a/7e/4d2a7e3e-d3c1-df0b-8f14-5c3f01ed578a/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=2",
-      "price": {
-        "amount": 2500,
-        "currency": "JPY",
-        "formatted": "¥2,500"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2016年2月16日"
-    },
-    {
-      "rank": 50,
-      "previousRank": 51,
+      "previousRank": 50,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1437256011",
@@ -1124,9 +1102,31 @@
       "releaseDate": "2018年9月29日"
     },
     {
+      "rank": 50,
+      "previousRank": 49,
+      "rankChange": -1,
+      "isNew": false,
+      "appleId": "1067198688",
+      "name": "彩云天气Pro",
+      "developer": "Beijing ColorfulClouds Technology Co., Ltd.",
+      "developerUrl": "https://apps.apple.com/jp/developer/beijing-colorfulclouds-technology-co-ltd/id1019385517?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/2a/7e/4d2a7e3e-d3c1-df0b-8f14-5c3f01ed578a/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688?uo=2",
+      "price": {
+        "amount": 2500,
+        "currency": "JPY",
+        "formatted": "¥2,500"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2016年2月16日"
+    },
+    {
       "rank": 51,
-      "previousRank": 52,
-      "rankChange": 1,
+      "previousRank": 51,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1011499945",
       "name": "月の満ち欠け - 月カレンダー",
@@ -1147,8 +1147,8 @@
     },
     {
       "rank": 52,
-      "previousRank": 53,
-      "rankChange": 1,
+      "previousRank": 52,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1198962475",
       "name": "太陽と月 プロ",
@@ -1169,8 +1169,8 @@
     },
     {
       "rank": 53,
-      "previousRank": 54,
-      "rankChange": 1,
+      "previousRank": 53,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1431592679",
       "name": "気象予報士（実技）受験対策PLUS",
@@ -1191,8 +1191,8 @@
     },
     {
       "rank": 54,
-      "previousRank": 55,
-      "rankChange": 1,
+      "previousRank": 54,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "975770717",
       "name": "My Earthquake Alerts Pro",
@@ -1213,8 +1213,8 @@
     },
     {
       "rank": 55,
-      "previousRank": 56,
-      "rankChange": 1,
+      "previousRank": 55,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "455218380",
       "name": "風予報 wind forecast",
@@ -1235,8 +1235,8 @@
     },
     {
       "rank": 56,
-      "previousRank": 57,
-      "rankChange": 1,
+      "previousRank": 56,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "516492507",
       "name": "Hunting Calendar Deluxe",
@@ -1257,8 +1257,8 @@
     },
     {
       "rank": 57,
-      "previousRank": 58,
-      "rankChange": 1,
+      "previousRank": 57,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1439422081",
       "name": "気象 : の天気予報 Pro",
@@ -1279,8 +1279,8 @@
     },
     {
       "rank": 58,
-      "previousRank": 59,
-      "rankChange": 1,
+      "previousRank": 58,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "491537291",
       "name": "Sol: Sun Clock",
@@ -1301,8 +1301,8 @@
     },
     {
       "rank": 59,
-      "previousRank": 60,
-      "rankChange": 1,
+      "previousRank": 59,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1644566839",
       "name": "河川地図",
@@ -1323,8 +1323,8 @@
     },
     {
       "rank": 60,
-      "previousRank": 62,
-      "rankChange": 2,
+      "previousRank": 60,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "992351930",
       "name": "雨雲レーダーと天気予報 +",
@@ -1345,29 +1345,7 @@
     },
     {
       "rank": 61,
-      "previousRank": 61,
-      "rankChange": 0,
-      "isNew": false,
-      "appleId": "1575082486",
-      "name": "地震観測情報WATCH",
-      "developer": "HOBEEC",
-      "developerUrl": "https://apps.apple.com/jp/developer/hobeec/id465035845?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e4/ed/c3e4ed2c-dbf6-0e4c-f5f1-d1c7a328eb50/AppIcon-0-0-1x_U007emarketing-0-14-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E5%9C%B0%E9%9C%87%E8%A6%B3%E6%B8%AC%E6%83%85%E5%A0%B1watch/id1575082486?uo=2",
-      "price": {
-        "amount": 500,
-        "currency": "JPY",
-        "formatted": "¥500"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2021年7月6日"
-    },
-    {
-      "rank": 62,
-      "previousRank": 63,
+      "previousRank": 62,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1264409388",
@@ -1388,8 +1366,8 @@
       "releaseDate": "2017年7月31日"
     },
     {
-      "rank": 63,
-      "previousRank": 64,
+      "rank": 62,
+      "previousRank": 63,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1175757480",
@@ -1410,9 +1388,31 @@
       "releaseDate": "2016年12月20日"
     },
     {
+      "rank": 63,
+      "previousRank": 61,
+      "rankChange": -2,
+      "isNew": false,
+      "appleId": "1575082486",
+      "name": "地震観測情報WATCH",
+      "developer": "HOBEEC",
+      "developerUrl": "https://apps.apple.com/jp/developer/hobeec/id465035845?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e4/ed/c3e4ed2c-dbf6-0e4c-f5f1-d1c7a328eb50/AppIcon-0-0-1x_U007emarketing-0-14-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/%E5%9C%B0%E9%9C%87%E8%A6%B3%E6%B8%AC%E6%83%85%E5%A0%B1watch/id1575082486?uo=2",
+      "price": {
+        "amount": 500,
+        "currency": "JPY",
+        "formatted": "¥500"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2021年7月6日"
+    },
+    {
       "rank": 64,
-      "previousRank": 65,
-      "rankChange": 1,
+      "previousRank": 64,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1059718989",
       "name": "雨时",
@@ -1433,8 +1433,8 @@
     },
     {
       "rank": 65,
-      "previousRank": 66,
-      "rankChange": 1,
+      "previousRank": 65,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1492559559",
       "name": "Northern Lights Forecast",
@@ -1455,8 +1455,8 @@
     },
     {
       "rank": 66,
-      "previousRank": 67,
-      "rankChange": 1,
+      "previousRank": 66,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "1104649303",
       "name": "My Moon Phase Pro - Alerts",
@@ -1477,8 +1477,8 @@
     },
     {
       "rank": 67,
-      "previousRank": 68,
-      "rankChange": 1,
+      "previousRank": 67,
+      "rankChange": 0,
       "isNew": false,
       "appleId": "400743351",
       "name": "eQuakeMapPro",
@@ -1499,30 +1499,8 @@
     },
     {
       "rank": 68,
-      "previousRank": 8,
-      "rankChange": -60,
-      "isNew": false,
-      "appleId": "6745381092",
-      "name": "かざみどりくん",
-      "developer": "Yu Ikeda",
-      "developerUrl": "https://apps.apple.com/jp/developer/yu-ikeda/id394579323?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/22/5d/32225d99-a6d6-ae45-58d9-e9e7b4148b38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/%E3%81%8B%E3%81%96%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8F%E3%82%93/id6745381092?uo=2",
-      "price": {
-        "amount": 300,
-        "currency": "JPY",
-        "formatted": "¥300"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2025年5月7日"
-    },
-    {
-      "rank": 69,
       "previousRank": 69,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1088712924",
       "name": "ウインドソック",
@@ -1542,9 +1520,9 @@
       "releaseDate": "2016年3月12日"
     },
     {
-      "rank": 70,
+      "rank": 69,
       "previousRank": 70,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "839999161",
       "name": "温度計: 現地温度",
@@ -1564,9 +1542,9 @@
       "releaseDate": "2014年4月11日"
     },
     {
-      "rank": 71,
+      "rank": 70,
       "previousRank": 71,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "314376561",
       "name": "AviationABB - Aviation Abbreviation and Airport Code",
@@ -1586,8 +1564,8 @@
       "releaseDate": "2009年5月5日"
     },
     {
-      "rank": 72,
-      "previousRank": 73,
+      "rank": 71,
+      "previousRank": 72,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1224548795",
@@ -1608,8 +1586,8 @@
       "releaseDate": "2017年4月12日"
     },
     {
-      "rank": 73,
-      "previousRank": 74,
+      "rank": 72,
+      "previousRank": 73,
       "rankChange": 1,
       "isNew": false,
       "appleId": "540120977",
@@ -1630,31 +1608,31 @@
       "releaseDate": "2013年4月25日"
     },
     {
-      "rank": 74,
-      "previousRank": 72,
-      "rankChange": -2,
+      "rank": 73,
+      "previousRank": 68,
+      "rankChange": -5,
       "isNew": false,
-      "appleId": "6766528041",
-      "name": "BaroWatch Barometer",
-      "developer": "Alf Hellmund",
-      "developerUrl": "https://apps.apple.com/jp/developer/alf-hellmund/id1896299707?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/70/07/057007c5-3f8a-256b-8acd-148c5176eeed/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/barowatch-barometer/id6766528041?uo=2",
+      "appleId": "6745381092",
+      "name": "かざみどりくん",
+      "developer": "Yu Ikeda",
+      "developerUrl": "https://apps.apple.com/jp/developer/yu-ikeda/id394579323?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/22/5d/32225d99-a6d6-ae45-58d9-e9e7b4148b38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/%E3%81%8B%E3%81%96%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8F%E3%82%93/id6745381092?uo=2",
       "price": {
-        "amount": 150,
+        "amount": 300,
         "currency": "JPY",
-        "formatted": "¥150"
+        "formatted": "¥300"
       },
       "primaryCategory": {
         "id": "6001",
         "name": "天気"
       },
-      "releaseDate": "2026年5月9日"
+      "releaseDate": "2025年5月7日"
     },
     {
-      "rank": 75,
+      "rank": 74,
       "previousRank": 75,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "429394638",
       "name": "PocketGrib",
@@ -1674,15 +1652,15 @@
       "releaseDate": "2011年4月6日"
     },
     {
-      "rank": 76,
+      "rank": 75,
       "previousRank": 76,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "370697660",
       "name": "Meteo Plus - by iLMeteo.it",
       "developer": "ILMETEO srl",
       "developerUrl": "https://apps.apple.com/jp/developer/ilmeteo-srl/id338851557?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/a2/f0/d1a2f0b3-c6a8-3817-2b8d-8374a87be264/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/06/c7/8906c71a-40d2-503b-21d1-9c0986dfcb85/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "storeUrl": "https://apps.apple.com/jp/app/meteo-plus-by-ilmeteo-it/id370697660?uo=2",
       "price": {
         "amount": 4500,
@@ -1696,9 +1674,9 @@
       "releaseDate": "2010年5月5日"
     },
     {
-      "rank": 77,
+      "rank": 76,
       "previousRank": 77,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1449893235",
       "name": "Earthquake Network",
@@ -1718,9 +1696,9 @@
       "releaseDate": "2019年6月5日"
     },
     {
-      "rank": 78,
+      "rank": 77,
       "previousRank": 78,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "419841529",
       "name": "Fishing Times Pro",
@@ -1740,9 +1718,9 @@
       "releaseDate": "2011年2月18日"
     },
     {
-      "rank": 79,
+      "rank": 78,
       "previousRank": 79,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "417401887",
       "name": "WeatherTrack GRIB",
@@ -1762,9 +1740,9 @@
       "releaseDate": "2011年2月7日"
     },
     {
-      "rank": 80,
+      "rank": 79,
       "previousRank": 80,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "1122659402",
       "name": "雨量計：雨の予報",
@@ -1784,9 +1762,9 @@
       "releaseDate": "2016年7月10日"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "previousRank": 81,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "529677249",
       "name": "Flight Winds",
@@ -1806,9 +1784,9 @@
       "releaseDate": "2012年5月30日"
     },
     {
-      "rank": 82,
+      "rank": 81,
       "previousRank": 82,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "394199597",
       "name": "HF Weather Fax",
@@ -1828,9 +1806,9 @@
       "releaseDate": "2010年10月1日"
     },
     {
-      "rank": 83,
+      "rank": 82,
       "previousRank": 83,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "6761287817",
       "name": "空を読む",
@@ -1850,9 +1828,9 @@
       "releaseDate": "2026年7月2日"
     },
     {
-      "rank": 84,
+      "rank": 83,
       "previousRank": 84,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "562360450",
       "name": "ClassicWeather HD",
@@ -1872,9 +1850,9 @@
       "releaseDate": "2012年9月25日"
     },
     {
-      "rank": 85,
+      "rank": 84,
       "previousRank": 85,
-      "rankChange": 0,
+      "rankChange": 1,
       "isNew": false,
       "appleId": "322814201",
       "name": "Snowtam",
@@ -1894,8 +1872,8 @@
       "releaseDate": "2009年7月17日"
     },
     {
-      "rank": 86,
-      "previousRank": 87,
+      "rank": 85,
+      "previousRank": 86,
       "rankChange": 1,
       "isNew": false,
       "appleId": "945662966",
@@ -1916,8 +1894,8 @@
       "releaseDate": "2014年12月16日"
     },
     {
-      "rank": 87,
-      "previousRank": 88,
+      "rank": 86,
+      "previousRank": 87,
       "rankChange": 1,
       "isNew": false,
       "appleId": "916760091",
@@ -1938,8 +1916,8 @@
       "releaseDate": "2014年9月24日"
     },
     {
-      "rank": 88,
-      "previousRank": 89,
+      "rank": 87,
+      "previousRank": 88,
       "rankChange": 1,
       "isNew": false,
       "appleId": "288419283",
@@ -1960,8 +1938,8 @@
       "releaseDate": "2019年2月12日"
     },
     {
-      "rank": 89,
-      "previousRank": 90,
+      "rank": 88,
+      "previousRank": 89,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1434017554",
@@ -1982,8 +1960,8 @@
       "releaseDate": "2018年11月20日"
     },
     {
-      "rank": 90,
-      "previousRank": 91,
+      "rank": 89,
+      "previousRank": 90,
       "rankChange": 1,
       "isNew": false,
       "appleId": "299504833",
@@ -2004,8 +1982,8 @@
       "releaseDate": "2008年12月20日"
     },
     {
-      "rank": 91,
-      "previousRank": 92,
+      "rank": 90,
+      "previousRank": 91,
       "rankChange": 1,
       "isNew": false,
       "appleId": "1498504358",
@@ -2026,8 +2004,8 @@
       "releaseDate": "2020年3月25日"
     },
     {
-      "rank": 92,
-      "previousRank": 93,
+      "rank": 91,
+      "previousRank": 92,
       "rankChange": 1,
       "isNew": false,
       "appleId": "322811729",
@@ -2048,8 +2026,8 @@
       "releaseDate": "2009年7月17日"
     },
     {
-      "rank": 93,
-      "previousRank": 94,
+      "rank": 92,
+      "previousRank": 93,
       "rankChange": 1,
       "isNew": false,
       "appleId": "305728705",
@@ -2070,31 +2048,9 @@
       "releaseDate": "2009年2月21日"
     },
     {
-      "rank": 94,
-      "previousRank": 86,
-      "rankChange": -8,
-      "isNew": false,
-      "appleId": "6797555823",
-      "name": "SkyATIS",
-      "developer": "AVIEM",
-      "developerUrl": "https://apps.apple.com/jp/developer/aviem/id400912742?uo=2",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/98/c6/8398c654-06c0-cd08-ddbc-9358c4abaabd/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.png",
-      "storeUrl": "https://apps.apple.com/jp/app/skyatis/id6797555823?uo=2",
-      "price": {
-        "amount": 200,
-        "currency": "JPY",
-        "formatted": "¥200"
-      },
-      "primaryCategory": {
-        "id": "6001",
-        "name": "天気"
-      },
-      "releaseDate": "2026年8月18日"
-    },
-    {
-      "rank": 95,
+      "rank": 93,
       "previousRank": 95,
-      "rankChange": 0,
+      "rankChange": 2,
       "isNew": false,
       "appleId": "6792279722",
       "name": "月暦 - Tsukigoyomi",
@@ -2112,6 +2068,72 @@
         "name": "天気"
       },
       "releaseDate": "2026年7月21日"
+    },
+    {
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1513961241",
+      "name": "Crosswind Calculator Pro",
+      "developer": "Rob Barltrop",
+      "developerUrl": "https://apps.apple.com/jp/developer/rob-barltrop/id1513961240?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/51/3a/d9/513ad956-4cf7-aa71-9eea-e21a35d900e3/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/crosswind-calculator-pro/id1513961241?uo=2",
+      "price": {
+        "amount": 150,
+        "currency": "JPY",
+        "formatted": "¥150"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2020年5月19日"
+    },
+    {
+      "rank": 95,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1278650505",
+      "name": "Pixel Weather - Forecast",
+      "developer": "涛 吴",
+      "developerUrl": "https://apps.apple.com/jp/developer/%E6%B6%9B-%E5%90%B4/id1194352016?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ef/cb/7eefcb6e-6896-522b-4d12-9c26d946aa16/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/pixel-weather-forecast/id1278650505?uo=2",
+      "price": {
+        "amount": 800,
+        "currency": "JPY",
+        "formatted": "¥800"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2017年9月7日"
+    },
+    {
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": null,
+      "isNew": true,
+      "appleId": "1020486527",
+      "name": "My Hurricane Tracker Pro",
+      "developer": "JRustonApps B.V.",
+      "developerUrl": "https://apps.apple.com/jp/developer/jrustonapps-b-v/id549019599?uo=2",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/54/24/715424d0-9613-d4fd-ee98-2dbae344c1da/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "storeUrl": "https://apps.apple.com/jp/app/my-hurricane-tracker-pro/id1020486527?uo=2",
+      "price": {
+        "amount": 600,
+        "currency": "JPY",
+        "formatted": "¥600"
+      },
+      "primaryCategory": {
+        "id": "6001",
+        "name": "天気"
+      },
+      "releaseDate": "2015年7月25日"
     }
   ]
 }
